@@ -25,10 +25,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * The canonical form of the idiom, including the words normally required
-     * to identify it (e.g. "spill the beans"). Use a consistent dictionary
-     * form and spelling. Do not use an incidental inflected form from an
-     * example as the identifier.
+     * The canonical form of the idiom, including the words normally required to identify it.
+     * Keep identifiers unique within the relevant content collection.
      */
     'ID' => '[canonical form of the idiom]',
 
@@ -38,8 +36,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * Identifies the record category. For this schema, the value must be
-     * exactly "idiom".
+     * Identifies the category of record. The value must be exactly
+     * "idiom", matching this schema's entry type.
      */
     'type' => 'idiom',
 
@@ -49,9 +47,9 @@ return [
      * Type: string
      * Required: yes
      *
-     * The overall CEFR level assigned to this idiom: A1, A2, B1, B2, C1, or C2.
-     * Store one actual level. This is the level for the entry as a whole;
-     * individual meanings do not have separate level fields.
+     * The overall CEFR level targeted by this record: A1, A2, B1, B2, C1, or C2.
+     * Store exactly one level, not a range or a list. Assign it according to
+     * the language and comprehension demands of the complete record.
      */
     'language_level' => 'B1',
 
