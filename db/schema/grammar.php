@@ -69,6 +69,7 @@ return [
      * Required: yes
      *
      * A clear, accurate explanation of the grammar point, including form, meaning, and use where relevant. Preserve paragraph breaks; do not put exercise instructions or question sets here.
+     * TODO: an array of strings is prefered because let us to organize explanation in separate paragraphes
      */
     'explanation' => '',
 
@@ -147,7 +148,6 @@ return [
             'idioms' => [],
             'phrasal_verbs' => [],
             'collocations' => [],
-            'questions' => [],
         ],
     ],
 ];
