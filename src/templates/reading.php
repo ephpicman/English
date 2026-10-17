@@ -8,7 +8,10 @@
 - **Source:** <?= $entry['source'] ?>
 <?php endif; ?>
 
-<?= $entry['content'] ?>
+<?php foreach ($entry['content'] as $paragraph): ?>
+<?= $paragraph ?>
+
+<?php endforeach; ?>
 
 <?php if (!empty($entry['educational_notes'])): ?>
 ## Learning notes
