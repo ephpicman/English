@@ -79,9 +79,23 @@ return [
      * Type: string
      * Required: yes
      *
-     * The essay form, such as argumentative, discursive, opinion, or problem-and-solution.
-     * Use consistent category labels across the collection.
-     × TODO: use an enumeration list of possible values
+     * The essay form. Use exactly one of these controlled values:
+     * - opinion
+     * - discussion
+     * - advantages_disadvantages
+     * - problem_solution
+     * - cause_effect
+     * - two_part_question
+     * - argumentative
+     * - discursive
+     * - descriptive
+     * - narrative
+     * - expository
+     * - reflective
+     *
+     * Use the exact snake_case value shown here; do not invent synonyms or
+     * combine multiple categories. If a proposed essay does not fit any value,
+     * review the taxonomy before adding it.
      */
     'essay_type' => '',
 
