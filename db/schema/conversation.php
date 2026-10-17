@@ -23,7 +23,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * The canonical identifier for this record. Use a stable descriptive identifier for the conversation.
+     * The canonical identifier for this record. Use a stable descriptive
+     * identifier for the conversation.
      * Keep identifiers unique within the relevant content collection and do
      * not use an incidental sentence from the body as the identifier.
      */
@@ -68,7 +69,8 @@ return [
      * Type: array
      * Required: yes
      *
-     * An ordered list of participant records. Keep each participant's identifier stable throughout the dialogue.
+     * An ordered list of participant records. Keep each participant's identifier
+     * stable throughout the dialogue.
      */
     'participants' => [
         [
@@ -79,6 +81,9 @@ return [
             'speaker' => 'B',
             'role' => '',
         ],
+        /* 
+         * Add more speakers if needed.
+         */
     ],
 
     /**
@@ -87,7 +92,10 @@ return [
      * Type: array of associative arrays
      * Required: yes
      *
-     * The dialogue in speaking order. Each turn contains the fixed keys 'speaker' and 'text'; 'speaker' must match a participant identifier, and 'text' contains that turn's utterance. Store one turn per item and do not mix editorial notes into spoken lines.
+     * The dialogue in speaking order. Each turn contains the fixed keys 'speaker'
+     * and 'text'; 'speaker' must match a participant identifier, and 'text' contains
+     * that turn's utterance. Store one turn per item and do not mix editorial notes
+     * into spoken lines.
      */
     'content' => [
         [
@@ -106,7 +114,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * The setting or context that makes the exchange understandable, described briefly without scripting additional turns.
+     * The setting or context that makes the exchange understandable, described briefly
+     * without scripting additional turns.
      */
     'situation' => '',
 
@@ -116,7 +125,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * The dominant register of the conversation, such as informal, neutral, or formal. If the participants use different registers, describe the contrast in educational_notes.
+     * The dominant register of the conversation, such as informal, neutral, or formal.
+     * If the participants use different registers, describe the contrast in educational_notes.
      */
     'register' => '',
 
@@ -126,7 +136,8 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Notes on turn-taking, natural responses, pragmatic meaning, or spoken-language features. Do not store exercises or questions here.
+     * Notes on turn-taking, natural responses, pragmatic meaning, or spoken-language features.
+     * Do not store exercises or questions here.
      */
     'educational_notes' => [],
 
@@ -175,7 +186,6 @@ return [
             'idioms' => [],
             'phrasal_verbs' => [],
             'collocations' => [],
-            'questions' => [],
         ],
     ],
 ];
