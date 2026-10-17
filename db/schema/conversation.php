@@ -103,22 +103,22 @@ return [
      *
      * The dialogue in speaking order. Each turn contains the fixed keys 'speaker',
      * 'text', and 'ipa'. 'speaker' must match a participant identifier; 'text'
-     * contains the turn's utterance; and 'ipa' is an ordered array of British
-     * English IPA transcriptions, with one item for each sentence in 'text' and
-     * in the same order. Use accurate contemporary standard British pronunciation,
-     * including stress and natural connected speech where appropriate. Store one
-     * turn per item and do not mix editorial notes into spoken lines.
+     * contains the turn's utterance; and 'ipa' is a string containing its complete
+     * British English IPA transcription, including stress marks and natural
+     * connected speech where appropriate. Use contemporary standard British
+     * pronunciation. Store one turn per item and do not mix editorial notes into
+     * spoken lines.
      */
     'content' => [
         [
             'speaker' => 'A',
             'text' => '',
-            'ipa' => [],
+            'ipa' => '',
         ],
         [
             'speaker' => 'B',
             'text' => '',
-            'ipa' => [],
+            'ipa' => '',
         ],
     ],
 
