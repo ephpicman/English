@@ -65,24 +65,16 @@ return [
     /**
      * content
      * -------
-     * Type: string
+     * Type: array of strings
      * Required: yes
      *
-     * The complete letter, including salutation, body paragraphs, and sign-off where appropriate. Preserve paragraph breaks. Do not add exercise prompts or editorial commentary.
-     * TODO: an array of strings that separates paragraphes iseems to be a more better representation of the content
+     * The complete letter, including salutation, body paragraphs, and sign-off
+     * where appropriate. Store each paragraph or distinct letter component in
+     * a separate string, in reading order. Keep the salutation and sign-off as
+     * separate items where present. Do not add exercise prompts or editorial
+     * commentary.
      */
-    'content' => '',
-
-    /**
-     * letter_type
-     * -----------
-     * Type: string
-     * Required: yes
-     *
-     * The broad kind of letter, such as formal, semi-formal, or informal. Use a consistent vocabulary of values across the collection.
-     * TODO: It ssems that letter_type is a duplication for register! If yes i prefer to keep register and drop letter_type, otherwise the key must be changed or clarified by comments
-     */
-    'letter_type' => '',
+    'content' => [],
 
     /**
      * purpose
