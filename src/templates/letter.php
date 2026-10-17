@@ -3,11 +3,13 @@
 # <?= $entry['title'] ?>
 
 - **Level:** <?= $entry['language_level'] ?>
-- **Letter type:** <?= $entry['letter_type'] ?>
 - **Purpose:** <?= $entry['purpose'] ?>
 - **Register:** <?= $entry['register'] ?>
 
-<?= $entry['content'] ?>
+<?php foreach ($entry['content'] as $paragraph): ?>
+<?= $paragraph ?>
+
+<?php endforeach; ?>
 
 <?php if (!empty($entry['educational_notes'])): ?>
 ## Learning notes
