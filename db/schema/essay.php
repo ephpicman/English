@@ -82,10 +82,10 @@ return [
      * The essay form. Use exactly one of these controlled values:
      * - opinion
      * - discussion
-     * - advantages_disadvantages
-     * - problem_solution
-     * - cause_effect
-     * - two_part_question
+     * - advantages and disadvantages
+     * - problem and solution
+     * - cause and effect
+     * - two-part question
      * - argumentative
      * - discursive
      * - descriptive
@@ -93,8 +93,8 @@ return [
      * - expository
      * - reflective
      *
-     * Use the exact snake_case value shown here; do not invent synonyms or
-     * combine multiple categories. If a proposed essay does not fit any value,
+     * Use one exact label as written; do not invent synonyms or combine
+     * multiple categories. If a proposed essay does not fit any value,
      * review the taxonomy before adding it.
      */
     'essay_type' => '',
