@@ -65,6 +65,7 @@ return [
      * British English IPA. Include primary stress where appropriate and
      * reflect natural connected speech when this is part of the project's
      * pronunciation convention. Do not use an American transcription.
+     * TODO: emphasize that pronunciation should not be a simple merge of containing words IPA! It must be in natural spoken form
      */
     'pronunciation' => '',
 
@@ -192,6 +193,7 @@ return [
      * (e.g. "someone spills the beans" or "let the cat out of the bag").
      * Explain exceptions or sense-specific differences in educational_notes.
      * Do not use this field as a duplicate of example sentences.
+     * TODO: structure of a single grammer pattern must be clear
      */
     'grammar_patterns' => [],
 
@@ -312,13 +314,6 @@ return [
              * for meanings[*].collocations.
              */
             'collocations' => [],
-
-            /**
-             * questions
-             * ---------
-             * Relevant review questions, practice prompts, or question records.
-             */
-            'questions' => [],
         ],
     ],
 ];
