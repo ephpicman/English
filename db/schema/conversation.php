@@ -3,17 +3,25 @@
 /**
  * Conversation schema
  *
- * Documents the fixed structure of one conversation record. This file is a
- * schema/template, not a completed learner-facing entry.
+ * Purpose
+ * This schema defines one conversation record. Keep participant identifiers stable, ensure each dialogue turn refers to a defined participant, and preserve the order in which the turns are spoken.
  *
- * Data conventions:
- * - Preserve every key and nesting level defined below.
- * - Do not add, remove, or rename keys in individual records without revising
- *   the schema and dependent tooling deliberately.
- * - Use UTF-8 text, strings for single text values, and arrays of strings for
- *   lists of text.
- * - Keep the content accurate, natural, and appropriate to its intended genre
- *   and CEFR level.
+ * Shared conventions
+ * - This file defines the required structure and field-level guidance for one
+ *   record of its specific content type; it is a schema/template, not a completed entry.
+ * - Treat the keys, nesting, and data types defined below as authoritative.
+ *   Do not add, remove, rename, or repurpose fields in individual records
+ *   without deliberately revising the schema and dependent tooling.
+ * - Use UTF-8 text, British English, and accurate, natural language suitable
+ *   for the record's purpose, intended audience, and stated CEFR level.
+ * - Use strings for single text values and arrays of strings for ordered lists
+ *   of text, as specified by each field. Preserve sequence wherever order matters.
+ * - Follow each field's documented requirements and controlled values. Keep
+ *   editorial metadata separate from learner-facing content.
+ * - Replace illustrative placeholders with actual data in completed entries.
+ *   Do not treat sample values in this schema as finished content.
+ *
+ * This file is part of the ephpicman/LearningEnglish project. It is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See the LICENSE file for full details.
  */
 
 return [
