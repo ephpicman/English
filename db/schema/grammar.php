@@ -65,13 +65,15 @@ return [
     /**
      * explanation
      * -----------
-     * Type: string
+     * Type: array of strings
      * Required: yes
      *
-     * A clear, accurate explanation of the grammar point, including form, meaning, and use where relevant. Preserve paragraph breaks; do not put exercise instructions or question sets here.
-     * TODO: an array of strings is prefered because let us to organize explanation in separate paragraphes
+     * A clear, accurate explanation of the grammar point, including form,
+     * meaning, and use where relevant. Put each logical paragraph in a separate
+     * string, in reading order. Do not include empty strings merely to create
+     * spacing, or put exercise instructions or question sets here.
      */
-    'explanation' => '',
+    'explanation' => [],
 
     /**
      * grammar_patterns
