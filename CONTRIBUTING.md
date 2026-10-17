@@ -38,9 +38,9 @@ Each schema is the specification for its entry type. Contributors must:
 - Leave optional or inapplicable values in the form specified by the schema; do not delete required keys simply because a value is unavailable or irrelevant.
 - Do not add, remove, rename, or repurpose fields. If the schema itself needs to change, propose that change separately rather than silently changing an individual entry.
 
-### Representing schema fields in Markdown
+### Representing schema fields in PHP
 
-The individual entry must be a **Markdown (`.md`) file**, not a PHP file. Use clear Markdown headings and subheadings to represent the schema's fields and nested sections. Preserve the schema's complete information structure: every field must be represented, and lists, grouped records, examples, and relationships must remain distinguishable.
+The individual entry must be a **PHP (`.php`) file**. Represent its fields and nested structures using the data structure and conventions defined by the selected PHP schema. Preserve the schema's complete information structure: every field must be represented, and lists, grouped records, examples, and relationships must remain distinguishable.
 
 The PHP schema remains authoritative for field names, requiredness, data types, permitted values, and field-specific instructions. Markdown formatting does not permit contributors to omit or redefine schema fields. Do not copy PHP comments, placeholder text, or template instructions into the finished entry as if they were actual content.
 
@@ -78,16 +78,16 @@ Every entry must be saved at:
 db/<type>/<ID>.md
 ```
 
-Replace `<type>` with the exact type defined by the selected schema and `<ID>` with the exact ID value, then append `.md`.
+Replace `<type>` with the exact type defined by the selected schema and `<ID>` with the exact ID value, then append `.php`.
 
 Examples:
 
 | Entry type | ID | Required path |
 |---|---|---|
-| `word` | `reliable` | `db/word/reliable.md` |
-| `idiom` | `spill the beans` | `db/idiom/spill the beans.md` |
-| `grammar` | `present simple` | `db/grammar/present simple.md` |
-| `conversation` | `at the railway station` | `db/conversation/at the railway station.md` |
+| `word` | `reliable` | `db/word/reliable.php` |
+| `idiom` | `spill the beans` | `db/idiom/spill the beans.php` |
+| `grammar` | `present simple` | `db/grammar/present simple.php` |
+| `conversation` | `at the railway station` | `db/conversation/at the railway station.php` |
 
 These are naming examples, not claims that the example entries already exist.
 
