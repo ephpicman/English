@@ -26,10 +26,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * The canonical wording used to identify this proverb. Preserve the
-     * established wording and spelling. If recognised variants exist, choose
-     * one standard form for the ID and record meaningful variants separately
-     * in the variants field. Do not use an incidental paraphrase as the ID.
+     * The canonical wording of the proverb. Preserve its established wording; record meaningful variants in the variants field rather than using a variant as the identifier.
+     * Keep identifiers unique within the relevant content collection.
      */
     'ID' => '[canonical wording of the proverb]',
 
@@ -39,8 +37,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * Identifies the record category. For this schema, the value must be
-     * exactly "proverb".
+     * Identifies the category of record. The value must be exactly
+     * "proverb", matching this schema's entry type.
      */
     'type' => 'proverb',
 
@@ -50,10 +48,9 @@ return [
      * Type: string
      * Required: yes
      *
-     * The overall CEFR level assigned to this proverb: A1, A2, B1, B2, C1,
-     * or C2. Store one actual level, not a range. Consider vocabulary,
-     * figurative meaning, cultural knowledge, and the difficulty of using
-     * the proverb appropriately in context.
+     * The overall CEFR level targeted by this record: A1, A2, B1, B2, C1, or C2.
+     * Store exactly one level, not a range or a list. Assign it according to
+     * the language and comprehension demands of the complete record.
      */
     'language_level' => 'B1',
 
