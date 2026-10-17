@@ -65,10 +65,11 @@ return [
     /**
      * content
      * -------
-     * Type: string
+     * Type: array of strings
      * Required: yes
      *
-     * The complete essay text, retaining paragraph breaks and its intended structure. Do not add task instructions, questions, or editorial notes.
+     * The complete essay text splited into paragraphes.
+     * Do not add task instructions, questions, or editorial notes.
      */
     'content' => '',
 
@@ -78,7 +79,9 @@ return [
      * Type: string
      * Required: yes
      *
-     * The essay form, such as argumentative, discursive, opinion, or problem-and-solution. Use consistent category labels across the collection.
+     * The essay form, such as argumentative, discursive, opinion, or problem-and-solution.
+     * Use consistent category labels across the collection.
+     × TODO: use an enumeration list of possible values
      */
     'essay_type' => '',
 
@@ -88,7 +91,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * The dominant register and degree of formality. For academic-style essays, record the expected academic register rather than labelling it merely formal.
+     * The dominant register and degree of formality. For academic-style essays, record the
+     * expected academic register rather than labelling it merely formal.
      */
     'register' => '',
 
@@ -147,7 +151,6 @@ return [
             'idioms' => [],
             'phrasal_verbs' => [],
             'collocations' => [],
-            'questions' => [],
         ],
     ],
 ];
