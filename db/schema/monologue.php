@@ -65,13 +65,15 @@ return [
     /**
      * content
      * -------
-     * Type: string
+     * Type: array of strings
      * Required: yes
      *
-     * The complete spoken text, written to sound natural when delivered aloud. Keep paragraph or pause-related line breaks where they support delivery; do not append practice questions.
-     * TODO: It seems an array of strings can be a more natural choice for this
+     * The complete spoken text, written to sound natural when delivered aloud.
+     * Store each paragraph or distinct delivery unit in a separate string, in
+     * speaking order. Keep meaningful pauses and signposting within the text;
+     * do not append practice questions.
      */
-    'content' => '',
+    'content' => [],
 
     /**
      * purpose
@@ -79,8 +81,21 @@ return [
      * Type: string
      * Required: yes
      *
-     * The main communicative purpose, such as describing an experience, presenting an opinion, or explaining a process.
-     * TODO: it must be an enumeration to avoid fuzzy values
+     * The main communicative purpose. Use exactly one of these controlled values:
+     * - describe_experience
+     * - tell_story
+     * - present_opinion
+     * - explain_process
+     * - give_instructions
+     * - describe_person_place_or_object
+     * - report_event
+     * - compare_options
+     * - persuade_audience
+     * - reflect_on_topic
+     * - introduce_topic
+     *
+     * Use the exact snake_case value shown here. Do not invent synonyms or
+     * combine purposes; if a new category is needed, review the taxonomy first.
      */
     'purpose' => '',
 
