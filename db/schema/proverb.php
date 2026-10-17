@@ -195,6 +195,7 @@ return [
      * traditional, humorous, or formal. Use a consistent descriptive
      * convention. If register varies significantly by context, explain that
      * in educational_notes rather than listing unrelated labels.
+     * TODO: an enumeration list is prefered
      */
     'register' => '',
 
@@ -301,15 +302,6 @@ return [
              * understanding or using the proverb.
              */
             'collocations' => [],
-
-            /**
-             * questions
-             * ---------
-             * Related question records, if the repository maintains such
-             * records. This is a cross-reference category only, not a field
-             * for creating or storing exercises or questions in this entry.
-             */
-            'questions' => [],
         ],
     ],
 ];
