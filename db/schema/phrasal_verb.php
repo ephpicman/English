@@ -321,11 +321,11 @@ return [
      * Required: yes
      *
      * The dominant register or usage label. Use exactly one of the following
-     * values: "neutral", "formal", "informal", "very_informal", "slang",
+     * values: "neutral", "formal", "informal", "very informal", "slang",
      * "vulgar", "offensive", "dated", "literary", "regional", or
      * "technical". Use null when no single label is established or a label
      * would be misleading. Meaning-specific differences belong in the relevant
-     * meaning's educational_notes. Use the exact value shown; do not invent
+     * meaning's educational_notes. Use one exact value as shown; do not invent
      * synonyms or combine labels.
      */
     'register' => null,
