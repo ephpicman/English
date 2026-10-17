@@ -306,13 +306,5 @@ return [
              * or pattern-based relationship to this entry.
              */
             'collocations' => [],
-
-            /**
-             * questions
-             * ---------
-             * Relevant review questions, practice prompts, or question records.
-             */
-            'questions' => [],
-        ],
     ],
 ];
