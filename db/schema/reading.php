@@ -69,6 +69,7 @@ return [
      * Required: yes
      *
      * The complete reading passage. Preserve paragraph breaks and meaningful textual formatting. Do not append comprehension questions or exercises.
+     * TODO: must be an array of strings to separate paragraphes
      */
     'content' => '',
 
@@ -147,7 +148,6 @@ return [
             'idioms' => [],
             'phrasal_verbs' => [],
             'collocations' => [],
-            'questions' => [],
         ],
     ],
 ];
