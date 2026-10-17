@@ -23,10 +23,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * The canonical wording of the collocation (e.g. "make a decision" or
-     * "strong evidence"). Use a consistent base form for variable elements
-     * where appropriate, and preserve the words that define the combination.
-     * Do not identify a collocation by an incidental inflected example.
+     * The canonical wording of the collocation. Use consistent base forms for variable elements where appropriate.
+     * Keep identifiers unique within the relevant content collection.
      */
     'ID' => '[canonical form of the collocation]',
 
@@ -36,8 +34,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * Identifies the record category. For this schema, the value must be
-     * exactly "collocation".
+     * Identifies the category of record. The value must be exactly
+     * "collocation", matching this schema's entry type.
      */
     'type' => 'collocation',
 
@@ -47,9 +45,9 @@ return [
      * Type: string
      * Required: yes
      *
-     * The overall CEFR level assigned to the collocation: A1, A2, B1, B2, C1,
-     * or C2. Store one actual level. Individual meanings do not have separate
-     * level fields in this schema.
+     * The overall CEFR level targeted by this record: A1, A2, B1, B2, C1, or C2.
+     * Store exactly one level, not a range or a list. Assign it according to
+     * the language and comprehension demands of the complete record.
      */
     'language_level' => 'B1',
 
