@@ -191,11 +191,12 @@ return [
      * Type: string
      * Required: yes
      *
-     * The usual register or tone of the proverb, such as neutral, informal,
-     * traditional, humorous, or formal. Use a consistent descriptive
-     * convention. If register varies significantly by context, explain that
-     * in educational_notes rather than listing unrelated labels.
-     * TODO: an enumeration list is prefered
+     * The dominant register or tone of the proverb. Use exactly one of these
+     * controlled values: "neutral", "formal", "informal", "humorous",
+     * "ironic", "sarcastic", "traditional", "literary", "dated",
+     * "regional", "religious", or "offensive". Choose the best overall label
+     * rather than combining categories. If usage varies significantly by
+     * context, explain that in educational_notes. Use the exact value shown.
      */
     'register' => '',
 
