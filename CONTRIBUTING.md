@@ -42,7 +42,7 @@ Each schema is the specification for its entry type. Contributors must:
 
 The individual entry must be a **PHP (`.php`) file**. Represent its fields and nested structures using the data structure and conventions defined by the selected PHP schema. Preserve the schema's complete information structure: every field must be represented, and lists, grouped records, examples, and relationships must remain distinguishable.
 
-The PHP schema remains authoritative for field names, requiredness, data types, permitted values, and field-specific instructions. Markdown formatting does not permit contributors to omit or redefine schema fields. Do not copy PHP comments, placeholder text, or template instructions into the finished entry as if they were actual content.
+The PHP schema remains authoritative for field names, requiredness, data types, permitted values, and field-specific instructions. The PHP implementation must not permit contributors to omit or redefine schema fields. Do not copy PHP comments, placeholder text, or template instructions into the finished entry as if they were actual content.
 
 ## 3. Set the Identifier and Filename Correctly
 
@@ -50,13 +50,13 @@ Every entry must have a unique `ID`. The filename must be derived from that fiel
 
 - Read the value of `ID` in the entry.
 - Use that exact value as the filename, preserving its spelling and capitalisation.
-- Append the `.md` extension.
+- Append the `.php` extension.
 - Do not substitute a title, a shortened form, a translation, or a different identifier for the `ID`.
 
 For example, if the entry's ID is `look after` and its type is `phrasal_verb`, its path must be:
 
 ```text
-db/phrasal_verb/look after.md
+db/phrasal_verb/look after.php
 ```
 
 The example illustrates the naming rule; always follow the repository's actual ID value and directory conventions. Do not silently replace spaces or punctuation with alternative characters.
@@ -75,7 +75,7 @@ Before adding an entry, check the relevant `db/<type>/` directory and search the
 Every entry must be saved at:
 
 ```text
-db/<type>/<ID>.md
+db/<type>/<ID>.php
 ```
 
 Replace `<type>` with the exact type defined by the selected schema and `<ID>` with the exact ID value, then append `.php`.
@@ -91,7 +91,7 @@ Examples:
 
 These are naming examples, not claims that the example entries already exist.
 
-Do not save an entry in the schema directory. The PHP files in `db/schema/` define the structures; individual Markdown records belong in the corresponding `db/<type>/` directory.
+Do not save an entry in the schema directory. The PHP files in `db/schema/` define the structures; individual PHP records belong in the corresponding `db/<type>/` directory.
 
 ## 5. Review Before Submitting
 
@@ -100,10 +100,10 @@ Use this checklist before submitting a contribution:
 - [ ] I selected an existing schema from `db/schema/`.
 - [ ] I read and followed the selected schema's field-level instructions.
 - [ ] The `ID` is present, stable, and unique.
-- [ ] The filename matches the `ID` exactly, with `.md` appended.
-- [ ] The file is saved at `db/<type>/<ID>.md`.
+- [ ] The filename matches the `ID` exactly, with `.php` appended.
+- [ ] The file is saved at `db/<type>/<ID>.php`.
 - [ ] I checked for an existing entry with the same ID and have not duplicated or overwritten it.
-- [ ] Every schema field and nested structure is represented in the Markdown entry.
+- [ ] Every schema field and nested structure is represented in the PHP entry.
 - [ ] The `type` value matches the selected schema exactly.
 - [ ] The content is accurate, natural, consistently written in British English, and suitable for its intended learning level.
 - [ ] I have kept editorial notes separate from learner-facing content and have not added unrequested exercises or questions.
