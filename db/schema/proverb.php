@@ -215,30 +215,22 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Exclusively maintained by a human editor
+    | Editorial metadata maintained by a human editor
     |--------------------------------------------------------------------------
     |
-    | Metadata organises this record and its manually curated relationships.
-    | Automated processing must not silently overwrite editorial choices.
+    | The meta section contains organisational metadata and manually curated
+    | relationships. Keep it separate from learner-facing content. Automated
+    | processes must not silently overwrite editorial decisions.
     */
-
-    /**
-     * meta
-     * ----
-     * Type: associative array.
-     * Required: yes
-     *
-     * Human-maintained metadata used to organise and connect entries.
-     */
     'meta' => [
         /**
          * editorial_notes
          * ---------------
          * Type: array of strings
          *
-         * Internal notes for the human editor, such as wording verification,
-         * source checks, or consistency decisions. These are not learner-facing
-         * explanations.
+         * Internal notes for the human editor, including sources to verify,
+         * consistency issues, and decisions to revisit. These notes are not
+         * learner-facing content. Remove temporary notes once they are resolved.
          */
         'editorial_notes' => [],
 
@@ -247,60 +239,60 @@ return [
          * ----
          * Type: array of strings
          *
-         * Human-assigned labels for filtering and organisation. Use concise,
-         * consistent labels and avoid near-duplicates caused by spelling or
-         * capitalisation differences.
+         * Concise, consistent labels used to organise, filter, and retrieve the
+         * entry. Avoid duplicate or near-duplicate tags that differ only in
+         * spelling or capitalisation.
          */
         'tags' => [],
 
         /**
          * related
          * -------
-         * Type: associative array with the fixed relationship categories below.
-         * Each value is an array of strings containing canonical identifiers.
+         * Type: associative array with fixed relationship categories.
+         * Each value is an array of strings containing canonical identifiers
+         * or names, according to the repository's linking convention.
          *
-         * Record only meaningful relationships that have been checked by an
-         * editor. Do not add categories or use this field for incidental
-         * mentions. The existing shared keys are retained unchanged.
+         * Include only meaningful relationships selected or confirmed by a
+         * human editor. Do not treat unreviewed automatic suggestions as
+         * curated links. Do not add categories or duplicate relationships.
          */
         'related' => [
             /**
              * words
              * -----
-             * Related single-word entries that help explain the proverb's
-             * vocabulary or an important contrast.
+             * Related single-word entries that have a meaningful lexical,
+             * semantic, or usage relationship to this entry.
              */
             'words' => [],
 
             /**
              * grammars
              * --------
-             * Grammar topics that explain a notable structure used in the
-             * proverb or help learners use it appropriately.
+             * Grammar topics relevant to understanding or using this entry.
              */
             'grammars' => [],
 
             /**
              * idioms
              * ------
-             * Related idiom entries with a meaningful semantic or usage link.
-             * Do not classify the proverb itself as an idiom merely to link it.
+             * Idiom entries with a meaningful semantic, lexical, or usage
+             * relationship to this entry.
              */
             'idioms' => [],
 
             /**
              * phrasal_verbs
              * -------------
-             * Related phrasal-verb entries that help explain important wording
-             * or a useful contrast.
+             * Phrasal-verb entries with a meaningful semantic, lexical, or
+             * usage relationship to this entry.
              */
             'phrasal_verbs' => [],
 
             /**
              * collocations
              * ------------
-             * Related collocation entries that are genuinely useful for
-             * understanding or using the proverb.
+             * Collocation entries with a meaningful lexical, semantic, or
+             * usage relationship to this entry.
              */
             'collocations' => [],
         ],
