@@ -347,33 +347,22 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Exclusively maintained by a human editor
+    | Editorial metadata maintained by a human editor
     |--------------------------------------------------------------------------
     |
-    | The meta section contains editorial organisation and manually curated
-    | relationships. It is not part of the linguistic definition of a meaning.
-    | Automated processing must not silently overwrite human editorial choices.
+    | The meta section contains organisational metadata and manually curated
+    | relationships. Keep it separate from learner-facing content. Automated
+    | processes must not silently overwrite editorial decisions.
     */
-
-    /**
-     * meta
-     * ----
-     * Type: associative array.
-     * Required: yes
-     *
-     * Human-maintained metadata used to organise and connect entries.
-     */
     'meta' => [
         /**
          * editorial_notes
          * ---------------
          * Type: array of strings
          *
-         * Internal editorial observations about this record: decisions to
-         * revisit, sources to check, consistency concerns, or other notes for
-         * the human editor. These are not learner-facing educational notes.
-         *
-         * Remove resolved temporary notes when they are no longer needed.
+         * Internal notes for the human editor, including sources to verify,
+         * consistency issues, and decisions to revisit. These notes are not
+         * learner-facing content. Remove temporary notes once they are resolved.
          */
         'editorial_notes' => [],
 
@@ -382,66 +371,60 @@ return [
          * ----
          * Type: array of strings
          *
-         * Human-assigned labels used to organise, filter, or retrieve this entry.
-         * Use concise, consistent tags and avoid creating near-duplicates with
-         * different spelling or capitalisation. These are editorial metadata,
-         * not grammatical tags; grammatical labels belong in grammar_tags.
+         * Concise, consistent labels used to organise, filter, and retrieve the
+         * entry. Avoid duplicate or near-duplicate tags that differ only in
+         * spelling or capitalisation.
          */
         'tags' => [],
 
         /**
          * related
          * -------
-         * Type: associative array containing the fixed relationship categories
-         * below. Each value is an array of strings.
+         * Type: associative array with fixed relationship categories.
+         * Each value is an array of strings containing canonical identifiers
+         * or names, according to the repository's linking convention.
          *
-         * Record relationships selected or confirmed by a human editor.
-         * Do not treat automatically inferred associations as human-reviewed
-         * relationships unless an editor has checked them.
-         *
-         * Store the canonical identifiers or names used by the corresponding
-         * entry collection, following the repository's linking convention.
-         * Avoid duplicates and do not add categories beyond the defined keys.
+         * Include only meaningful relationships selected or confirmed by a
+         * human editor. Do not treat unreviewed automatic suggestions as
+         * curated links. Do not add categories or duplicate relationships.
          */
         'related' => [
             /**
              * words
              * -----
-             * Related single-word entries. Add only meaningful learning or
-             * lexical relationships, not every word that happens to occur in
-             * the same example.
+             * Related single-word entries that have a meaningful lexical,
+             * semantic, or usage relationship to this entry.
              */
             'words' => [],
 
             /**
              * grammars
              * --------
-             * Related grammar topics or grammar records that help explain the
-             * use of this word.
+             * Grammar topics relevant to understanding or using this entry.
              */
             'grammars' => [],
 
             /**
              * idioms
              * ------
-             * Related idiom entries in which this word plays a meaningful role.
+             * Idiom entries with a meaningful semantic, lexical, or usage
+             * relationship to this entry.
              */
             'idioms' => [],
 
             /**
              * phrasal_verbs
              * -------------
-             * Related phrasal-verb entries. Use the canonical identifier or
-             * name expected by the phrasal-verb collection.
+             * Phrasal-verb entries with a meaningful semantic, lexical, or
+             * usage relationship to this entry.
              */
             'phrasal_verbs' => [],
 
             /**
              * collocations
              * ------------
-             * Related collocation entries maintained in the corresponding
-             * collection. This is for cross-entry links; collocations belonging
-             * directly to a meaning remain in meanings[*].collocations.
+             * Collocation entries with a meaningful lexical, semantic, or
+             * usage relationship to this entry.
              */
             'collocations' => [],
         ],
