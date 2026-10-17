@@ -320,11 +320,13 @@ return [
      * Type: string|null
      * Required: yes
      *
-     * The usual register or style, such as "informal", "formal", "neutral",
-     * or a more precise label. Use null when a single label is not established
-     * or would be misleading. Meaning-specific differences belong in the
-     * relevant meaning's educational_notes.
-     * TODO: use an enumeration list if possible
+     * The dominant register or usage label. Use exactly one of the following
+     * values: "neutral", "formal", "informal", "very_informal", "slang",
+     * "vulgar", "offensive", "dated", "literary", "regional", or
+     * "technical". Use null when no single label is established or a label
+     * would be misleading. Meaning-specific differences belong in the relevant
+     * meaning's educational_notes. Use the exact value shown; do not invent
+     * synonyms or combine labels.
      */
     'register' => null,
 
