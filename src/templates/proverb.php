@@ -1,0 +1,48 @@
+<?php
+?>
+# <?= $entry['ID'] ?>
+
+- **Level:** <?= $entry['language_level'] ?>
+- **Pronunciation (BrE IPA):** /<?= $entry['pronunciation'] ?>/
+- **Register:** <?= $entry['register'] ?>
+
+<?php if (!empty($entry['variants'])): ?>
+**Variants:** <?= implode('; ', $entry['variants']) ?>
+
+<?php endif; ?>
+<?php foreach ($entry['meanings'] as $index => $meaning): ?>
+## Meaning <?= $index + 1 ?>
+
+<?= $meaning['definition'] ?>
+
+<?php foreach (['general_examples' => 'Examples', 'professional_examples' => 'Professional examples'] as $key => $label): ?>
+<?php if (!empty($meaning[$key])): ?>
+**<?= $label ?>**
+<?php foreach ($meaning[$key] as $example): ?>
+- <?= $example ?>
+
+<?php endforeach; ?>
+<?php endif; ?>
+<?php endforeach; ?>
+<?php foreach (['synonyms' => 'Similar proverbs', 'antonyms' => 'Contrasting proverbs'] as $key => $label): ?>
+<?php if (!empty($meaning[$key])): ?>
+**<?= $label ?>:** <?= implode('; ', $meaning[$key]) ?>
+
+<?php endif; ?>
+<?php endforeach; ?>
+<?php if (!empty($meaning['educational_notes'])): ?>
+**Notes**
+<?php foreach ($meaning['educational_notes'] as $note): ?>
+- <?= $note ?>
+
+<?php endforeach; ?>
+<?php endif; ?>
+<?php endforeach; ?>
+<?php if (!empty($entry['educational_notes'])): ?>
+## Learning notes
+
+<?php foreach ($entry['educational_notes'] as $note): ?>
+- <?= $note ?>
+
+<?php endforeach; ?>
+<?php endif; ?>
