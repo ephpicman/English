@@ -344,31 +344,22 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Exclusively maintained by a human editor
+    | Editorial metadata maintained by a human editor
     |--------------------------------------------------------------------------
     |
-    | The meta section contains manually curated organisation and relationships.
-    | Automated processing must not silently overwrite editorial choices.
+    | The meta section contains organisational metadata and manually curated
+    | relationships. Keep it separate from learner-facing content. Automated
+    | processes must not silently overwrite editorial decisions.
     */
-
-    /**
-     * meta
-     * ----
-     * Type: associative array.
-     * Required: yes
-     *
-     * Human-maintained metadata used to organise this entry and connect it to
-     * related records.
-     */
     'meta' => [
         /**
          * editorial_notes
          * ---------------
          * Type: array of strings
          *
-         * Internal notes for the human editor, such as a source to verify,
-         * a consistency issue, or an editorial decision to revisit. These
-         * are not learner-facing explanations.
+         * Internal notes for the human editor, including sources to verify,
+         * consistency issues, and decisions to revisit. These notes are not
+         * learner-facing content. Remove temporary notes once they are resolved.
          */
         'editorial_notes' => [],
 
@@ -377,9 +368,9 @@ return [
          * ----
          * Type: array of strings
          *
-         * Human-assigned labels for filtering and organisation. Use concise,
-         * consistent labels and avoid near-duplicates caused by spelling or
-         * capitalisation differences.
+         * Concise, consistent labels used to organise, filter, and retrieve the
+         * entry. Avoid duplicate or near-duplicate tags that differ only in
+         * spelling or capitalisation.
          */
         'tags' => [],
 
@@ -387,50 +378,50 @@ return [
          * related
          * -------
          * Type: associative array with fixed relationship categories.
-         * Each value is an array of strings.
+         * Each value is an array of strings containing canonical identifiers
+         * or names, according to the repository's linking convention.
          *
-         * Store canonical identifiers or names used by the relevant entry
-         * collections. Relationships should be selected or confirmed by a
-         * human editor; do not treat unreviewed automatic suggestions as
-         * curated links. Avoid duplicates and do not add new categories here.
+         * Include only meaningful relationships selected or confirmed by a
+         * human editor. Do not treat unreviewed automatic suggestions as
+         * curated links. Do not add categories or duplicate relationships.
          */
         'related' => [
             /**
              * words
              * -----
-             * Related single-word entries, especially the base verb or words
-             * that help explain or contrast with this phrasal verb.
+             * Related single-word entries that have a meaningful lexical,
+             * semantic, or usage relationship to this entry.
              */
             'words' => [],
 
             /**
              * grammars
              * --------
-             * Grammar topics relevant to the phrasal verb's structure or use.
+             * Grammar topics relevant to understanding or using this entry.
              */
             'grammars' => [],
 
             /**
              * idioms
              * ------
-             * Idioms with a meaningful semantic or usage relationship to
-             * this phrasal verb.
+             * Idiom entries with a meaningful semantic, lexical, or usage
+             * relationship to this entry.
              */
             'idioms' => [],
 
             /**
              * phrasal_verbs
              * -------------
-             * Other phrasal verbs with related meanings, patterns, or useful
-             * contrasts.
+             * Phrasal-verb entries with a meaningful semantic, lexical, or
+             * usage relationship to this entry.
              */
             'phrasal_verbs' => [],
 
             /**
              * collocations
              * ------------
-             * Related collocation records. These are cross-entry links, not a
-             * replacement for meanings[*].collocations.
+             * Collocation entries with a meaningful lexical, semantic, or
+             * usage relationship to this entry.
              */
             'collocations' => [],
         ],
