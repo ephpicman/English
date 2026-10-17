@@ -65,13 +65,14 @@ return [
     /**
      * content
      * -------
-     * Type: string
+     * Type: array of strings
      * Required: yes
      *
-     * The complete reading passage. Preserve paragraph breaks and meaningful textual formatting. Do not append comprehension questions or exercises.
-     * TODO: must be an array of strings to separate paragraphes
+     * The complete reading passage. Store each paragraph in a separate string,
+     * in reading order. Do not include empty strings merely to create spacing,
+     * and do not append comprehension questions or exercises.
      */
-    'content' => '',
+    'content' => [],
 
     /**
      * text_type
