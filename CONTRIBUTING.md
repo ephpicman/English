@@ -46,7 +46,7 @@ The PHP schema remains authoritative for field names, requiredness, data types, 
 
 ## 3. Set the Identifier and Filename Correctly
 
-Every entry must have a unique `ID`. The filename must be derived from that field exactly:
+Every entry must have a unique `ID`. The filename must be derived from that field exactly, with the `.php` extension:
 
 - Read the value of `ID` in the entry.
 - Use that exact value as the filename, preserving its spelling and capitalisation.
