@@ -61,11 +61,13 @@ return [
      * Type: string
      * Required: yes
      *
-     * A consistent transcription of the idiom in standard contemporary
-     * British English IPA. Include primary stress where appropriate and
-     * reflect natural connected speech when this is part of the project's
-     * pronunciation convention. Do not use an American transcription.
-     * TODO: emphasize that pronunciation should not be a simple merge of containing words IPA! It must be in natural spoken form
+     * Transcribe the complete idiom as it is naturally spoken in standard
+     * contemporary British English IPA. Include primary stress where relevant,
+     * and represent weak forms, connected speech, and sound changes according
+     * to the project's pronunciation convention. Do not create the transcription
+     * by simply joining the citation-form IPA of the individual words; use the
+     * natural pronunciation of the expression as a whole. Do not use an
+     * American transcription.
      */
     'pronunciation' => '',
 
@@ -188,12 +190,13 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Record recurring grammatical frames that the idiom requires or commonly
-     * appears in, using concise patterns or placeholders where helpful
-     * (e.g. "someone spills the beans" or "let the cat out of the bag").
-     * Explain exceptions or sense-specific differences in educational_notes.
-     * Do not use this field as a duplicate of example sentences.
-     * TODO: structure of a single grammer pattern must be clear
+     * Each item must be one concise, complete grammatical frame, written using
+     * a consistent convention. Use explicit placeholders such as "someone",
+     * "something", or "about something" where the variable parts matter; for
+     * example, "someone spills the beans (about something)". Do not put a bare
+     * fragment whose grammatical role is unclear, and do not use this field as
+     * a duplicate of example sentences. Explain exceptions or sense-specific
+     * differences in educational_notes.
      */
     'grammar_patterns' => [],
 
