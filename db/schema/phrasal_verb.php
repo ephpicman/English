@@ -324,6 +324,7 @@ return [
      * or a more precise label. Use null when a single label is not established
      * or would be misleading. Meaning-specific differences belong in the
      * relevant meaning's educational_notes.
+     * TODO: use an enumeration list if possible
      */
     'register' => null,
 
@@ -430,13 +431,6 @@ return [
              * replacement for meanings[*].collocations.
              */
             'collocations' => [],
-
-            /**
-             * questions
-             * ---------
-             * Relevant review questions, practice prompts, or question records.
-             */
-            'questions' => [],
         ],
     ],
 ];
