@@ -4,7 +4,10 @@
 
 - **Level:** <?= $entry['language_level'] ?>
 
-<?= $entry['explanation'] ?>
+<?php foreach ($entry['explanation'] as $paragraph): ?>
+<?= $paragraph ?>
+
+<?php endforeach; ?>
 
 <?php if (!empty($entry['grammar_patterns'])): ?>
 ## Grammar patterns
