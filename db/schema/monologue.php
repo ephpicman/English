@@ -72,15 +72,26 @@ return [
     /**
      * content
      * -------
-     * Type: array of strings
+     * Type: array of associative arrays
      * Required: yes
      *
      * The complete spoken text, written to sound natural when delivered aloud.
-     * Store each paragraph or distinct delivery unit in a separate string, in
-     * speaking order. Keep meaningful pauses and signposting within the text;
-     * do not append practice questions.
+     * Store each paragraph or distinct delivery unit as an associative array
+     * with exactly these keys:
+     * - text: the paragraph or delivery unit as a string.
+     * - ipa: a string containing the complete British English IPA transcription
+     *   of that text, including stress marks and natural connected speech where
+     *   appropriate. Use contemporary standard British pronunciation.
+     *
+     * Preserve speaking order. Keep meaningful pauses and signposting within
+     * the text; do not append practice questions.
      */
-    'content' => [],
+    'content' => [
+        [
+            'text' => '',
+            'ipa' => '',
+        ],
+    ],
 
     /**
      * purpose
