@@ -76,7 +76,10 @@ return [
      * Required: yes
      *
      * An ordered list of participant records. Keep each participant's identifier
-     * stable throughout the dialogue.
+     * stable throughout the dialogue. Each record contains:
+     * - speaker: the unique short identifier used to attribute dialogue turns.
+     * - role: the participant's role or relationship in the situation, such as
+     *   customer, colleague, interviewer, or friend.
      */
     'participants' => [
         [
@@ -98,19 +101,24 @@ return [
      * Type: array of associative arrays
      * Required: yes
      *
-     * The dialogue in speaking order. Each turn contains the fixed keys 'speaker'
-     * and 'text'; 'speaker' must match a participant identifier, and 'text' contains
-     * that turn's utterance. Store one turn per item and do not mix editorial notes
-     * into spoken lines.
+     * The dialogue in speaking order. Each turn contains the fixed keys 'speaker',
+     * 'text', and 'ipa'. 'speaker' must match a participant identifier; 'text'
+     * contains the turn's utterance; and 'ipa' is an ordered array of British
+     * English IPA transcriptions, with one item for each sentence in 'text' and
+     * in the same order. Use accurate contemporary standard British pronunciation,
+     * including stress and natural connected speech where appropriate. Store one
+     * turn per item and do not mix editorial notes into spoken lines.
      */
     'content' => [
         [
             'speaker' => 'A',
             'text' => '',
+            'ipa' => [],
         ],
         [
             'speaker' => 'B',
             'text' => '',
+            'ipa' => [],
         ],
     ],
 
