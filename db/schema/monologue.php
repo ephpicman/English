@@ -3,9 +3,10 @@
 /**
  * Monologue schema
  *
+ * Purpose
  * This schema defines one complete monologue intended to be delivered aloud. Keep the language natural in spoken delivery, organise the text into ordered paragraphs or delivery units, and align its purpose and register with the intended situation.
  *
- * Schema purpose and conventions
+ * Shared conventions
  * - This file defines the required structure and field-level guidance for one
  *   record of its specific content type; it is a schema/template, not a completed entry.
  * - Treat the keys, nesting, and data types defined below as authoritative.
@@ -14,15 +15,11 @@
  * - Use UTF-8 text, British English, and accurate, natural language suitable
  *   for the record's purpose, intended audience, and stated CEFR level.
  * - Use strings for single text values and arrays of strings for ordered lists
- *   of text, as specified by each field. Preserve the order of paragraphs,
- *   examples, dialogue turns, or other sequences where order matters.
+ *   of text, as specified by each field. Preserve sequence wherever order matters.
  * - Follow each field's documented requirements and controlled values. Keep
  *   editorial metadata separate from learner-facing content.
- * - Replace illustrative placeholders with actual record data in completed
- *   entries. Do not treat this schema's sample values as finished content.
- *
-This schema defines one complete monologue intended to be delivered aloud.
- * Keep the language natural in spoken delivery, organise the text into ordered paragraphs or delivery units, and align its purpose and register with the intended situation.
+ * - Replace illustrative placeholders with actual data in completed entries.
+ *   Do not treat sample values in this schema as finished content.
  *
  * This file is part of the ephpicman/LearningEnglish project. It is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See the LICENSE file for full details.
  */
