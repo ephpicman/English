@@ -69,6 +69,7 @@ return [
      * Required: yes
      *
      * The complete spoken text, written to sound natural when delivered aloud. Keep paragraph or pause-related line breaks where they support delivery; do not append practice questions.
+     * TODO: It seems an array of strings can be a more natural choice for this
      */
     'content' => '',
 
@@ -79,6 +80,7 @@ return [
      * Required: yes
      *
      * The main communicative purpose, such as describing an experience, presenting an opinion, or explaining a process.
+     * TODO: it must be an enumeration to avoid fuzzy values
      */
     'purpose' => '',
 
@@ -147,7 +149,6 @@ return [
             'idioms' => [],
             'phrasal_verbs' => [],
             'collocations' => [],
-            'questions' => [],
         ],
     ],
 ];
