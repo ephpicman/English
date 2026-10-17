@@ -444,14 +444,6 @@ return [
              * directly to a meaning remain in meanings[*].collocations.
              */
             'collocations' => [],
-
-            /**
-             * questions
-             * ---------
-             * Related questions, review prompts, or question records maintained
-             * by the project. Link only to relevant, identifiable records.
-             */
-            'questions' => [],
         ],
     ],
 ];
