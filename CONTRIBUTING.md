@@ -38,11 +38,13 @@ Each schema is the specification for its entry type. Contributors must:
 - Leave optional or inapplicable values in the form specified by the schema; do not delete required keys simply because a value is unavailable or irrelevant.
 - Do not add, remove, rename, or repurpose fields. If the schema itself needs to change, propose that change separately rather than silently changing an individual entry.
 
-### Representing schema fields in PHP
+### Producing a valid PHP entry
 
-The individual entry must be a **PHP (`.php`) file**. Represent its fields and nested structures using the data structure and conventions defined by the selected PHP schema. Preserve the schema's complete information structure: every field must be represented, and lists, grouped records, examples, and relationships must remain distinguishable.
+Every individual entry must be a **valid PHP file with the `.php` extension**, not a Markdown document. Follow the selected schema's exact keys, nesting, data types, and value conventions. The schema files return associative arrays, so an entry must use the same executable PHP data format: begin with `<?php` and return the completed record as an array (for example, `return [ ... ];`).
 
-The PHP schema remains authoritative for field names, requiredness, data types, permitted values, and field-specific instructions. The PHP implementation must not permit contributors to omit or redefine schema fields. Do not copy PHP comments, placeholder text, or template instructions into the finished entry as if they were actual content.
+Replace every illustrative or placeholder value with the actual entry data, while retaining all required keys and nested structures. Keep optional values in the form specified by the schema. Do not leave placeholder strings, template-only sample values, or comments that instruct a contributor to fill something in. Comments are optional and must not substitute for data.
+
+Before submitting, run `php -l path/to/entry.php` and resolve every syntax error. A `.php` filename alone does not make a file valid PHP. Also compare the returned array against the selected schema to check its keys, nesting, value types, and required content.
 
 ## 3. Set the Identifier and Filename Correctly
 
