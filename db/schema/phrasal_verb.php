@@ -25,10 +25,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * The canonical base form of the phrasal verb, including its particle(s)
-     * (e.g. "carry out" or "look forward to"). Use the verb's base form and
-     * preserve the particle sequence. Do not use an inflected form such as
-     * "carried out" as the identifier.
+     * The canonical base form of the phrasal verb, including its particle or particles. Preserve the particle sequence and do not use an inflected form.
+     * Keep identifiers unique within the relevant content collection.
      */
     'ID' => '[base form of the phrasal verb]',
 
@@ -38,8 +36,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * Identifies the record category. For this schema, the value must be
-     * exactly "phrasal_verb".
+     * Identifies the category of record. The value must be exactly
+     * "phrasal_verb", matching this schema's entry type.
      */
     'type' => 'phrasal_verb',
 
@@ -49,9 +47,9 @@ return [
      * Type: string
      * Required: yes
      *
-     * The overall CEFR level assigned to the phrasal verb: A1, A2, B1, B2,
-     * C1, or C2. Store one actual level. Individual meanings do not have
-     * separate level fields in this schema.
+     * The overall CEFR level targeted by this record: A1, A2, B1, B2, C1, or C2.
+     * Store exactly one level, not a range or a list. Assign it according to
+     * the language and comprehension demands of the complete record.
      */
     'language_level' => 'B1',
 
