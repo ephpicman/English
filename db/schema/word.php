@@ -26,15 +26,11 @@ return [
      * Type: string
      * Required: yes
      *
-     * The exact base form used to identify this word entry.
-     * Use the dictionary headword form:
-     * - verbs: base form (e.g. "write", not "wrote" or "written");
-     * - nouns: singular form where the noun has a singular form;
-     * - adjectives: base form (e.g. "small", not "smaller").
-     *
-     * This schema is for single-word entries. Idioms, phrasal verbs, and
-     * collocations belong to their respective entry types, not this one.
-     * Preserve the spelling and capitalisation appropriate to the headword.
+     * The exact dictionary headword form. Use the base form for verbs, the
+     * singular form for nouns where applicable, and the base form for adjectives.
+     * This schema is for single-word entries; use the idiom, phrasal-verb, or
+     * collocation schema for those entry types.
+     * Keep identifiers unique within the relevant content collection.
      */
     'ID' => '[exact base form of the word]',
 
@@ -44,8 +40,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * Identifies the kind of entry represented by this record.
-     * For this schema, the value must be exactly "word".
+     * Identifies the category of record. The value must be exactly
+     * "word", matching this schema's entry type.
      */
     'type' => 'word',
 
@@ -55,11 +51,9 @@ return [
      * Type: string
      * Required: yes
      *
-     * The overall CEFR level assigned to the headword: A1, A2, B1, B2, C1, or C2.
-     * Store one actual level, not a list of possible levels.
-     *
-     * This is the overall level for the entry. Individual meanings do not have
-     * separate level fields in this schema.
+     * The overall CEFR level targeted by this record: A1, A2, B1, B2, C1, or C2.
+     * Store exactly one level, not a range or a list. Assign it according to
+     * the language and comprehension demands of the complete record.
      */
     'language_level' => 'B1',
 
