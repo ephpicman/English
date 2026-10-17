@@ -69,6 +69,7 @@ return [
      * Required: yes
      *
      * The complete letter, including salutation, body paragraphs, and sign-off where appropriate. Preserve paragraph breaks. Do not add exercise prompts or editorial commentary.
+     * TODO: an array of strings that separates paragraphes iseems to be a more better representation of the content
      */
     'content' => '',
 
@@ -79,6 +80,7 @@ return [
      * Required: yes
      *
      * The broad kind of letter, such as formal, semi-formal, or informal. Use a consistent vocabulary of values across the collection.
+     * TODO: It ssems that letter_type is a duplication for register! If yes i prefer to keep register and drop letter_type, otherwise the key must be changed or clarified by comments
      */
     'letter_type' => '',
 
@@ -157,7 +159,6 @@ return [
             'idioms' => [],
             'phrasal_verbs' => [],
             'collocations' => [],
-            'questions' => [],
         ],
     ],
 ];
