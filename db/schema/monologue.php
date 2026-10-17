@@ -82,20 +82,20 @@ return [
      * Required: yes
      *
      * The main communicative purpose. Use exactly one of these controlled values:
-     * - describe_experience
-     * - tell_story
-     * - present_opinion
-     * - explain_process
-     * - give_instructions
-     * - describe_person_place_or_object
-     * - report_event
-     * - compare_options
-     * - persuade_audience
-     * - reflect_on_topic
-     * - introduce_topic
+     * - describe an experience
+     * - tell a story
+     * - present an opinion
+     * - explain a process
+     * - give instructions
+     * - describe a person, place, or object
+     * - report an event
+     * - compare options
+     * - persuade an audience
+     * - reflect on a topic
+     * - introduce a topic
      *
-     * Use the exact snake_case value shown here. Do not invent synonyms or
-     * combine purposes; if a new category is needed, review the taxonomy first.
+     * Use one exact label as written. Do not invent synonyms or combine
+     * purposes; if a new category is needed, review the taxonomy first.
      */
     'purpose' => '',
 
