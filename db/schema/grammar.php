@@ -23,9 +23,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * The canonical identifier for this record. Use the canonical name of the grammar topic, consistent with the project's grammar collection.
-     * Keep identifiers unique within the relevant content collection and do
-     * not use an incidental sentence from the body as the identifier.
+     * The canonical name of the grammar topic, consistent with the project's grammar collection.
+     * Keep identifiers unique within the relevant content collection.
      */
     'ID' => '[canonical identifier]',
 
@@ -35,8 +34,8 @@ return [
      * Type: string
      * Required: yes
      *
-     * Identifies the record category. For this schema, the value must be
-     * exactly "grammar".
+     * Identifies the category of record. The value must be exactly
+     * "grammar", matching this schema's entry type.
      */
     'type' => 'grammar',
 
@@ -47,8 +46,8 @@ return [
      * Required: yes
      *
      * The overall CEFR level targeted by this record: A1, A2, B1, B2, C1, or C2.
-     * Store one level, not a range. Assign it based on the language and
-     * comprehension demands of the complete record.
+     * Store exactly one level, not a range or a list. Assign it according to
+     * the language and comprehension demands of the complete record.
      */
     'language_level' => 'B1',
 
