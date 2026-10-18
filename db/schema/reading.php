@@ -75,9 +75,14 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * The complete reading passage. Store each paragraph in a separate string,
-     * in reading order. Do not include empty strings merely to create spacing,
-     * and do not append comprehension questions or exercises.
+     * The complete learner-facing reading passage, stored as an ordered array
+     * of paragraph strings. Each item must contain exactly one paragraph:
+     * do not combine separate paragraphs into one item or split a paragraph
+     * across multiple items. Preserve the wording and sentence order of the
+     * passage, and use separate items for genuine paragraph breaks rather than
+     * empty strings. Include headings or subheadings only when they form part
+     * of the text as presented to the learner. Do not include external task
+     * instructions, comprehension questions, exercises, or editorial notes.
      */
     'content' => [],
 
@@ -87,7 +92,13 @@ return [
      * Type: string
      * Required: yes
      *
-     * The main text genre, such as article, report, narrative, biography, or informational passage. Choose the most useful dominant category.
+     * The main genre or form of the reading passage, such as an article,
+     * report, narrative, biography, interview, review, or informational text.
+     * Choose one concise label that best describes the passage as a whole,
+     * rather than its topic, subject area, or intended CEFR level. These
+     * examples are illustrative, not a closed list; use a clear, conventional
+     * label when none of them fits. Do not combine several labels to describe
+     * a text that has one dominant form.
      */
     'text_type' => '',
 
@@ -97,7 +108,14 @@ return [
      * Type: string|null
      * Required: yes
      *
-     * The publication, author, or source attribution when known and appropriate. Use null when the text is original, unattributed, or no reliable source is available; never invent attribution.
+     * The identifiable source or attribution of the passage, such as its
+     * author, publication, organisation, or a reliable source URL, where known
+     * and relevant. Record enough information to identify or verify the source;
+     * do not infer authorship or publication from resemblance to another text.
+     * Use null when the passage is original to the project, genuinely
+     * unattributed, or has no reliable identifiable source. Never invent
+     * attribution. If a source text has been adapted, identify the original
+     * source and make the adaptation clear where appropriate.
      */
     'source' => null,
 
@@ -107,7 +125,15 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Brief learner-facing context about genre, background knowledge, or notable language features. Do not use this field to store comprehension questions.
+     * A list of concise, learner-facing notes that materially help learners
+     * understand or study the passage. Include relevant background or cultural
+     * context, assumptions that may be unfamiliar, the purpose or conventions
+     * of the genre, or notable language features and usage choices. Include
+     * only information relevant to this particular text; do not repeat the
+     * passage, its title, or general facts that learners do not need. Keep
+     * these notes distinct from the passage itself and from internal editorial
+     * comments. Do not store comprehension questions, exercises, answers, or
+     * task instructions here. Leave the array empty when no notes are needed.
      */
     'educational_notes' => [],
 
