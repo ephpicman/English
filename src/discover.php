@@ -322,3 +322,56 @@ foreach ($distDirectories as $directory) {
 }
 
 $writeRegistry($markdownsOutputFile, $markdowns);
+
+
+// Render the repository README as the final discovery task, using the
+// statistics persisted to statistics.json as the template's $entry variable.
+$statisticsInputFile = $root . '/statistics.json';
+$statisticsContent = file_get_contents($statisticsInputFile);
+
+if ($statisticsContent === false) {
+    throw new RuntimeException('Could not read entry statistics: ' . $statisticsInputFile);
+}
+
+try {
+    $entry = json_decode($statisticsContent, true, 512, JSON_THROW_ON_ERROR);
+} catch (JsonException $exception) {
+    throw new RuntimeException('Could not decode entry statistics JSON.', 0, $exception);
+}
+
+if (!is_array($entry)) {
+    throw new RuntimeException('Entry statistics must decode to an associative array.');
+}
+
+$readmeTemplateFile = __DIR__ . '/templates/readme.php';
+
+if (!is_file($readmeTemplateFile) || !is_readable($readmeTemplateFile)) {
+    throw new RuntimeException('The README template is missing or unreadable.');
+}
+
+ob_start();
+
+try {
+    (static function (string $file, array $entry): void {
+        require $file;
+    })($readmeTemplateFile, $entry);
+
+    $readmeContent = ob_get_contents();
+
+    if ($readmeContent === false) {
+        throw new RuntimeException('Unable to capture the rendered README content.');
+    }
+} finally {
+    ob_end_clean();
+}
+
+$readmeOutputFile = $root . '/README.md';
+$currentReadmeContent = is_file($readmeOutputFile)
+    ? file_get_contents($readmeOutputFile)
+    : false;
+
+if ($currentReadmeContent !== $readmeContent) {
+    if (file_put_contents($readmeOutputFile, $readmeContent, LOCK_EX) === false) {
+        throw new RuntimeException('Could not write the generated README: ' . $readmeOutputFile);
+    }
+}
