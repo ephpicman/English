@@ -179,10 +179,17 @@ return [
              * Type: array of strings
              * Required: yes
              *
-             * Learner-facing guidance specific to this meaning, such as
-             * register, tone, cultural context, pragmatic effect, restrictions,
-             * common mistakes, or a warning against literal interpretation.
-             * Each item should be a concise, self-contained string.
+             * Learner-facing notes that apply specifically to this meaning. Use these
+             * to explain information not already clear from the definition, examples,
+             * collocations, or grammar_patterns, such as sense-specific grammar,
+             * required or optional complements, restrictions, typical contexts,
+             * register or tone, pragmatic effect, cultural context, regional use,
+             * common learner errors, and differences from listed synonyms or antonyms.
+             * Explain when an expression is unsuitable or likely to be misunderstood,
+             * where relevant. Keep each item concise, self-contained, and actionable;
+             * do not repeat the definition, add more example sentences, or include
+             * editorial instructions. Put guidance that applies across all meanings
+             * in the top-level educational_notes field.
              */
             'educational_notes' => [],
         ],
@@ -194,13 +201,18 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Each item must be one concise, complete grammatical frame, written using
-     * a consistent convention. Use explicit placeholders such as "someone",
-     * "something", or "about something" where the variable parts matter; for
-     * example, "someone spills the beans (about something)". Do not put a bare
-     * fragment whose grammatical role is unclear, and do not use this field as
-     * a duplicate of example sentences. Explain exceptions or sense-specific
-     * differences in educational_notes.
+     * Record the idiom's reusable grammatical frame(s), not example sentences
+     * or explanations. Each item must show how the idiom fits into a sentence,
+     * using explicit placeholders such as "someone", "something", or "about
+     * something" wherever the grammatical role or complement matters. Keep the
+     * wording concise and use the same notation throughout the collection.
+     * Include distinct frames when the idiom has materially different patterns
+     * (for example, different required complements or object placement); do not
+     * list minor variations that do not change its grammatical behaviour.
+     * Patterns may apply to one meaning or several: identify the relevant sense
+     * in the pattern only when needed to prevent ambiguity. Put explanations,
+     * restrictions, exceptions, register guidance, and sense-specific usage
+     * differences in the appropriate educational_notes field, not here.
      */
     'grammar_patterns' => [],
 
@@ -223,10 +235,16 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Notes applying to the idiom as a whole rather than to one meaning.
-     * Use this for overall usage, grammatical behaviour, regional status,
-     * or general learning cautions. Put sense-specific notes in
-     * meanings[*].educational_notes.
+     * Learner-facing notes that apply to the idiom across its meanings rather
+     * than to one particular sense. Use this for overall grammatical behaviour,
+     * general restrictions, broad register or regional status, recurring
+     * pronunciation or usage cautions, and distinctions that remain relevant
+     * across the entry. Keep each item concise, self-contained, and useful for
+     * choosing or using the idiom accurately. Do not repeat definitions,
+     * examples, or sense-specific guidance. Put information that applies only
+     * to one meaning in meanings[*].educational_notes; put reusable sentence
+     * frames in grammar_patterns and explain their restrictions here only when
+     * those restrictions apply across meanings.
      */
     'educational_notes' => [],
 
