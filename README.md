@@ -16,6 +16,10 @@
 ![Reading entries](https://img.shields.io/badge/Reading-0-informational)
 ![Word entries](https://img.shields.io/badge/Word-1-informational)
 
+## Validation status
+
+All discovered entries currently pass validation. If invalid entries appear here in future, please treat correcting them as a priority and follow the [Contributor Guidelines](CONTRIBUTING.md).
+
 A structured collection of English-learning materials, organised by content type and maintained as validated PHP entries.
 
 ## Repository overview
@@ -54,7 +58,8 @@ Learning content is stored as PHP arrays in `db/<type>/`, using the correspondin
 
 The badges above are generated from `statistics.json` each time discovery runs. The statistics include the total number of entry files, counts by type, valid and invalid totals, and the repository-relative paths of invalid entries.
 
-There are currently no invalid entries.
+Invalid-entry paths are listed near the top of this README whenever validation failures are present. These files should be corrected before routine content improvements.
+
 
 ## Adding or editing content
 
