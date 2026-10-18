@@ -344,17 +344,16 @@ function validateEntrySpecificRules(array $entry, string $type): bool
 function validateWordEntry(array $entry): bool
 {
     foreach ($entry['parts_of_speech'] as $part) {
-        if (!in_array($part['part_of_speech'], [
-            'noun', 'verb', 'adjective', 'adverb', 'preposition',
-            'conjunction', 'pronoun', 'determiner', 'interjection',
-        ], true)) {
+        // The schema gives examples rather than a closed list of grammatical
+        // categories, so require a meaningful label without restricting valid
+        // entries to an incomplete hard-coded vocabulary.
+        if (trim($part['part_of_speech']) === '') {
             return false;
         }
     }
 
     return true;
 }
-
 /** @param array $entry @return bool */
 function validateIdiomEntry(array $entry): bool
 {
