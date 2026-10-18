@@ -21,7 +21,7 @@
  * - Replace illustrative placeholders with actual data in completed entries.
  *   Do not treat sample values in this schema as finished content.
  *
- * This file is part of the ephpicman/LearningEnglish project. It is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See the LICENSE file for full details.
+ * This file is part of the ephpicman/English project. It is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See the LICENSE file for full details.
  */
 
 return [
