@@ -75,10 +75,14 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * The complete essay text splited into paragraphes.
-     * Do not add task instructions, questions, or editorial notes.
+     * The complete essay, stored as an ordered array of paragraph strings. Each
+     * array item must contain exactly one paragraph, with its original wording
+     * and internal sentence order preserved. Do not combine separate paragraphs
+     * into one item or split a paragraph across multiple items. Do not include
+     * task instructions, questions, headings that are not part of the essay,
+     * or editorial notes.
      */
-    'content' => '',
+    'content' => [],
 
     /**
      * essay_type
@@ -86,23 +90,35 @@ return [
      * Type: string
      * Required: yes
      *
-     * The essay form. Use exactly one of these controlled values:
-     * - opinion
-     * - discussion
-     * - advantages and disadvantages
-     * - problem and solution
-     * - cause and effect
-     * - two-part question
-     * - argumentative
-     * - discursive
-     * - descriptive
-     * - narrative
-     * - expository
-     * - reflective
+     * The essay's dominant form or rhetorical purpose. Prefer one of these
+     * established labels, choosing the closest fit to the essay as a whole:
+     * - argumentative: advances and supports a clear position or claim
+     * - discussion: examines multiple sides of an issue before reaching a
+     *   conclusion or presenting a balanced judgement
+     * - advantages and disadvantages: weighs benefits against drawbacks
+     * - problem and solution: explains a problem and proposes or assesses
+     *   possible solutions
+     * - cause and effect: explains causes, consequences, or both
+     * - compare and contrast: analyses relevant similarities and differences
+     * - descriptive: presents a detailed description of a person, place,
+     *   object, experience, or scene
+     * - narrative: recounts events in a meaningful sequence
+     * - expository: explains or clarifies a subject using information and
+     *   supporting explanation
+     * - process: explains how something works or how something is done
+     * - analytical: examines parts, patterns, evidence, or relationships to
+     *   explain how or why something works or means what it does
+     * - evaluative: assesses the value, quality, effectiveness, or significance
+     *   of something against relevant criteria
+     * - reflective: explores an experience and the insights or learning drawn
+     *   from it
      *
-     * Use one exact label as written; do not invent synonyms or combine
-     * multiple categories. If a proposed essay does not fit any value,
-     * review the taxonomy before adding it.
+     * These labels are intended to cover common, meaningfully distinct essay
+     * forms, but some overlap is inevitable. Choose one dominant label rather
+     * than combining categories. Prefer these established labels wherever
+     * reasonably applicable; do not invent a new label merely because an essay
+     * combines features of more than one form. If none is a reasonable fit,
+     * flag the taxonomy for review rather than silently adding a value.
      */
     'essay_type' => '',
 
@@ -112,8 +128,17 @@ return [
      * Type: string
      * Required: yes
      *
-     * The dominant register and degree of formality. For academic-style essays, record the
-     * expected academic register rather than labelling it merely formal.
+     * The dominant register and degree of formality. Common values include:
+     * - formal academic
+     * - formal
+     * - semi-formal
+     * - neutral
+     * - informal/personal
+     *
+     * Choose the most accurate concise label for the essay as a whole. For an
+     * academic essay, prefer "formal academic" to the less specific "formal".
+     * Use a consistent label and note any meaningful shifts of register in
+     * educational_notes.
      */
     'register' => '',
 
