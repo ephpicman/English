@@ -21,48 +21,8 @@ jobs:
         with:
           ref: main
 
-      - name: Build schema registry
-        run: |
-          php <<'PHP'
-          <?php
-
-          $root = getcwd();
-          $schemaDirectory = $root . '/db/schema';
-          $files = glob($schemaDirectory . '/*.php');
-
-          if ($files === false) {
-              throw new RuntimeException('Could not list PHP schema files.');
-          }
-
-          sort($files, SORT_STRING);
-
-          $schemas = [];
-
-          foreach ($files as $file) {
-              if (!is_file($file)) {
-                  continue;
-              }
-
-              $type = basename($file, '.php');
-              $checksum = hash_file('sha256', $file);
-
-              if ($checksum === false) {
-                  throw new RuntimeException("Could not calculate checksum for: {$file}");
-              }
-
-              $schemas[$type] = [
-                  'src' => 'db/schema/' . basename($file),
-                  'checksum' => $checksum,
-              ];
-          }
-
-          $content = "<?php\n\nreturn " . var_export($schemas, true) . ";\n";
-          $target = $root . '/build/schema.php';
-
-          if (file_put_contents($target, $content, LOCK_EX) === false) {
-              throw new RuntimeException("Could not write schema registry: {$target}");
-          }
-          PHP
+      - name: Discover schemas
+        run: php src/discover.php
 
       - name: Commit changes if needed
         run: |
