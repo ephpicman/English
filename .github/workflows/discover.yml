@@ -1,0 +1,79 @@
+name: discover
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover-main
+  cancel-in-progress: false
+
+jobs:
+  update-schema:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Build schema registry
+        run: |
+          php <<'PHP'
+          <?php
+
+          $root = getcwd();
+          $schemaDirectory = $root . '/db/schema';
+          $files = glob($schemaDirectory . '/*.php');
+
+          if ($files === false) {
+              throw new RuntimeException('Could not list PHP schema files.');
+          }
+
+          sort($files, SORT_STRING);
+
+          $schemas = [];
+
+          foreach ($files as $file) {
+              if (!is_file($file)) {
+                  continue;
+              }
+
+              $type = basename($file, '.php');
+              $checksum = hash_file('sha256', $file);
+
+              if ($checksum === false) {
+                  throw new RuntimeException("Could not calculate checksum for: {$file}");
+              }
+
+              $schemas[$type] = [
+                  'src' => 'db/schema/' . basename($file),
+                  'checksum' => $checksum,
+              ];
+          }
+
+          $content = "<?php\n\nreturn " . var_export($schemas, true) . ";\n";
+          $target = $root . '/build/schema.php';
+
+          if (file_put_contents($target, $content, LOCK_EX) === false) {
+              throw new RuntimeException("Could not write schema registry: {$target}");
+          }
+          PHP
+
+      - name: Commit changes if needed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add build/schema.php
+
+          if git diff --cached --quiet; then
+            echo "Schema registry is already up to date."
+            exit 0
+          fi
+
+          git commit -m "Update schema registry"
+          git push origin HEAD:main
