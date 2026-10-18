@@ -4,7 +4,7 @@
 
 - **Level:** <?= $entry['language_level'] ?>
 <?php $pronunciations = array_map('trim', explode(',', $entry['pronunciation'])); ?>
-- **Pronunciation (BrE IPA):** <?= implode(', ', array_map(static fn($ipa) => '/' . $ipa . '/', $pronunciations)) ?>
+- **Pronunciation (BrE IPA):** <?= implode(', ', array_map(static fn($ipa) => $ipa, $pronunciations)) ?>
 
 
 <?php foreach ($entry['parts_of_speech'] as $part): ?>
