@@ -1,0 +1,19 @@
+{
+    "total_entries": 1,
+    "entries_by_type": {
+        "collocation": 0,
+        "conversation": 0,
+        "essay": 0,
+        "grammar": 0,
+        "idiom": 0,
+        "letter": 0,
+        "monologue": 0,
+        "phrasal_verb": 0,
+        "proverb": 0,
+        "reading": 0,
+        "word": 1
+    },
+    "valid_entries": 1,
+    "invalid_entries": 0,
+    "invalid_entry_paths": []
+}
