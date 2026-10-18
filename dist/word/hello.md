@@ -1,5 +1,5 @@
 # hello
-- **Level:** A1- **Pronunciation (BrE IPA):** //həˈləʊ//
+- **Level:** A1- **Pronunciation (BrE IPA):** /həˈləʊ/
 
 ## interjection
 
