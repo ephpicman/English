@@ -140,6 +140,13 @@ sort($types, SORT_STRING);
 $previousEntries = $loadRegistry($entriesOutputFile);
 $entries = array_fill_keys($types, []);
 
+// Aggregate entry statistics while validating each discovered PHP entry.
+$totalEntries = 0;
+$entriesByType = array_fill_keys($types, 0);
+$validEntries = 0;
+$invalidEntries = 0;
+$invalidEntryPaths = [];
+
 foreach ($types as $type) {
     $directory = $dbDirectory . '/' . $type;
 
@@ -159,6 +166,9 @@ foreach ($types as $type) {
         if (!is_file($file)) {
             continue;
         }
+
+        $totalEntries++;
+        $entriesByType[$type]++;
 
         $ID = basename($file, '.php');
         $checksum = hash_file('sha256', $file);
@@ -196,7 +206,11 @@ foreach ($types as $type) {
         }
 
         if ($isValid) {
+            $validEntries++;
             saveMarkdown($entry);
+        } else {
+            $invalidEntries++;
+            $invalidEntryPaths[] = 'db/' . $type . '/' . basename($file);
         }
 
         $entries[$type][$ID] = [
@@ -217,6 +231,30 @@ foreach ($types as $type) {
 }
 
 $writeRegistry($entriesOutputFile, $entries);
+
+// Write a stable JSON summary of the discovered entries. Do not include a
+// generation timestamp: doing so would create a new commit on every workflow run.
+$statistics = [
+    'total_entries' => $totalEntries,
+    'entries_by_type' => $entriesByType,
+    'valid_entries' => $validEntries,
+    'invalid_entries' => $invalidEntries,
+    'invalid_entry_paths' => $invalidEntryPaths,
+];
+
+$statisticsJson = json_encode(
+    $statistics,
+    JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE
+);
+
+if ($statisticsJson === false) {
+    throw new RuntimeException('Could not encode entry statistics as JSON.');
+}
+
+$statisticsOutputFile = $root . '/statistics.json';
+if (file_put_contents($statisticsOutputFile, $statisticsJson . "\n", LOCK_EX) === false) {
+    throw new RuntimeException('Could not write entry statistics: ' . $statisticsOutputFile);
+}
 
 // Discover Markdown files only after entries.php has been updated. The
 // registry is grouped by each immediate subdirectory name under dist.
