@@ -187,7 +187,12 @@ foreach ($types as $type) {
             $entry = $loadPhpArray($file);
             $isValid = is_array($entry)
                 && (($entry['type'] ?? null) === $type)
+                && (($entry['ID'] ?? null) === $ID)
                 && validateEntry($entry);
+
+            if ($isValid) {
+                saveMarkdown($entry);
+            }
         } catch (Throwable $exception) {
             $isValid = false;
         }
