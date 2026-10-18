@@ -73,6 +73,7 @@ foreach ($files as $file) {
 }
 
 $content = "<?php\n\nreturn " . var_export($schemas, true) . ";\n";
+$content = preg_replace('/[ \t]+$/m', '', $content);
 
 if (!is_dir(dirname($outputFile))) {
     throw new RuntimeException('The build directory does not exist: ' . dirname($outputFile));
