@@ -16,7 +16,7 @@ $schemaOutputFile = $root . '/build/schema.php';
 $entriesOutputFile = $root . '/build/entries.php';
 $markdownsOutputFile = $root . '/build/markdowns.php';
 
-$now = gmdate('Y-m-d\\\\TH:i:s\\\\Z');
+$now = gmdate('Y-m-d\\TH:i:s\\Z');
 
 /**
  * Load a PHP file in an isolated scope. Parse/runtime errors are handled by
