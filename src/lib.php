@@ -278,7 +278,8 @@ function isEntryList(array $value): bool
  */
 function validateEmptyPrototypeListItem($item, string $type, string $path): bool
 {
-    $field = substr($path, (int) strrpos('.' . $path, '.'));
+    $lastDot = strrpos($path, '.');
+    $field = $lastDot === false ? $path : substr($path, $lastDot + 1);
 
     if ($type === 'conversation' && $field === 'content') {
         return is_array($item)
