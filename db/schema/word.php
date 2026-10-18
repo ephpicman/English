@@ -68,71 +68,20 @@ return [
      * Type: string
      * Required: yes
      *
-     * A broad, standard contemporary British English IPA transcription of the
-     * headword. Include primary stress where relevant and use IPA symbols rather
-     * than respelling the word with ordinary English letters.
+     * One or more broad, standard contemporary British English IPA
+     * transcriptions of the headword, including primary stress where relevant.
+     * Use IPA symbols rather than respelling the word with ordinary English
+     * letters.
      *
-     * Follow one consistent British pronunciation standard throughout the
-     * vocabulary collection. Do not mix British and American transcriptions.
-     * If a headword has materially different British pronunciations, document
-     * the repository's chosen convention consistently rather than improvising
-     * a new format for individual entries.
+     * If the same spelling has more than one established British pronunciation,
+     * record each transcription in this field as a comma-separated list, using
+     * the same order and conventions consistently throughout the collection.
+     * Do not use commas to list minor phonetic or accent-level variations.
+     * Explain the relevant pronunciation distinction in the entry's
+     * learner-facing educational notes so learners can tell when each
+     * pronunciation applies. Do not mix British and American transcriptions.
      */
     'pronunciation' => '',
-
-    /**
-     * word_forms
-     * ----------
-     * Type: associative array with the fixed keys below.
-     * Values: string|null
-     * Required: yes
-     *
-     * Record the relevant inflected or derived form for each grammatical slot.
-     * Use the form itself as a string when it exists and is useful for this
-     * headword; use null when the slot does not apply or no form is recorded.
-     *
-     * Do not remove keys just because they are irrelevant to a particular word.
-     * This fixed structure makes entries consistent and easier to validate.
-     *
-     * plural:
-     *   The plural form of a noun (e.g. "children"). Use null when not applicable.
-     *
-     * third_person_singular:
-     *   The present simple third-person singular form of a verb (e.g. "goes").
-     *   Use null when not applicable.
-     *
-     * past_simple:
-     *   The past simple form of a verb (e.g. "went").
-     *   Use null when not applicable.
-     *
-     * past_participle:
-     *   The past participle form of a verb (e.g. "written").
-     *   Use null when not applicable.
-     *
-     * present_participle:
-     *   The -ing form of a verb (e.g. "writing").
-     *   Use null when not applicable.
-     *
-     * comparative:
-     *   The comparative form of an adjective or adverb where applicable
-     *   (e.g. "smaller" or "more carefully"). Use null when not applicable.
-     *
-     * superlative:
-     *   The superlative form of an adjective or adverb where applicable
-     *   (e.g. "smallest" or "most carefully"). Use null when not applicable.
-     *
-     * These fields are for the listed forms only. Do not repurpose a field for
-     * a different grammatical form.
-     */
-    'word_forms' => [
-        'plural' => null,
-        'third_person_singular' => null,
-        'past_simple' => null,
-        'past_participle' => null,
-        'present_participle' => null,
-        'comparative' => null,
-        'superlative' => null,
-    ],
 
     /**
      * parts_of_speech
@@ -140,10 +89,14 @@ return [
      * Type: list of part-of-speech records.
      * Required: yes
      *
-     * Include one record for each part of speech in which the headword is used.
-     * If a word is both a noun and a verb, for example, represent those uses as
-     * separate records. Do not combine unrelated grammatical behaviour into a
-     * single record.
+     * Include one record for each part of speech in which the headword is
+     * used, such as noun and verb. Keep each record specific to that grammatical
+     * category: its grammatical tags, word forms, meanings, examples, and notes
+     * must describe that use rather than another part of speech.
+     *
+     * If the same part of speech has distinct meanings, keep those meanings
+     * within its meanings list. Create another part-of-speech record only when
+     * the grammatical category differs, not merely because the meaning changes.
      */
     'parts_of_speech' => [
         [
@@ -164,22 +117,86 @@ return [
             'part_of_speech' => '',
 
             /**
+             * word_forms
+             * ----------
+             * Type: associative array with the fixed keys below.
+             * Values: string|null
+             * Required: yes
+             *
+             * Record the grammatical forms that belong to this part of speech,
+             * not forms belonging to another grammatical use of the headword.
+             * Use the form itself as a string when it exists and is relevant;
+             * use null when the slot does not apply or no form is recorded.
+             *
+             * Keep every defined key, even when it is not applicable. The fixed
+             * structure supports consistent entries and validation.
+             *
+             * plural:
+             *   The plural form of this noun. Use null for non-nouns or when
+             *   the noun has no applicable plural form to record.
+             *
+             * third_person_singular:
+             *   The present simple third-person singular form of this verb.
+             *   Use null for non-verbs or when not applicable.
+             *
+             * past_simple:
+             *   The past simple form of this verb. Use null for non-verbs or
+             *   when not applicable.
+             *
+             * past_participle:
+             *   The past participle form of this verb. Use null for non-verbs
+             *   or when not applicable.
+             *
+             * present_participle:
+             *   The -ing form of this verb. Use null for non-verbs or when not
+             *   applicable.
+             *
+             * comparative:
+             *   The comparative form of this adjective or adverb, where
+             *   applicable. Use null for other parts of speech or when not
+             *   applicable.
+             *
+             * superlative:
+             *   The superlative form of this adjective or adverb, where
+             *   applicable. Use null for other parts of speech or when not
+             *   applicable.
+             *
+             * These keys describe only the listed forms. Do not repurpose a
+             * key for another grammatical form or place forms for a different
+             * part of speech in this record.
+             */
+            'word_forms' => [
+                'plural' => null,
+                'third_person_singular' => null,
+                'past_simple' => null,
+                'past_participle' => null,
+                'present_participle' => null,
+                'comparative' => null,
+                'superlative' => null,
+            ],
+
+            /**
              * grammar_tags
              * ------------
              * Type: array of strings
              * Required: yes
              *
-             * A list of concise grammatical labels relevant to this part of
-             * speech. Each label must be a separate array item, not several
-             * labels combined into one pipe-separated string.
+             * A list of short grammatical labels that describe properties or
+             * behaviour of this headword in this part of speech. Put each label
+             * in a separate array item; do not combine several labels into one
+             * pipe-separated string.
              *
-             * Possible labels may include concepts such as "countable",
-             * "uncountable", "plural", or "auxiliary". Use only labels that
-             * are accurate for this part of speech and follow the project's
-             * controlled vocabulary when one is defined.
+             * Use labels for grammatical classification or constraints, such as
+             * "countable", "uncountable", "transitive", "intransitive",
+             * "auxiliary", or "plural-only", only where they accurately apply.
+             * Use one consistent label vocabulary and spelling throughout the
+             * collection. If the project defines a controlled list, follow it;
+             * otherwise use concise, conventional grammatical terms and avoid
+             * introducing near-duplicate labels for the same concept.
              *
-             * Do not put definitions, examples, CEFR levels, or editorial
-             * comments here. An empty array is appropriate when no tag is needed.
+             * Do not put definitions, examples, CEFR levels, register labels, or
+             * editorial comments here. Use an empty array when no useful
+             * grammatical label applies.
              */
             'grammar_tags' => [],
 
@@ -193,9 +210,10 @@ return [
              * into individual records. Do not create duplicate records merely
              * to express small wording differences in the same definition.
              *
-             * Order meanings consistently according to the project's editorial
-             * convention; if no convention exists, use the most common or
-             * pedagogically useful meaning first.
+             * Order meanings by frequency of use, with the most common meaning first.
+             * Apply this criterion consistently; do not move a less common
+             * meaning to the top merely because it is easier to explain or more
+             * relevant to a particular specialist context.
              */
             'meanings' => [
                 [
@@ -252,8 +270,13 @@ return [
                      * the same sense defined above; do not force a technical
                      * example when the meaning does not fit naturally.
                      *
-                     * An empty array is acceptable when no accurate, natural
-                     * professional example is available for this meaning.
+                     * Use examples only when the headword genuinely occurs
+                     * with this meaning in a realistic professional context.
+                     * Do not invent an implausible scenario, force technical
+                     * terminology into the sentence, or adapt an ordinary
+                     * example superficially just to make it sound technical.
+                     * An empty array is preferable when no accurate, natural,
+                     * technically plausible example is available for this sense.
                      */
                     'professional_examples' => [
                         // Programming, IT, software development, or computer science.
@@ -282,15 +305,18 @@ return [
                      * Type: array of strings
                      * Required: yes
                      *
-                     * Words or expressions with a meaning sufficiently close
-                     * to this particular sense to be useful as synonyms.
+                     * Single words or short, established expressions that convey a meaning
+                     * sufficiently close to this particular sense to be useful
+                     * as synonyms. An expression must be genuinely used in
+                     * ordinary, natural English, not coined for the entry or
+                     * assembled as an artificial paraphrase. Keep expressions
+                     * concise: do not include a definition, explanatory phrase,
+                     * or complete sentence.
                      *
                      * Synonyms are not automatically interchangeable in every
-                     * context. Do not list merely related words or near-synonyms
-                     * that would mislead the learner. Where register or nuance
-                     * makes a proposed synonym unsuitable as a general
-                     * replacement, explain the distinction in educational_notes
-                     * rather than implying exact equivalence.
+                     * context. Exclude merely related words and misleading
+                     * near-synonyms. Explain important differences in register
+                     * or nuance in educational_notes where useful.
                      */
                     'synonyms' => [],
 
@@ -300,7 +326,13 @@ return [
                      * Type: array of strings
                      * Required: yes
                      *
-                     * Words with an opposing meaning to this particular sense.
+                     * Single words or short, established expressions that express an opposing
+                     * meaning to this particular sense. Any expression must be
+                     * genuinely used in ordinary, natural English, not invented
+                     * for the entry or phrased as an artificial explanation.
+                     * Keep it concise; do not include a definition, explanatory
+                     * phrase, or complete sentence.
+                     *
                      * Include an antonym only when the opposition is meaningful
                      * and useful. Not every word or sense has a genuine antonym;
                      * an empty array is preferable to an inaccurate one.
