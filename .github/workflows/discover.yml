@@ -14,7 +14,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update-schema:
+  update-registries:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -33,24 +33,25 @@ jobs:
             php -l "$schema"
           done
 
-      - name: Discover schemas
+      - name: Discover schemas and entries
         run: php src/discover.php
 
-      - name: Validate generated registry
+      - name: Validate generated registries
         run: |
           php -l build/schema.php
+          php -l build/entries.php
           git diff --check
 
       - name: Commit changes if needed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add build/schema.php
+          git add build/schema.php build/entries.php
 
           if git diff --cached --quiet; then
-            echo "Schema registry is already up to date."
+            echo "Registries are already up to date."
             exit 0
           fi
 
-          git commit -m "Update schema registry"
+          git commit -m "Update generated registries"
           git push origin HEAD:main
