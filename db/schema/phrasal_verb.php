@@ -172,10 +172,15 @@ return [
      * Type: string
      * Required: yes
      *
-     * Describes whether the phrasal verb takes an object. Use a consistent
-     * controlled value such as "transitive", "intransitive", or "both".
-     * Use "both" only when the same entry genuinely has transitive and
-     * intransitive uses; document sense-specific behaviour in the meanings.
+     * Classifies the phrasal verb's object-taking behaviour across the senses
+     * covered by this entry. Use exactly one value: "transitive" if the entry's
+     * established uses require a direct object; "intransitive" if its established
+     * uses do not take a direct object; or "both" if at least one established
+     * sense is transitive and another is intransitive. Do not treat a complement
+     * introduced by a preposition as a direct object. If behaviour differs by
+     * sense, choose "both" and specify the pattern for each sense in its
+     * educational_notes and, where useful, grammar_patterns. Do not infer
+     * transitivity from the verb alone; assess the complete phrasal verb.
      */
     'transitivity' => '',
 
@@ -185,12 +190,18 @@ return [
      * Type: string
      * Required: yes
      *
-     * Describes whether the verb and particle can be separated by an object.
-     * Use a consistent controlled value such as "separable", "inseparable",
-     * "both", or "not_applicable". For separable transitive phrasal verbs,
-     * explain relevant pronoun placement (e.g. "turn it off", not normally
-     * "turn off it") in educational_notes. Distinguish true particles from
-     * prepositions when determining this value.
+     * Classifies whether a direct object can occur between the verb and its
+     * particle. Use exactly one value: "separable" when the object can occur
+     * between them in the relevant transitive use; "inseparable" when it must
+     * follow the complete verb-particle sequence; "both" only when established
+     * uses of the same entry genuinely permit both patterns; or "not_applicable"
+     * when separation is not relevant, such as an exclusively intransitive use
+     * or a construction whose complement is governed by a preposition rather
+     * than a separable particle. Do not use "both" merely because different
+     * senses have different patterns; explain sense-specific behaviour in the
+     * relevant meanings. For separable transitive uses, state the placement rule
+     * for noun phrases and pronouns in educational_notes (e.g. "turn the light
+     * off" / "turn off the light", but "turn it off", not "turn off it").
      */
     'separability' => '',
 
@@ -296,10 +307,19 @@ return [
              * Type: array of strings
              * Required: yes
              *
-             * Learner-facing notes specific to this sense. Use these for
-             * transitivity, object placement, separability, pronoun position,
-             * register, common errors, or differences from similar expressions.
-             * Each item should be concise and self-contained.
+             * Learner-facing notes that apply specifically to this meaning,
+             * not automatically to every meaning in the entry. Explain details
+             * needed to use this sense accurately that are not already clear
+             * from its definition, examples, collocations, or grammar_patterns.
+             * Include sense-specific transitivity and complement requirements;
+             * whether an object is required, optional, or absent; permitted
+             * object positions and pronoun placement; restrictions on the
+             * construction; typical contexts; register or tone; common learner
+             * errors; and useful distinctions from listed synonyms or antonyms.
+             * Give a short usage rule or contrast when needed, but do not merely
+             * repeat the definition, list extra examples, or restate a general
+             * note that applies equally to the whole phrasal verb. Each item
+             * must be concise, self-contained, and actionable.
              */
             'educational_notes' => [],
         ],
@@ -311,10 +331,20 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Common grammatical frames for the phrasal verb, such as "phrasal verb +
-     * object" or "phrasal verb + prepositional complement". Use clear,
-     * consistent patterns and placeholders where they help. Include only
-     * patterns supported by established usage.
+     * Record the reusable sentence frames licensed by the complete phrasal
+     * verb, not example sentences or prose explanations. Write each distinct
+     * frame as a concise pattern and use explicit, consistent placeholders such
+     * as "someone", "something", "someone to do something", or "something to
+     * someone" to show the grammatical roles and required complements. Include
+     * the particle in its canonical position and show alternative object
+     * positions as separate patterns when both are grammatical (e.g. "turn
+     * something off" and "turn off something"; record pronoun placement rules
+     * in educational_notes). Include a pattern only when supported by
+     * established usage for a meaning in this entry. If patterns differ by
+     * meaning, include each materially different frame and identify its sense
+     * only when needed to avoid ambiguity. Put explanations, restrictions,
+     * exceptions, register, and common errors in the relevant educational_notes,
+     * not in the pattern itself.
      */
     'grammar_patterns' => [],
 
@@ -340,9 +370,18 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Notes that apply to the phrasal verb as a whole, such as general
-     * grammatical behaviour or a recurring usage caution. Put notes that
-     * apply only to one sense in meanings[*].educational_notes.
+     * Learner-facing notes that apply across the entry's meanings, rather than
+     * to only one sense. Use this field for grammatical or usage guidance that
+     * remains true across the entry, recurring restrictions or learner errors,
+     * general register or regional information, and distinctions that are
+     * relevant to the phrasal verb as a whole. Keep each item concise,
+     * self-contained, and useful for choosing or using the expression accurately.
+     * Do not repeat definitions, examples, collocations, or grammar_patterns.
+     * Put any rule that applies only to a particular meaning—including its
+     * transitivity, complement requirements, object placement, or sense-specific
+     * restrictions—in that meaning's educational_notes. Use grammar_patterns
+     * for reusable sentence frames; use educational_notes to explain how,
+     * when, and with what limitations those frames are used.
      */
     'educational_notes' => [],
 
