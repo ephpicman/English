@@ -56,7 +56,7 @@ The badges above are generated from `statistics.json` each time discovery runs. 
 The following entries need attention:
 
 <?php foreach ($invalidEntryPaths as $path): ?>
-- [`<?= $path ?>`](<?= rawurlencode($path) ?>)
+- [`<?= $path ?>`](<?= implode('/', array_map('rawurlencode', explode('/', (string) $path))) ?>)
 <?php endforeach; ?>
 <?php else: ?>
 There are currently no invalid entries.
