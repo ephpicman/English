@@ -6,7 +6,10 @@
 - **Essay type:** <?= $entry['essay_type'] ?>
 - **Register:** <?= $entry['register'] ?>
 
-<?= $entry['content'] ?>
+<?php foreach ($entry['content'] as $paragraph): ?>
+<?= $paragraph ?>
+
+<?php endforeach; ?>
 
 <?php if (!empty($entry['educational_notes'])): ?>
 ## Learning notes
