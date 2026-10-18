@@ -20,6 +20,17 @@ if ($files === false) {
 
 sort($files, SORT_STRING);
 
+$previousSchemas = [];
+
+if (is_file($outputFile)) {
+    $loadedSchemas = require $outputFile;
+
+    if (is_array($loadedSchemas)) {
+        $previousSchemas = $loadedSchemas;
+    }
+}
+
+$now = gmdate('Y-m-d\TH:i:s\Z');
 $schemas = [];
 
 foreach ($files as $file) {
@@ -34,9 +45,30 @@ foreach ($files as $file) {
         throw new RuntimeException('Could not calculate checksum for schema: ' . $file);
     }
 
+    $previous = $previousSchemas[$type] ?? null;
+    $hasPreviousMetadata = is_array($previous)
+        && isset($previous['version'], $previous['discovered_at'], $previous['updated_at']);
+
+    if (!$hasPreviousMetadata) {
+        $version = 1;
+        $discoveredAt = $now;
+        $updatedAt = $now;
+    } elseif (($previous['checksum'] ?? null) !== $checksum) {
+        $version = (int) $previous['version'] + 1;
+        $discoveredAt = $previous['discovered_at'];
+        $updatedAt = $now;
+    } else {
+        $version = (int) $previous['version'];
+        $discoveredAt = $previous['discovered_at'];
+        $updatedAt = $previous['updated_at'];
+    }
+
     $schemas[$type] = [
         'src' => 'db/schema/' . basename($file),
         'checksum' => $checksum,
+        'version' => $version,
+        'discovered_at' => $discoveredAt,
+        'updated_at' => $updatedAt,
     ];
 }
 
