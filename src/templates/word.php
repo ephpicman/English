@@ -3,7 +3,12 @@
 # <?= $entry['ID'] ?>
 
 - **Level:** <?= $entry['language_level'] ?>
-- **Pronunciation (BrE IPA):** /<?= $entry['pronunciation'] ?>/
+<?php $pronunciations = array_map('trim', explode(',', $entry['pronunciation'])); ?>
+- **Pronunciation (BrE IPA):** <?= implode(', ', array_map(static fn($ipa) => '/' . $ipa . '/', $pronunciations)) ?>
+
+
+<?php foreach ($entry['parts_of_speech'] as $part): ?>
+## <?= $part['part_of_speech'] ?>
 
 <?php
 $formLabels = [
@@ -17,8 +22,8 @@ $formLabels = [
 ];
 $availableForms = [];
 foreach ($formLabels as $key => $label) {
-    if ($entry['word_forms'][$key] !== null && $entry['word_forms'][$key] !== '') {
-        $availableForms[] = "**{$label}:** " . $entry['word_forms'][$key];
+    if ($part['word_forms'][$key] !== null && $part['word_forms'][$key] !== '') {
+        $availableForms[] = "**{$label}:** " . $part['word_forms'][$key];
     }
 }
 if ($availableForms !== []):
@@ -26,8 +31,6 @@ if ($availableForms !== []):
 **Word forms:** <?= implode(' · ', $availableForms) ?>
 
 <?php endif; ?>
-<?php foreach ($entry['parts_of_speech'] as $part): ?>
-## <?= $part['part_of_speech'] ?>
 
 <?php if (!empty($part['grammar_tags'])): ?>
 - **Grammar:** <?= implode(', ', $part['grammar_tags']) ?>
@@ -82,3 +85,7 @@ if ($availableForms !== []):
 
 <?php endforeach; ?>
 <?php endif; ?>
+
+---
+
+This file is part of the ephpicman/English project. It is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See the LICENSE file for full details.
