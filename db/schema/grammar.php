@@ -88,7 +88,14 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Reusable grammatical patterns or formulae that describe how the structure is formed. Use concise notation and explain any notation in the explanation field.
+     * An ordered list of reusable grammatical patterns or formulae showing how
+     * the target structure is formed. Each item should normally express one
+     * clearly identifiable pattern, using concise and consistent notation.
+     * Keep patterns structural rather than explanatory: put rules, meanings,
+     * usage conditions, and detailed qualifications in explanation. Define any
+     * symbols or abbreviations in explanation, and represent materially
+     * different structures as separate items. Include only patterns relevant
+     * to the grammar point being taught.
      */
     'grammar_patterns' => [],
 
@@ -98,7 +105,13 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Natural, complete example sentences illustrating the grammar point. Include varied contexts where useful and ensure every example actually demonstrates the target structure.
+     * An ordered list of natural, complete example sentences that clearly
+     * demonstrate the target grammar point. Each item should normally contain
+     * one sentence. Use varied contexts when they clarify differences in form,
+     * meaning, or use; do not add variation merely for its own sake. Include a
+     * short multi-sentence context only when it is necessary to demonstrate the
+     * structure accurately, and ensure the target feature is identifiable.
+     * Examples must be grammatically accurate and natural in British English.
      */
     'examples' => [],
 
