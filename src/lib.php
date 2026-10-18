@@ -452,6 +452,98 @@ function validateOptionalRegister($register): bool
     ], true);
 }
 
+
+/**
+ * Validate an entry, render it as Markdown, and save it under dist/<type>/<ID>.md.
+ *
+ * The destination directory is created recursively when it does not exist.
+ * If the Markdown file already exists and its contents exactly match the newly
+ * rendered output, the file is left untouched. Otherwise, the new content
+ * replaces the old content. A temporary file in the destination directory is
+ * used before renaming, so a failed write is less likely to leave a partial
+ * Markdown file behind.
+ *
+ * The entry must have a supported type and a safe ID that can be used as a
+ * single filename component. Invalid entries raise InvalidArgumentException.
+ * Filesystem failures raise RuntimeException.
+ *
+ * @param array $entry Entry data to validate and save.
+ *
+ * @return bool True if a file was created or changed; false if it was already
+ *              up to date.
+ *
+ * @throws InvalidArgumentException If the entry is invalid or its ID is unsafe.
+ * @throws RuntimeException If the destination cannot be created or written.
+ */
+function saveMarkdown(array $entry): bool
+{
+    if (!validateEntry($entry)) {
+        throw new InvalidArgumentException('Cannot save Markdown for an invalid entry.');
+    }
+
+    $type = $entry['type'];
+    $ID = $entry['ID'];
+
+    // IDs are used as filename components; they must not escape the type folder.
+    if (
+        $ID === ''
+        || trim($ID) === ''
+        || $ID === '.'
+        || $ID === '..'
+        || str_contains($ID, '/')
+        || str_contains($ID, '\\\\')
+        || str_contains($ID, "\\0")
+    ) {
+        throw new InvalidArgumentException('The entry ID is not safe to use as a filename.');
+    }
+
+    $markdown = renderEntry($entry);
+    $directory = dirname(__DIR__) . '/dist/' . $type;
+    $destination = $directory . '/' . $ID . '.md';
+
+    if (!is_dir($directory) && !mkdir($directory, 0775, true) && !is_dir($directory)) {
+        throw new RuntimeException('Unable to create the Markdown output directory: ' . $directory);
+    }
+
+    if (is_file($destination)) {
+        $existingMarkdown = file_get_contents($destination);
+
+        if ($existingMarkdown === false) {
+            throw new RuntimeException('Unable to read the existing Markdown file: ' . $destination);
+        }
+
+        if ($existingMarkdown === $markdown) {
+            return false;
+        }
+    } elseif (file_exists($destination)) {
+        throw new RuntimeException('The Markdown destination exists but is not a regular file: ' . $destination);
+    }
+
+    $temporaryPath = tempnam($directory, '.markdown-');
+
+    if ($temporaryPath === false) {
+        throw new RuntimeException('Unable to create a temporary Markdown file in: ' . $directory);
+    }
+
+    try {
+        $bytesWritten = file_put_contents($temporaryPath, $markdown, LOCK_EX);
+
+        if ($bytesWritten === false || $bytesWritten !== strlen($markdown)) {
+            throw new RuntimeException('Unable to write the complete Markdown content for: ' . $destination);
+        }
+
+        if (!rename($temporaryPath, $destination)) {
+            throw new RuntimeException('Unable to replace the Markdown file: ' . $destination);
+        }
+
+        return true;
+    } finally {
+        if (is_file($temporaryPath)) {
+            unlink($temporaryPath);
+        }
+    }
+}
+
 /**
  * Render an entry with its matching PHP template and return the rendered text.
  *
