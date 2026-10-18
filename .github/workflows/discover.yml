@@ -1,8 +1,9 @@
 name: discover
 
 on:
-  schedule:
-    - cron: '2-59/5 * * * *'
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
