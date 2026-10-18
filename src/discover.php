@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Discover schema and entry files and update their generated registries.
+ * Discover schema, entry, and Markdown files and update their generated registries.
  *
  * This file is part of the ephpicman/English project. It is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). See the LICENSE file for full details.
  */
@@ -11,10 +11,12 @@ require_once __DIR__ . '/lib.php';
 $root = dirname(__DIR__);
 $dbDirectory = $root . '/db';
 $schemaDirectory = $dbDirectory . '/schema';
+$distDirectory = $root . '/dist';
 $schemaOutputFile = $root . '/build/schema.php';
 $entriesOutputFile = $root . '/build/entries.php';
+$markdownsOutputFile = $root . '/build/markdowns.php';
 
-$now = gmdate('Y-m-d\\TH:i:s\\Z');
+$now = gmdate('Y-m-d\\\\TH:i:s\\\\Z');
 
 /**
  * Load a PHP file in an isolated scope. Parse/runtime errors are handled by
@@ -215,3 +217,70 @@ foreach ($types as $type) {
 }
 
 $writeRegistry($entriesOutputFile, $entries);
+
+// Discover Markdown files only after entries.php has been updated. The
+// registry is grouped by each immediate subdirectory name under dist.
+$distDirectories = is_dir($distDirectory)
+    ? glob($distDirectory . '/*', GLOB_ONLYDIR)
+    : [];
+
+if ($distDirectories === false) {
+    throw new RuntimeException('Could not list directories inside dist.');
+}
+
+sort($distDirectories, SORT_STRING);
+$previousMarkdowns = $loadRegistry($markdownsOutputFile);
+$markdowns = [];
+
+foreach ($distDirectories as $directory) {
+    $type = basename($directory);
+    $markdownFiles = glob($directory . '/*.md');
+
+    if ($markdownFiles === false) {
+        throw new RuntimeException('Could not list Markdown files in directory: ' . $directory);
+    }
+
+    sort($markdownFiles, SORT_STRING);
+    $markdowns[$type] = [];
+
+    foreach ($markdownFiles as $file) {
+        if (!is_file($file)) {
+            continue;
+        }
+
+        $ID = basename($file, '.md');
+        $checksum = hash_file('sha256', $file);
+
+        if ($checksum === false) {
+            throw new RuntimeException('Could not calculate checksum for Markdown file: ' . $file);
+        }
+
+        $previous = $previousMarkdowns[$type][$ID] ?? null;
+        $hasPreviousMetadata = is_array($previous)
+            && isset($previous['version'], $previous['discovered_at'], $previous['updated_at']);
+
+        if (!$hasPreviousMetadata) {
+            $version = 1;
+            $discoveredAt = $now;
+            $updatedAt = $now;
+        } elseif (($previous['checksum'] ?? null) !== $checksum) {
+            $version = (int) $previous['version'] + 1;
+            $discoveredAt = $previous['discovered_at'];
+            $updatedAt = $now;
+        } else {
+            $version = (int) $previous['version'];
+            $discoveredAt = $previous['discovered_at'];
+            $updatedAt = $previous['updated_at'];
+        }
+
+        $markdowns[$type][$ID] = [
+            'src' => 'dist/' . $type . '/' . basename($file),
+            'checksum' => $checksum,
+            'version' => $version,
+            'discovered_at' => $discoveredAt,
+            'updated_at' => $updatedAt,
+        ];
+    }
+}
+
+$writeRegistry($markdownsOutputFile, $markdowns);
