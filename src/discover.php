@@ -189,12 +189,12 @@ foreach ($types as $type) {
                 && (($entry['type'] ?? null) === $type)
                 && (($entry['ID'] ?? null) === $ID)
                 && validateEntry($entry);
-
-            if ($isValid) {
-                saveMarkdown($entry);
-            }
         } catch (Throwable $exception) {
             $isValid = false;
+        }
+
+        if ($isValid) {
+            saveMarkdown($entry);
         }
 
         $entries[$type][$ID] = [
