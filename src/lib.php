@@ -491,8 +491,8 @@ function saveMarkdown(array $entry): bool
         || $ID === '.'
         || $ID === '..'
         || str_contains($ID, '/')
-        || str_contains($ID, '\\\\')
-        || str_contains($ID, "\\0")
+        || str_contains($ID, chr(92))
+        || str_contains($ID, chr(0))
     ) {
         throw new InvalidArgumentException('The entry ID is not safe to use as a filename.');
     }
