@@ -220,11 +220,11 @@ foreach ($types as $type) {
             'discovered_at' => $discoveredAt,
             'updated_at' => $updatedAt,
             'is_valid' => $isValid,
-            'last_reviewed_at' => is_array($previous)
-                ? ($previous['last_reviewed_at'] ?? null)
+            'last_selected_at' => is_array($previous)
+                ? ($previous['last_selected_at'] ?? $previous['last_reviewed_at'] ?? null)
                 : null,
-            'review_count' => is_array($previous)
-                ? (int) ($previous['review_count'] ?? 0)
+            'selected_count' => is_array($previous)
+                ? (int) ($previous['selected_count'] ?? $previous['review_count'] ?? 0)
                 : 0,
         ];
     }
