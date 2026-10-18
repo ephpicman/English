@@ -28,6 +28,7 @@ jobs:
         run: |
           php -l src/lib.php
           php -l src/discover.php
+          php -l src/templates/readme.php
 
           for schema in db/schema/*.php; do
             php -l "$schema"
@@ -48,7 +49,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add build/schema.php build/entries.php build/markdowns.php statistics.json
+          git add build/schema.php build/entries.php build/markdowns.php statistics.json README.md
           if [ -d dist ]; then
             git add dist
           fi
