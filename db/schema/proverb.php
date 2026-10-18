@@ -138,10 +138,15 @@ return [
              * Type: array of strings
              * Required: yes
              *
-             * Other proverbs or established sayings that express substantially
-             * the same principle. Prefer expressions that are genuinely
-             * comparable in meaning; do not list merely related sayings or
-             * ordinary words as proverb synonyms.
+             * Established proverbs or conventional sayings that communicate
+             * substantially the same lesson or principle as this meaning.
+             * Include an expression only when the meanings are genuinely
+             * comparable, not merely connected by topic. Do not list single
+             * words, loose paraphrases, or expressions that are interchangeable
+             * only in a narrow context. Keep each item as the recognised wording
+             * of the other saying; explain important differences in scope or
+             * usage in this meaning's educational_notes. An empty array is
+             * preferable when no reliable equivalent is known.
              */
             'synonyms' => [],
 
@@ -151,10 +156,14 @@ return [
              * Type: array of strings
              * Required: yes
              *
-             * Established proverbs or sayings that express a clearly opposing
-             * principle, where such an opposition genuinely exists. An empty
-             * array is preferable to a misleading or artificially constructed
-             * antonym.
+             * Established proverbs or conventional sayings that express a
+             * substantially opposing lesson or principle to this meaning.
+             * Include an item only when the contrast is meaningful and defensible;
+             * do not treat a different viewpoint, a partial exception, or a merely
+             * unrelated saying as an antonym. Do not invent a proverb or use a
+             * single word to fill the field. Explain a useful qualification in
+             * this meaning's educational_notes if the contrast is not exact.
+             * An empty array is preferable when no genuine counterpart exists.
              */
             'antonyms' => [],
 
@@ -164,10 +173,18 @@ return [
              * Type: array of strings
              * Required: yes
              *
-             * Learner-focused notes specific to this meaning, such as
-             * figurative interpretation, appropriate situations, tone,
-             * register, cultural context, or common misuse. Keep each note
-             * self-contained and avoid repeating the definition.
+             * Learner-facing guidance that applies specifically to this
+             * interpretation of the proverb. Explain the intended lesson and
+             * figurative imagery when the definition alone is insufficient;
+             * identify situations in which the saying is appropriate or
+             * inappropriate, its implication or tone in context, and any
+             * meaning-specific cultural assumptions or common misinterpretations.
+             * Use these notes to clarify limits to the advice or principle where
+             * relevant. Do not repeat the definition, add more example sentences,
+             * or duplicate guidance that applies equally to every meaning; put
+             * that shared guidance in the top-level educational_notes. Each item
+             * must be concise, self-contained, and useful for interpreting or
+             * using this meaning accurately.
              */
             'educational_notes' => [],
         ],
@@ -179,11 +196,14 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Recognised wording variants of the same proverb, including established
-     * British forms where relevant. Include only attested variants that
-     * preserve the proverb's identity and meaning. Do not use this field for
-     * paraphrases, translations, or different proverbs with similar meanings.
-     * Keep the ID as the single canonical form chosen for this record.
+     * Established, attested alternative wordings of the same proverb that
+     * retain its identity and substantially the same meaning. Include genuine
+     * lexical or grammatical variants, including recognised British forms
+     * where relevant. Do not include mere paraphrases, translations, shortened
+     * explanations, quotations from a different source, or separate proverbs
+     * that express a similar lesson. Preserve each variant's conventional
+     * wording and keep the ID as the single canonical form selected for this
+     * record. Leave the array empty if no reliable variant is known.
      */
     'variants' => [],
 
@@ -193,12 +213,16 @@ return [
      * Type: string
      * Required: yes
      *
-     * The dominant register or tone of the proverb. Use exactly one of these
-     * controlled values: "neutral", "formal", "informal", "humorous",
-     * "ironic", "sarcastic", "traditional", "literary", "dated",
-     * "regional", "religious", or "offensive". Choose the best overall label
-     * rather than combining categories. If usage varies significantly by
-     * context, explain that in educational_notes. Use the exact value shown.
+     * Choose the single best label for the proverb's usual social or stylistic
+     * character from this controlled list: "neutral", "formal", "informal",
+     * "humorous", "ironic", "sarcastic", "traditional", "literary", "dated",
+     * "regional", "religious", or "offensive". Use the value exactly as written.
+     * Select the dominant characteristic, not every label that could apply in
+     * some context. Here, "register" covers the expression's usual level of
+     * formality, tone, or marked social/cultural character; it is not a rating
+     * of how wise, polite, or true the proverb is. If the label depends strongly
+     * on context, or the proverb has mixed characteristics, choose the most
+     * representative value and explain the qualification in educational_notes.
      */
     'register' => '',
 
@@ -208,10 +232,16 @@ return [
      * Type: array of strings
      * Required: yes
      *
-     * Notes that apply to the proverb as a whole rather than to one meaning.
-     * Use this for general cultural or historical context, overall usage
-     * cautions, or a broad distinction from similar types of expression.
-     * Put meaning-specific guidance in meanings[*].educational_notes.
+     * Learner-facing notes that apply across the proverb's meanings and uses,
+     * rather than to one interpretation only. Use this field for shared cultural
+     * or historical background, the proverb's general conventional status or
+     * origin where reliably known, broad usage cautions, and distinctions from
+     * idioms, quotations, slogans, or similar sayings when these help learners.
+     * Include only information relevant to understanding or using the proverb;
+     * do not add unsupported origin stories, repeat the definition, or duplicate
+     * sense-specific explanations. Put guidance that applies only to one
+     * interpretation in meanings[*].educational_notes. Each item should be
+     * concise, self-contained, and useful to the learner.
      */
     'educational_notes' => [],
 
