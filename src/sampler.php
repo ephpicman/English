@@ -154,7 +154,7 @@ function renderReviewMarkdown(array $sample): string
             $type = $item['type'];
             $ID = $item['ID'];
             $path = 'dist/' . rawurlencode($type) . '/' . rawurlencode($ID) . '.md';
-            $label = str_replace(['\\\\', '[', ']'], ['\\\\\\\\', '\\\\[', '\\\\]'], $ID);
+            $label = str_replace(["\\", '[', ']'], ["\\\\", '\[', '\]'], $ID);
             $lines[] = '- [' . $label . '](' . $path . ') — ' . str_replace('_', ' ', $type);
         }
     }
