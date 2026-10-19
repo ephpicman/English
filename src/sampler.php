@@ -96,6 +96,7 @@ function generateReviewSample(
         $history = is_array($state['history'] ?? null) ? $state['history'] : [];
         $segments = samplerAgeSegments();
         $items = [];
+        $initialCounts = [];
 
         foreach ($segments as $segmentName => $bounds) {
             $segmentCandidates = [];
@@ -136,6 +137,7 @@ function generateReviewSample(
 
                     $key = $type . '/' . $ID;
                     $count = max(0, (int) ($history[$key]['selected_count'] ?? $metadata['selected_count'] ?? 0));
+                    $initialCounts[$key] = $count;
                     $weight = 1 / (1 + $count);
                     $random = max(1.0e-12, random_int(1, PHP_INT_MAX) / PHP_INT_MAX);
                     // Exponential-race key: lower keys are selected first;
@@ -163,7 +165,7 @@ function generateReviewSample(
         // Only successfully assembled samples affect selection history.
         foreach ($items as $item) {
             $key = $item['type'] . '/' . $item['ID'];
-            $previousCount = max(0, (int) ($history[$key]['selected_count'] ?? 0));
+            $previousCount = max(0, (int) ($history[$key]['selected_count'] ?? $initialCounts[$key] ?? 0));
             $history[$key] = [
                 'selected_count' => $previousCount + 1,
                 'last_selected_at' => $now->format('Y-m-d\TH:i:s\Z'),
