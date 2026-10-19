@@ -145,8 +145,8 @@ function renderReviewMarkdown(array $sample): string
                 ], true)
                 || $item['ID'] === ''
                 || str_contains($item['ID'], '/')
-                || str_contains($item['ID'], '\\\\')
-                || str_contains($item['ID'], "\\0")
+                || str_contains($item['ID'], '\\')
+                || str_contains($item['ID'], "\0")
             ) {
                 throw new InvalidArgumentException('Review sample contains an invalid item.');
             }
@@ -159,7 +159,7 @@ function renderReviewMarkdown(array $sample): string
         }
     }
 
-    return implode("\\n", $lines) . "\\n";
+    return implode("\n", $lines) . "\n";
 }
 
 
