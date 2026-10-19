@@ -9,6 +9,10 @@ function samplerAssert(bool $condition, string $message): void
     }
 }
 
+$configQuotas = loadReviewSampleQuotas(__DIR__ . '/../config.ini');
+samplerAssert(($configQuotas['8h-2d']['word'] ?? null) === 3, 'INI words quota was not mapped correctly.');
+samplerAssert(($configQuotas['32d+']['reading'] ?? null) === 1, 'INI segment/type mapping failed.');
+
 $temporaryDirectory = sys_get_temp_dir() . '/english-sampler-test-' . bin2hex(random_bytes(6));
 $stateFile = $temporaryDirectory . '/state.json';
 
