@@ -10,6 +10,16 @@ function samplerAssert(bool $condition, string $message): void
 }
 
 $configQuotas = loadReviewSampleQuotas(__DIR__ . '/../config.ini');
+$renderedReview = renderReviewMarkdown([
+    'generated_at' => '2026-10-19T12:00:00Z',
+    'items' => [
+        ['type' => 'word', 'ID' => 'hello'],
+        ['type' => 'phrasal_verb', 'ID' => 'look after'],
+    ],
+]);
+samplerAssert(str_contains($renderedReview, '[hello](dist/word/hello.md)'), 'Review item must link to its Markdown file.');
+samplerAssert(str_contains($renderedReview, '[look after](dist/phrasal_verb/look%20after.md)'), 'Review link must URL-encode entry IDs.');
+samplerAssert(str_contains(renderReviewMarkdown(['items' => []]), 'No entries are currently eligible'), 'Empty review sample should be explained.');
 samplerAssert(($configQuotas['8h-2d']['word'] ?? null) === 3, 'INI words quota was not mapped correctly.');
 samplerAssert(($configQuotas['32d+']['reading'] ?? null) === 1, 'INI segment/type mapping failed.');
 
