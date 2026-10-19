@@ -109,6 +109,60 @@ function loadReviewSampleQuotas(string $configFile): array
     return $quotas;
 }
 
+
+/**
+ * Render the current review sample as a root-level Markdown checklist.
+ *
+ * Each item links to its generated Markdown entry under dist/<type>/<ID>.md.
+ *
+ * @param array $sample Review sample returned by generateReviewSample().
+ * @return string
+ */
+function renderReviewMarkdown(array $sample): string
+{
+    $generatedAt = is_string($sample['generated_at'] ?? null)
+        ? $sample['generated_at']
+        : 'unknown';
+    $items = is_array($sample['items'] ?? null) ? $sample['items'] : [];
+    $lines = [
+        '# Review',
+        '',
+        'Generated at: ' . $generatedAt . ' (UTC)',
+        '',
+    ];
+
+    if ($items === []) {
+        $lines[] = 'No entries are currently eligible for review.';
+    } else {
+        foreach ($items as $item) {
+            if (
+                !is_array($item)
+                || !is_string($item['type'] ?? null)
+                || !is_string($item['ID'] ?? null)
+                || !in_array($item['type'], [
+                    'word', 'idiom', 'collocation', 'phrasal_verb', 'proverb',
+                    'grammar', 'reading', 'essay', 'letter', 'conversation', 'monologue',
+                ], true)
+                || $item['ID'] === ''
+                || str_contains($item['ID'], '/')
+                || str_contains($item['ID'], '\\\\')
+                || str_contains($item['ID'], "\\0")
+            ) {
+                throw new InvalidArgumentException('Review sample contains an invalid item.');
+            }
+
+            $type = $item['type'];
+            $ID = $item['ID'];
+            $path = 'dist/' . rawurlencode($type) . '/' . rawurlencode($ID) . '.md';
+            $label = str_replace(['\\\\', '[', ']'], ['\\\\\\\\', '\\\\[', '\\\\]'], $ID);
+            $lines[] = '- [' . $label . '](' . $path . ') — ' . str_replace('_', ' ', $type);
+        }
+    }
+
+    return implode("\\n", $lines) . "\\n";
+}
+
+
 /**
  * Return the cached sample, or generate and cache a new one.
  *
