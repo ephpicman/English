@@ -30,6 +30,7 @@ jobs:
           php -l src/discover.php
           php -l src/sampler.php
           php -l tests/sampler_test.php
+          php -r 'require "src/sampler.php"; loadReviewSampleQuotas("config.ini");'
           php tests/sampler_test.php
           php -l src/templates/readme.php
 
