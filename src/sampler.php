@@ -41,6 +41,75 @@ function defaultReviewSampleQuotas(): array
 }
 
 /**
+ * Load review quotas from the root INI configuration.
+ *
+ * INI uses human-readable plural keys and segment-1..segment-6; the sampler
+ * internally uses canonical entry types and age-segment keys.
+ *
+ * @return array<string, array<string, int>>
+ */
+function loadReviewSampleQuotas(string $configFile): array
+{
+    if (!is_file($configFile) || !is_readable($configFile)) {
+        throw new RuntimeException('Review sampler configuration is missing or unreadable: ' . $configFile);
+    }
+
+    $parsed = parse_ini_file($configFile, true, INI_SCANNER_TYPED);
+    if (!is_array($parsed)) {
+        throw new RuntimeException('Could not parse review sampler configuration: ' . $configFile);
+    }
+
+    $segmentNames = [
+        'segment-1' => '8h-2d',
+        'segment-2' => '2d-4d',
+        'segment-3' => '4d-8d',
+        'segment-4' => '8d-16d',
+        'segment-5' => '16d-32d',
+        'segment-6' => '32d+',
+    ];
+    $typeNames = [
+        'words' => 'word',
+        'grammar' => 'grammar',
+        'idioms' => 'idiom',
+        'collocations' => 'collocation',
+        'phrasal_verbs' => 'phrasal_verb',
+        'proverbs' => 'proverb',
+        'readings' => 'reading',
+        'conversations' => 'conversation',
+        'monologues' => 'monologue',
+        'essays' => 'essay',
+        'letters' => 'letter',
+    ];
+
+    $quotas = [];
+    foreach ($segmentNames as $iniSegment => $samplerSegment) {
+        $section = $parsed[$iniSegment] ?? [];
+        if (!is_array($section)) {
+            throw new InvalidArgumentException('Configuration section must contain key/value pairs: ' . $iniSegment);
+        }
+
+        $quotas[$samplerSegment] = [];
+        foreach ($section as $iniType => $value) {
+            if (!isset($typeNames[$iniType])) {
+                throw new InvalidArgumentException('Unknown entry type in ' . $iniSegment . ': ' . $iniType);
+            }
+            if (!is_int($value) || $value < 0) {
+                throw new InvalidArgumentException('Quota must be a non-negative integer for ' . $iniSegment . '/' . $iniType);
+            }
+            $quotas[$samplerSegment][$typeNames[$iniType]] = $value;
+        }
+    }
+
+    foreach ($parsed as $sectionName => $_section) {
+        if (!isset($segmentNames[$sectionName])) {
+            throw new InvalidArgumentException('Unknown review sampler configuration section: ' . $sectionName);
+        }
+    }
+
+    return $quotas;
+}
+
+/**
  * Return the cached sample, or generate and cache a new one.
  *
  * Quotas are specified as $quotas[$segment][$type] = number of entries.
