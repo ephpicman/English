@@ -41,8 +41,8 @@ return array (
       'discovered_at' => '2026-10-18T12:53:42Z',
       'updated_at' => '2026-10-18T12:53:42Z',
       'is_valid' => true,
-      'last_selected_at' => NULL,
-      'selected_count' => 0,
+      'last_selected_at' => '2026-10-19T01:36:30Z',
+      'selected_count' => 1,
     ),
   ),
 );
