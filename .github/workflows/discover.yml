@@ -46,13 +46,14 @@ jobs:
           php -l build/entries.php
           php -l build/markdowns.php
           php -r 'json_decode(file_get_contents("statistics.json"), true, 512, JSON_THROW_ON_ERROR);'
+          php -r 'json_decode(file_get_contents("build/review-sample.json"), true, 512, JSON_THROW_ON_ERROR);'
           git diff --check
 
       - name: Commit changes if needed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add build/schema.php build/entries.php build/markdowns.php statistics.json README.md
+          git add build/schema.php build/entries.php build/markdowns.php build/review-sample.json statistics.json README.md
           if [ -d dist ]; then
             git add dist
           fi
