@@ -29,6 +29,7 @@ jobs:
           php -l src/lib.php
           php -l src/discover.php
           php -l src/sampler.php
+          php -l src/discover.php
           php -l tests/sampler_test.php
           php -r 'require "src/sampler.php"; loadReviewSampleQuotas("config.ini");'
           php tests/sampler_test.php
@@ -54,7 +55,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add build/schema.php build/entries.php build/markdowns.php build/review-sample.json statistics.json README.md
+          git add build/schema.php build/entries.php build/markdowns.php build/review-sample.json statistics.json README.md REVIEW.md
           if [ -d dist ]; then
             git add dist
           fi
