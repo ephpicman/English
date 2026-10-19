@@ -22,6 +22,25 @@ function samplerAgeSegments(): array
 }
 
 /**
+ * Default review quotas, grouped by age segment and entry type.
+ *
+ * These are starting values and can be adjusted without changing the sampler.
+ *
+ * @return array<string, array<string, int>>
+ */
+function defaultReviewSampleQuotas(): array
+{
+    return [
+        '8h-2d' => ['word' => 3, 'grammar' => 1, 'idiom' => 1, 'collocation' => 1, 'phrasal_verb' => 1],
+        '2d-4d' => ['word' => 3, 'grammar' => 1, 'idiom' => 1, 'proverb' => 1],
+        '4d-8d' => ['word' => 2, 'grammar' => 1, 'collocation' => 1, 'phrasal_verb' => 1, 'reading' => 1],
+        '8d-16d' => ['word' => 2, 'grammar' => 1, 'idiom' => 1, 'proverb' => 1, 'conversation' => 1],
+        '16d-32d' => ['word' => 2, 'grammar' => 1, 'collocation' => 1, 'monologue' => 1, 'essay' => 1],
+        '32d+' => ['word' => 2, 'grammar' => 1, 'phrasal_verb' => 1, 'letter' => 1, 'reading' => 1],
+    ];
+}
+
+/**
  * Return the cached sample, or generate and cache a new one.
  *
  * Quotas are specified as $quotas[$segment][$type] = number of entries.
