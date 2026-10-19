@@ -1,6 +1,6 @@
 # Review sampler
 
-`sampler.php` is a reusable PHP sampler for the generated registry in `build/entries.php`. It does not modify generated registry files.
+`sampler.php` provides the review sampler used directly by `src/discover.php`. Each discovery run checks `build/review-sample.json`; a valid four-hour cache is reused without resampling or changing counts. When the cache expires, discovery generates a new sample and persists it in that file.
 
 ## Calling the sampler
 
@@ -22,7 +22,7 @@ $quotas = [
 $sample = generateReviewSample($entries, $quotas, __DIR__ . '/var/sampler-state.json');
 ```
 
-The quota map deliberately contains no default counts: choose the desired number for each content type and age segment before using the sampler. Missing type quotas mean zero.
+`defaultReviewSampleQuotas()` provides the initial per-segment quotas used by discovery. These are practical starting values and can be adjusted in `src/sampler.php`. Missing type quotas mean zero.
 
 ## Behaviour
 
