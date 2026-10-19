@@ -242,6 +242,18 @@ $reviewSample = generateReviewSample(
     $reviewSampleStateFile
 );
 
+$reviewMarkdown = renderReviewMarkdown($reviewSample);
+$reviewMarkdownFile = $root . '/REVIEW.md';
+$currentReviewMarkdown = is_file($reviewMarkdownFile)
+    ? file_get_contents($reviewMarkdownFile)
+    : false;
+
+if ($currentReviewMarkdown !== $reviewMarkdown) {
+    if (file_put_contents($reviewMarkdownFile, $reviewMarkdown, LOCK_EX) === false) {
+        throw new RuntimeException('Could not write the generated review Markdown: ' . $reviewMarkdownFile);
+    }
+}
+
 // Keep the generated entry registry in sync with the persistent global selection
 // history. A cache hit does not change history; only a newly generated sample does.
 $reviewSampleStateContent = file_get_contents($reviewSampleStateFile);
