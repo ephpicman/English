@@ -7,6 +7,7 @@
  */
 
 require_once __DIR__ . '/lib.php';
+require_once __DIR__ . '/sampler.php';
 
 $root = dirname(__DIR__);
 $dbDirectory = $root . '/db';
@@ -229,6 +230,47 @@ foreach ($types as $type) {
         ];
     }
 }
+
+// Generate the review sample as part of discovery. The JSON state is tracked
+// in build/ so it survives separate GitHub Actions runners and push-triggered runs.
+$reviewSampleStateFile = $root . '/build/review-sample.json';
+$reviewSample = generateReviewSample(
+    $entries,
+    defaultReviewSampleQuotas(),
+    $reviewSampleStateFile
+);
+
+// Keep the generated entry registry in sync with the persistent global selection
+// history. A cache hit does not change history; only a newly generated sample does.
+$reviewSampleStateContent = file_get_contents($reviewSampleStateFile);
+
+if ($reviewSampleStateContent === false) {
+    throw new RuntimeException('Could not read review sample state: ' . $reviewSampleStateFile);
+}
+
+try {
+    $reviewSampleState = json_decode($reviewSampleStateContent, true, 512, JSON_THROW_ON_ERROR);
+} catch (JsonException $exception) {
+    throw new RuntimeException('Could not decode review sample state.', 0, $exception);
+}
+
+$selectionHistory = is_array($reviewSampleState['history'] ?? null)
+    ? $reviewSampleState['history']
+    : [];
+
+foreach ($entries as $type => &$typeEntries) {
+    foreach ($typeEntries as $ID => &$metadata) {
+        $historyKey = $type . '/' . $ID;
+        if (!isset($selectionHistory[$historyKey]) || !is_array($selectionHistory[$historyKey])) {
+            continue;
+        }
+
+        $metadata['selected_count'] = (int) ($selectionHistory[$historyKey]['selected_count'] ?? $metadata['selected_count'] ?? 0);
+        $metadata['last_selected_at'] = $selectionHistory[$historyKey]['last_selected_at'] ?? $metadata['last_selected_at'] ?? null;
+    }
+    unset($metadata);
+}
+unset($typeEntries);
 
 $writeRegistry($entriesOutputFile, $entries);
 
