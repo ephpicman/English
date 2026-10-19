@@ -34,4 +34,4 @@ $sample = generateReviewSample($entries, $quotas, __DIR__ . '/var/sampler-state.
 - History and the cached sample live in the writable JSON state file. The state file and its lock file must survive between calls and must not be reset during normal deployments.
 - The state file is runtime data, not a generated registry. Do not commit it.
 
-The sampler is a callable library; it is not invoked by the content-discovery workflow automatically. The application or command that serves review lists should call `generateReviewSample()` when a sample is requested.
+The content-discovery workflow calls `generateReviewSample()` and renders the current sample to the root-level `REVIEW.md`. Every sampled item links to its generated Markdown entry under `dist/<type>/<ID>.md`. The list is refreshed whenever discovery runs; while the sampler's four-hour cache remains valid, the same sample is rendered again.
