@@ -22,7 +22,7 @@ $quotas = [
 $sample = generateReviewSample($entries, $quotas, __DIR__ . '/var/sampler-state.json');
 ```
 
-`defaultReviewSampleQuotas()` provides the initial per-segment quotas used by discovery. These are practical starting values and can be adjusted in `src/sampler.php`. Missing type quotas mean zero.
+`config.ini` in the repository root is the source of truth for the per-segment quotas used by discovery. Edit that file to change counts; the sampler maps `segment-1` through `segment-6` to the six age ranges and plural INI keys (such as `words` and `phrasal_verbs`) to canonical entry types. Missing type quotas mean zero. Quotas must be non-negative integers. `loadReviewSampleQuotas()` validates the file and rejects unknown sections, unknown type names, or invalid values.
 
 ## Behaviour
 
