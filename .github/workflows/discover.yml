@@ -28,6 +28,7 @@ jobs:
         run: |
           php -l src/lib.php
           php -l src/discover.php
+          php -l src/sampler.php
           php -l src/templates/readme.php
 
           for schema in db/schema/*.php; do
