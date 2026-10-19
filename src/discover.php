@@ -234,9 +234,11 @@ foreach ($types as $type) {
 // Generate the review sample as part of discovery. The JSON state is tracked
 // in build/ so it survives separate GitHub Actions runners and push-triggered runs.
 $reviewSampleStateFile = $root . '/build/review-sample.json';
+$reviewConfigFile = $root . '/config.ini';
+$reviewSampleQuotas = loadReviewSampleQuotas($reviewConfigFile);
 $reviewSample = generateReviewSample(
     $entries,
-    defaultReviewSampleQuotas(),
+    $reviewSampleQuotas,
     $reviewSampleStateFile
 );
 
