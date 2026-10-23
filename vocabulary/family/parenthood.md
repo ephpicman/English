@@ -104,5 +104,4 @@ To care for a child and teach them how to behave.
   - Her grandparents helped bring her up.
   - They worked together to **bring up children** who were kind and independent.
   - It takes a community to **bring up a child**.
-  - He was **brought up by** his grandparents in the countryside.
 
