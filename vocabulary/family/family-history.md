@@ -234,3 +234,33 @@ Related by blood.
 - **Register:** Informal to neutral.
 - **Example:** She's very patient—she takes after her mum.
 - **Usage note:** Usually refers to family resemblance, especially personality or appearance.
+
+---
+
+## Practice: Dialogue, Monologue and Reading
+
+### 1. Dialogue: Building a Family Tree
+
+**Ella:** I'm putting together our **family tree**. Do you know who our earliest **ancestor** was?
+
+**Noah:** Grandma has been researching our **ancestry** and **lineage**. She says our **family history** goes back several generations.
+
+**Ella:** Is our **genealogy** complete?
+
+**Noah:** Not yet. A **genealogist** helped us check old records, but we still need to confirm one **lineal descendant** in the records. We also found a **heirloom** that belonged to an **heir** named in an old **will**.
+
+**Ella:** Was there an **inheritance**?
+
+**Noah:** Yes, part of the **estate** was passed down. Some property was **inherited**, but the family's greatest **legacy** was the stories they left us.
+
+**Ella:** Do we all have the same **family resemblance**?
+
+**Noah:** We share some **genetic** traits, but **heredity** isn't the whole story. Our **familial** features are interesting, and we may have **hereditary** traits, but each person is different.
+
+### 2. Monologue: What We Inherit
+
+Researching my family has taught me that inheritance is more than money. Each **generation** leaves a **legacy**, whether through stories, values, possessions, or property. My **ancestors** form part of my **ancestry** and **lineage**, and our **family tree** helps us trace each **lineal descendant**. Some features show a **family resemblance** and may reflect **genetic** inheritance, **heredity**, or **hereditary** characteristics. Other things are cultural: traditions and memories passed down **intergenerationally**. Our **genealogy** project, supported by a professional **genealogist**, has revealed a complicated history, including **consanguinity**—a relationship between people who share an ancestor—and the technical adjective **consanguineous**. We have also learned about **inheritance**, an **heir** and an **heiress**, an old **will**, and the family **estate**. A treasured **heirloom** reminds us that what is **inherited** can carry emotional meaning. Some influences are **generational**, while others are **intergenerational** and connect people across several age groups.
+
+### 3. Reading: Records, Relationships and Inheritance
+
+**Family history** explores the people and events that shaped a family. A **family tree** organises relationships, while **genealogy** is the study of family descent; a **genealogist** researches records to establish **ancestry** and **lineage**. An **ancestor** is someone from whom a person is descended, and a **descendant** is someone who comes later in the line. A **lineal descendant** is connected through a direct line of descent. **Lineal** describes that direct relationship. The word **generation** refers to people born around the same period, and **generational** describes something relating to a particular generation; **intergenerational** describes connections or effects between generations. **Familial** means related to a family. **Biological** and **genetic** describe relationships or characteristics connected with living organisms and genes. **Heredity** is the passing of characteristics from parents to children; **hereditary** means passed down genetically. A **family resemblance** is a similarity in appearance or manner among relatives. **Consanguinity** means a blood relationship, and **consanguineous** describes people related by blood. Property and possessions may also pass between generations: **inheritance** is what is received, to **inherit** is to receive it, and something **inherited** has been received from someone else. An **heir** or **heiress** may be entitled to inherit under a **will**, a legal document describing how a person's **estate** should be distributed. An **heirloom** is a valued object passed down through a family, while a **legacy** can be property, influence, or something lasting left behind.
