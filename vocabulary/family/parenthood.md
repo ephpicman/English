@@ -223,3 +223,37 @@ To care for a child and teach them how to behave.
 - **Register:** Informal to neutral.
 - **Example:** They're trying for a baby, but they haven't told many people.
 - **Nuance:** Useful to understand, but fertility is private; avoid asking people about it unless they raise the subject.
+
+---
+
+## Practice: Dialogue, Monologue and Reading
+
+### 1. Dialogue: Making Family Life Work
+
+**Anna:** Can you stay late today? We need to finish the report.
+
+**Ben:** I'd like to, but I've got to do the school run, and I haven't got childcare sorted for later.
+
+**Anna:** Is your partner working late too?
+
+**Ben:** Yes. We're trying to juggle work and family. My mum can sometimes look after the kids, but we have to plan ahead.
+
+**Anna:** I was brought up by my grandparents for a few years, so I know how much wider family can matter.
+
+**Ben:** Exactly. It takes a village to raise a child. My partner and I co-parent, and we share parental responsibility even when our schedules get hectic.
+
+**Anna:** That's a lot to manage.
+
+**Ben:** It is. Parenting takes patience, whether you're in a two-parent family or a single-parent family. A single parent may have to raise a child alone, while separated parents can still co-parent.
+
+**Anna:** Do you ever babysit for friends?
+
+**Ben:** Sometimes, if we've got our own family commitments sorted first!
+
+### 2. Monologue: What Parenthood Has Taught Me
+
+My **upbringing** shaped the way I think about **parenting**. I was **brought up** in a home where both my **maternal** and **paternal** grandparents played a part in family life. Now that I'm a parent myself, I understand the responsibilities of **fatherhood** and the experience of **motherhood** in a new way. My partner and I try to **raise** our children with kindness and independence; some people use **rear** in a similar sense, although it can sound more formal. We share **parental responsibility**, and we make decisions together. When work gets busy, we have to **juggle work and family**, get childcare sorted, and sometimes ask someone to **look after** the children or **babysit for** us. Our family isn't perfect, but we believe that it takes a village to raise a child. I also know that families take different forms: a **single parent** may raise children without a partner, while separated parents can still **co-parent**. What matters most is that children receive consistent care and are not left with a **neglectful parent** who fails to meet their needs.
+
+### 3. Reading: Parenting Across Different Family Situations
+
+**Parenthood** involves caring for a child and supporting their development. **Parenting** describes the day-to-day process, while **motherhood** and **fatherhood** refer to the experience or state of being a mother or father. **Parental** means related to parents or parenthood; **parental responsibility** refers to the duties and rights involved in caring for a child. **Paternity** concerns being a father, and **maternity** concerns being a mother; these words also appear in expressions such as paternity test, maternity care, and maternity leave. **Paternal** means related to the father or his side of the family, while **maternal** relates to the mother or her side. A child's **upbringing** is the way they are cared for and taught while growing up. To **raise** or **bring up** a child means to care for them as they grow; **rear** has a similar meaning but can sound more formal. A **single parent** raises a child without a partner in the household, and a **single-parent family** is a family organised around one parent. A **two-parent family** has two parents raising the child, though family circumstances differ widely. Parents who share responsibility after separation may **co-parent**. Other family members may **look after** children, **babysit for** parents, or help with the **school run**, an **after-school club**, or **wraparound care**. Parents often need to **juggle work and family**, keep **family commitments** in mind, and make sure they **have childcare sorted**. When children grow up and leave home, a parent may become an **empty nester**. Adults may **start a family** or be **trying for a baby**, but these are personal choices and circumstances. A **neglectful parent** fails to provide necessary care. The proverb **“It takes a village to raise a child”** highlights the value of community support, while **“As the twig is bent, so grows the tree”** suggests that early experiences influence later development—although childhood does not determine a person's future completely.
