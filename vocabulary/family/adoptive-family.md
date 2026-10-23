@@ -3,21 +3,17 @@
 **adoptive parent**: `/əˈdɒptɪv ˈpeərənt/` - `n. [C]`  
 A person who legally becomes the parent of a child through adoption.
   - Her adoptive parents supported her throughout her childhood.
-  - Her adoptive parents gave her a **loving home**.
-  - He stayed in touch with his **adoptive family**.
   - The child was placed with **prospective adoptive parents**.
 
 **biological parent**: `/ˌbaɪəˈlɒdʒɪkl ˈpeərənt/` - `n. [C]`  
 A parent who is biologically related to a child.
   - The child was able to meet her biological parents when she turned eighteen.
   - She wanted to learn about her **biological parents**.
-  - A biological parent may have a different **medical history** from an adoptive parent.
 
 **birth parent**: `/ˈbɜːθ peərənt/` - `n. [C]`  
 A biological parent of an adopted child, especially when distinguishing them from the adoptive parent.
   - The adoption records helped him learn more about his birth parents.
   - The agency helped him contact his **birth parents**.
-  - Some adoptees choose to search for their **birth family**.
 
 **birth mother**: `/ˈbɜːθ mʌðə(r)/` - `n. [C]`  
 A woman who gives birth to a child, especially when the child is later adopted by someone else.
@@ -47,8 +43,6 @@ Having become part of a family through adoption.
 **adoptee**: `/ˌædɒpˈtiː/` - `n. [C]`  
 A person who has been adopted.
   - The adoptee requested access to her original birth records.
-  - The adoptee requested **access to records**.
-  - A support group brought adoptees together to **share experiences**.
 
 **adoption**: `/əˈdɒpʃn/` - `n. [U]`  
 The legal process through which someone becomes the parent of a child who is not their biological child.
