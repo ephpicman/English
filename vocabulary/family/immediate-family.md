@@ -12,10 +12,10 @@ A female parent.
 A male parent.
 
 **mum**: `/mʌm/` - `n. [C]`  
-A mother; an informal British word for mother.
+An informal British word for mother.
 
 **dad**: `/dæd/` - `n. [C]`  
-A father; an informal word for father.
+An informal word for father.
 
 **mummy**: `/ˈmʌmi/` - `n. [C]`  
 An informal word for mother, often used by children.
@@ -24,21 +24,21 @@ An informal word for mother, often used by children.
 An informal word for father, often used by children.
 
 **step-parent**: `/ˈstep peərənt/` - `n. [C]`  
-The husband or wife of your mother or father, who is not your biological parent.
+The husband or wife of your mother or father who is not your biological parent.
 
 **stepmother**: `/ˈstepmʌðə(r)/` - `n. [C]`  
-The wife of your father, who is not your biological mother.
+The wife of your father who is not your biological mother.
 
 **stepfather**: `/ˈstepfɑːðə(r)/` - `n. [C]`  
-The husband of your mother, who is not your biological father.
+The husband of your mother who is not your biological father.
 
 ## Children
 
 **child**: `/tʃaɪld/` - `n. [C]`  
-a son or daughter of any age in relation to their parents.
+A son or daughter of any age in relation to their parents.
 
 **children**: `/ˈtʃɪldrən/` - `n. [pl.]`  
-More than one child.
+The plural of child; more than one son or daughter.
 
 **son**: `/sʌn/` - `n. [C]`  
 A person's male child.
@@ -56,7 +56,7 @@ The son of your husband or wife from an earlier relationship.
 The daughter of your husband or wife from an earlier relationship.
 
 **offspring**: `/ˈɒfsprɪŋ/` - `n. [C, U]`  
-A person's child or children
+A person's child or children.
 
 **progeny**: `/ˈprɒdʒəni/` - `n. [U]`  
 A person's children or descendants; a formal word.
@@ -68,10 +68,10 @@ A child who has no brothers or sisters.
 One of two children born to the same mother at the same time.
 
 **identical twin**: `/aɪˌdentɪkl ˈtwɪn/` - `n. [C]`  
-One of twins who developed from the same fertilized egg and are genetically very similar.
+One of two twins that developed from the same fertilised egg and are genetically almost identical.
 
 **non-identical twin**: `/ˌnɒn aɪˌdentɪkl ˈtwɪn/` - `n. [C]`  
-One of twins who developed from separate eggs and are not genetically identical.
+One of two twins that developed from separate eggs and are not genetically identical.
 
 **triplet**: `/ˈtrɪplət/` - `n. [C]`  
 One of three children born to the same mother at the same time.
@@ -79,8 +79,8 @@ One of three children born to the same mother at the same time.
 **quadruplet**: `/kwɒˈdruːplət/` - `n. [C]`  
 One of four children born to the same mother at the same time.
 
-**multiple**: `/ˈmʌltɪpl/` - `n.`  
-One of two or more children born to the same mother at the same time; usually used in the plural.
+**multiple**: `/ˈmʌltɪpl/` - `n. [C, usually plural]`  
+One of a set of two or more babies born to the same mother at the same time; this meaning is usually used in the plural, multiples.
 
 ## Siblings
 
@@ -94,25 +94,25 @@ A male sibling.
 A female sibling.
 
 **half-brother**: `/ˈhɑːf brʌðə(r)/` - `n. [C]`  
-A brother who has one parent in common with you.
+A brother with whom you share one biological parent.
 
 **half-sister**: `/ˈhɑːf sɪstə(r)/` - `n. [C]`  
-A sister who has one parent in common with you.
+A sister with whom you share one biological parent.
 
 **stepbrother**: `/ˈstepbrʌðə(r)/` - `n. [C]`  
-The son of your step-parent, who is not your biological brother.
+The son of your stepparent who is not your biological brother.
 
 **stepsister**: `/ˈstepsɪstə(r)/` - `n. [C]`  
-The daughter of your step-parent, who is not your biological sister.
+The daughter of your stepparent who is not your biological sister.
 
 **stepsibling**: `/ˈstepsɪblɪŋ/` - `n. [C]`  
 A stepbrother or stepsister.
 
 **sibling rivalry**: `/ˌsɪblɪŋ ˈraɪvəlri/` - `n. [U]`  
-Competition or jealousy between brothers and sisters.
+Competition, jealousy or conflict between brothers and sisters.
 
 **elder**: `/ˈeldə(r)/` - `adj.`  
-Older than someone else, especially within a family.
+Older than another person, especially a brother or sister.
 
 **eldest**: `/ˈeldɪst/` - `adj.`  
-The oldest of the children in a family.
+Older than all the other children in a family.
