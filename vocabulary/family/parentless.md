@@ -26,32 +26,30 @@ The state of being an orphan.
 
 ---
 
----
-
----
-
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: A New Routine
+### 1. Dialogue: After the Funeral
 
-**Mila:** How’s Daniel getting on since he moved in with his aunt?
+**Megan:** Has Oliver been back to school this week?
 
-**Chris:** He’s settling in slowly. He lost both his parents last year, so everything changed at once.
+**Sam:** Not yet. His aunt’s taking him in on Monday. She’s looking after him for now.
 
-**Mila:** Is he staying with his aunt for good?
+**Megan:** I can drop round some food if that would help.
 
-**Chris:** They haven’t decided yet. He’s living with family rather than in an **orphanage**, and she’s getting help with school and appointments.
+**Sam:** That’d be kind. Just don’t feel you have to ask him about what happened. He’s had a lot of people asking questions.
 
-**Mila:** I’m glad he has someone he knows around him.
+**Megan:** Of course. I’ll leave it with his aunt and let him know I’m around if he wants company.
 
-**Chris:** Me too. I think he needs time to talk about **orphanhood** if and when he wants to, rather than have everyone ask him about it.
+**Sam:** I think that’s exactly what he needs.
 
-### 2. Monologue: The Objects We Keep
+### 2. Monologue: What I Remember
 
-When my neighbour lost both parents, she found it hard to decide what to do with their belongings. She kept a chipped mug, a recipe notebook and a coat that still smelled faintly of cedar. None of these things eased her grief completely, but they helped her remember ordinary moments. She told me that people often focus on practical arrangements after a death and forget that grief doesn’t follow a timetable. What helped most was having friends who could listen without expecting her to cheer up or explain everything.
+I was nine when my parents died, and for a long time I thought I was supposed to remember every detail about them. Adults would ask what my mum was like or whether I had any memories of my dad, and I’d feel guilty when I couldn’t answer. My aunt never tested me like that. She kept a few photographs in the sitting room and told stories when they came to her naturally, but she didn’t insist that I sit and listen. Some memories came back years later; others never did. I’ve learnt that grief doesn’t follow a timetable, and neither does remembering. The people who helped most were those who let me be a child as well as someone who’d lost a parent.
 
-### 3. Reading: Support for Children Who Have Lost Parents
+### 3. Reading: The Things No One Knew to Ask
 
-An **orphan** is commonly understood to be a child whose one or both parents have died, although definitions can vary by legal or cultural context. **Orphaned** describes a child who has experienced that loss, and **orphanhood** refers to the condition or experience of being an orphan. The word can carry strong emotional associations, so it is important not to reduce a child to this one circumstance.
+After both of his parents died, fourteen-year-old Oliver went to live with his aunt and uncle. At school, teachers knew what had happened, but most of his classmates did not. Some were kind; others asked questions because they were curious and didn’t know how to start a conversation. Oliver began eating lunch in the library, where nobody expected him to explain why he was quiet.
 
-An **orphanage** is a residential institution for children who have lost their parents or cannot be cared for by them. In many places, children who cannot live with their parents are instead cared for by relatives, foster families or other family-based arrangements where these are safe and suitable. Every child’s circumstances are different: some need help with grief, some need practical stability, and some want to maintain connections with relatives or familiar communities. Adults should avoid assuming what a child remembers, feels or wants to discuss. Sensitive support gives children privacy, reliable care and the opportunity to talk at their own pace.
+His aunt spoke to the school’s pastoral lead, who arranged a regular check-in without making a public announcement. At home, his uncle took over the practical jobs—washing football kit, checking homework and making sure there was something to eat after training. They didn’t try to replace his parents, and they didn’t treat every bad day as a sign that something was wrong. When Oliver eventually asked about an old photograph, his aunt answered what she could and admitted what she didn’t know.
+
+The word **orphan** can describe a child who has lost one or both parents, but it never tells the whole story of that child. Some children live with relatives, some with foster carers, and others in different forms of care. What matters is not the label but whether they have safety, stability and adults who listen. Oliver still missed his parents. He also began to laugh again, make plans with friends and imagine what he might do after school. Those things didn’t mean he had forgotten; they meant his life was still moving forward.
