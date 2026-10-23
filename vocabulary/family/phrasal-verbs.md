@@ -57,40 +57,40 @@ This file contains phrasal verbs with a direct, useful connection to family rela
 
 ## Relationships within a family
 
-### 7. get on with someone
+### 7. take after someone
+- **Meaning:** To resemble a parent or another relative in appearance or personality.
+- **Priority / level:** Core · B1–B2
+- **Register:** Informal to neutral.
+- **Example:** She's very patient—she takes after her mum.
+- **Usage note:** Usually refers to family resemblance, especially personality or appearance.
+
+### 8. get on with someone
 - **Meaning:** To have a friendly or good relationship with a relative.
 - **Priority / level:** Core · B1
 - **Register:** Informal to neutral; especially common in British English.
 - **Example:** I get on really well with my cousins.
 - **Usage note:** “Get along with” is the common equivalent in American English.
 
-### 8. fall out with someone
+### 9. fall out with someone
 - **Meaning:** To have an argument with a relative and become unfriendly.
 - **Priority / level:** Core · B1–B2
 - **Register:** Informal; especially common in British English.
 - **Example:** He fell out with his brother over their father's will.
 - **Usage note:** It describes a disagreement that affects the relationship, not just a brief difference of opinion.
 
-### 9. make up with someone
+### 10. make up with someone
 - **Meaning:** To become friendly again with a relative after an argument.
 - **Priority / level:** Core · B1–B2
 - **Register:** Informal.
 - **Example:** She made up with her sister after they talked things through.
 - **Usage note:** “Make up” alone can have other meanings; “make up with someone” clearly means reconcile.
 
-### 10. cut someone off
+### 11. cut someone off
 - **Meaning:** To stop communicating with or supporting a relative.
 - **Priority / level:** Recognition · B2
 - **Register:** Informal to neutral.
 - **Example:** After years of hurtful arguments, he cut off contact with his uncle.
 - **Usage note:** “Cut someone off” can also mean interrupt them, so context matters. “Cut off contact with” makes the family meaning explicit.
-
-### 11. take someone in
-- **Meaning:** To welcome a relative into your home and provide somewhere to live.
-- **Priority / level:** Recognition · B2
-- **Register:** Neutral.
-- **Example:** Their aunt took them in when they needed somewhere safe to stay.
-- **Usage note:** This meaning overlaps with the family-care entry above, so learn it as one expression rather than as two separate items.
 
 ---
 
