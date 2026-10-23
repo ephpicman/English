@@ -1,8 +1,8 @@
 # Everyday Family Expressions
 
-A curated list of contemporary expressions worth recognising in everyday British English, especially in conversations with other parents, at work, and when communicating with a child's school. The aim is practical comprehension—not rare literary phrases or a catalogue of ordinary vocabulary.
+A curated list of expressions directly relevant to family life, parenting, childcare, school communication, and family relationships in contemporary British English. The aim is practical comprehension—not rare literary phrases or a catalogue of general-purpose expressions.
 
-This file complements `idioms.md` and `proverbs.md`. It focuses on common conversational expressions, indirect language, and phrases whose meaning or tone is useful to understand in context. Entries that are simply basic vocabulary, duplicate another entry, or are already covered in `idioms.md` have been removed.
+This file complements `idioms.md` and `proverbs.md`. It focuses on conversational expressions and indirect language that are especially useful in family and parenting contexts. General-purpose expressions that are not specifically relevant to these topics, basic vocabulary, duplicates, and entries already covered in `idioms.md` have been removed.
 
 **Labels**
 - **Priority:** **Core** = learn to use and understand; **Recognition** = mainly learn to understand.
@@ -112,35 +112,28 @@ This file complements `idioms.md` and `proverbs.md`. It focuses on common conver
 - **Example:** He's finding it hard to juggle work and family while his partner is away.
 - **Nuance:** “Juggle” suggests competing demands that require careful management.
 
-### 15. have a lot on
-- **Meaning:** To have many things to do or deal with.
-- **Priority / level:** Core · B1
-- **Register:** Informal to neutral; common in British English.
-- **Example:** I can't help at the school fair this week; we've got a lot on.
-- **Nuance:** A natural way to say you're busy without listing every commitment.
-
-### 16. have childcare sorted
+### 15. have childcare sorted
 - **Meaning:** To have arranged who will look after a child.
 - **Priority / level:** Core · B1–B2
 - **Register:** Informal; common in British English.
 - **Example:** I can stay late if I've got childcare sorted.
 - **Nuance:** “Sorted” means arranged or dealt with.
 
-### 17. family commitments
+### 16. family commitments
 - **Meaning:** Family responsibilities or plans that affect when someone is available.
 - **Priority / level:** Core · B2
 - **Register:** Neutral to semi-formal.
 - **Example:** I'm afraid I can't attend the evening event because of family commitments.
 - **Nuance:** Useful at work when you want to explain unavailability without sharing private details.
 
-### 18. be an empty nester
+### 17. be an empty nester
 - **Meaning:** To be a parent whose children have grown up and moved out.
 - **Priority / level:** Recognition · B2
 - **Register:** Neutral.
 - **Example:** Now that both children have moved out, they're getting used to being empty nesters.
 - **Nuance:** The transition can feel positive, sad, or mixed.
 
-### 19. be an only child
+### 18. be an only child
 - **Meaning:** To have no brothers or sisters.
 - **Priority / level:** Core · A2
 - **Register:** Neutral.
@@ -151,165 +144,126 @@ This file complements `idioms.md` and `proverbs.md`. It focuses on common conver
 
 ## School, childcare, and coordination
 
-### 20. the school run
+### 19. the school run
 - **Meaning:** The routine of taking children to school or collecting them.
 - **Priority / level:** Core · B1
 - **Register:** Informal to neutral; particularly British English.
 - **Example:** I can't make a meeting at three because I have to do the school run.
 - **Nuance:** Can refer to the morning drop-off, afternoon collection, or both.
 
-### 21. after-school club
+### 20. after-school club
 - **Meaning:** An organised activity or childcare session after the school day.
 - **Priority / level:** Core · B1
 - **Register:** Neutral; common in the UK.
 - **Example:** I've booked her into after-school club on Tuesdays.
 - **Nuance:** Common in school messages and conversations between parents.
 
-### 22. wraparound care
+### 21. wraparound care
 - **Meaning:** Childcare before and/or after normal school hours.
 - **Priority / level:** Recognition · B2
 - **Register:** Neutral to semi-formal; common in UK school administration.
 - **Example:** Does the school offer wraparound care from half past seven?
 - **Nuance:** More likely in school emails, forms, and policies than casual chat.
 
-### 23. be on the waiting list
+### 22. be on the waiting list
 - **Meaning:** To be waiting for an available place or appointment.
 - **Priority / level:** Core · B1
 - **Register:** Neutral.
 - **Example:** We've put his name down, but he's still on the waiting list for nursery.
 - **Nuance:** Used for nurseries, schools, clubs, and appointments.
 
-### 24. keep me posted
-- **Meaning:** Continue giving me updates.
-- **Priority / level:** Core · B1–B2
-- **Register:** Informal to neutral.
-- **Example:** Please keep me posted if anything changes with the school trip.
-- **Nuance:** Friendly and natural. “Please keep me informed” is more formal.
-
-### 25. just a heads-up
-- **Meaning:** A brief advance warning or useful piece of information.
-- **Priority / level:** Core · B1–B2
-- **Register:** Informal.
-- **Example:** Just a heads-up: the school gates will be closed on Friday.
-- **Nuance:** Common in messages and group chats; use “Please note that…” in more formal writing.
-
-### 26. run late
-- **Meaning:** To be later than planned.
-- **Priority / level:** Core · A2
-- **Register:** Neutral.
-- **Example:** I'm running late—could you wait with her for five minutes?
-- **Nuance:** Extremely common when arranging school pick-ups or family plans.
-
-### 27. be held up
-- **Meaning:** To be delayed, often by traffic or an unexpected problem.
-- **Priority / level:** Core · B1
-- **Register:** Neutral.
-- **Example:** I'm held up in traffic, so I'll be ten minutes late for pick-up.
-- **Nuance:** Often implies the delay is not intentional.
-
-### 28. settle in
+### 23. settle in
 - **Meaning:** To become comfortable in a new place, routine, school, or situation.
 - **Priority / level:** Core · B1
 - **Register:** Neutral.
 - **Example:** How's your daughter settling in at her new school?
 - **Nuance:** A natural question to ask after a child starts somewhere new.
 
-### 29. get in touch with the school
+### 24. get in touch with the school
 - **Meaning:** To contact the school.
 - **Priority / level:** Core · A2–B1
 - **Register:** Neutral.
 - **Example:** I'll get in touch with the school to let them know she'll be absent.
 - **Nuance:** A common, natural phrase for school communication.
 
-### 30. touch base with someone
-- **Meaning:** To contact someone briefly to check in or exchange updates.
-- **Priority / level:** Recognition · B2
-- **Register:** Informal to semi-formal; common in work settings.
-- **Example:** I'll touch base with the class teacher after parents' evening.
-- **Nuance:** Some speakers find it business-jargony; “check in with” is often simpler.
-
----
-
-## Relationships and difficult situations
-
-### 31. have a falling-out
+### 25. have a falling-out
 - **Meaning:** To have an argument that damages a relationship.
 - **Priority / level:** Core · B2
 - **Register:** Informal to neutral.
 - **Example:** The sisters had a falling-out over their parents' house.
 - **Nuance:** It may be temporary or long-lasting; the phrase doesn't say whether they later reconciled.
 
-### 32. patch things up
+### 26. patch things up
 - **Meaning:** To improve or repair a relationship after an argument.
 - **Priority / level:** Core · B1–B2
 - **Register:** Informal.
 - **Example:** They've finally patched things up after months of not speaking.
 - **Nuance:** Suggests reconciliation, but not necessarily that every underlying issue has been resolved.
 
-### 33. fall out with someone
+### 27. fall out with someone
 - **Meaning:** To argue and become unfriendly with someone.
 - **Priority / level:** Core · B1–B2
 - **Register:** Informal; especially common in British English.
 - **Example:** I fell out with my brother over something silly, but we're fine now.
 - **Nuance:** In British English, “fall out with” is very natural.
 
-### 34. be on speaking terms
+### 28. be on speaking terms
 - **Meaning:** To be willing to speak to someone, especially after a disagreement.
 - **Priority / level:** Recognition · B2
 - **Register:** Neutral.
 - **Example:** They had a huge argument and are barely on speaking terms.
 - **Nuance:** “Barely on speaking terms” means they speak very little or only when necessary.
 
-### 35. not see eye to eye
+### 29. not see eye to eye
 - **Meaning:** To disagree with someone.
 - **Priority / level:** Core · B2
 - **Register:** Neutral.
 - **Example:** My dad and I don't always see eye to eye on politics.
 - **Nuance:** Disagreement does not necessarily mean the relationship is bad.
 
-### 36. set boundaries
+### 30. set boundaries
 - **Meaning:** To make clear what behaviour you will accept and what limits you need.
 - **Priority / level:** Core · B2
 - **Register:** Neutral to semi-formal; common in contemporary relationship and parenting discussions.
 - **Example:** We've had to set boundaries about relatives dropping by unannounced.
 - **Nuance:** Does not automatically mean cutting someone off; it can simply mean agreeing on limits.
 
-### 37. cut someone off
+### 31. cut someone off
 - **Meaning:** To stop contact with or financial support for someone; it can also mean interrupting a speaker.
 - **Priority / level:** Recognition · B2
 - **Register:** Informal to neutral.
 - **Example:** After years of arguments, she decided to cut her father off.
 - **Nuance:** The exact meaning depends on context.
 
-### 38. be there for someone
+### 32. be there for someone
 - **Meaning:** To support someone emotionally or practically when they need help.
 - **Priority / level:** Core · B1
 - **Register:** Neutral.
 - **Example:** Whatever happens, I'll always be there for you.
 - **Nuance:** Can mean listening, helping, or simply being available.
 
-### 39. lean on someone
+### 33. lean on someone
 - **Meaning:** To rely on someone for emotional or practical support.
 - **Priority / level:** Recognition · B2
 - **Register:** Neutral.
 - **Example:** When things got difficult, she leaned on her sister for support.
 - **Nuance:** “Lean on someone” can also mean put pressure on them, so context matters.
 
-### 40. going through a rough patch
+### 34. going through a rough patch
 - **Meaning:** Experiencing a difficult period, often in a relationship or family life.
 - **Priority / level:** Core · B2
 - **Register:** Neutral to informal.
 - **Example:** They're going through a rough patch, but they're trying to work things out.
 - **Nuance:** Does not necessarily mean a relationship is ending.
 
-### 41. things are a bit up in the air
+### 35. things are a bit up in the air
 - **Meaning:** Plans or circumstances are uncertain and not yet settled.
 - **Priority / level:** Core · B2
 - **Register:** Informal to neutral.
 - **Example:** Our childcare arrangements are a bit up in the air for next week.
 - **Nuance:** A useful way to communicate uncertainty without explaining every detail.
 
-### 42. be estranged from someone
+### 36. be estranged from someone
 - **Meaning:** To have little or no relationship with a relative or someone formerly close, often after a conflict.
 - **Priority / level:** Recognition · B2–C1
 - **Register:** Neutral to semi-formal.
@@ -320,42 +274,42 @@ This file complements `idioms.md` and `proverbs.md`. It focuses on common conver
 
 ## Euphemisms and indirect language
 
-### 43. pass away
+### 37. pass away
 - **Meaning:** A gentle, indirect way to say “die”.
 - **Priority / level:** Core · B1
 - **Register:** Neutral to formal; considerate.
 - **Example:** Her grandfather passed away last winter.
 - **Nuance:** Very common in conversation and messages about bereavement.
 
-### 44. lose someone
+### 38. lose someone
 - **Meaning:** An indirect way to say that someone has died.
 - **Priority / level:** Core · B1
 - **Register:** Neutral, sensitive.
 - **Example:** I'm so sorry to hear you've lost your mum.
 - **Nuance:** Context distinguishes this from other meanings of “lose”.
 
-### 45. no longer with us
+### 39. no longer with us
 - **Meaning:** A euphemism meaning that someone has died.
 - **Priority / level:** Recognition · B2
 - **Register:** Gentle, somewhat formal or ceremonial.
 - **Example:** Her grandparents are no longer with us.
 - **Nuance:** Understand it when you hear or read it, but “passed away” is often more natural in everyday conversation.
 
-### 46. have a bit of a wobble
+### 40. have a bit of a wobble
 - **Meaning:** To become temporarily upset, anxious, uncertain, or overwhelmed.
 - **Priority / level:** Recognition · B2
 - **Register:** Informal; British English.
 - **Example:** He had a bit of a wobble on his first morning at nursery, but he settled quickly.
 - **Nuance:** Mild conversational understatement, not usually a description of a serious mental-health crisis.
 
-### 47. it's been a lot
+### 41. it's been a lot
 - **Meaning:** An understated way to say that a situation has been emotionally or practically demanding.
 - **Priority / level:** Recognition · B2
 - **Register:** Informal to neutral; common in contemporary conversation.
 - **Example:** The last few weeks have been a lot, to be honest.
 - **Nuance:** Often signals that the speaker wants empathy more than advice. The vagueness may be deliberate.
 
-### 48. be trying for a baby
+### 42. be trying for a baby
 - **Meaning:** To be actively trying to conceive a child.
 - **Priority / level:** Recognition · B2
 - **Register:** Informal to neutral.
@@ -366,7 +320,7 @@ This file complements `idioms.md` and `proverbs.md`. It focuses on common conver
 
 ## How to use this list
 
-- **Learn actively first:** “start a family”, “settle down”, “be expecting”, “a close-knit family”, “be a handful”, “go through a phase”, “the school run”, “keep me posted”, “run late”, “fall out with”, “patch things up”, and “be there for someone”.
+- **Learn actively first:** “start a family”, “settle down”, “be expecting”, “a close-knit family”, “be a handful”, “go through a phase”, “the school run”, “fall out with”, “patch things up”, and “be there for someone”.
 - **Prioritise recognition:** more formal, specialised, or emotionally sensitive expressions. You do not need to force every phrase into your own speech.
 - **Mind the context:** questions about pregnancy, fertility, family conflict, and parenting choices can be intrusive even when the English is perfectly natural.
 - **Keep the categories distinct:** this file focuses on practical contemporary expressions; see `idioms.md` for established idioms and `proverbs.md` for traditional sayings.
