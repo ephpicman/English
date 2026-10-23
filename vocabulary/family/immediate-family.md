@@ -254,38 +254,28 @@ Older than all the other children in a family.
 
 ---
 
----
-
----
-
----
-
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Who’s Picking Up the Children?
+### 1. Dialogue: Who’s Picking Up the Kids?
 
-**Mum:** Can you pick up your sister after football?
+**Rachel:** Can you pick up the kids on Thursday? I’ve got to stay late.
 
-**Dad:** Yes, but I’ll have to bring the little ones with me.
+**Tom:** I can’t. It’s my mum’s hospital appointment, and my sister can’t take her.
 
-**Mum:** That’s fine. Is Jamie staying with his dad this weekend?
+**Rachel:** Right. I’ll ask my brother. He’s their uncle, so they’ll be thrilled if he turns up with chips again.
 
-**Dad:** Yes. He’s my **stepson**. The twins will be here, though, so the house will be noisy.
+**Tom:** Could you ask him to bring their PE kits as well? They’ve got football after school.
 
-**Mum:** Are they still getting mixed up at school?
+**Rachel:** I’ll text him now. We really need to stop making plans on the morning they’re supposed to happen.
 
-**Dad:** All the time. They’re **identical twins**, and even their new teacher struggles sometimes.
+**Tom:** Agreed. Let’s sit down tonight and sort out next week.
 
-**Mum:** And your brother’s daughter is coming for tea, isn’t she?
+### 2. Monologue: The Person Who Kept Us Together
 
-**Dad:** Yes, my **niece**. She and our **eldest** daughter get on well, even if they have the odd argument.
+After my parents split up, my older sister became the person who remembered everything: permission slips, birthdays, which day Dad was collecting us. She was only seventeen, and she shouldn’t have had to carry so much of it. Mum was doing her best, and Dad was trying to get settled in a new flat, but we were all so caught up in our own feelings that we didn’t notice how much she was doing. Years later, she told us she’d been exhausted and angry. I wish we’d asked her sooner. We’re close now, but I’ve learnt that being someone’s immediate family doesn’t mean you automatically know what they need. Sometimes you have to ask.
 
-### 2. Monologue: Growing Up as an Only Child
+### 3. Reading: Christmas, Divided Three Ways
 
-I was an **only child**, so I used to envy friends who had a **brother** or **sister** to talk to at home. When my cousins visited, the house suddenly felt full: a pair of twins, three younger children and a noisy baby. My parents—Mum and Dad, or **Mummy** and **Daddy** when I was small—made sure I spent time with other children, but they never tried to turn my cousins into siblings. Now I’m older, I realise that every family has its own rhythm. Some children grow up with half-siblings or step-siblings; others are the only child in their household.
+The first Christmas after their separation, Mark and Helen tried to keep everything as normal as possible for their children. Their daughter wanted breakfast at Mum’s and dinner at Dad’s; their son wanted to stay in his pyjamas and avoid the whole discussion. Mark’s parents were disappointed that they wouldn’t see the children until Boxing Day, while Helen’s brother offered to drive them between houses. By Christmas Eve, everyone had a different plan and nobody was speaking clearly.
 
-### 3. Reading: Words for Children and Siblings
-
-A person’s **immediate family** often includes their parents, children and siblings, though definitions vary by context. **Mother**, **father**, **mum**, **dad**, **mummy** and **daddy** differ in formality and family preference. A **step-parent** is the partner or spouse of a child’s parent who is not the child’s biological parent; a **stepmother** and **stepfather** are the specific terms. A **stepchild**, **stepson** or **stepdaughter** is the child of one’s partner. A **stepbrother**, **stepsister** or **stepsibling** is connected through a step-parent relationship. A **half-brother** or **half-sister** shares one biological parent.
-
-**Sibling** is a general word for a brother or sister. **Elder** and **eldest** describe someone older or the oldest in a group, although “older” is more common in everyday conversation. An **only child** has no siblings. Twins may be **identical** or **non-identical**; a **triplet** is one of three children born in the same pregnancy, and a **quadruplet** is one of four. **Multiple** can describe a pregnancy involving more than one baby. **Offspring** and **progeny** mean a person’s children or descendants, but they sound more formal or scientific than “children”. **Sibling rivalry** refers to competition or conflict between siblings. **The little ones** is an affectionate, informal way to refer to young children. The saying “You can choose your friends, but you can’t choose your family” is often used when relatives are difficult; it does not mean anyone has to accept harmful behaviour.
+In the end, Helen suggested they stop trying to recreate the old routine. The children would spend Christmas morning with her and the afternoon with Mark, then alternate the main day the following year. The grandparents could have their own lunch with the children later in the week. It wasn’t exactly what anyone had imagined, but the children no longer felt responsible for keeping the adults happy. Their immediate family had changed shape, and the wider family had to adjust too. The useful thing wasn’t pretending nothing had changed; it was making a plan that everyone could understand.
