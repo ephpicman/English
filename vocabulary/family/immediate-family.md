@@ -6,31 +6,24 @@
 A person's mother or father.
   - Each parent was invited to the school meeting.
   - Both parents attended the **parent-teacher meeting**.
-  - She has **parental responsibility** for the child.
 
 **mother**: `/ˈmʌðə(r)/` - `n. [C]`  
 A female parent.
   - His mother works at the local hospital.
   - She is a **single mother** of two.
-  - His mother gave him **maternal support**.
 
 **father**: `/ˈfɑːðə(r)/` - `n. [C]`  
 A male parent.
   - Her father taught her to swim.
   - He is a **proud father** of three.
-  - Her father took **paternity leave**.
 
 **mum**: `/mʌm/` - `n. [C]`  
 An informal British word for mother.
   - Mum is picking me up after school.
-  - Mum made my **packed lunch**.
-  - I called Mum on the **way home**.
 
 **dad**: `/dæd/` - `n. [C]`  
 An informal word for father.
   - Dad made pancakes for breakfast.
-  - Dad picked me up **after school**.
-  - I asked Dad for **permission**.
 
 **mummy**: `/ˈmʌmi/` - `n. [C]`  
 An informal word for mother, often used by children.
@@ -47,19 +40,16 @@ An informal word for father, often used by children.
 **step-parent**: `/ˈstep peərənt/` - `n. [C]`  
 The husband or wife of your mother or father who is not your biological parent.
   - Her step-parent helped her settle into the new school.
-  - A step-parent can play an **important role** in a child's life.
   - The school invited all **parents and step-parents**.
 
 **stepmother**: `/ˈstepmʌðə(r)/` - `n. [C]`  
 The wife of your father who is not your biological mother.
   - His stepmother welcomed him into her home.
-  - His stepmother treated him **like her own son**.
   - She went on holiday with her **stepmother and father**.
 
 **stepfather**: `/ˈstepfɑːðə(r)/` - `n. [C]`  
 The husband of your mother who is not your biological father.
   - Her stepfather taught her how to drive.
-  - Her stepfather gave her **practical advice**.
   - She lives with her mother and **stepfather**.
 
 ## Children
@@ -92,18 +82,15 @@ A person's female child.
 The child of your husband or wife from an earlier relationship.
   - He treats his stepchild with the same care as his own children.
   - He has a good relationship with his **stepchild**.
-  - She treats her **stepchildren fairly**.
 
 **stepson**: `/ˈstepsʌn/` - `n. [C]`  
 The son of your husband or wife from an earlier relationship.
   - Her stepson came to stay during the summer holidays.
-  - Her stepson came for **Sunday lunch**.
   - He has become close to his **stepson**.
 
 **stepdaughter**: `/ˈstepdɔːtə(r)/` - `n. [C]`  
 The daughter of your husband or wife from an earlier relationship.
   - He helped his stepdaughter prepare for her exams.
-  - His stepdaughter is **getting married** next month.
   - She helped her **stepdaughter with homework**.
 
 **offspring**: `/ˈɒfsprɪŋ/` - `n. [C, U]`  
@@ -133,32 +120,24 @@ One of two children born to the same mother at the same time.
 **identical twin**: `/aɪˌdentɪkl ˈtwɪn/` - `n. [C]`  
 One of two twins that developed from the same fertilised egg and are genetically almost identical.
   - Although she is an identical twin, I can tell her apart from her sister.
-  - An identical twin shares **nearly identical DNA** with the other twin.
   - She is an **identical twin sister**.
 
 **non-identical twin**: `/ˌnɒn aɪˌdentɪkl ˈtwɪn/` - `n. [C]`  
 One of two twins that developed from separate eggs and are not genetically identical.
   - The non-identical twins have different eye colours and look quite different.
-  - Non-identical twins can be **different sexes**.
-  - The non-identical twins have **different genetic profiles**.
 
 **triplet**: `/ˈtrɪplət/` - `n. [C]`  
 One of three children born to the same mother at the same time.
   - One triplet was born slightly smaller than the other two.
-  - The triplets were born **three minutes apart**.
-  - One triplet needed **extra medical care**.
 
 **quadruplet**: `/kwɒˈdruːplət/` - `n. [C]`  
 One of four children born to the same mother at the same time.
   - The quadruplet was one of four babies born that morning.
-  - The quadruplets were born **prematurely**.
-  - Each quadruplet had a **separate cot**.
 
 **multiple**: `/ˈmʌltɪpl/` - `n. [C, usually plural]`  
 One of a set of two or more babies born to the same mother at the same time; this meaning is usually used in the plural, multiples.
   - The hospital has a specialist team to support parents of multiples.
   - The clinic specialises in **multiple births**.
-  - Parents of multiples often need **extra support**.
 
 ## Siblings
 
@@ -166,7 +145,6 @@ One of a set of two or more babies born to the same mother at the same time; thi
 A brother or sister.
   - Each sibling received a copy of the photograph.
   - She has two **older siblings**.
-  - The siblings share a **bedroom**.
 
 **brother**: `/ˈbrʌðə(r)/` - `n. [C]`  
 A male sibling.
@@ -196,12 +174,10 @@ A sister with whom you share one biological parent.
 The son of your stepparent who is not your biological brother.
   - Her stepbrother joined the family after their parents married.
   - He went camping with his **stepbrother**.
-  - She and her stepbrother became **good friends**.
 
 **stepsister**: `/ˈstepsɪstə(r)/` - `n. [C]`  
 The daughter of your stepparent who is not your biological sister.
   - My stepsister and I share a room when we visit our father.
-  - Her stepsister joined the **family holiday**.
   - He lives with his mother, stepfather and **stepsister**.
 
 **stepsibling**: `/ˈstepsɪblɪŋ/` - `n. [C]`  
