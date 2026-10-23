@@ -63,13 +63,13 @@ An informal word for aunt.
 **uncle**: `/ˈʌŋkl/` - `n. [C]`  
 The brother of your mother or father, or the husband of your aunt.
 
-## Sibling's children
+## Sibling's Children
 
 **niece**: `/niːs/` - `n. [C]`  
-The daughter of your brother or sister, or of your brother-in-law or sister-in-law.
+The daughter of your brother or sister; it can also refer to the daughter of your spouse's sibling.
 
 **nephew**: `/ˈnefjuː/` - `n. [C]`  
-The son of your brother or sister, or of your brother-in-law or sister-in-law.
+The son of your brother or sister; it can also refer to the son of your spouse's sibling.
 
 ## Cousins
 
@@ -77,7 +77,7 @@ The son of your brother or sister, or of your brother-in-law or sister-in-law.
 A child of your aunt or uncle.
 
 **first cousin**: `/ˌfɜːst ˈkʌzn/` - `n. [C]`  
-A child of your aunt or uncle.
+A child of your aunt or uncle; a cousin who shares a grandparent with you.
 
 **second cousin**: `/ˌsekənd ˈkʌzn/` - `n. [C]`  
-A child of your parent's cousin.
+A person who shares a great-grandparent with you, typically the child of your parent's first cousin.
