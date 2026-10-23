@@ -59,30 +59,30 @@ Related to adoption or describing a person or family that adopts a child.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Talking About Adoption
+### 1. Dialogue: A Question After School
 
-**Maya:** Is Daniel your biological son?
+**Leah:** Mum, we’re doing a family-tree project. Do I put my birth parents on it, too?
 
-**Ruth:** No, he's our adopted son. We became his **adoptive parents** when he was three.
+**Mum:** You can, if you want to. We can include the people who are part of your story.
 
-**Maya:** Do you know anything about his **birth parents**?
+**Leah:** I know you and Dad are my parents. I was just wondering what to write.
 
-**Ruth:** We know a little about his **birth mother** and **birth father**. We want him to understand his background, but we'll let him decide when he's ready to talk about it.
+**Mum:** That makes sense. We became your **adoptive parents** through **adoption**, but that doesn’t mean you have to ignore your **biological parents**. We know a little about your **birth mother** and **birth father**, and we can look at the information together.
 
-**Maya:** That sounds thoughtful. How does Daniel feel about being an **adoptee**?
+**Leah:** Could we ask the agency for the letter again?
 
-**Ruth:** He's comfortable with the word **adopted**, and we talk openly about **adoption**. We explain that to **adopt** a child is to become their legal parent, but it doesn't erase their earlier story.
+**Mum:** Of course. We’ll do it when you feel ready. Being **adopted** is one part of your life, not the whole of who you are.
 
-**Maya:** And “**adoptive**” describes the family relationship, right?
+**Leah:** Okay. I’ll ask my teacher if I can make the tree a bit differently.
 
-**Ruth:** Exactly. He's part of our family in every way that matters.
+### 2. Monologue: The First Meeting
 
-### 2. Monologue: Our Family Story
+I still remember the morning we met our daughter. We had spent months preparing to **adopt**—attending meetings, completing checks and learning what the **adoption process** would involve. By the time the placement was approved, we knew that becoming an **adoptive** family would bring joy as well as uncertainty. We didn’t expect our child to feel close to us immediately, and we tried not to treat every quiet day as a problem. Trust grew through ordinary things: breakfast at the same table, stories before bed, and showing up when we said we would. We learned that a family is built over time, not completed by a single legal decision.
 
-When my partner and I decided to **adopt**, we spent a long time learning what adoption involves. Becoming **adoptive parents** was not a quick decision; we wanted to be ready to support a child emotionally as well as practically. Our son is **adopted**, and we make sure he knows that being an **adoptee** is one part of his story, not his whole identity. We respect what we know about his **biological parents**, including his **birth mother** and **birth father**, and we answer his questions honestly. For us, **adoption** created a family while still leaving room for him to be curious about his origins.
+### 3. Reading: Records, Consent and Identity
 
-### 3. Reading: Understanding Adoption
-
-**Adoption** is the legal process through which a person becomes the parent of a child who is not their biological child. An **adoptive parent** assumes parental rights and responsibilities, while a **biological parent** is related to the child by birth. The terms **birth mother** and **birth father** specifically refer to the child's parents by birth and are often used when discussing a child's background. A child who has been adopted may be called an **adoptee**. The adjective **adoptive** describes a relationship created through adoption, as in “adoptive family.” Families use different approaches when talking about adoption, but open, age-appropriate conversations can help children understand their personal histories without feeling that they must choose between their birth connections and their adoptive family.
+Adoption records may contain information about a child’s early life, but access to them depends on the law and the circumstances of the adoption. An **adoptee** may become curious about their origins at different ages; some want detailed information, while others prefer to wait. If contact with **birth parents** is possible, it should be handled with appropriate support and respect for everyone’s privacy. Adults should avoid promising that records will answer every question or assuming that a child must want contact. **Adoption services** can explain the available options, including how to request records and how to approach sensitive information. The most helpful conversations leave room for mixed feelings and let the adopted person set the pace.
