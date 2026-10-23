@@ -8,34 +8,28 @@ A person who is legally responsible for caring for a child or another person who
 
 ---
 
----
-
----
-
----
-
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: After the Hearing
+### 1. Dialogue: The Permission Form
 
-**Rosa:** How did the hearing go?
+**Aisha:** The school trip form says it needs a parent or guardian’s signature. Can you sign it?
 
-**Ben:** All right, I think. The court has appointed my aunt as my cousin’s **guardian**.
+**Uncle:** I can, if I’m authorised to do so. Let me check the letter from the court.
 
-**Rosa:** So she can deal with school forms and things like that now?
+**Aisha:** I thought you were my legal guardian already.
 
-**Ben:** Yes, within the powers she’s been given. He’s been living with her for months; now she can sort out the practical matters more easily.
+**Uncle:** I am, but schools sometimes need a copy of the order for their records. I’ll email the office.
 
-**Rosa:** That must be a relief for them both.
+**Aisha:** Sorry. I just don’t want to miss the trip.
 
-**Ben:** It is. At least everyone knows who’s responsible for what.
+**Uncle:** You won’t. We’ll get it sorted before Friday.
 
-### 2. Monologue: Learning to Be the Responsible Adult
+### 2. Monologue: Learning to Sign My Own Forms
 
-When my sister asked me to help care for her son during a difficult period, I realised that being there for him involved more than making sure he had dinner and got to school on time. I needed to understand who could give permission for school trips, how medical appointments were arranged and whom to contact if plans changed. Becoming his **legal guardian** meant finding out exactly what I was authorised to do and where I needed professional advice. I kept important documents together and made sure he knew which adults he could turn to if he felt worried. The paperwork mattered, but so did making home feel steady and familiar.
+When my aunt became my legal guardian, I was eleven and mainly cared about whether I could still go to football on Saturdays. The adults talked about court orders, school records and who was allowed to make decisions for me. I understood very little of it. What I did notice was that my aunt started keeping a folder for every important document, and she always explained what she was signing before she signed it. As I got older, she let me handle more of the phone calls and appointments myself. By the time I left for college, I knew where my papers were and who to contact if something went wrong. She’d taken on the legal responsibility, but she’d also helped me learn to manage my own life.
 
-### 3. Reading: What Guardianship Means
+### 3. Reading: A Decision Made in a Hurry
 
-A **guardian** is a person legally responsible for the care of a child or, in some circumstances, another person who cannot fully manage their own affairs. A **legal guardian** may be appointed by a court or through another process recognised by the relevant law. The exact powers and duties vary by jurisdiction and by the terms of the appointment, so the word alone does not explain every decision a guardian can make.
+After her father became seriously ill, fourteen-year-old Lucy went to live with her aunt. Everyone agreed it was the safest arrangement, but the practical details were less simple. The school needed to know who could collect her, the hospital needed a contact person, and the bank would not discuss certain matters with someone who had no legal authority. Lucy’s aunt applied to become her guardian and asked a solicitor to explain which decisions she could make.
 
-**Guardianship** may involve arranging education, consenting to certain forms of care, managing practical matters or protecting a person’s interests. It is not automatically the same as adoption, and it does not necessarily mean the guardian is the person’s biological parent. Families considering guardianship should seek guidance from the relevant court, public authority or qualified legal professional. In everyday conversation, people may say that someone has “taken responsibility” for a child, but formal guardianship has specific legal implications.
+The process took time, and it was difficult having so many private family matters written down in official documents. Still, clear arrangements helped Lucy know what would happen if her aunt had to speak to the school or approve medical care. Guardianship did not erase Lucy’s relationship with her father, nor did it mean that every decision could be made without considering her wishes. As she put it later, what mattered was knowing who would stand up for her when things became confusing. Legal authority can be important, but for a child it is most reassuring when it comes with consistency, honesty and someone who listens.
