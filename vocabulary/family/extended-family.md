@@ -129,3 +129,33 @@ A child of your aunt or uncle; a cousin who shares a grandparent with you.
 A person who shares a great-grandparent with you, typically the child of your parent's first cousin.
   - At the reunion, I met a second cousin whose great-grandparents were also mine.
   - They are **second cousins on their mother's side**.
+
+---
+
+## Practice: Dialogue, Monologue and Reading
+
+### 1. Dialogue: A Family Reunion
+
+**Lena:** Is your **grandmother** coming to the reunion?
+
+**Tom:** Yes. My **grandma**, or **granny** as we call her, is coming with my **grandfather**. I usually call him **grandad**, though my cousins say **grandpa**.
+
+**Lena:** And who's the little boy with them?
+
+**Tom:** That's my **grandson**? No, sorry—my **grandchild** is my daughter's baby; this is my **nephew**, my sister's son. My **niece** is coming too.
+
+**Lena:** I always get those relationships mixed up! Are your **aunt** and **uncle** coming?
+
+**Tom:** Yes. My **auntie** Sarah and **uncle** Mark will be there, along with my **cousin** Ella. She's my **first cousin**. We also invited a **second cousin** from the other side of the family.
+
+**Lena:** Will the **great-grandparents** be there?
+
+**Tom:** One **great-grandmother** and one **great-grandfather** are hoping to come. The youngest children might meet a **great-grandparent** for the first time.
+
+### 2. Monologue: Three Generations Together
+
+Family gatherings help me stay connected to relatives of different ages. My **grandparents**—my **grandmother** and **grandfather**—have always been important to me. We use affectionate names such as **grandma**, **granny**, **grandad**, and **grandpa** in our family. My siblings bring their **children**, so my **nieces** and **nephews** can play together, while my **aunts**, **uncles**, and **cousins** catch up. I have a **first cousin** who feels almost like a sibling and a **second cousin** I see less often. At larger reunions, several generations may meet, from a **great-grandmother** or **great-grandfather** to a **great-grandchild**. My **grandson** and **granddaughter** are still young, but I hope they'll value these connections as they grow up.
+
+### 3. Reading: Mapping the Extended Family
+
+Your **extended family** includes relatives beyond parents, children, and siblings. A **grandparent** is the parent of your mother or father; a **grandmother** and **grandfather** are often called **grandma**, **granny**, **grandad**, or **grandpa**. Their children may be your **aunt** or **uncle**. An aunt or uncle's child is your **cousin**; a **first cousin** usually shares grandparents with you, while a **second cousin** usually shares great-grandparents. Your sibling's daughter is your **niece**, and your sibling's son is your **nephew**. Your child's child is your **grandchild**, whether a **grandson** or **granddaughter**. A **great-grandparent** is one generation above a grandparent, and a **great-grandchild**, **great-grandson**, or **great-granddaughter** is one generation below a grandchild. These terms make it easier to describe family relationships across several generations.
