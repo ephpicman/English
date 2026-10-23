@@ -45,30 +45,32 @@ The sister of your husband or wife, or the wife of your sibling.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: The Sunday Lunch Plan
+### 1. Dialogue: Sunday Lunch
 
-**Emma:** Are we still having lunch at your parents’ house?
+**Emma:** Are we still having lunch at your parents’ house on Sunday?
 
-**Noah:** Yes. My **mother-in-law** has already started cooking, apparently.
+**Noah:** Yes. Mum’s already planning the menu.
 
-**Emma:** I’ll bring dessert. Is your brother coming?
+**Emma:** Shall I bring pudding? Is your brother coming as well?
 
-**Noah:** My **brother-in-law**, you mean—my sister’s husband. My actual brother is away this weekend.
+**Noah:** My brother’s away, but my **brother-in-law** is coming—my sister’s husband.
 
-**Emma:** Right! And your sister-in-law is bringing the children?
+**Emma:** Oh, lovely. Is your **sister-in-law** bringing the children?
 
-**Noah:** Yes. After lunch, we’re going to call my daughter and her husband. He’s our **son-in-law** now, which still sounds strange to me.
+**Noah:** Yes. And our daughter and her husband are coming later. I still find it odd calling him our **son-in-law**.
 
-**Emma:** You’ll get used to it. I’ll text your **father-in-law** to ask what time we should arrive.
+**Emma:** You’ll get used to it. I’ll ring your dad to check what time he wants us there.
 
 ### 2. Monologue: The First Holiday Together
 
-Our first holiday with my spouse’s family was a little awkward, mostly because we all had different habits. My **father-in-law** liked to plan every journey in advance, while my **mother-in-law** preferred to decide after breakfast. My **sister-in-law** and I found common ground over hiking, and my **brother-in-law** was brilliant at keeping the children entertained. We didn’t become instantly close, but by the end of the week we had learned how to give one another space and still enjoy being together. That mattered more than agreeing on everything.
+Our first holiday with my partner’s family was a little awkward, mostly because we all had different habits. My **father-in-law** liked to plan every journey in advance, while my **mother-in-law** preferred to decide after breakfast. My **sister-in-law** and I found common ground over walking, and my **brother-in-law** was brilliant at keeping the children entertained. We didn’t become close overnight, but by the end of the week we’d learned how to give one another space and still enjoy being together. That mattered more than agreeing on everything.
 
 ### 3. Reading: In-law Terms and Old Expectations
 
-**In-laws** are relatives connected through marriage or a spouse’s family. Your spouse’s mother is your **mother-in-law**, and their father is your **father-in-law**. Your spouse’s sister may be called your **sister-in-law**, and your spouse’s brother your **brother-in-law**. These same two terms can also describe the spouse of your own sibling, which is why context is sometimes needed. The husband of your child is your **son-in-law**, and the wife of your child is your **daughter-in-law**.
+**In-laws** are relatives connected through marriage or a spouse’s family. Your spouse’s mother is your **mother-in-law**, and their father is your **father-in-law**. Your spouse’s sister may be called your **sister-in-law**, and your spouse’s brother your **brother-in-law**. These last two terms can also describe the spouse of your own sibling, so context sometimes matters. The husband of your child is your **son-in-law**, and the wife of your child is your **daughter-in-law**.
 
-Older sayings about in-laws often reveal the expectations of the society in which they were used. For example, “A son is a son till he gets him a wife; a daughter’s a daughter all her life” suggests that a married son may become more attached to his wife’s family, while a daughter remains loyal to her own. It is an old-fashioned, gendered view, not a rule about modern families. People’s relationships depend on personalities, circumstances and how they treat one another—not simply on whether they are a son, daughter, spouse or in-law.
+Older sayings about in-laws often reveal the expectations of the society in which they were used. “A son is a son till he gets him a wife; a daughter’s a daughter all her life” suggests that a married son may become more attached to his wife’s family, while a daughter remains loyal to her own. It is an old-fashioned, gendered view, not a rule about modern families. People’s relationships depend on personalities, circumstances and how they treat one another—not simply on whether someone is a son, daughter, spouse or in-law.
