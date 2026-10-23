@@ -226,34 +226,28 @@ To care for a child and teach them how to behave.
 
 ---
 
----
-
----
-
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Sorting Out Childcare
+### 1. Dialogue: The Nursery Call
 
-**Sophie:** Have you booked the after-school club for Thursday?
+**Nadia:** The nursery’s just rung. Leo’s got a temperature, so they need someone to collect him.
 
-**Mark:** Not yet. I need to check whether they offer **wraparound care** on the day I’m on an early shift.
+**Chris:** I’m on the train to Leeds. Can you get away?
 
-**Sophie:** I can do the **school run** in the morning, but I’ve got a meeting at three.
+**Nadia:** I’ve got a client meeting in twenty minutes. I’ll ask Mum, but she’s already looking after the twins this afternoon.
 
-**Mark:** I’ll ask my sister to **look after** them until I get home.
+**Chris:** I can call my manager and see if I can come back early. We can’t keep relying on your mum every time something happens.
 
-**Sophie:** Good idea. I’ll check the club can take them on Friday as well, then we’ll have **childcare sorted** for the week.
+**Nadia:** I know. Let’s get through today, then sort out a better plan tonight.
 
-**Mark:** Thanks. We’re both trying to **juggle work and family** at the moment. I don’t want to leave it all until the last minute again.
+**Chris:** Right. I’ll ring the nursery and let them know we’re arranging collection.
 
-### 2. Monologue: What I Learned from My Upbringing
+### 2. Monologue: The Advice I Didn’t Need
 
-I grew up in a two-parent family, but my grandparents were just as important in my **upbringing**. My **maternal** grandmother taught me to cook, while my **paternal** grandfather showed me how to fix things. Now that I’m a parent, I understand that **motherhood** and **fatherhood** are less about knowing all the answers and more about being willing to learn. My partner and I try to **raise** our children with patience. Some people say **rear** or **bring up** children; the meaning is similar, though “rear” can sound more formal. We don’t always get it right, but we try to put things right when we make mistakes.
+Before our daughter was born, everyone had advice about parenting. My dad said children needed firm boundaries; my sister said to trust my instincts; a neighbour gave me a book that promised to solve sleep problems in a week. Once the baby arrived, I discovered that none of them could tell me why she cried at half past two or why she suddenly hated the pram she’d loved the day before. My partner and I made plenty of mistakes. What helped was taking turns, admitting when we were exhausted and asking for help before we reached breaking point. I still value advice, but I’ve stopped treating every confident opinion as a rule. Bringing up a child is less like following a manual and more like learning a person.
 
-### 3. Reading: Parenthood, Care and Family Circumstances
+### 3. Reading: A Different Kind of Co-Parenting
 
-**Parenthood** is the state or experience of being a parent; **parenting** is the day-to-day work of caring for and guiding a child. **Parental** is the adjective used for matters related to parents, including **parental responsibility**, rights and consent. **Paternity** concerns being a father, while **maternity** concerns being a mother and appears in expressions such as maternity leave and maternity care. A **single parent** raises a child without a partner sharing the day-to-day parenting role; a **single-parent family** is organised around one parent. A **two-parent family** has two parents, although family structures and responsibilities vary. Parents who are separated may still **co-parent**, sharing decisions and care.
+When Lucy and Ben separated, their son was six. They were hurt and often struggled to talk without revisiting the reasons their relationship had ended. Even so, they agreed that their son shouldn’t have to carry messages between them. They used a shared calendar for school events, medical appointments and the school run, and kept arguments away from handovers. It wasn’t perfect: once, Ben turned up at the wrong time, and Lucy sent a furious message before checking the calendar. They apologised and changed the system.
 
-To **raise** or **bring up** a child is to care for them as they grow; **rear** is a similar, somewhat more formal verb. A **neglectful parent** fails to provide the care a child needs. Other adults may **take care of** children, **babysit for** a parent or **look after** them for a short time. Parents may **juggle work and family**, manage **family commitments**, arrange an **after-school club** or **wraparound care**, and make sure they **have childcare sorted**. The **school run** means taking children to or collecting them from school. **Bring someone along** means to take that person with you, as in “You can bring the children along to the picnic.” When children leave home, their parents may become **empty nesters**. Adults may talk about wanting to **start a family** or **trying for a baby**, but these are personal matters and shouldn’t be assumed or pressed.
-
-The saying **“It takes a village to raise a child”** highlights the role of community support. **“As the twig is bent, so grows the tree”** suggests that early experiences influence later character, though they do not determine a person’s future. These sayings are useful to recognise, but neither should be treated as a complete theory of child development.
+Their arrangement showed that co-parenting doesn’t require parents to be friends. It requires them to put the child’s needs first and communicate reliably. Grandparents and after-school club staff helped with practical care, but decisions about school and health stayed with the parents. A familiar saying goes, **“It takes a village to raise a child.”** For Lucy and Ben, that didn’t mean handing responsibility to everyone else; it meant accepting support rather than pretending they could manage every problem alone. Their son didn’t need a flawless arrangement. He needed adults who kept their promises and put things right when they got them wrong.
