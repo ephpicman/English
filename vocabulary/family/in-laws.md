@@ -13,7 +13,7 @@ The husband of your daughter.
 The wife of your son.
 
 **brother-in-law**: `/ˈbrʌðər ɪn lɔː/` - `n. [C]`  
-The brother of your husband or wife, or the husband of your sister.
+The brother of your husband or wife, or the husband of your sibling.
 
 **sister-in-law**: `/ˈsɪstər ɪn lɔː/` - `n. [C]`  
-The sister of your husband or wife, or the wife of your brother.
+The sister of your husband or wife, or the wife of your sibling.
