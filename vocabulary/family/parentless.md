@@ -26,22 +26,30 @@ The state of being an orphan.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Supporting a Child
+### 1. Dialogue: A New Routine
 
-**Marta:** I heard that Leo became **orphaned** last year. Who's caring for him now?
+**Mila:** How’s Daniel doing since he moved in with his aunt?
 
-**David:** His aunt has become his **guardian**. He isn't living in an **orphanage**; he's staying with relatives.
+**Chris:** He’s settling in slowly. He was **orphaned** last year, so everything changed at once.
 
-**Marta:** That must be a difficult time for him.
+**Mila:** Is he living with her permanently?
 
-**David:** It is. Losing a parent can shape a child's experience of **orphanhood**, but children who are **orphans** need more than a place to live—they need stability, understanding, and support.
+**Chris:** They’re still working that out. He doesn’t live in an **orphanage**; his aunt has made a room for him and is getting help with school and appointments.
 
-### 2. Monologue: Growing Up Without Parents
+**Mila:** I’m glad he has someone he knows around him.
 
-A child who becomes **orphaned** may face grief as well as practical changes in daily life. The word **orphan** commonly describes a child whose one or both parents have died, although usage varies across contexts. **Orphanhood** refers to the state or experience of being an orphan. In the past, some children lived in an **orphanage**, but today care arrangements vary and may include relatives, foster families, or other suitable caregivers. What matters is that children receive safety, continuity, and emotional support rather than being defined only by their loss.
+**Chris:** Me too. I think he needs time to talk about **orphanhood** when he’s ready, not have everyone ask him about it.
 
-### 3. Reading: Orphanhood and Care
+### 2. Monologue: The Objects We Keep
 
-An **orphan** is commonly understood as a child whose one or both parents have died, though definitions can differ between legal, cultural, and everyday contexts. **Orphaned** is the adjective or past participle used to describe a child who has lost a parent or parents. **Orphanhood** refers to the condition or experience of being an orphan. An **orphanage** is an institution that houses children who cannot live with their parents; care systems in many places have shifted toward family-based or community arrangements where appropriate. The needs of an orphaned child are individual and may include grief support, stable caregiving, education, and help maintaining safe relationships with relatives. The term describes a circumstance, not the child's identity or potential.
+When my neighbour lost both parents, she found it hard to decide what to do with their belongings. She kept a chipped mug, a recipe notebook and a coat that still smelled faintly of cedar. None of these things solved her grief, but they gave her a way to remember ordinary moments. She told me that people sometimes focus on practical arrangements after a death and forget that grief doesn’t follow a timetable. What helped most was having friends who could listen without expecting her to be cheerful or to explain everything.
+
+### 3. Reading: Support for Children Who Have Lost Parents
+
+An **orphan** is commonly understood as a child whose one or both parents have died, although legal and cultural definitions may differ. **Orphaned** describes a child who has experienced that loss, and **orphanhood** refers to the condition or experience of being an orphan. The word can carry strong emotional associations, so it is important not to reduce a child to this one circumstance.
+
+An **orphanage** is a residential institution for children who have lost their parents or cannot be cared for by them. In many places, care arrangements have shifted toward relatives, foster families or other family-based settings where these are safe and suitable. Each child’s needs are different: some need help with grief, some need practical stability, and some may want to preserve connections with relatives or familiar communities. Adults should avoid making assumptions about what a child remembers, feels or wants to discuss. Sensitive support gives children privacy, reliable care and the opportunity to talk at their own pace.
