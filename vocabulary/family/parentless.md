@@ -28,28 +28,30 @@ The state of being an orphan.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
 ### 1. Dialogue: A New Routine
 
-**Mila:** How’s Daniel doing since he moved in with his aunt?
+**Mila:** How’s Daniel getting on since he moved in with his aunt?
 
-**Chris:** He’s settling in slowly. He was **orphaned** last year, so everything changed at once.
+**Chris:** He’s settling in slowly. He lost both his parents last year, so everything changed at once.
 
-**Mila:** Is he living with her permanently?
+**Mila:** Is he staying with his aunt for good?
 
-**Chris:** They’re still working that out. He doesn’t live in an **orphanage**; his aunt has made a room for him and is getting help with school and appointments.
+**Chris:** They haven’t decided yet. He’s living with family rather than in an **orphanage**, and she’s getting help with school and appointments.
 
 **Mila:** I’m glad he has someone he knows around him.
 
-**Chris:** Me too. I think he needs time to talk about **orphanhood** when he’s ready, not have everyone ask him about it.
+**Chris:** Me too. I think he needs time to talk about **orphanhood** if and when he wants to, rather than have everyone ask him about it.
 
 ### 2. Monologue: The Objects We Keep
 
-When my neighbour lost both parents, she found it hard to decide what to do with their belongings. She kept a chipped mug, a recipe notebook and a coat that still smelled faintly of cedar. None of these things solved her grief, but they gave her a way to remember ordinary moments. She told me that people sometimes focus on practical arrangements after a death and forget that grief doesn’t follow a timetable. What helped most was having friends who could listen without expecting her to be cheerful or to explain everything.
+When my neighbour lost both parents, she found it hard to decide what to do with their belongings. She kept a chipped mug, a recipe notebook and a coat that still smelled faintly of cedar. None of these things eased her grief completely, but they helped her remember ordinary moments. She told me that people often focus on practical arrangements after a death and forget that grief doesn’t follow a timetable. What helped most was having friends who could listen without expecting her to cheer up or explain everything.
 
 ### 3. Reading: Support for Children Who Have Lost Parents
 
-An **orphan** is commonly understood as a child whose one or both parents have died, although legal and cultural definitions may differ. **Orphaned** describes a child who has experienced that loss, and **orphanhood** refers to the condition or experience of being an orphan. The word can carry strong emotional associations, so it is important not to reduce a child to this one circumstance.
+An **orphan** is commonly understood to be a child whose one or both parents have died, although definitions can vary by legal or cultural context. **Orphaned** describes a child who has experienced that loss, and **orphanhood** refers to the condition or experience of being an orphan. The word can carry strong emotional associations, so it is important not to reduce a child to this one circumstance.
 
-An **orphanage** is a residential institution for children who have lost their parents or cannot be cared for by them. In many places, care arrangements have shifted toward relatives, foster families or other family-based settings where these are safe and suitable. Each child’s needs are different: some need help with grief, some need practical stability, and some may want to preserve connections with relatives or familiar communities. Adults should avoid making assumptions about what a child remembers, feels or wants to discuss. Sensitive support gives children privacy, reliable care and the opportunity to talk at their own pace.
+An **orphanage** is a residential institution for children who have lost their parents or cannot be cared for by them. In many places, children who cannot live with their parents are instead cared for by relatives, foster families or other family-based arrangements where these are safe and suitable. Every child’s circumstances are different: some need help with grief, some need practical stability, and some want to maintain connections with relatives or familiar communities. Adults should avoid assuming what a child remembers, feels or wants to discuss. Sensitive support gives children privacy, reliable care and the opportunity to talk at their own pace.
