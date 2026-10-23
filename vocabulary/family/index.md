@@ -89,7 +89,6 @@ All the people who live together in one home.
 The power or right to make decisions and exercise control within a family.
   - Family authority was traditionally held by the oldest man in their community.
   - Parents sometimes need to **exercise family authority** to set boundaries.
-  - They often discuss the **distribution of authority** within a family.
 
 **relative**: `/ˈrelətɪv/` - `n. [C]`  
 A person who is related to you by blood or marriage.
