@@ -3,7 +3,7 @@
 **generation**: `/ˌdʒenəˈreɪʃn/` - `n. [C]`  
 All the people born or living around the same time, especially within a family or society.
   - Each generation in the family has lived in a different city.
-  - the **younger generation** is more comfortable with technology.
+  - The **younger generation** is more comfortable with technology.
   - There is a **generation gap** between them.
   - The tradition has been passed down **from generation to generation**.
 
