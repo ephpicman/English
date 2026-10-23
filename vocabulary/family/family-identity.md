@@ -15,8 +15,6 @@ A woman's family name before she marries, especially if she changes it after mar
 **birth name**: `/ˈbɜːθ neɪm/` - `n. [C]`  
 The name a person was given at birth.
   - The actor later changed his birth name.
-  - The singer performs under a **stage name**, not her birth name.
-  - His birth name appears on the **official documents**.
 
 **family name**: `/ˈfæməli neɪm/` - `n. [C]`  
 A surname shared by members of a family.
@@ -28,7 +26,6 @@ A surname shared by members of a family.
 A personal name given to someone at birth or baptism, in addition to their family name.
   - Her given name is Elizabeth, but everyone calls her Liz.
   - Please enter your **given name** first.
-  - His given name is **different from his nickname**.
 
 **namesake**: `/ˈneɪmseɪk/` - `n. [C]`  
 A person who has the same name as someone else, especially someone they are named after.
