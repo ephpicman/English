@@ -227,7 +227,7 @@ Older than all the other children in a family.
 - **Example:** The two brothers are **cut from the same cloth**: both are cautious, private, and fiercely independent.
 - **Caution:** It can be approving or critical depending on the qualities being described.
 
-## Proverbs
+## Proverbs and Proverbial Saying
 
 **Children are a blessing.**
 - **Meaning:** Children can bring great joy and value to a family.

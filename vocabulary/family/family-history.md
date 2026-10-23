@@ -228,7 +228,7 @@ Related by blood.
 
 ## Phrasal Verbs
 
-take after someone
+**take after someone**
 - **Meaning:** To resemble a parent or another relative in appearance or personality.
 - **Priority / level:** Core · B1–B2
 - **Register:** Informal to neutral.

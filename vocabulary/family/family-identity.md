@@ -56,7 +56,7 @@ A person who has the same name as someone else, especially someone they are name
 - **Example:** He was **born with a silver spoon in his mouth**, so he never had to worry about paying university fees.
 - **Caution:** Often carries criticism or resentment; avoid it if you want to sound completely neutral.
 
-## Proverbs
+## Proverbs and Proverbial Saying
 
 **Blood is thicker than water.**
 - **Meaning:** Traditionally, family relationships are stronger or more important than other relationships.

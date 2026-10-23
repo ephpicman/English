@@ -105,7 +105,7 @@ To care for a child and teach them how to behave.
   - They worked together to **bring up children** who were kind and independent.
   - It takes a community to **bring up a child**.
 
-## Proverbs
+## Proverbs and Proverbial Saying
 
 **It takes a village to raise a child.**
 - **Meaning:** Raising a child successfully requires support from a wider community, not only the parents.
@@ -113,6 +113,13 @@ To care for a child and teach them how to behave.
 - **Use:** Common in discussions of parenting, education, childcare, and community support.
 - **Example:** The neighbours, teachers, and grandparents all help the children thrive; it really takes a village to raise a child.
 - **Caution:** Often associated with African-origin communal wisdom, but the exact origin and attribution are not straightforward. Use it to emphasise shared support, not to undermine parents’ role.
+
+**As the twig is bent, so grows the tree.**
+- **Meaning:** A child’s early upbringing is believed to strongly influence their later character.
+- **Register:** Literary; traditional.
+- **Use:** Appears in discussions of childhood education, discipline, and formative experiences.
+- **Example:** The headteacher quoted “as the twig is bent, so grows the tree” when explaining why early support matters.
+- **Caution:** The proverb can overstate how much childhood determines adult life; people can change and develop throughout their lives.
 
 ## Phrasal Verbs
 
@@ -122,13 +129,6 @@ To care for a child and teach them how to behave.
 - **Register:** Neutral; especially common in British English.
 - **Example:** She was brought up by her grandparents.
 - **Nuance:** “Bring up” can also mean introduce a topic in conversation; the object and context distinguish the meanings.
-
-**take care of someone**
-- **Meaning:** To provide the care or help a child or family member needs.
-- **Priority / level:** Core · A2
-- **Register:** Neutral.
-- **Example:** His grandmother took care of him while his parents were at work.
-- **Usage note:** This is a verb phrase rather than a strict phrasal verb, but it is highly relevant to family care.
 
 **bring someone along**
 - **Meaning:** To bring a child or family member with you to an event or place.
@@ -144,6 +144,8 @@ To care for a child and teach them how to behave.
 - **Example:** Could you look after the children while I go to the pharmacy?
 - **Usage note:** “Look after” is especially common in British English; American English often uses “take care of”.
 
+## Expressions
+
 **babysit for someone**
 - **Meaning:** To look after someone's child for a short time while the parent or usual carer is away.
 - **Priority / level:** Core · B1
@@ -151,7 +153,12 @@ To care for a child and teach them how to behave.
 - **Example:** My brother often babysits for us on Saturday evenings.
 - **Usage note:** “Babysit” is the main verb; “sit for” is the phrasal-verb construction.
 
-## Expressions
+**take care of someone**
+- **Meaning:** To provide the care or help a child or family member needs.
+- **Priority / level:** Core · A2
+- **Register:** Neutral.
+- **Example:** His grandmother took care of him while his parents were at work.
+- **Usage note:** This is a verb phrase rather than a strict phrasal verb, but it is highly relevant to family care.
 
 **juggle work and family**
 - **Meaning:** To manage work and family responsibilities at the same time.
@@ -209,7 +216,6 @@ To care for a child and teach them how to behave.
 - **Use:** Common when people discuss future plans as a couple.
 - **Example:** We're hoping to start a family in the next couple of years.
 - **Nuance:** It can be a personal or sensitive topic, so avoid assuming everyone wants or can have children.
-
 
 **be trying for a baby**
 - **Meaning:** To be actively trying to conceive a child.
