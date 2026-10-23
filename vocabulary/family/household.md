@@ -32,34 +32,32 @@ A person who depends on someone else for financial support.
 
 ---
 
----
-
----
-
----
-
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: The Housing Form
+### 1. Dialogue: The Chore Chart
 
-**Priya:** Have you finished the housing form?
+**Mum:** Has anyone seen the new chore chart?
 
-**Tom:** Nearly. It asks who the **householder** is. Is that the person whose name is on the tenancy?
+**Ben:** On the fridge. Why?
 
-**Priya:** It depends on how they define it. I’m the named tenant, but we split the bills.
+**Mum:** Because I’m apparently the only person in this household who knows how to empty the dishwasher.
 
-**Tom:** It also asks whether I have any **dependants**. I’ll put my son down.
+**Dad:** I emptied it yesterday.
 
-**Priya:** Who brings in most of the money at the moment?
+**Mum:** You put the clean plates on the worktop and left the mugs in the sink.
 
-**Tom:** I do, so I suppose I’m the **breadwinner**. When my son was younger, my partner stayed at home and was the **homemaker**. We’ve swapped things round since then.
+**Dad:** That was a temporary arrangement.
 
-### 2. Monologue: Making Room for My Sister
+**Ben:** Can we not have a family meeting about mugs? I’ll do it now.
 
-After my sister separated from her partner, she and her daughter needed somewhere to stay while they looked for a flat. We agreed to **take them in** for a few months. It wasn’t always easy: we had to share the kitchen, adjust our routines and agree on who would pay for the food. But having another adult around helped with school pick-ups and late shifts. We learned that a **household** is more than a list of people at one address; it is a set of practical arrangements that has to work for everyone living there.
+**Mum:** Thank you. And while you’re there, put the chart somewhere everyone can actually see it.
 
-### 3. Reading: Household Roles and Official Forms
+### 2. Monologue: Moving into a Shared House
 
-A **household** generally means the people living together in one home, although official definitions vary. **Householder** may refer to the person who owns or rents the home, or to the person recognised as responsible for it on a particular form. It is worth checking the wording rather than assuming that the householder earns the most money.
+The first week in my shared house was a lesson in how differently people live. I’m used to a quiet breakfast and washing up straight away; my housemate thinks dirty plates can soak indefinitely. We nearly fell out over the heating, then discovered neither of us had read the instructions. We made a rota for cleaning the bathroom and agreed that guests were fine as long as we gave each other a bit of notice. It wasn’t some perfect domestic harmony, but it worked. Once we stopped expecting the other person to guess what annoyed us, the place started to feel like home.
 
-A **breadwinner** is someone who provides most of a household’s income. A **homemaker** focuses on running the home, including cooking, cleaning and organising family life; a person can do this whether or not they also have paid work. A **dependant** is someone who relies on another person for financial support, such as a child. In British English, **dependent** is also commonly used as an adjective, while **dependant** is the traditional noun spelling. These labels describe roles or circumstances, not a person’s worth or contribution. The phrasal verb **take someone in** means to let someone stay in your home and care for them. In other contexts, “take in” can mean understand information or be deceived, so the context makes the meaning clear.
+### 3. Reading: The Spare Key
+
+When Jo’s dad moved into a smaller flat, he gave her a spare key and insisted she take a box of old family things. Jo had lived in the same household for most of her life, and she hadn’t realised how much she relied on the little routines: the radio in the kitchen, the shopping list on the table, her dad asking whether she’d eaten. The new flat was easier for him to manage, but the first few weeks felt oddly quiet.
+
+They agreed that Jo would come round for Sunday lunch, while her dad would visit her place once a month. It took a while to work out whose turn it was to bring food and who should wash up, but they got there. Their household arrangements had changed; their relationship hadn’t disappeared. When Jo’s brother joked that Dad had finally become his own boss, Dad replied that he’d always been the boss—he just had fewer cupboards to fill. They laughed, and the move began to feel less like an ending and more like a new routine.
