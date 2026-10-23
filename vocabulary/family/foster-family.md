@@ -17,34 +17,30 @@ A child who is being cared for by a foster parent or foster family.
 
 ---
 
----
-
----
-
----
-
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: The School Office
+### 1. Dialogue: The First Parents’ Evening
 
-**Teacher:** I’m checking the emergency contacts. Shall I put your foster carers down?
+**Carer:** Your teacher sent a note home. She says you’ve been helping the new boy settle in.
 
-**Oliver:** Yes, please. They’re the people I live with at the moment.
+**Jamie:** He didn’t know where anything was. I just showed him the library.
 
-**Teacher:** Would you rather I just use your name when I speak to the class about the form?
+**Carer:** That was kind of you. How are you feeling about parents’ evening tomorrow?
 
-**Oliver:** Yes, if that’s all right. I don’t mind people knowing I live with **foster parents**, but I don’t want it to be the first thing everyone knows about me.
+**Jamie:** Do I have to call you my foster mum in front of everyone?
 
-**Teacher:** Of course. I’ll keep your details private.
+**Carer:** You can call me what you normally call me. If the teacher needs to know I’m your foster carer, I can explain that privately.
 
-**Oliver:** Thanks. They’re coming to parents’ evening next week, too.
+**Jamie:** Good. I don’t want everyone asking questions.
 
-### 2. Monologue: The First Week
+**Carer:** You don’t have to tell them anything you’d rather keep private.
 
-The first week after the placement felt strange for all of us. We had agreed to **foster** a child while the social workers worked out what support would be needed next. We made space in the bedroom, asked what food he liked and tried to keep the daily routine predictable. We didn’t expect him to trust us straight away, and we avoided asking about his past unless he chose to talk. Being a **foster parent** meant offering care without pretending we could decide the whole future. Small routines—walking to school, cooking dinner and leaving a light on—helped the house feel less unfamiliar.
+### 2. Monologue: The Bag by the Door
 
-### 3. Reading: Foster Care and Adoption
+The first time I went to stay with a foster family, I kept my school uniform in a bag by the door. I thought I’d be moved again any day, so unpacking felt like tempting fate. My foster carer didn’t make a big speech about being part of the family. She showed me where the cereal was, told me which bus to catch and stuck my name on a shelf in the bathroom. Those little things mattered more than I expected. After a few weeks, I put my books on the desk and took the bag upstairs. It wasn’t that I suddenly stopped worrying; I just began to believe I was allowed to settle in.
 
-To **foster** a child is to provide care, often for a limited period, when the child cannot live with their usual caregivers. A **foster parent** or foster carer offers a home and day-to-day support while the child’s circumstances are assessed. A **foster child** may stay for a short time or much longer, depending on their needs and the arrangements made for them. Foster care does not automatically make the carer the child’s legal parent.
+### 3. Reading: More Than a Spare Room
 
-**Adoption** is different: it is a legal process that usually establishes a permanent parent-child relationship. A foster placement may end with a child returning to their birth family, moving to another carer or being adopted, depending on the circumstances and legal decisions. Temporary care does not mean that the relationships formed during a placement are unimportant. Children need reliable care, clear explanations and adults who respect their history and existing relationships. “Foster” can also be used for animals, as when someone fosters kittens for a rescue centre, though the practical and legal arrangements are different.
+When the Harrisons first became foster parents, they imagined that the hardest part would be making room in the house. They bought a second-hand bed, cleared a drawer and put a night-light beside it. They soon realised that a spare room was the easy part. The child who arrived at their door was polite, watchful and reluctant to ask for anything. He had learnt that adults could make promises and then disappear, so he tested the rules and waited to see whether the Harrisons would lose patience.
+
+They tried to keep routines predictable: tea at the same time, clear explanations before visits and no sudden changes without warning. Some days went well; others ended in slammed doors. The foster carer worked with the social worker and the school rather than expecting affection to solve everything. Over time, the child began inviting a friend round and leaving his drawings on the kitchen table. He still had questions about what would happen next, and nobody pretended to know every answer. The aim was not to replace his birth family or demand gratitude. It was to offer safe, steady care while plans for his future were worked out.
