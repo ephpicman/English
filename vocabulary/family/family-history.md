@@ -11,7 +11,6 @@ All the people born or living around the same time, especially within a family o
 The line of people from whom a person is descended.
   - The historian traced her lineage back to the eighteenth century.
   - They traced their **family lineage** back to Wales.
-  - He comes from a **long line of** teachers.
 
 **lineal**: `/ˈlɪniəl/` - `adj.`  
 Related directly to someone's ancestors or descendants.
@@ -24,13 +23,11 @@ Money or property received from someone who has died, or the passing on of genet
   - She used her inheritance to buy a small flat.
   - He received a **large inheritance** from his aunt.
   - They are **disputing the inheritance**.
-  - The inheritance included **family property**.
 
 **inherited**: `/ɪnˈherɪtɪd/` - `adj.`  
 Received from a parent or ancestor, especially through genes or inheritance.
   - He has inherited his father's blue eyes.
   - She has **inherited traits** from both parents.
-  - He inherited the **family home**.
 
 **heir**: `/eə(r)/` - `n. [C]`  
 A person who is legally entitled to inherit another person's money, property or title.
@@ -41,7 +38,6 @@ A person who is legally entitled to inherit another person's money, property or 
 **heiress**: `/ˈeərəs/` - `n. [C]`  
 A woman who is legally entitled to inherit money, property or a title.
   - The heiress inherited the family estate.
-  - The heiress inherited a **vast fortune**.
   - She was the **sole heiress** to the family business.
 
 **heirloom**: `/ˈeəluːm/` - `n. [C]`  
@@ -60,7 +56,6 @@ Money or property left to someone in a will; more broadly, something handed down
 A legal document stating what should happen to someone's money and property after their death.
   - He changed his will to include his grandchildren.
   - She made a **last will and testament**.
-  - He changed his will to **leave money to** his children.
 
 **estate**: `/ɪˈsteɪt/` - `n. [C]`  
 All the money and property that someone owns, especially when they die.
@@ -77,7 +72,6 @@ Related to living organisms, or to a person's biological parents rather than ado
 **genetic**: `/dʒəˈnetɪk/` - `adj.`  
 Related to genes or inherited characteristics.
   - The doctor explained that the condition can be genetic.
-  - The condition may be **genetically inherited**.
   - They discussed their **genetic background**.
 
 **heredity**: `/həˈredəti/` - `n. [U]`  
@@ -89,8 +83,6 @@ The passing of genetic characteristics from parents to children.
 **inherit**: `/ɪnˈherɪt/` - `v. [T]`  
 To receive money, property or a title from someone who has died, or to receive a genetic characteristic from a parent.
   - She will inherit the house when her aunt dies.
-  - She will inherit the **family business**.
-  - He inherited a **large sum of money**.
 
 **hereditary**: `/həˈredɪtri/` - `adj.`  
 Transmitted genetically from one generation to the next.
@@ -113,8 +105,6 @@ The study or tracing of family history and lines of descent.
 **genealogist**: `/ˌdʒiːniˈælədʒɪst/` - `n. [C]`  
 A person who studies or traces family histories.
   - The genealogist found a marriage certificate from 1842.
-  - A professional genealogist examined the **historical records**.
-  - They hired a genealogist to **trace their family tree**.
 
 **generational**: `/ˌdʒenəˈreɪʃənl/` - `adj.`  
 Related to a generation or to differences between generations.
