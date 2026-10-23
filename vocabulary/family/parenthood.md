@@ -38,3 +38,16 @@ The process of caring for children and helping them develop.
 
 **upbringing**: `/ˈʌpbrɪŋɪŋ/` - `n. [C, U]`  
 The way a child is cared for and taught while growing up.
+
+**neglectful parent**: `/nɪˈɡlektfl ˈpeərənt/` - `n. [C]`  
+A parent who fails to provide the care their child needs.
+
+**raise**: `/reɪz/` - `v. [T]`  
+To care for a child until they become an adult.
+
+**rear**: `/rɪə(r)/` - `v. [T]`  
+To care for and bring up a child.
+
+**bring up**: `/ˌbrɪŋ ˈʌp/` - `v. [T]`  
+To care for a child and teach them how to behave.
+

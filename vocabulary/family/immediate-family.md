@@ -108,6 +108,9 @@ The daughter of your step-parent, who is not your biological sister.
 **stepsibling**: `/ˈstepsɪblɪŋ/` - `n. [C]`  
 A stepbrother or stepsister.
 
+**sibling rivalry**: `/ˌsɪblɪŋ ˈraɪvəlri/` - `n. [U]`  
+Competition or jealousy between brothers and sisters.
+
 **elder**: `/ˈeldə(r)/` - `adj.`  
 Older than someone else, especially within a family.
 

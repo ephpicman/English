@@ -32,12 +32,6 @@ The mother of one of your grandparents.
 **great-grandfather**: `/ˌɡreɪt ˈɡrænfɑːðə(r)/` - `n. [C]`  
 The father of one of your grandparents.
 
-**ancestor**: `/ˈænsestə(r)/` - `n. [C]`  
-A person in your family who lived a long time ago.
-
-**ancestry**: `/ˈænsestri/` - `n. [U]`  
-The members of your family who lived in the past.
-
 ## Grandchildren
 
 **grandchild**: `/ˈɡræntʃaɪld/` - `n. [C]`  
@@ -87,6 +81,3 @@ A child of your aunt or uncle.
 
 **second cousin**: `/ˌsekənd ˈkʌzn/` - `n. [C]`  
 A child of your parent's cousin.
-
-**descendant**: `/dɪˈsendənt/` - `n. [C]`  
-A person who is related to someone who lived in the past and is descended from them.
