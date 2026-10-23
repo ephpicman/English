@@ -32,26 +32,30 @@ A person who depends on someone else for financial support.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Sharing Household Responsibilities
+### 1. Dialogue: The Flatshare Budget
 
-**Ben:** Who's the main **breadwinner** in your household?
+**Priya:** Have you filled in the housing form yet?
 
-**Aisha:** At the moment, I earn more, but we both contribute. My partner works part-time and is the main **homemaker**, handling most of the day-to-day tasks.
+**Tom:** Almost. It asks who the **householder** is, and I’m not sure whether that means the person who pays the rent or the person whose name is on the tenancy.
 
-**Ben:** Does that mean you're the **householder**?
+**Priya:** Check the form’s definition. I’m listed as the tenant, but we split the bills.
 
-**Aisha:** The **householder** is the person responsible for the home in this context. We rent together, so we share the responsibilities. We also have a child who is financially our **dependant**.
+**Tom:** And it asks whether anyone is a **dependant**. My son lives with me, so I’ll include him.
 
-**Ben:** It sounds as if you've worked out a system that suits you.
+**Priya:** Right. Who’s the **breadwinner** in your household?
 
-**Aisha:** We're still adjusting, but we try to recognise everyone's contribution.
+**Tom:** We both work now. When my son was little, I was the **homemaker** for a while and my partner earned most of the money. It changes depending on what the family needs.
 
-### 2. Monologue: What Makes a Household Work?
+### 2. Monologue: When My Sister Needed a Place to Stay
 
-People sometimes assume that the **breadwinner** is the most important person in a household, but earning money is only one part of family life. A **homemaker** contributes through organising the home, caring for family members, and keeping daily routines running. The **householder** may be the owner, tenant, or person responsible for the property, depending on the context. A child or another person who relies financially on the household may be a **dependant**. In our home, we try to value paid work and unpaid care equally and make decisions together.
+After my sister separated from her partner, she and her daughter needed somewhere to stay while they found a flat. We decided to **take them in** for a few months. It wasn’t always easy: we had to share the kitchen, adjust our routines and agree on who would pay for groceries. But having another adult around helped with school pickups and late shifts. We learned that a household is not just a list of people at one address; it’s a set of practical arrangements that has to work for everyone living there.
 
-### 3. Reading: Household Roles
+### 3. Reading: Household Roles and Official Forms
 
-A **household** is the group of people living in a home, though the precise definition can vary by context. A **householder** is a person who owns or rents a home or is responsible for it. A **breadwinner** is someone who earns money to support themselves or their family. A **homemaker** manages domestic responsibilities and may or may not also have paid employment. A **dependant** is someone who relies on another person for financial or other support. These words describe roles, not fixed rules: one person may fill several roles, and household members may share responsibilities in different ways.
+A **household** generally means the people living together in one home, although official definitions can vary. A **householder** may refer to the person who owns or rents the home, or the person recognised as responsible for it on a particular form. It is worth checking the wording rather than assuming that the householder is automatically the person who earns the most money.
+
+A **breadwinner** is someone who provides most of a household’s income. A **homemaker** focuses on running the home, including tasks such as cooking, cleaning and organising family life; a person can do this work whether or not they also have a paid job. A **dependant** (also spelled “dependent” in American English) is someone who relies on another person for financial support, such as a child. These labels describe roles or circumstances, not a person’s worth or contribution. The phrasal verb **take someone in** means to let someone stay in your home and care for them, often when they need help. In other contexts, “take in” can mean understand information or be deceived, so the surrounding sentence determines the meaning.
