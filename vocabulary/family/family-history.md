@@ -237,30 +237,30 @@ Related by blood.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Building a Family Tree
+### 1. Dialogue: The Old Photograph
 
-**Ella:** I'm putting together our **family tree**. Do you know who our earliest **ancestor** was?
+**Ella:** This photo looks just like Dad. Same nose, same smile.
 
-**Noah:** Grandma has been researching our **ancestry** and **lineage**. She says our **family history** goes back several generations.
+**Mum:** He takes after his grandfather. That’s a strong **family resemblance**.
 
-**Ella:** Is our **genealogy** complete?
+**Ella:** Do we know where that side of the family came from?
 
-**Noah:** Not yet. A **genealogist** helped us check old records, but we still need to confirm one **lineal descendant** in the records. We also found a **heirloom** that belonged to an **heir** named in an old **will**.
+**Mum:** Your great-grandmother kept notes on our **ancestry**. Your uncle’s been doing **genealogy**, and he even spoke to a **genealogist** about the old records.
 
-**Ella:** Was there an **inheritance**?
+**Ella:** Can I see the **family tree**?
 
-**Noah:** Yes, part of the **estate** was passed down. Some property was **inherited**, but the family's greatest **legacy** was the stories they left us.
+**Mum:** Sure. It goes back several **generations**, although some dates are uncertain.
 
-**Ella:** Do we all have the same **family resemblance**?
+### 2. Monologue: The Watch in the Drawer
 
-**Noah:** We share some **genetic** traits, but **heredity** isn't the whole story. Our **familial** features are interesting, and we may have **hereditary** traits, but each person is different.
+My grandfather left me a watch that had belonged to his mother. It is a modest **family heirloom**, scratched around the edge and too delicate to wear every day. After he died, the family had to read his **will** to understand how his **estate** should be divided. My aunt was the **heiress** to his small bookshop, while my father inherited a few personal items. There was no dramatic fortune, just objects with stories attached to them. The watch feels like a **legacy** because it reminds me of the people who kept it safe before it reached me.
 
-### 2. Monologue: What We Inherit
+### 3. Reading: Genes, Records and Inheritance
 
-Researching my family has taught me that inheritance is more than money. Each **generation** leaves a **legacy**, whether through stories, values, possessions, or property. My **ancestors** form part of my **ancestry** and **lineage**, and our **family tree** helps us trace each **lineal descendant**. Some features show a **family resemblance** and may reflect **genetic** inheritance, **heredity**, or **hereditary** characteristics. Other things are cultural: traditions and memories passed down **intergenerationally**. Our **genealogy** project, supported by a professional **genealogist**, has revealed a complicated history, including **consanguinity**—a relationship between people who share an ancestor—and the technical adjective **consanguineous**. We have also learned about **inheritance**, an **heir** and an **heiress**, an old **will**, and the family **estate**. A treasured **heirloom** reminds us that what is **inherited** can carry emotional meaning. Some influences are **generational**, while others are **intergenerational** and connect people across several age groups.
+Family history can be traced through documents, memories and biological evidence, but these sources answer different questions. A person’s **lineage** is the line of people from whom they descend; an **ancestor** is someone from an earlier generation, while a **descendant** comes later in the line. A **lineal descendant** is directly descended from a particular person, and **lineal heirs** may be relevant in legal contexts. **Genealogy** is the study of family relationships, often represented in a **family tree**. **Intergenerational** stories explore how experiences or traditions pass between generations, while **generational** differences describe contrasts between age groups.
 
-### 3. Reading: Records, Relationships and Inheritance
-
-**Family history** explores the people and events that shaped a family. A **family tree** organises relationships, while **genealogy** is the study of family descent; a **genealogist** researches records to establish **ancestry** and **lineage**. An **ancestor** is someone from whom a person is descended, and a **descendant** is someone who comes later in the line. A **lineal descendant** is connected through a direct line of descent. **Lineal** describes that direct relationship. The word **generation** refers to people born around the same period, and **generational** describes something relating to a particular generation; **intergenerational** describes connections or effects between generations. **Familial** means related to a family. **Biological** and **genetic** describe relationships or characteristics connected with living organisms and genes. **Heredity** is the passing of characteristics from parents to children; **hereditary** means passed down genetically. A **family resemblance** is a similarity in appearance or manner among relatives. **Consanguinity** means a blood relationship, and **consanguineous** describes people related by blood. Property and possessions may also pass between generations: **inheritance** is what is received, to **inherit** is to receive it, and something **inherited** has been received from someone else. An **heir** or **heiress** may be entitled to inherit under a **will**, a legal document describing how a person's **estate** should be distributed. An **heirloom** is a valued object passed down through a family, while a **legacy** can be property, influence, or something lasting left behind.
+Inheritance can refer to property received after a death or to characteristics passed through biology. **Genetic** traits may be **inherited**, and **heredity** is the passing of biological characteristics from parents to children. **Hereditary** conditions can run in families, but not every family resemblance proves a genetic link; **familial** may simply mean associated with a family. **Consanguinity** means a biological relationship through a shared ancestor, and **consanguineous** describes people related in that way. In legal matters, an **heir** may receive property under a **will**, and an **inheritance** may form part of an **estate**. A **legacy** can also mean an influence or contribution left behind. The expression “**Blood will tell**” is a traditional saying suggesting that ancestry reveals itself in a person’s traits, but it can oversimplify both personality and biology.
