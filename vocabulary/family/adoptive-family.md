@@ -59,32 +59,28 @@ Related to adoption or describing a person or family that adopts a child.
 
 ---
 
----
-
----
-
----
-
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: A Question After School
+### 1. Dialogue: The School Project
 
-**Leah:** Mum, for our family-tree project, should I include my birth parents as well?
+**Leah:** We have to make a family tree for Friday. Do I have to put my birth parents on it?
 
-**Mum:** You can, if you’d like to. We can talk about what feels right for you.
+**Mum:** No, love. It’s your project. You can include whoever you want.
 
-**Leah:** I don’t want it to look as if I’ve got two different families and have to choose between them.
+**Leah:** I don’t want people asking awkward questions.
 
-**Mum:** You don’t have to choose. Dad and I are your **adoptive parents**, and your **birth parents** are part of your story too. We can put as much or as little on the tree as you’re comfortable with.
+**Mum:** Then we’ll think about what you’re happy to share. Being adopted is part of your story, but you don’t owe the class every detail.
 
-**Leah:** Could we look at that letter from the adoption agency again?
+**Leah:** Could I put you and Dad on the main branches, then write a little note about my birth family?
 
-**Mum:** Of course. We’ll read it together when you’re ready.
+**Mum:** That sounds like a good way of doing it. We can look at it together after tea.
 
-### 2. Monologue: The First Meeting
+### 2. Monologue: The Call I Nearly Didn’t Make
 
-I still remember the morning we met our daughter. We had spent months preparing to **adopt**—attending meetings, completing checks and learning about the **adoption process**. When the placement was approved, we were over the moon, but we were also nervous. We knew that becoming an **adoptive** family wouldn’t mean that we instantly felt like people who had known one another for years. Trust grew through ordinary routines: breakfast at the same table, stories before bed and keeping the promises we made. We learned that a family is built over time, not created by a single legal decision.
+I’d had the letter from the adoption agency for three weeks before I rang. I kept telling myself I’d do it at the weekend, then finding something else to do. When I finally spoke to my birth mother, the first ten minutes were mostly small talk: the weather, where we lived, whether I took after anyone in the family. It wasn’t a dramatic reunion, and neither of us suddenly knew what to say. But she told me why she’d chosen my name, and I told her about the people who’d brought me up. We agreed to take things slowly. I came away with more questions than answers, but I was glad I’d made the call.
 
-### 3. Reading: Records, Contact and Identity
+### 3. Reading: A Place at the Table
 
-Adoption records may contain information about a child’s early life, but access to them depends on the law and the circumstances of the adoption. An **adoptee** may become curious about their origins at different ages. Some want detailed information; others prefer to wait. If contact with a **birth mother**, **birth father** or other birth relatives is possible, it needs to be approached with care and respect for everyone’s privacy. Adults should not promise that records will answer every question or assume that an adopted person will want contact. **Adoption services** can explain how to request records and what support is available. The most helpful conversations allow for mixed feelings and let the adopted person set the pace.
+When Ben was adopted, his parents were advised not to treat the adoption as a secret or as the only thing that defined him. That sounded straightforward until he started asking questions about his birth family. At seven, he wanted to know whether he had brothers or sisters. At thirteen, he wanted privacy and hated being asked to explain his background to curious classmates. His parents learnt to follow his lead rather than decide what he ought to feel.
+
+Years later, Ben chose to request his original records. The information was incomplete, and contacting a birth relative took time, but he eventually exchanged letters with an older half-sister. They didn’t pretend to have shared a childhood; they started with what they did have in common. Ben still calls the people who raised him Mum and Dad. For him, finding out about his birth family hasn’t made his adoptive family any less his own. There’s room for both parts of the story, even when some chapters remain unfinished.
