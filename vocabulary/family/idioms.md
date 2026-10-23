@@ -85,28 +85,28 @@ Idioms connected with family relationships, parenthood, marriage, inheritance, a
 - **Example:** Daniel is **a chip off the old block**—he has the same patience and practical skills as his father.
 - **Caution:** It can suggest either a positive or negative resemblance, depending on context.
 
-### 12. keep it in the family
+### 11. keep it in the family
 - **Meaning:** To keep something, such as information, a business, or a responsibility, within the family rather than involving outsiders.
 - **Register:** Neutral to informal.
 - **Use:** The exact implication depends on context; it can refer to a family business, a private matter, or passing something on to relatives.
 - **Example:** They decided to **keep the business in the family** and pass it on to their daughter.
 - **Caution:** It can imply secrecy or exclusion when used about information or decisions.
 
-### 13. skeletons in the closet
+### 12. skeletons in the closet
 - **Meaning:** Secrets from someone's past, often embarrassing or shameful, that they do not want others to discover.
 - **Register:** Informal to neutral; the British English variant is often “skeletons in the cupboard”.
 - **Use:** Can refer to family secrets or to a person's private past. Use when the idea of concealed, potentially damaging information matters.
 - **Example:** While researching their family history, they discovered a few **skeletons in the cupboard**.
 - **Caution:** It suggests potentially troubling secrets, not simply private information. “Closet” is more common in American English; “cupboard” is common in British English.
 
-### 14. be in someone's blood
+### 13. be in someone's blood
 - **Meaning:** To be a natural or deeply ingrained part of someone's character, interests, or family tradition.
 - **Register:** Neutral.
 - **Use:** Often used for a skill, passion, or long-standing family activity.
 - **Example:** Cooking is **in her blood**; her parents and grandparents all worked as chefs.
 - **Caution:** Usually figurative, not a literal medical statement. It may imply inheritance, but does not prove a genetic cause.
 
-### 15. be born with a silver spoon in your mouth
+### 14. be born with a silver spoon in your mouth
 - **Meaning:** To be born into a wealthy or privileged family.
 - **Register:** Neutral to informal, often critical.
 - **Use:** Used when discussing inherited wealth, privilege, or advantages someone had from birth.
@@ -117,14 +117,14 @@ Idioms connected with family relationships, parenthood, marriage, inheritance, a
 
 ## C1–C2: nuanced and less everyday idioms
 
-### 16. be the spitting image of someone
+### 15. be the spitting image of someone
 - **Meaning:** To look extremely similar to another person, especially a parent or other relative.
 - **Register:** Informal to neutral; common in British English.
 - **Use:** Most often used for physical resemblance across generations.
 - **Example:** At the same age, she was **the spitting image of her mother**.
 - **Caution:** Primarily about appearance, not personality. “A dead ringer for someone” is a related informal idiom, but is not included as a separate entry here.
 
-### 17. be cut from the same cloth
+### 16. be cut from the same cloth
 - **Meaning:** To be very similar in character, attitudes, or behaviour.
 - **Register:** Neutral to semi-formal.
 - **Use:** Can describe relatives who share a temperament or values, but also people who are not related.
