@@ -226,34 +226,32 @@ To care for a child and teach them how to behave.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Making Family Life Work
+### 1. Dialogue: A Change to the Nursery Plan
 
-**Anna:** Can you stay late today? We need to finish the report.
+**Sophie:** Have you booked the after-school club for Thursday?
 
-**Ben:** I'd like to, but I've got to do the school run, and I haven't got childcare sorted for later.
+**Mark:** Not yet. I need to check whether they offer **wraparound care** on the day I’m on an early shift.
 
-**Anna:** Is your partner working late too?
+**Sophie:** I can do the **school run** in the morning, but I have a work meeting at three.
 
-**Ben:** Yes. We're trying to juggle work and family. My mum can sometimes look after the kids, but we have to plan ahead.
+**Mark:** I’ll ask my sister to **look after** them until I get home. If that doesn’t work, could you **bring the kids along** to your meeting if it’s informal?
 
-**Anna:** I was brought up by my grandparents for a few years, so I know how much wider family can matter.
+**Sophie:** Probably not this time. Let’s get childcare sorted before we promise anything.
 
-**Ben:** Exactly. It takes a village to raise a child. My partner and I co-parent, and we share parental responsibility even when our schedules get hectic.
+**Mark:** Agreed. We’re both trying to **juggle work and family**, and I don’t want to leave it to the last minute again.
 
-**Anna:** That's a lot to manage.
+### 2. Monologue: What I Learned from My Upbringing
 
-**Ben:** It is. Parenting takes patience, whether you're in a two-parent family or a single-parent family. A single parent may have to raise a child alone, while separated parents can still co-parent.
+I grew up in a two-parent family, but my grandparents were just as important in my **upbringing**. My **maternal** grandmother taught me to cook, while my **paternal** grandfather showed me how to fix things. Now that I’m a parent, I understand that **motherhood** and **fatherhood** are less about knowing all the answers and more about being willing to learn. My partner and I try to **raise** our children with patience. Some people say **rear** or **bring up** children; the meaning is similar, though “rear” can sound more formal. We don’t always get it right, but we try to repair mistakes rather than pretend they never happen.
 
-**Anna:** Do you ever babysit for friends?
+### 3. Reading: Parenthood, Care and Family Circumstances
 
-**Ben:** Sometimes, if we've got our own family commitments sorted first!
+**Parenthood** is the state or experience of being a parent; **parenting** is the day-to-day work of caring for and guiding a child. **Parental** is the adjective used for matters related to parents, including **parental responsibility**, rights and consent. **Paternity** concerns being a father, while **maternity** concerns being a mother and appears in expressions such as maternity leave and maternity care. A **single parent** raises a child without a partner sharing the household parenting role; a **single-parent family** is organised around one parent. A **two-parent family** has two parents, although family structures and responsibilities vary. Parents who are separated may still **co-parent**, sharing decisions and care.
 
-### 2. Monologue: What Parenthood Has Taught Me
+To **raise** or **bring up** a child is to care for them as they grow; **rear** is a similar, somewhat more formal verb. A **neglectful parent** fails to provide the care a child needs. Other adults may **take care of** children, **babysit for** a parent, or **look after** them for a short time. Parents may **juggle work and family**, manage **family commitments**, arrange an **after-school club** or **wraparound care**, and make sure they **have childcare sorted**. The **school run** means taking children to or collecting them from school. **Bring someone along** means to take that person with you, as in “You can bring the children along to the picnic.” When children leave home, their parents may become **empty nesters**. Adults may talk about wanting to **start a family** or **trying for a baby**, but these are personal matters and shouldn’t be assumed or pressed.
 
-My **upbringing** shaped the way I think about **parenting**. I was **brought up** in a home where both my **maternal** and **paternal** grandparents played a part in family life. Now that I'm a parent myself, I understand the responsibilities of **fatherhood** and the experience of **motherhood** in a new way. My partner and I try to **raise** our children with kindness and independence; some people use **rear** in a similar sense, although it can sound more formal. We share **parental responsibility**, and we make decisions together. When work gets busy, we have to **juggle work and family**, get childcare sorted, and sometimes ask someone to **look after** the children or **babysit for** us. Our family isn't perfect, but we believe that it takes a village to raise a child. I also know that families take different forms: a **single parent** may raise children without a partner, while separated parents can still **co-parent**. What matters most is that children receive consistent care and are not left with a **neglectful parent** who fails to meet their needs.
-
-### 3. Reading: Parenting Across Different Family Situations
-
-**Parenthood** involves caring for a child and supporting their development. **Parenting** describes the day-to-day process, while **motherhood** and **fatherhood** refer to the experience or state of being a mother or father. **Parental** means related to parents or parenthood; **parental responsibility** refers to the duties and rights involved in caring for a child. **Paternity** concerns being a father, and **maternity** concerns being a mother; these words also appear in expressions such as paternity test, maternity care, and maternity leave. **Paternal** means related to the father or his side of the family, while **maternal** relates to the mother or her side. A child's **upbringing** is the way they are cared for and taught while growing up. To **raise** or **bring up** a child means to care for them as they grow; **rear** has a similar meaning but can sound more formal. A **single parent** raises a child without a partner in the household, and a **single-parent family** is a family organised around one parent. A **two-parent family** has two parents raising the child, though family circumstances differ widely. Parents who share responsibility after separation may **co-parent**. Other family members may **look after** children, **babysit for** parents, or help with the **school run**, an **after-school club**, or **wraparound care**. Parents often need to **juggle work and family**, keep **family commitments** in mind, and make sure they **have childcare sorted**. When children grow up and leave home, a parent may become an **empty nester**. Adults may **start a family** or be **trying for a baby**, but these are personal choices and circumstances. A **neglectful parent** fails to provide necessary care. The proverb **“It takes a village to raise a child”** highlights the value of community support, while **“As the twig is bent, so grows the tree”** suggests that early experiences influence later development—although childhood does not determine a person's future completely.
+The saying **“It takes a village to raise a child”** highlights the role of community support. **“As the twig is bent, so grows the tree”** suggests that early experiences influence later character, though they do not determine a person’s future. These sayings are useful to recognise, but neither should be treated as a complete theory of child development.
