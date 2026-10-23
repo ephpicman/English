@@ -85,13 +85,6 @@ Idioms connected with family relationships, parenthood, marriage, inheritance, a
 - **Example:** Daniel is **a chip off the old block**—he has the same patience and practical skills as his father.
 - **Caution:** It can suggest either a positive or negative resemblance, depending on context.
 
-### 11. like a family
-- **Meaning:** In a close, supportive way that resembles the relationships within a family, even when the people are not related.
-- **Register:** Neutral.
-- **Use:** Commonly used with verbs such as “feel” or “treat”: “feel like a family”, “treat someone like family”. The expression is idiomatic in context, but the exact wording varies.
-- **Example:** After years of working together, the team **feels like a family**.
-- **Caution:** This is less fixed than the other entries; use it only when the context genuinely suggests closeness and mutual support.
-
 ### 12. keep it in the family
 - **Meaning:** To keep something, such as information, a business, or a responsibility, within the family rather than involving outsiders.
 - **Register:** Neutral to informal.
@@ -99,28 +92,21 @@ Idioms connected with family relationships, parenthood, marriage, inheritance, a
 - **Example:** They decided to **keep the business in the family** and pass it on to their daughter.
 - **Caution:** It can imply secrecy or exclusion when used about information or decisions.
 
-### 13. a family affair
-- **Meaning:** An event, activity, or matter involving mainly family members.
-- **Register:** Neutral.
-- **Use:** Common in conversation and journalism, for example about a small wedding, celebration, or family-run activity.
-- **Example:** They kept the wedding **a family affair**, inviting only close relatives.
-- **Caution:** This is a set idiomatic expression, but it is not exclusively about positive events; context determines the tone.
-
-### 14. skeletons in the closet
+### 13. skeletons in the closet
 - **Meaning:** Secrets from someone's past, often embarrassing or shameful, that they do not want others to discover.
 - **Register:** Informal to neutral; the British English variant is often “skeletons in the cupboard”.
 - **Use:** Can refer to family secrets or to a person's private past. Use when the idea of concealed, potentially damaging information matters.
 - **Example:** While researching their family history, they discovered a few **skeletons in the cupboard**.
 - **Caution:** It suggests potentially troubling secrets, not simply private information. “Closet” is more common in American English; “cupboard” is common in British English.
 
-### 15. be in someone's blood
+### 14. be in someone's blood
 - **Meaning:** To be a natural or deeply ingrained part of someone's character, interests, or family tradition.
 - **Register:** Neutral.
 - **Use:** Often used for a skill, passion, or long-standing family activity.
 - **Example:** Cooking is **in her blood**; her parents and grandparents all worked as chefs.
 - **Caution:** Usually figurative, not a literal medical statement. It may imply inheritance, but does not prove a genetic cause.
 
-### 16. be born with a silver spoon in your mouth
+### 15. be born with a silver spoon in your mouth
 - **Meaning:** To be born into a wealthy or privileged family.
 - **Register:** Neutral to informal, often critical.
 - **Use:** Used when discussing inherited wealth, privilege, or advantages someone had from birth.
@@ -131,43 +117,16 @@ Idioms connected with family relationships, parenthood, marriage, inheritance, a
 
 ## C1–C2: nuanced and less everyday idioms
 
-### 17. be the spitting image of someone
+### 16. be the spitting image of someone
 - **Meaning:** To look extremely similar to another person, especially a parent or other relative.
 - **Register:** Informal to neutral; common in British English.
 - **Use:** Most often used for physical resemblance across generations.
 - **Example:** At the same age, she was **the spitting image of her mother**.
 - **Caution:** Primarily about appearance, not personality. “A dead ringer for someone” is a related informal idiom, but is not included as a separate entry here.
 
-### 18. be cut from the same cloth
+### 17. be cut from the same cloth
 - **Meaning:** To be very similar in character, attitudes, or behaviour.
 - **Register:** Neutral to semi-formal.
 - **Use:** Can describe relatives who share a temperament or values, but also people who are not related.
 - **Example:** The two brothers are **cut from the same cloth**: both are cautious, private, and fiercely independent.
 - **Caution:** It can be approving or critical depending on the qualities being described.
-
-### 19. be a chip off the old block
-- **Meaning:** To resemble a parent in personality or behaviour.
-- **Register:** Informal to neutral.
-- **Use:** Common enough to recognise, but somewhat traditional; see also the B1–B2 entry above.
-- **Example:** Her son is **a chip off the old block**, especially when it comes to his stubbornness.
-- **Caution:** This duplicates the earlier expression intentionally only as a reminder of its nuance; learn it once rather than as a separate idiom.
-
-### 20. blood relative
-- **Meaning:** A person related to someone by birth rather than only by marriage or another social relationship.
-- **Register:** Neutral to formal.
-- **Use:** Common in legal, medical, genealogical, and everyday contexts. However, this is a literal compound term rather than a true idiom.
-- **Example:** The form asks whether the donor is a **blood relative**.
-- **Caution:** **Not an idiom.** It is included here as a boundary example only and should not be learned as part of the idiom list.
-
----
-
-## Important exclusions
-
-The following are deliberately **not** included as idioms:
-- **“Blood is thicker than water”** — a proverb.
-- **“Like father, like son”** and **“The apple doesn't fall far from the tree”** — proverbs/sayings.
-- **“Take after someone”** is included above as a fixed idiomatic phrasal expression, but ordinary phrasal verbs such as “bring up a child” are not collected here.
-- Ordinary collocations such as **close-knit family**, **family ties**, **single parent**, and **family gathering** are not idioms.
-- **“A happy family”** and **“one big happy family”** are not treated as standalone idioms here.
-
-**Study tip:** Learn the meaning, register, and example together. The CEFR labels above are approximate priorities rather than official level assignments, and some idioms are more common in British English than others.
