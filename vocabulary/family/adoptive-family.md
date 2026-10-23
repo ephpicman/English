@@ -61,28 +61,28 @@ Related to adoption or describing a person or family that adopts a child.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
 ### 1. Dialogue: A Question After School
 
-**Leah:** Mum, we’re doing a family-tree project. Do I put my birth parents on it, too?
+**Leah:** Mum, for our family-tree project, should I include my birth parents as well?
 
-**Mum:** You can, if you want to. We can include the people who are part of your story.
+**Mum:** You can, if you’d like to. We can talk about what feels right for you.
 
-**Leah:** I know you and Dad are my parents. I was just wondering what to write.
+**Leah:** I don’t want it to look as if I’ve got two different families and have to choose between them.
 
-**Mum:** That makes sense. We became your **adoptive parents** through **adoption**, but that doesn’t mean you have to ignore your **biological parents**. We know a little about your **birth mother** and **birth father**, and we can look at the information together.
+**Mum:** You don’t have to choose. Dad and I are your **adoptive parents**, and your **birth parents** are part of your story too. We can put as much or as little on the tree as you’re comfortable with.
 
-**Leah:** Could we ask the agency for the letter again?
+**Leah:** Could we look at that letter from the adoption agency again?
 
-**Mum:** Of course. We’ll do it when you feel ready. Being **adopted** is one part of your life, not the whole of who you are.
-
-**Leah:** Okay. I’ll ask my teacher if I can make the tree a bit differently.
+**Mum:** Of course. We’ll read it together when you’re ready.
 
 ### 2. Monologue: The First Meeting
 
-I still remember the morning we met our daughter. We had spent months preparing to **adopt**—attending meetings, completing checks and learning what the **adoption process** would involve. By the time the placement was approved, we knew that becoming an **adoptive** family would bring joy as well as uncertainty. We didn’t expect our child to feel close to us immediately, and we tried not to treat every quiet day as a problem. Trust grew through ordinary things: breakfast at the same table, stories before bed, and showing up when we said we would. We learned that a family is built over time, not completed by a single legal decision.
+I still remember the morning we met our daughter. We had spent months preparing to **adopt**—attending meetings, completing checks and learning about the **adoption process**. When the placement was approved, we were over the moon, but we were also nervous. We knew that becoming an **adoptive** family wouldn’t mean that we instantly felt like people who had known one another for years. Trust grew through ordinary routines: breakfast at the same table, stories before bed and keeping the promises we made. We learned that a family is built over time, not created by a single legal decision.
 
-### 3. Reading: Records, Consent and Identity
+### 3. Reading: Records, Contact and Identity
 
-Adoption records may contain information about a child’s early life, but access to them depends on the law and the circumstances of the adoption. An **adoptee** may become curious about their origins at different ages; some want detailed information, while others prefer to wait. If contact with **birth parents** is possible, it should be handled with appropriate support and respect for everyone’s privacy. Adults should avoid promising that records will answer every question or assuming that a child must want contact. **Adoption services** can explain the available options, including how to request records and how to approach sensitive information. The most helpful conversations leave room for mixed feelings and let the adopted person set the pace.
+Adoption records may contain information about a child’s early life, but access to them depends on the law and the circumstances of the adoption. An **adoptee** may become curious about their origins at different ages. Some want detailed information; others prefer to wait. If contact with a **birth mother**, **birth father** or other birth relatives is possible, it needs to be approached with care and respect for everyone’s privacy. Adults should not promise that records will answer every question or assume that an adopted person will want contact. **Adoption services** can explain how to request records and what support is available. The most helpful conversations allow for mixed feelings and let the adopted person set the pace.
