@@ -101,30 +101,32 @@ A person who has the same name as someone else, especially someone they are name
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: The Booking Form
+### 1. Dialogue: Updating a Booking
 
 **Receptionist:** Could I have your full name, please?
 
-**Aisha:** Aisha Khan. Khan is my **surname**—or **family name**.
+**Aisha:** Aisha Khan.
 
-**Receptionist:** And Aisha is your **given name**?
+**Receptionist:** And Khan is your **surname**, or **family name**?
 
-**Aisha:** Yes. My passport also lists the name I was born with, because I changed it after I got married.
+**Aisha:** That’s right. Aisha is my **given name**.
 
-**Receptionist:** So your **birth name** is different from your current name?
+**Receptionist:** Has your name changed at all? I need to check it against your passport.
 
-**Aisha:** Exactly. My old **maiden name** was Aisha Rahman. I still use it on some academic papers.
+**Aisha:** I changed my surname when I got married. My **maiden name** was Rahman, so my **birth name** was Aisha Rahman.
 
-**Receptionist:** No problem. I’ll make sure the booking matches your passport.
+**Receptionist:** Thanks. I’ll use the name shown on your passport for the booking.
 
-### 2. Monologue: Why I Kept My Name
+### 2. Monologue: The Name I Was Given
 
-When I got married, people kept asking whether I would change my name. I thought about it, but my **family name** was already part of my professional life. My parents had chosen my **given name** after a favourite poet, and my aunt—my **namesake**—had always encouraged me to keep writing. In the end, I kept the name I was using. It wasn’t a statement against marriage or tradition; it simply felt right for me. Different people make different choices, and none of those choices tells the whole story of a relationship.
+My parents chose my **given name** because it belonged to a poet they both admired. Years later, I discovered that my aunt had the same name; she was my **namesake**, although neither of us had known the story when I was little. When I got married, I decided to take my partner’s surname. It was a personal choice, not something I felt I had to do. Some friends kept their own names, and others changed theirs. I don’t think a name can tell you how committed someone is to a relationship.
 
-### 3. Reading: Names, Records and Belonging
+### 3. Reading: Names and Identity
 
-Names can carry family history, personal identity and cultural expectations. A **given name** is the name assigned to a person, while a **surname** or **family name** is the shared name commonly used by members of a family. Naming systems differ around the world, so official forms may not fit every tradition neatly. A **maiden name** traditionally refers to a woman’s surname before marriage; **birth name** can refer more broadly to the name a person had at birth. Neither term should be assumed to describe everyone’s experience.
+Names can carry family history, personal identity and cultural expectations. A **given name** is the name given to a person, while a **surname** or **family name** is the name commonly shared by members of a family. Naming systems differ around the world, so official forms do not always fit every tradition neatly. **Maiden name** traditionally refers to a woman’s surname before marriage; **birth name** can refer more broadly to the name a person had at birth. The terms do not describe everyone’s experience, and should not be used to make assumptions about someone’s identity.
 
-A **namesake** is someone named after another person, or a person who shares another’s name. Some people change their names after marriage, adoption or for personal reasons; others keep the names they already use. The expression “a **close-knit family**” describes relatives who support one another and feel connected, not a family without disagreements. Similarly, the saying “the family that prays together stays together” reflects a particular religious or cultural belief rather than a universal rule. Names and family customs may be important, but individuals should be able to describe their own identity in their own words.
+A **namesake** is someone named after another person, or someone who shares another person’s name. Some people change their names after marriage, adoption or for personal reasons; others keep the names they already use. A **close-knit family** is one whose members feel connected and support one another, not a family that never disagrees. Names and family customs can matter deeply, but individuals should be able to explain their own identity in their own words.
