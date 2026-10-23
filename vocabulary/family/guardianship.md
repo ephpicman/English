@@ -1,4 +1,4 @@
 # Guardianship
 
 **guardian**: `/ˈɡɑːdiən/` - `n. [C]`  
-A person who is legally responsible for a child who is not their own.
+A person who is legally responsible for caring for a child or another person who cannot fully manage their own affairs.
