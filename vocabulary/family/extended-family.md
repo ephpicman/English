@@ -134,30 +134,34 @@ A person who shares a great-grandparent with you, typically the child of your pa
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Who’s Bringing the Cake?
+### 1. Dialogue: Gran’s Birthday
 
-**Nina:** Are you still coming to Gran’s birthday on Sunday?
+**Nina:** Are you still coming to Gran’s on Sunday?
 
-**Jack:** Definitely. Is Auntie Jo bringing her lemon cake again?
+**Jack:** Of course. Is Auntie Jo bringing that lemon cake?
 
-**Nina:** She is. Uncle Peter said he’d pick Gran up. I’m taking my niece and nephew, so I’ll probably arrive a bit early.
+**Nina:** She is. Uncle Peter’s giving Gran a lift, so I’ll get there early and help set the table.
 
-**Jack:** Great. Is your cousin Ella coming?
+**Jack:** Is Ella coming too?
 
-**Nina:** Yes—she’s my first cousin, Dad’s sister’s daughter. There’ll be another cousin there too, but I always forget whether we’re second cousins or something else.
+**Nina:** Yes, my cousin. Dad’s sister is her mum.
 
-**Jack:** We can ask Gran. She’s the family expert.
+**Jack:** And is Great-Gran coming?
 
-**Nina:** True. And I’m hoping Great-Gran feels well enough to come. The little ones have only met their great-grandmother a couple of times.
+**Nina:** I hope so. She wasn’t feeling brilliant last week, but she said she’d see how she feels on the day.
 
-### 2. Monologue: Sunday Lunch at Gran’s
+**Jack:** Lovely. It’ll be nice to get everyone together for once.
 
-At my grandmother’s house, lunch rarely starts on time. My **grandma** insists everyone has seconds, while my **grandad** quietly slips the children extra biscuits. My brother calls her **Granny**, but I’ve always called her Gran; my cousins use **grandpa** for their other grandfather. Last year, one of my **great-grandfathers** sent us a box of old photographs, including a picture of my **great-grandmother** as a young woman. We labelled the photographs together, and the children kept asking which **grandparent** was which. Now the album includes notes about everyone, from the oldest relatives to the newest **grandchild**.
+### 2. Monologue: The Photograph Album
 
-### 3. Reading: Working Out Cousin Relationships
+My grandma has an old photograph album that comes out whenever the family visits. My grandad is usually the one who tells the stories, although he often gets the dates wrong. My brother calls her **Granny**, while I’ve always called her **Gran**; my cousins say **Grandma** and **Grandpa** for their grandparents. One photograph shows my great-grandmother as a young woman, standing beside my great-grandfather outside a little shop. We spent an afternoon labelling the pictures, working out which **grandparent** belonged to which branch of the family. It was a lovely way to introduce the youngest **grandchildren** to relatives they’d only heard about.
 
-Family labels are easiest to understand when you start with the shared ancestor. Your mother’s or father’s parent is your **grandparent**; that person’s daughter or son may be your **aunt** or **uncle**. Their child is your **cousin**, usually your **first cousin**. A **second cousin** generally shares a great-grandparent with you. The phrase “once removed” means that the two relatives belong to different generations, rather than indicating a closer or more distant kind of cousin in the same generation.
+### 3. Reading: Cousins and Generations
 
-Your own child’s child is your **grandchild**—a **grandson** or **granddaughter**. The child of that grandchild is your **great-grandchild**; more specifically, a **great-grandson** or **great-granddaughter**. The parent of one of your grandparents is your **great-grandparent**, either a **great-grandmother** or **great-grandfather**. Informal names such as **grandma**, **granny**, **grandad**, **grandpa**, and **auntie** vary by family and region. Your sibling’s daughter is your **niece**, and your sibling’s son is your **nephew**. These words describe relationships, but families often choose their own everyday names for the people they love.
+Your mother’s or father’s parent is your **grandparent**; that person’s daughter or son may be your **aunt** or **uncle**. Their child is your **cousin**, usually your **first cousin**. **Second cousins** generally share a great-grandparent. The phrase “once removed” means that two cousins belong to different generations.
+
+Your child’s child is your **grandchild**—a **grandson** or **granddaughter**. The child of your grandchild is your **great-grandchild**, either a **great-grandson** or **great-granddaughter**. The parent of one of your grandparents is your **great-grandparent**, either a **great-grandmother** or **great-grandfather**. Your sibling’s daughter is your **niece**, and your sibling’s son is your **nephew**. Informal forms such as **grandma**, **granny**, **grandad**, **grandpa** and **auntie** vary by family and region. These labels can help explain a relationship, but families often have their own names for the people they love.
