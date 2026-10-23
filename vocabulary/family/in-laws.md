@@ -41,30 +41,32 @@ The sister of your husband or wife, or the wife of your sibling.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Meeting the In-laws
+### 1. Dialogue: The Sunday Lunch Plan
 
-**Oliver:** Are your in-laws staying for the weekend?
+**Emma:** Are we still having lunch at your parents’ house?
 
-**Grace:** Yes, my **mother-in-law** and **father-in-law** are arriving on Friday.
+**Noah:** Yes. My **mother-in-law** has already started cooking, apparently.
 
-**Oliver:** Do you get on well with them?
+**Emma:** I’ll bring dessert. Is your brother coming?
 
-**Grace:** Very well. My **sister-in-law** is coming too—she's my wife's sister. My **brother-in-law**, who's my wife's brother, might join us on Saturday.
+**Noah:** My **brother-in-law**, you mean—my sister’s husband. My actual brother is away this weekend.
 
-**Oliver:** And your daughter's husband?
+**Emma:** Right! And your sister-in-law is bringing the children?
 
-**Grace:** He's my **son-in-law**. My sister's husband is also my brother-in-law, so the exact relationship depends on whose spouse or sibling we're talking about.
+**Noah:** Yes. After lunch, we’re going to call my daughter and her husband. He’s our **son-in-law** now, which still sounds strange to me.
 
-**Oliver:** What about your son's wife?
+**Emma:** You’ll get used to it. I’ll text your **father-in-law** to ask what time we should arrive.
 
-**Grace:** She's my **daughter-in-law**. Family terms can be confusing until you map out the relationships!
+### 2. Monologue: The First Holiday Together
 
-### 2. Monologue: Getting to Know My In-laws
+Our first holiday with my spouse’s family was a little awkward, mostly because we all had different habits. My **father-in-law** liked to plan every journey in advance, while my **mother-in-law** preferred to decide after breakfast. My **sister-in-law** and I found common ground over hiking, and my **brother-in-law** was brilliant at keeping the children entertained. We didn’t become instantly close, but by the end of the week we had learned how to give one another space and still enjoy being together. That mattered more than agreeing on everything.
 
-When I got married, I became part of a wider family. My spouse's mother is my **mother-in-law**, and their father is my **father-in-law**. Their sister is my **sister-in-law**, while their brother is my **brother-in-law**. The terms also apply to certain relationships through my own siblings' marriages. Now that our children are grown, their spouses are our **son-in-law** and **daughter-in-law**. We don't have to agree on everything, but we try to be respectful, communicate clearly, and build a warm relationship across the family.
+### 3. Reading: In-law Terms and Old Expectations
 
-### 3. Reading: Understanding In-law Relationships
+**In-laws** are relatives connected through marriage or a spouse’s family. Your spouse’s mother is your **mother-in-law**, and their father is your **father-in-law**. Your spouse’s sister may be called your **sister-in-law**, and your spouse’s brother your **brother-in-law**. These same two terms can also describe the spouse of your own sibling, which is why context is sometimes needed. The husband of your child is your **son-in-law**, and the wife of your child is your **daughter-in-law**.
 
-**In-laws** are relatives connected through marriage or a spouse's family, though exact usage can vary. Your spouse's mother is your **mother-in-law**, and your spouse's father is your **father-in-law**. A spouse's sister is your **sister-in-law**, and a spouse's brother is your **brother-in-law**. The same terms can also describe the spouse of your own sibling. Your child's husband is your **son-in-law**, and your child's wife is your **daughter-in-law**. Because some terms refer to more than one relationship, context often clarifies exactly how two people are connected.
+Older sayings about in-laws often reveal the expectations of the society in which they were used. For example, “A son is a son till he gets him a wife; a daughter’s a daughter all her life” suggests that a married son may become more attached to his wife’s family, while a daughter remains loyal to her own. It is an old-fashioned, gendered view, not a rule about modern families. People’s relationships depend on personalities, circumstances and how they treat one another—not simply on whether they are a son, daughter, spouse or in-law.
