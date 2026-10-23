@@ -3,8 +3,6 @@
 **householder**: `/ˈhaʊshəʊldə(r)/` - `n. [C]`  
 A person who owns or rents a home, or is responsible for it.
   - Every householder in the building received a notice about the repairs.
-  - Each householder received a **council tax bill**.
-  - The survey asked the **head of household** to complete the form.
 
 **breadwinner**: `/ˈbredwɪnə(r)/` - `n. [C]`  
 The person who earns the money needed to support a family or household.
@@ -16,7 +14,6 @@ The person who earns the money needed to support a family or household.
 A person who manages a home and does domestic work, rather than being employed outside the home.
   - He chose to be a homemaker while his partner worked full-time.
   - She chose to be a **full-time homemaker**.
-  - The role of a homemaker includes **running the household**.
 
 **dependant**: `/dɪˈpendənt/` - `n. [C]`  
 A person who depends on someone else for financial support.
