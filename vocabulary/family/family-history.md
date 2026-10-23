@@ -1,4 +1,4 @@
-# Generation
+# Family History
 
 **generation**: `/ˌdʒenəˈreɪʃn/` - `n. [C]`  
 All the people born or living around the same time, especially within a family or society.
@@ -39,9 +39,6 @@ Related to living organisms, or to a person's biological parents rather than ado
 **genetic**: `/dʒəˈnetɪk/` - `adj.`  
 Related to genes or inherited characteristics.
 
-**hereditary**: `/həˈredɪtri/` - `adj.`  
-Passed from parents to children through genes.
-
 **heredity**: `/həˈredəti/` - `n. [U]`  
 The passing of genetic characteristics from parents to children.
 
@@ -65,9 +62,6 @@ Related to a generation or to differences between generations.
 
 **intergenerational**: `/ˌɪntədʒenəˈreɪʃənl/` - `adj.`  
 Existing or occurring between different generations.
-
-**familial**: `/fəˈmɪliəl/` - `adj.`  
-Related to a family or shared by members of a family.
 
 **familial**: `/fəˈmɪliəl/` - `adj.`  
 Occurring among or characteristic of members of the same family.
