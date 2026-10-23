@@ -203,3 +203,51 @@ Older than all the other children in a family.
   - Their eldest daughter is studying medicine.
   - Their **eldest child** is already married.
   - She is the **eldest of four children**.
+
+## Idioms
+
+**the black sheep (of the family)**
+- **Meaning:** A family member regarded as different from the others, especially because their behaviour is disapproved of.
+- **Register:** Neutral to informal.
+- **Use:** Use when describing a family member seen as an outsider or as bringing embarrassment to the family.
+- **Example:** He was considered **the black sheep of the family** because he rejected the career his relatives expected him to follow.
+- **Caution:** It can sound judgemental or hurtful. Avoid applying it casually to someone in a sensitive conversation.
+
+**be the spitting image of someone**
+- **Meaning:** To look extremely similar to another person, especially a parent or other relative.
+- **Register:** Informal to neutral; common in British English.
+- **Use:** Most often used for physical resemblance across generations.
+- **Example:** At the same age, she was **the spitting image of her mother**.
+- **Caution:** Primarily about appearance, not personality. “A dead ringer for someone” is a related informal idiom, but is not included as a separate entry here.
+
+**be cut from the same cloth**
+- **Meaning:** To be very similar in character, attitudes, or behaviour.
+- **Register:** Neutral to semi-formal.
+- **Use:** Can describe relatives who share a temperament or values, but also people who are not related.
+- **Example:** The two brothers are **cut from the same cloth**: both are cautious, private, and fiercely independent.
+- **Caution:** It can be approving or critical depending on the qualities being described.
+
+## Proverbs
+
+**Children are a blessing.**
+- **Meaning:** Children can bring great joy and value to a family.
+- **Register:** Neutral to formal; often religious or sentimental depending on context.
+- **Use:** Common in family celebrations and personal reflections, especially in communities where children are viewed as a blessing.
+- **Example:** “The house feels so lively now.” “Children are a blessing.”
+- **Caution:** This is a widely used proverbial statement rather than a fixed, uniquely English proverb. Avoid using it to dismiss someone’s struggles with parenting or infertility.
+
+**You can choose your friends, but you can’t choose your family.**
+- **Meaning:** Friendships are usually voluntary, whereas family relationships are assigned by birth or circumstance.
+- **Register:** Informal to neutral.
+- **Use:** Often said humorously or ruefully when relatives are difficult or very different from one another.
+- **Example:** My cousins and I argue about everything, but you can choose your friends—you can’t choose your family.
+- **Caution:** People can set boundaries and choose how much contact they have with relatives; the proverb does not mean someone must accept mistreatment.
+
+## Expressions
+
+**the little one(s)**
+- **Meaning:** An affectionate way to refer to a young child or children.
+- **Priority / level:** Core · A2–B1
+- **Register:** Informal to neutral.
+- **Example:** I'll need to leave by five to pick up the little ones.
+- **Nuance:** Often used for children generally, not only babies.

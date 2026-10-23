@@ -20,3 +20,12 @@ A person who depends on someone else for financial support.
   - She listed her son as a dependant on the form.
   - He declared his daughter as a **financial dependant**.
   - The allowance is available for each **eligible dependant**.
+
+## Phrasal Verbs
+
+**take someone in**
+- **Meaning:** To let a child or relative live in your home and care for them, often when they have nowhere else to go.
+- **Priority / level:** Recognition · B2
+- **Register:** Neutral.
+- **Example:** When her sister could no longer care for the boy, she took him in.
+- **Usage note:** It can also mean understand or deceive someone, depending on context.

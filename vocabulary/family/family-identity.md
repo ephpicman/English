@@ -32,3 +32,65 @@ A person who has the same name as someone else, especially someone they are name
   - He was named after his grandfather and became his namesake.
   - She is her grandmother's **namesake**.
   - He was named after his uncle and is his **uncle's namesake**.
+
+## Idioms
+
+**flesh and blood**
+- **Meaning:** A person's family or relatives, especially when emphasising a strong natural connection.
+- **Register:** Neutral; can sound emotional or emphatic.
+- **Use:** Often appears in “one's own flesh and blood”. It may express loyalty, obligation, or disbelief about how a relative behaves.
+- **Example:** She could not imagine abandoning her **own flesh and blood**.
+- **Caution:** It can imply that family connection should matter more than it actually does to the speaker; it is not always affectionate.
+
+**keep it in the family**
+- **Meaning:** To keep something, such as information, a business, or a responsibility, within the family rather than involving outsiders.
+- **Register:** Neutral to informal.
+- **Use:** The exact implication depends on context; it can refer to a family business, a private matter, or passing something on to relatives.
+- **Example:** They decided to **keep the business in the family** and pass it on to their daughter.
+- **Caution:** It can imply secrecy or exclusion when used about information or decisions.
+
+**be born with a silver spoon in your mouth**
+- **Meaning:** To be born into a wealthy or privileged family.
+- **Register:** Neutral to informal, often critical.
+- **Use:** Used when discussing inherited wealth, privilege, or advantages someone had from birth.
+- **Example:** He was **born with a silver spoon in his mouth**, so he never had to worry about paying university fees.
+- **Caution:** Often carries criticism or resentment; avoid it if you want to sound completely neutral.
+
+## Proverbs
+
+**Blood is thicker than water.**
+- **Meaning:** Traditionally, family relationships are stronger or more important than other relationships.
+- **Register:** Neutral; traditional.
+- **Use:** Often invoked to argue that relatives should support one another, especially during conflict.
+- **Example:** When the family business was in trouble, his relatives helped him, saying that blood is thicker than water.
+- **Caution:** It can pressure people to tolerate harmful behaviour from relatives. The saying’s history and alternative interpretations are debated; in ordinary modern use, the conventional meaning above is the one most people recognise.
+
+**Charity begins at home.**
+- **Meaning:** People should first show care, responsibility, and generosity towards those closest to them.
+- **Register:** Neutral to semi-formal; traditional.
+- **Use:** Used when arguing that someone should help their family or local community before focusing on wider causes.
+- **Example:** He volunteers abroad every summer, but his elderly parents also need support—charity begins at home.
+- **Caution:** It can be used to encourage responsibility, but also to criticise people unfairly for helping others.
+
+**A family that eats together stays together.**
+- **Meaning:** Sharing meals can help family members maintain closeness and communication.
+- **Register:** Neutral; modern proverbial saying.
+- **Use:** Used to encourage regular family meals and time spent together.
+- **Example:** They make time for dinner without phones because they believe a family that eats together stays together.
+- **Caution:** This is a modern popular saying, not an ancient proverb, and shared meals alone do not guarantee a healthy family relationship.
+
+**The family that prays together stays together.**
+- **Meaning:** Shared religious practice is presented as a way to strengthen family unity.
+- **Register:** Traditional; religious.
+- **Use:** Used in religious communities or when discussing faith as part of family life.
+- **Example:** For them, evening prayer is a family ritual; they grew up hearing that the family that prays together stays together.
+- **Caution:** This is a religious slogan/proverbial saying, not a universal fact. Avoid assuming that all families share the same beliefs or practices.
+
+## Expressions
+
+**a close-knit family**
+- **Meaning:** A family whose members have strong relationships and support one another.
+- **Priority / level:** Core · B1
+- **Register:** Neutral to semi-formal.
+- **Example:** They're a close-knit family and see each other most weekends.
+- **Nuance:** Positive description; it does not mean relatives never disagree.

@@ -105,3 +105,115 @@ To care for a child and teach them how to behave.
   - They worked together to **bring up children** who were kind and independent.
   - It takes a community to **bring up a child**.
 
+## Proverbs
+
+**It takes a village to raise a child.**
+- **Meaning:** Raising a child successfully requires support from a wider community, not only the parents.
+- **Register:** Neutral to semi-formal.
+- **Use:** Common in discussions of parenting, education, childcare, and community support.
+- **Example:** The neighbours, teachers, and grandparents all help the children thrive; it really takes a village to raise a child.
+- **Caution:** Often associated with African-origin communal wisdom, but the exact origin and attribution are not straightforward. Use it to emphasise shared support, not to undermine parents’ role.
+
+## Phrasal Verbs
+
+**bring someone up**
+- **Meaning:** To care for and raise a child.
+- **Priority / level:** Core · B1
+- **Register:** Neutral; especially common in British English.
+- **Example:** She was brought up by her grandparents.
+- **Nuance:** “Bring up” can also mean introduce a topic in conversation; the object and context distinguish the meanings.
+
+**take care of someone**
+- **Meaning:** To provide the care or help a child or family member needs.
+- **Priority / level:** Core · A2
+- **Register:** Neutral.
+- **Example:** His grandmother took care of him while his parents were at work.
+- **Usage note:** This is a verb phrase rather than a strict phrasal verb, but it is highly relevant to family care.
+
+**bring someone along**
+- **Meaning:** To bring a child or family member with you to an event or place.
+- **Priority / level:** Core · B1
+- **Register:** Informal to neutral.
+- **Example:** You can bring the kids along to the family picnic.
+- **Usage note:** The phrase is general-purpose, but this is a common practical use in family plans.
+
+**look after someone**
+- **Meaning:** To take care of a child or family member.
+- **Priority / level:** Core · A2
+- **Register:** Neutral; common in British English.
+- **Example:** Could you look after the children while I go to the pharmacy?
+- **Usage note:** “Look after” is especially common in British English; American English often uses “take care of”.
+
+**babysit for someone**
+- **Meaning:** To look after someone's child for a short time while the parent or usual carer is away.
+- **Priority / level:** Core · B1
+- **Register:** Informal to neutral.
+- **Example:** My brother often babysits for us on Saturday evenings.
+- **Usage note:** “Babysit” is the main verb; “sit for” is the phrasal-verb construction.
+
+## Expressions
+
+**juggle work and family**
+- **Meaning:** To manage work and family responsibilities at the same time.
+- **Priority / level:** Core · B1–B2
+- **Register:** Neutral.
+- **Example:** He's finding it hard to juggle work and family while his partner is away.
+- **Nuance:** “Juggle” suggests competing demands that require careful management.
+
+**have childcare sorted**
+- **Meaning:** To have arranged who will look after a child.
+- **Priority / level:** Core · B1–B2
+- **Register:** Informal; common in British English.
+- **Example:** I can stay late if I've got childcare sorted.
+- **Nuance:** “Sorted” means arranged or dealt with.
+
+**family commitments**
+- **Meaning:** Family responsibilities or plans that affect when someone is available.
+- **Priority / level:** Core · B2
+- **Register:** Neutral to semi-formal.
+- **Example:** I'm afraid I can't attend the evening event because of family commitments.
+- **Nuance:** Useful at work when you want to explain unavailability without sharing private details.
+
+**be an empty nester**
+- **Meaning:** To be a parent whose children have grown up and moved out.
+- **Priority / level:** Recognition · B2
+- **Register:** Neutral.
+- **Example:** Now that both children have moved out, they're getting used to being empty nesters.
+- **Nuance:** The transition can feel positive, sad, or mixed.
+
+**the school run**
+- **Meaning:** The routine of taking children to school or collecting them.
+- **Priority / level:** Core · B1
+- **Register:** Informal to neutral; particularly British English.
+- **Example:** I can't make a meeting at three because I have to do the school run.
+- **Nuance:** Can refer to the morning drop-off, afternoon collection, or both.
+
+**after-school club**
+- **Meaning:** An organised activity or childcare session after the school day.
+- **Priority / level:** Core · B1
+- **Register:** Neutral; common in the UK.
+- **Example:** I've booked her into after-school club on Tuesdays.
+- **Nuance:** Common in school messages and conversations between parents.
+
+**wraparound care**
+- **Meaning:** Childcare before and/or after normal school hours.
+- **Priority / level:** Recognition · B2
+- **Register:** Neutral to semi-formal; common in UK school administration.
+- **Example:** Does the school offer wraparound care from half past seven?
+- **Nuance:** More likely in school emails, forms, and policies than casual chat.
+
+**start a family**
+- **Meaning:** To begin having children.
+- **Priority / level:** Core · A2–B1
+- **Register:** Neutral.
+- **Use:** Common when people discuss future plans as a couple.
+- **Example:** We're hoping to start a family in the next couple of years.
+- **Nuance:** It can be a personal or sensitive topic, so avoid assuming everyone wants or can have children.
+
+
+**be trying for a baby**
+- **Meaning:** To be actively trying to conceive a child.
+- **Priority / level:** Recognition · B2
+- **Register:** Informal to neutral.
+- **Example:** They're trying for a baby, but they haven't told many people.
+- **Nuance:** Useful to understand, but fertility is private; avoid asking people about it unless they raise the subject.

@@ -165,3 +165,72 @@ Related by blood.
   - The study examined genetic risks in consanguineous couples.
   - The report discussed **consanguineous marriages**.
   - They studied health risks among **consanguineous couples**.
+
+## Idioms
+
+**run in the family**
+- **Meaning:** To be a quality, ability, habit, or condition shared by several members of a family.
+- Register: Neutral.
+- **Use:** Common in everyday conversation. Often used for looks, talents, habits, and inherited traits; it does not necessarily mean a trait is genetically inherited.
+- **Example:** Musical talent seems to **run in the family**; both of her children play the piano.
+- **Caution:** This is about a shared family trait, not simply about people spending time together.
+
+**a chip off the old block**
+- **Meaning:** Someone, often a child, who strongly resembles one of their parents in character or behaviour.
+- **Register:** Informal to neutral; slightly old-fashioned.
+- **Use:** Often said when a child displays a parent's familiar manner, talent, or temperament.
+- **Example:** Daniel is **a chip off the old block**—he has the same patience and practical skills as his father.
+- **Caution:** It can suggest either a positive or negative resemblance, depending on context.
+
+**be in someone's blood**
+- **Meaning:** To be a natural or deeply ingrained part of someone's character, interests, or family tradition.
+- **Register:** Neutral.
+- **Use:** Often used for a skill, passion, or long-standing family activity.
+- **Example:** Cooking is **in her blood**; her parents and grandparents all worked as chefs.
+- **Caution:** Usually figurative, not a literal medical statement. It may imply inheritance, but does not prove a genetic cause.
+
+## Proverbs
+
+**Like father, like son.**
+- **Meaning:** A son often resembles his father in behaviour, interests, or character. The expression is also sometimes adapted for other parent–child relationships.
+- **Register:** Neutral; traditional.
+- **Use:** Said when a child behaves or thinks like their parent. It can be affectionate, amused, or critical.
+- **Example:** “He’s already fixing things around the house just like his dad.” “Like father, like son!”
+- **Caution:** The traditional wording is gender-specific. Do not assume children must resemble their parents.
+
+**Like mother, like daughter.**
+- **Meaning:** A daughter resembles her mother in behaviour, character, or interests.
+- **Register:** Neutral; traditional.
+- **Use:** A gender-specific counterpart to “like father, like son”; it can be affectionate, amused, or critical.
+- **Example:** Both are fearless on stage—like mother, like daughter.
+- **Caution:** It can reinforce stereotypes or expectations about how daughters should behave. Use only when the resemblance is relevant and welcome.
+
+**The apple doesn’t fall far from the tree.**
+- **Meaning:** Children often resemble their parents in character, habits, or abilities.
+- **Register:** Neutral; conversational.
+- **Use:** Common when a child shows a trait also seen in a parent. The resemblance can be positive or negative.
+- **Example:** Her daughter is just as determined as she is—the apple doesn’t fall far from the tree.
+- **Caution:** This is a proverb, not just a literal comparison. It describes a perceived pattern, not a rule that applies to every family.
+
+**The sins of the fathers are visited upon the children.**
+- **Meaning:** The harmful actions or mistakes of one generation can have consequences for later generations.
+- **Register:** Formal to literary; biblical in wording.
+- **Use:** Used in serious discussion of family trauma, inherited disadvantage, or the long-term consequences of parents’ actions.
+- **Example:** The novel explores how the sins of the fathers are visited upon the children, as one generation’s choices shape the next.
+- **Caution:** It can sound moralising and may unfairly imply that children are responsible for their parents’ actions. The phrase has biblical roots and is often quoted rather than used casually.
+
+**Blood will tell.**
+- **Meaning:** A person’s family background or inherited traits are believed eventually to become apparent in their behaviour or abilities.
+- **Register:** Traditional; neutral to critical depending on context.
+- **Use:** Sometimes used when someone displays a trait associated with their relatives.
+- **Example:** When the child showed the same remarkable musical ear as her grandfather, one relative said, “Blood will tell.”
+- **Caution:** It can imply that character is determined by ancestry and may carry classist or hereditary assumptions. Do not treat it as scientific evidence.
+
+## Phrasal Verbs
+
+take after someone
+- **Meaning:** To resemble a parent or another relative in appearance or personality.
+- **Priority / level:** Core · B1–B2
+- **Register:** Informal to neutral.
+- **Example:** She's very patient—she takes after her mum.
+- **Usage note:** Usually refers to family resemblance, especially personality or appearance.
