@@ -45,19 +45,21 @@ The sister of your husband or wife, or the wife of your sibling.
 
 ### 1. Dialogue: The Sunday Lunch
 
-**Emma:** Mum’s asked whether we’re coming for lunch on Sunday.
+**Emma:** Mum’s asked us over for lunch on Sunday. Are we free?
 
-**James:** We are, aren’t we? I told my parents we’d see them on Saturday.
+**James:** I thought we were seeing my parents on Sunday.
 
-**Emma:** I know. I’m just checking because your brother-in-law said he might be in town.
+**Emma:** No, Saturday. You put it in the calendar yourself.
 
-**James:** My brother or your sister’s husband?
+**James:** Did I? Right. I’ll check with Mum before I promise anything. My brother-in-law might be staying with us that weekend, too.
 
-**Emma:** See? That’s why I said his name in the message. I meant Paul, my sister’s husband.
+**Emma:** Your brother-in-law or mine?
 
-**James:** Right. He can come on Sunday if he likes. I’ll ring my mother-in-law and tell her we’ll be there Saturday as planned.
+**James:** Yours, Paul. Sorry. Family titles are a minefield.
 
-**Emma:** Brilliant. One family calendar might save us all.
+**Emma:** Just use his name, then. It’ll save us both a headache.
+
+**James:** Fair point. I’ll ring my mum and confirm Saturday.
 
 ### 2. Monologue: Our First Holiday Together
 
@@ -65,6 +67,6 @@ I was nervous about spending a week away with my in-laws because I’d only ever
 
 ### 3. Reading: The Seat at the Table
 
-When Daniel married into the family, he expected the usual learning curve: remembering birthdays, finding out who took sugar in their tea and working out which stories had already been told. What he hadn’t expected was the annual argument over where everyone should spend Christmas. His wife’s parents assumed the couple would come to them; his own mum felt that, since he was her only son, he ought to be home.
+When Daniel married, he expected the usual learning curve: remembering birthdays, finding out who took sugar in their tea and working out which stories had already been told. What he hadn’t expected was the annual argument over where everyone should spend Christmas. His wife’s parents assumed the couple would come to them; his own mum felt that, as her only son, he ought to be home.
 
-For the first few years, Daniel and his wife tried to please everyone and ended up exhausted, travelling across the country in one day. Eventually they agreed to alternate Christmas and invite both sides for a meal when it was their turn to host. Some relatives grumbled, but most adapted once they realised the couple weren’t choosing one family over the other. An old saying claims that a son belongs to his parents until he marries, while a daughter belongs to her family for life. It reflects a traditional, gendered expectation rather than a rule. In real life, in-laws get along best when people talk honestly, share the effort and accept that marriage creates new relationships—not a competition for loyalty.
+For the first few years, Daniel and his wife tried to please everyone and ended up exhausted, travelling across the country in one day. Eventually they agreed to alternate Christmas and invite both sides for a meal when it was their turn to host. Some relatives grumbled, but most adapted once they realised the couple weren’t choosing one family over the other. Daniel’s mother still occasionally hinted that he was neglecting his side, but he learnt not to treat every disappointed comment as a problem he had to fix. In-laws get along best when people talk honestly, share the effort and accept that marriage creates new relationships—not a competition for loyalty.
