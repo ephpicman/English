@@ -228,30 +228,32 @@ To care for a child and teach them how to behave.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: A Change to the Nursery Plan
+### 1. Dialogue: Sorting Out Childcare
 
 **Sophie:** Have you booked the after-school club for Thursday?
 
 **Mark:** Not yet. I need to check whether they offer **wraparound care** on the day I’m on an early shift.
 
-**Sophie:** I can do the **school run** in the morning, but I have a work meeting at three.
+**Sophie:** I can do the **school run** in the morning, but I’ve got a meeting at three.
 
-**Mark:** I’ll ask my sister to **look after** them until I get home. If that doesn’t work, could you **bring the kids along** to your meeting if it’s informal?
+**Mark:** I’ll ask my sister to **look after** them until I get home.
 
-**Sophie:** Probably not this time. Let’s get childcare sorted before we promise anything.
+**Sophie:** Good idea. I’ll check the club can take them on Friday as well, then we’ll have **childcare sorted** for the week.
 
-**Mark:** Agreed. We’re both trying to **juggle work and family**, and I don’t want to leave it to the last minute again.
+**Mark:** Thanks. We’re both trying to **juggle work and family** at the moment. I don’t want to leave it all until the last minute again.
 
 ### 2. Monologue: What I Learned from My Upbringing
 
-I grew up in a two-parent family, but my grandparents were just as important in my **upbringing**. My **maternal** grandmother taught me to cook, while my **paternal** grandfather showed me how to fix things. Now that I’m a parent, I understand that **motherhood** and **fatherhood** are less about knowing all the answers and more about being willing to learn. My partner and I try to **raise** our children with patience. Some people say **rear** or **bring up** children; the meaning is similar, though “rear” can sound more formal. We don’t always get it right, but we try to repair mistakes rather than pretend they never happen.
+I grew up in a two-parent family, but my grandparents were just as important in my **upbringing**. My **maternal** grandmother taught me to cook, while my **paternal** grandfather showed me how to fix things. Now that I’m a parent, I understand that **motherhood** and **fatherhood** are less about knowing all the answers and more about being willing to learn. My partner and I try to **raise** our children with patience. Some people say **rear** or **bring up** children; the meaning is similar, though “rear” can sound more formal. We don’t always get it right, but we try to put things right when we make mistakes.
 
 ### 3. Reading: Parenthood, Care and Family Circumstances
 
-**Parenthood** is the state or experience of being a parent; **parenting** is the day-to-day work of caring for and guiding a child. **Parental** is the adjective used for matters related to parents, including **parental responsibility**, rights and consent. **Paternity** concerns being a father, while **maternity** concerns being a mother and appears in expressions such as maternity leave and maternity care. A **single parent** raises a child without a partner sharing the household parenting role; a **single-parent family** is organised around one parent. A **two-parent family** has two parents, although family structures and responsibilities vary. Parents who are separated may still **co-parent**, sharing decisions and care.
+**Parenthood** is the state or experience of being a parent; **parenting** is the day-to-day work of caring for and guiding a child. **Parental** is the adjective used for matters related to parents, including **parental responsibility**, rights and consent. **Paternity** concerns being a father, while **maternity** concerns being a mother and appears in expressions such as maternity leave and maternity care. A **single parent** raises a child without a partner sharing the day-to-day parenting role; a **single-parent family** is organised around one parent. A **two-parent family** has two parents, although family structures and responsibilities vary. Parents who are separated may still **co-parent**, sharing decisions and care.
 
-To **raise** or **bring up** a child is to care for them as they grow; **rear** is a similar, somewhat more formal verb. A **neglectful parent** fails to provide the care a child needs. Other adults may **take care of** children, **babysit for** a parent, or **look after** them for a short time. Parents may **juggle work and family**, manage **family commitments**, arrange an **after-school club** or **wraparound care**, and make sure they **have childcare sorted**. The **school run** means taking children to or collecting them from school. **Bring someone along** means to take that person with you, as in “You can bring the children along to the picnic.” When children leave home, their parents may become **empty nesters**. Adults may talk about wanting to **start a family** or **trying for a baby**, but these are personal matters and shouldn’t be assumed or pressed.
+To **raise** or **bring up** a child is to care for them as they grow; **rear** is a similar, somewhat more formal verb. A **neglectful parent** fails to provide the care a child needs. Other adults may **take care of** children, **babysit for** a parent or **look after** them for a short time. Parents may **juggle work and family**, manage **family commitments**, arrange an **after-school club** or **wraparound care**, and make sure they **have childcare sorted**. The **school run** means taking children to or collecting them from school. **Bring someone along** means to take that person with you, as in “You can bring the children along to the picnic.” When children leave home, their parents may become **empty nesters**. Adults may talk about wanting to **start a family** or **trying for a baby**, but these are personal matters and shouldn’t be assumed or pressed.
 
 The saying **“It takes a village to raise a child”** highlights the role of community support. **“As the twig is bent, so grows the tree”** suggests that early experiences influence later character, though they do not determine a person’s future. These sayings are useful to recognise, but neither should be treated as a complete theory of child development.
