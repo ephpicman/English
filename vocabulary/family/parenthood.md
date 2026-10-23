@@ -3,7 +3,7 @@
 **co-parent**: `/ˌkəʊ ˈpeərənt/` - `n. [C]`  
 A person who shares the responsibility of raising a child with another parent.
   - They continue to co-parent their daughter after separating.
-  - They often discuss **co-parent** a child after separation.
+  - They learned to **co-parent a child after separation**.
   - They often discuss a **co-parenting arrangement**.
 
 **single parent**: `/ˌsɪŋɡl ˈpeərənt/` - `n. [C]`  
@@ -16,13 +16,13 @@ A parent who brings up a child without a partner.
 A family in which one parent brings up the children.
   - The school offers extra support to children from single-parent families.
   - They often discuss children from a **single-parent family**.
-  - They often discuss support a **single-parent family**.
+  - The local centre works to **support a single-parent family** in need.
 
 **two-parent family**: `/ˌtuː ˈpeərənt ˌfæməli/` - `n. [C]`  
 A family in which a child is raised by two parents.
   - The survey included children living in a two-parent family.
   - They often discuss a **two-parent family household**.
-  - They often discuss grow up in a **two-parent family**.
+  - Many children **grow up in a two-parent family**.
 
 **paternal**: `/pəˈtɜːnl/` - `adj.`  
 Related to someone's father or the father's side of a family.
@@ -40,7 +40,7 @@ Related to someone's mother or the mother's side of a family.
 The state of being someone's father.
   - The test was used to establish paternity.
   - They often discuss a **paternity test**.
-  - They often discuss establish **paternity**.
+  - The court ordered a test to **establish paternity**.
 
 **maternity**: `/məˈtɜːnəti/` - `n. [U]`  
 The state of being a mother.
@@ -84,25 +84,25 @@ The way a child is cared for and taught while growing up.
 A parent who fails to provide the care their child needs.
   - The social worker intervened because the child had been left with a neglectful parent.
   - They often discuss a **neglectful parent**.
-  - They often discuss report a **neglectful parent**.
+  - The teacher had a duty to **report a neglectful parent** to social services.
 
 **raise**: `/reɪz/` - `v. [T]`  
 To care for a child until they become an adult.
   - They worked hard to raise three children.
-  - They often discuss **raise a family**.
-  - They often discuss **raise children**.
-  - They often discuss **raise a child alone**.
+  - They hope to **raise a family** near the coast.
+  - It takes patience and time to **raise children**.
+  - She had to **raise a child alone** after her partner died.
 
 **rear**: `/rɪə(r)/` - `v. [T]`  
 To care for and bring up a child.
   - Some birds return to the same place each year to rear their young.
-  - They often discuss **rear children**.
-  - They often discuss **rear a family**.
+  - Some parents find it challenging to **rear children** while working full-time.
+  - They moved to the countryside to **rear a family** in a quieter place.
 
 **bring up**: `/ˌbrɪŋ ˈʌp/` - `v. [T]`  
 To care for a child and teach them how to behave.
   - Her grandparents helped bring her up.
-  - They often discuss **bring up children**.
-  - They often discuss **bring up a child**.
-  - They often discuss be **brought up by** grandparents.
+  - They worked together to **bring up children** who were kind and independent.
+  - It takes a community to **bring up a child**.
+  - He was **brought up by** his grandparents in the countryside.
 
