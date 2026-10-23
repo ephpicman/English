@@ -35,28 +35,30 @@ Involving a system in which women hold most of the power in a family or society.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: The Wedding Speech
+### 1. Dialogue: Who’s Making the Decision?
 
-**Maya:** Is your grandfather giving the speech at the wedding?
+**Maya:** Is your gran still organising the family reunion?
 
-**Sam:** He offered, but Grandma’s doing it. She’s the one who remembers everyone’s stories.
+**Sam:** Pretty much. If she doesn’t sort it, no one remembers to book anything.
 
 **Maya:** So she’s the **matriarch** of the family?
 
-**Sam:** I suppose so, though she’d laugh if we called her that. Grandad was treated as the **patriarch** when he was younger, but decisions have always depended on who knows most about the situation.
+**Sam:** She’d laugh at that, but she is the person everyone turns to. My grandad used to be seen as the **patriarch**, mostly because he was the eldest man in the family.
 
-**Maya:** Sounds like your family has moved on from some old traditions.
+**Maya:** Does your uncle still think the men should make the big decisions?
 
-**Sam:** Definitely. My great-uncle still thinks a **patriarchal** family is the natural order, but my cousins disagree. We don’t want a **matriarchal** system instead; we’d rather everyone have a say.
+**Sam:** He does. He’d call that a **patriarchal** way of doing things. Gran says there’s no need to replace it with a **matriarchal** system; everyone should get a say.
 
-### 2. Monologue: The Family Business
+### 2. Monologue: Taking Over the Bakery
 
-When my aunt took over the family bakery, some relatives assumed she would let her older brother make the important decisions. She didn’t. She listened to him, but she also spoke to the staff and checked the accounts before deciding whether to open a second shop. At family dinners, people sometimes joke about who **wears the trousers**, especially when my uncle changes his mind after talking to her. The joke is familiar, but it can make leadership sound like a contest between spouses. In reality, the bakery works because responsibilities are clear and people are willing to explain their choices.
+When my aunt took over the family bakery, some relatives assumed she would let her older brother make the important decisions. She listened to his advice, but she also spoke to the staff and checked the accounts before deciding whether to open a second shop. At family dinners, my uncle sometimes jokes that she **wears the trousers**. She usually laughs, then reminds him that she’s the one responsible for the business. The joke is familiar, but it makes leadership sound like a contest between men and women. In practice, the bakery runs well because people know their responsibilities and can explain their decisions.
 
-### 3. Reading: Describing Power Without Stereotypes
+### 3. Reading: Describing Family Power
 
-A **patriarch** is traditionally the senior or influential man in a family; a **matriarch** is the corresponding senior or influential woman. The terms can describe respected elders, but they may also suggest that one person holds unusual power. **Patriarchal** describes a structure in which men hold most authority, while **matriarchal** describes one in which women hold most authority. These adjectives are often used in discussions of social history, inheritance, leadership and cultural expectations. They should not be applied casually to every family with a strong father or mother.
+A **patriarch** is traditionally the senior or influential man in a family; a **matriarch** is the corresponding senior or influential woman. The terms may describe respected elders, but they can also suggest that one person holds most of the power. **Patriarchal** describes a structure in which men hold most authority, while **matriarchal** describes one in which women hold most authority. These words often appear in discussions of social history, inheritance and cultural expectations, and should not be applied casually to every family with a strong father or mother.
 
-The British informal idiom **wear the trousers** means to have the greater control in a relationship or household. It can be playful, but it carries assumptions about gender and power, so context matters. When describing a family, it is usually more precise to explain who makes a particular decision, how responsibilities are shared, and whether other members can disagree. A respected elder does not necessarily control the household, and shared decision-making does not require every family member to have the same role.
+The British informal idiom **wear the trousers** means to have the greater control in a relationship or household. It can be playful, but it may also carry old-fashioned assumptions about gender. When describing a family, it is often more precise to say who makes a particular decision and how responsibilities are shared. A respected elder does not necessarily control the household, and shared decision-making does not mean that everyone must have exactly the same role.
