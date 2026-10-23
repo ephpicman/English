@@ -34,6 +34,8 @@ A person who depends on someone else for financial support.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
 ### 1. Dialogue: The Flatshare Budget
@@ -46,7 +48,7 @@ A person who depends on someone else for financial support.
 
 **Tom:** And it asks whether anyone is a **dependant**. My son lives with me, so I’ll include him.
 
-**Priya:** Right. Who’s the **breadwinner** in your household?
+**Priya:** Who’s the **breadwinner** in your household?
 
 **Tom:** We both work now. When my son was little, I was the **homemaker** for a while and my partner earned most of the money. It changes depending on what the family needs.
 
