@@ -31,26 +31,30 @@ Involving a system in which women hold most of the power in a family or society.
 
 ---
 
+---
+
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Who Makes the Decisions?
+### 1. Dialogue: The Wedding Speech
 
-**Nora:** Does your family still expect your grandfather to make all the big decisions?
+**Maya:** Is your grandfather giving the speech at the wedding?
 
-**Amir:** He used to be the **patriarch** of the family, but things have changed. My grandmother is just as influential; she's the **matriarch**.
+**Sam:** He offered, but Grandma’s doing it. She’s the one who remembers everyone’s stories.
 
-**Nora:** So it's not simply a **patriarchal** household?
+**Maya:** So she’s the **matriarch** of the family?
 
-**Amir:** Not anymore. My grandfather grew up with **patriarchal** traditions, while my grandmother's role has always challenged some of those expectations. We try not to assume that authority should belong to men or women automatically.
+**Sam:** I suppose so, though she’d laugh if we called her that. Grandad was treated as the **patriarch** when he was younger, but decisions have always depended on who knows most about the situation.
 
-**Nora:** That sounds more balanced.
+**Maya:** Sounds like your family has moved on from some old traditions.
 
-**Amir:** Yes. In our family, being respected matters more than being in charge.
+**Sam:** Definitely. My great-uncle still thinks a **patriarchal** family is the natural order, but my cousins disagree. We don’t want a **matriarchal** system instead; we’d rather everyone have a say.
 
-### 2. Monologue: Changing Family Roles
+### 2. Monologue: The Family Business
 
-In some families, a **patriarch** has traditionally been the senior male figure who guides decisions, while a **matriarch** is the senior female figure with comparable influence. A **patriarchal** system gives men greater authority, and the adjective **matriarchal** describes a system in which women hold central authority. These words can describe family traditions, but they shouldn't be treated as labels that explain every individual family. In my own family, older relatives still offer advice, yet decisions are increasingly made together. I respect the experience of both the patriarch and matriarch figures in our lives without believing that age or gender should automatically give someone the final say.
+When my aunt took over the family bakery, some relatives assumed she would let her older brother make the important decisions. She didn’t. She listened to him, but she also spoke to the staff and checked the accounts before deciding whether to open a second shop. At family dinners, people sometimes joke about who **wears the trousers**, especially when my uncle changes his mind after talking to her. The joke is familiar, but it can make leadership sound like a contest between spouses. In reality, the bakery works because responsibilities are clear and people are willing to explain their choices.
 
-### 3. Reading: Family Authority and Tradition
+### 3. Reading: Describing Power Without Stereotypes
 
-The words **patriarch** and **matriarch** refer to influential senior figures in a family, traditionally a man and a woman respectively. **Patriarchal** and **matriarchal** are adjectives used to describe family structures or social systems in which authority is associated primarily with men or women. These terms are useful when discussing family history, inheritance, decision-making, and changing social expectations. However, the presence of a patriarch or matriarch does not by itself prove that every decision follows a single pattern. Family authority can be shared, informal, or different across generations. Describing a family accurately therefore requires attention to its actual relationships and practices rather than relying on the labels alone.
+A **patriarch** is traditionally the senior or influential man in a family; a **matriarch** is the corresponding senior or influential woman. The terms can describe respected elders, but they may also suggest that one person holds unusual power. **Patriarchal** describes a structure in which men hold most authority, while **matriarchal** describes one in which women hold most authority. These adjectives are often used in discussions of social history, inheritance, leadership and cultural expectations. They should not be applied casually to every family with a strong father or mother.
+
+The British informal idiom **wear the trousers** means to have the greater control in a relationship or household. It can be playful, but it carries assumptions about gender and power, so context matters. When describing a family, it is usually more precise to explain who makes a particular decision, how responsibilities are shared, and whether other members can disagree. A respected elder does not necessarily control the household, and shared decision-making does not require every family member to have the same role.
