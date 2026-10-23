@@ -132,36 +132,28 @@ A person who shares a great-grandparent with you, typically the child of your pa
 
 ---
 
----
-
----
-
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Gran’s Birthday
+### 1. Dialogue: Sunday at Gran’s
 
-**Nina:** Are you still coming to Gran’s on Sunday?
+**Ellie:** Are we taking anything to Gran’s, or is Auntie Sue doing all the cooking again?
 
-**Jack:** Of course. Is Auntie Jo bringing that lemon cake?
+**Tom:** Mum’s bringing pudding. Dad said he’d pick up Grandad, but he’s just texted to say the car won’t start.
 
-**Nina:** She is. Uncle Peter’s giving Gran a lift, so I’ll get there early and help set the table.
+**Ellie:** Typical. I’ll ask Uncle Rob if he can collect him. Is your cousin Mia coming?
 
-**Jack:** Is Ella coming too?
+**Tom:** She’s already there. She went over to help Gran with the garden.
 
-**Nina:** Yes, my cousin. Dad’s sister is her mum.
+**Ellie:** Right, I’ll bring my coat, then. If we’re all out there, I’m not getting stuck washing up on my own.
 
-**Jack:** And is Great-Gran coming?
+**Tom:** You say that every time, and somehow you’re always first at the sink.
 
-**Nina:** I hope so. She wasn’t feeling brilliant last week, but she said she’d see how she feels on the day.
+### 2. Monologue: The Family Reunion
 
-**Jack:** Lovely. It’ll be nice to get everyone together for once.
+At our last family reunion, I was put in charge of the seating plan, which was a mistake from the start. My mum’s brother wouldn’t sit near my dad’s sister because of an argument neither of them could properly remember. Meanwhile, the cousins who’d barely seen one another since childhood were chatting as if no time had passed. My great-aunt arrived with a tin of old photographs and soon had three generations gathered round her, trying to work out who was who. By the end of the afternoon, the seating plan was in the bin and everyone was moving chairs about. It was noisy, slightly chaotic and much better than the tidy arrangement I’d planned.
 
-### 2. Monologue: The Photograph Album
+### 3. Reading: The Cousin Nobody Knew
 
-My grandma has an old photograph album that comes out whenever the family visits. My grandad is usually the one who tells the stories, although he often gets the dates wrong. My brother calls her **Granny**, while I’ve always called her **Gran**; my cousins say **Grandma** and **Grandpa** for their grandparents. One photograph shows my great-grandmother as a young woman, standing beside my great-grandfather outside a little shop. We spent an afternoon labelling the pictures, working out which **grandparent** belonged to which branch of the family. It was a lovely way to introduce the youngest **grandchildren** to relatives they’d only heard about.
+When a letter arrived from a woman in Wales asking about the family’s old farm, Martin assumed it was a mistake. His mum recognised the surname straight away: the woman was his second cousin, the granddaughter of a great-uncle who had emigrated decades earlier. They had never met, and the family tree on Martin’s wall didn’t even include her branch.
 
-### 3. Reading: Cousins and Generations
-
-Your mother’s or father’s parent is your **grandparent**; that person’s daughter or son may be your **aunt** or **uncle**. Their child is your **cousin**, usually your **first cousin**. **Second cousins** generally share a great-grandparent. The phrase “once removed” means that two cousins belong to different generations.
-
-Your child’s child is your **grandchild**—a **grandson** or **granddaughter**. The child of your grandchild is your **great-grandchild**, either a **great-grandson** or **great-granddaughter**. The parent of one of your grandparents is your **great-grandparent**, either a **great-grandmother** or **great-grandfather**. Your sibling’s daughter is your **niece**, and your sibling’s son is your **nephew**. Informal forms such as **grandma**, **granny**, **grandad**, **grandpa** and **auntie** vary by family and region. These labels can help explain a relationship, but families often have their own names for the people they love.
+The woman came to visit that summer with photographs and a story about a family heirloom that had gone missing after the war. Martin’s grandad remembered hearing about it as a child. Between the photographs, a few half-remembered stories and a long afternoon on the phone to relatives, they pieced together what had happened. They didn’t discover a grand secret; the heirloom had simply been sold when money was tight. Still, the visit gave the family a new connection. It was a reminder that relatives can be strangers for years and then, with a little effort, become part of one another’s lives.
