@@ -3,14 +3,10 @@
 **patriarch**: `/ˈpeɪtriɑːk/` - `n. [C]`  
 The oldest or most powerful male member of a family.
   - As the family patriarch, he was often asked to settle disagreements.
-  - The family patriarch made the **final decision**.
-  - He was regarded as the **head of the family**.
 
 **matriarch**: `/ˈmeɪtriɑːk/` - `n. [C]`  
 The oldest or most powerful female member of a family.
   - The family matriarch organised the annual reunion.
-  - The family matriarch organised the **family gathering**.
-  - She was the **undisputed head of the family**.
 
 **patriarchal**: `/ˌpeɪtriˈɑːkl/` - `adj.`  
 Involving a system in which men hold most of the power in a family or society.
