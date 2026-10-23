@@ -94,3 +94,29 @@ A person who has the same name as someone else, especially someone they are name
 - **Register:** Neutral to semi-formal.
 - **Example:** They're a close-knit family and see each other most weekends.
 - **Nuance:** Positive description; it does not mean relatives never disagree.
+
+---
+
+## Practice: Dialogue, Monologue and Reading
+
+### 1. Dialogue: What's in a Name?
+
+**Sam:** The form asks for my **given name** and **surname**. Is surname the same as **family name**?
+
+**Leila:** Yes, in many contexts. Your **given name** is the name given to you, and your **surname**, or **family name**, is usually shared with other family members.
+
+**Sam:** What about your **maiden name**? Is that still on your passport?
+
+**Leila:** I changed my surname after marriage, but my **birth name** was different. Some people keep their maiden name, some change it, and others use both.
+
+**Sam:** My little brother was named after our grandfather, so he's his **namesake**.
+
+**Leila:** That's a lovely family tradition.
+
+### 2. Monologue: The Story Behind My Name
+
+My name is part of my family identity, but it doesn't tell the whole story. I have a **given name** and a **surname**, also known as a **family name**. My sister kept her **maiden name** after marriage, while another relative chose to use a different surname from her **birth name**. These choices are personal and can reflect culture, family history, or practical reasons. My cousin is named after our great-grandfather, so he is his **namesake**. I like learning where our names come from, but I also think people should be free to decide how they want their names to be used.
+
+### 3. Reading: Names and Family Identity
+
+Names can connect people to family history, culture, and personal identity. A **given name** is the name assigned to a person, while a **surname**—also called a **family name**—is commonly shared by members of a family. A **birth name** is the name a person was given at birth. **Maiden name** traditionally refers to a woman's surname before marriage, although naming practices vary and the term may not fit everyone's experience. A **namesake** is someone who is named after another person. These terms can be useful when completing official forms or researching family records, but naming customs differ across cultures. It is best to ask how a person wishes their name to be recorded rather than assume that marriage, gender, or family tradition determines it.
