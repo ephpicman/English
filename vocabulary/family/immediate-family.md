@@ -251,3 +251,37 @@ Older than all the other children in a family.
 - **Register:** Informal to neutral.
 - **Example:** I'll need to leave by five to pick up the little ones.
 - **Nuance:** Often used for children generally, not only babies.
+
+---
+
+## Practice: Dialogue, Monologue and Reading
+
+### 1. Dialogue: A Busy Family Dinner
+
+**Alex:** Are both your **parents** coming tonight?
+
+**Mia:** Yes, my **mum** and **dad**. When I was little, I called them **mummy** and **daddy**.
+
+**Alex:** Is your **stepfather** coming too?
+
+**Mia:** Yes. My mum remarried, so he's my **step-parent**. I also have a **stepmother** on my dad's side.
+
+**Alex:** How many children are in your family?
+
+**Mia:** I'm an **only child**, but my partner has a **brother** and a **sister**. His **siblings** sometimes argue—classic **sibling rivalry**! He has a **half-brother**, a **half-sister**, a **stepbrother**, and a **stepsister**, so our family gatherings are lively.
+
+**Alex:** Any twins?
+
+**Mia:** Yes, my cousin has **identical twins**, and another relative has **non-identical twins**. There are also **triplets** in the wider family. I know the word **multiple** can refer to more than one baby from the same pregnancy; **quadruplets** are four babies.
+
+**Alex:** What about your children?
+
+**Mia:** We have a **son** and a **daughter**. They're our **offspring**—or, more formally, our **progeny**. My eldest is the **elder** of the two, and she's the **eldest** child in our household.
+
+### 2. Monologue: My Immediate Family
+
+My **immediate family** is a little complicated, but we're close. My **parents**, my **mother** and **father**, are often called **mum** and **dad**; when I was small, I said **mummy** and **daddy**. After they separated, both formed new relationships, so I also have a **stepmother** and a **stepfather**. My **step-parent** relationships have developed over time. I have two **siblings**, a **brother** and a **sister**, and like many families, we experienced some **sibling rivalry** growing up. My partner is an **only child**, while their family includes a **stepchild**, **stepson**, **stepdaughter**, **stepbrother**, **stepsister**, and **stepsibling** from blended-family relationships. Our relatives include **half-brothers** and **half-sisters** too. One branch of the family has **identical twins**, another has **non-identical twins**, and a cousin is raising **triplets**; four babies born together are **quadruplets**. In general, **multiple** births involve more than one baby. Our **children**—our **son** and **daughter**—are our **offspring**, or **progeny** in more formal language. The **elder** child is also the **eldest** in our household.
+
+### 3. Reading: Terms for Close Family Relationships
+
+Your **immediate family** commonly includes your **parents**, **children**, and **siblings**, although definitions can vary. A **parent** may be described as a **mother** or **father**; informal forms include **mum**, **dad**, **mummy**, and **daddy**. A **child** becomes plural as **children**; a male child is a **son**, and a female child is a **daughter**. **Offspring** is a general term, while **progeny** is more formal. A **sibling** is a **brother** or **sister**. A **half-brother** or **half-sister** shares one biological parent with you. A **step-parent** is married to or partnered with your parent but is not your biological parent; **stepmother** and **stepfather** specify gender. A **stepchild**, **stepson**, or **stepdaughter** is the child of one's spouse or partner from another relationship. **Stepbrother**, **stepsister**, and **stepsibling** describe relationships formed through a parent's marriage or partnership, not necessarily a biological connection. An **only child** has no siblings. **Sibling rivalry** describes competition or conflict between siblings. Twins may be **identical twins** or **non-identical twins**; a pregnancy involving more than one baby is a **multiple** pregnancy. Three babies born together are **triplets**, and four are **quadruplets**. **Elder** compares people within a family or group, while **eldest** identifies the oldest among three or more people.
