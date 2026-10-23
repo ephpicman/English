@@ -237,34 +237,30 @@ Related by blood.
 
 ---
 
----
-
----
-
----
-
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: The Old Photograph
+### 1. Dialogue: The Attic
 
-**Ella:** Who’s this in the photo? He looks just like Dad.
+**Mum:** Don’t throw that box out. It belonged to your great-grandad.
 
-**Mum:** That’s your great-grandad when he was about twenty. There’s a real **family resemblance**.
+**Alex:** It’s full of old receipts and bits of string.
 
-**Ella:** Do we know much about his side of the family?
+**Mum:** And that watch at the bottom is a family heirloom. Your grandad wore it on his wedding day.
 
-**Mum:** Your great-grandmother wrote down what she knew about our **ancestry**. Your uncle’s been tracing the **family tree**, too.
+**Alex:** I thought it went to Uncle Peter.
 
-**Ella:** Is that what people mean by **genealogy**?
+**Mum:** It did, but he left it to me in his will. There’s a note in here as well—something about the farm.
 
-**Mum:** Yes. He even asked a **genealogist** for advice when he got stuck.
+**Alex:** Is that why everyone argues about who inherited it?
 
-### 2. Monologue: The Watch in the Drawer
+**Mum:** Partly. Your aunt thinks the land should stay in the family. I think we ought to find out what the paperwork actually says before anyone starts another row.
 
-My grandfather left me a watch that had belonged to his mother. It’s a modest **family heirloom**, scratched around the edge and too delicate to wear every day. After he died, we read his **will** to find out how his **estate** was to be dealt with. My aunt inherited his bookshop, while I was given the watch and a few photographs. There was no great fortune, just things with stories attached to them. To me, the watch is part of his **legacy**: it reminds me of the people who kept it safe before it came to me.
+### 2. Monologue: What the Old Letters Changed
 
-### 3. Reading: Ancestry, Biology and Inheritance
+I used to think family history was just a list of names and dates. Then I found a bundle of letters in my mum’s loft, tied together with a faded ribbon. They belonged to my great-grandmother, who had moved to Manchester for work when she was seventeen. The family story had always been that she’d left home because she was stubborn. Her letters told a different story: there wasn’t enough money for everyone to stay, and she sent part of her wages back every month. I started asking older relatives about her, and each remembered a different piece. I couldn’t prove every detail, but I came away with more sympathy for a woman I’d never met. Sometimes the past looks different once you hear more than one version of it.
 
-A person’s **lineage** is the line of people from whom they descend. An **ancestor** belongs to an earlier generation; a **descendant** comes later in the line. A **lineal descendant** is directly descended from a particular person. **Genealogy** is the study of family relationships, often represented in a **family tree**. **Intergenerational** stories explore how experiences and traditions pass between generations, while **generational** differences describe contrasts between age groups.
+### 3. Reading: The Will in the Tin
 
-Inheritance can refer to property received after a death or to characteristics passed through biology. **Genetic** traits may be **inherited**, and **heredity** is the passing of biological characteristics from parents to children. **Hereditary** conditions can run in families, but a resemblance does not by itself prove a genetic link; **familial** can simply mean associated with a family. **Consanguinity** means a biological relationship through a shared ancestor, and **consanguineous** describes people related in that way. In legal contexts, an **heir** may receive property under a **will**; an **heiress** is a female heir. An **inheritance** may form part of an **estate**, while **legacy** can also mean the lasting influence someone leaves behind. The saying “**Blood will tell**” suggests that ancestry shows itself in a person’s traits, but it can oversimplify both personality and biology.
+After Arthur died, his children discovered that the family farm was not going to be divided as they had expected. His will left the house to his daughter, Ruth, and a sum of money to each grandchild. The land itself was to be held in trust, because Arthur wanted it to remain a working farm rather than be sold off for development. His son felt overlooked and challenged the decision, arguing that he had spent years helping on the farm.
+
+The solicitor explained the legal position, but the family still had to deal with the hurt behind the dispute. Ruth had inherited responsibility as well as property; her brother had contributed time and labour that he felt had gone unrecognised. Their arguments were not really about the value of the estate alone. They were about what each person believed they had been promised. In the end, they agreed to review the farm’s future together. An inheritance can pass on money, land or a treasured heirloom, but it can also leave behind expectations that no will can settle neatly.
