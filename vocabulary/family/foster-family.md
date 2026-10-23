@@ -1,10 +1,10 @@
 # Foster Family
 
 **foster**: `/ˈfɒstə(r)/` - `v. [T]`  
-To take care of a child in your home, usually for a limited period, without becoming their legal parent.
+To care for a child in your home, usually temporarily, without becoming the child's adoptive parent.
 
 **foster parent**: `/ˈfɒstə peərənt/` - `n. [C]`  
-A person who takes care of a child who is not their biological child, usually temporarily.
+A person who provides a home and care for a child who is not their own, usually temporarily.
 
 **foster child**: `/ˈfɒstə tʃaɪld/` - `n. [C]`  
-A child who lives with a foster family.
+A child who is being cared for by a foster parent or foster family.
