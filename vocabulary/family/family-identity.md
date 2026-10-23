@@ -97,36 +97,30 @@ A person who has the same name as someone else, especially someone they are name
 
 ---
 
----
-
----
-
----
-
 ## Practice: Dialogue, Monologue and Reading
 
-### 1. Dialogue: Updating a Booking
+### 1. Dialogue: The Name on the Invitation
 
-**Receptionist:** Could I have your full name, please?
+**Mum:** The wedding invitation has arrived. They’ve put you down as Sophie Patel.
 
-**Aisha:** Aisha Khan.
+**Sophie:** That’s my name, isn’t it?
 
-**Receptionist:** And Khan is your **surname**, or **family name**?
+**Mum:** I know. I just wondered whether you were keeping your maiden name after the wedding.
 
-**Aisha:** That’s right. Aisha is my **given name**.
+**Sophie:** I haven’t decided. I might use Patel-Williams at work and Williams socially. I don’t see why I have to settle it this week.
 
-**Receptionist:** Has your name changed at all? I need to check it against your passport.
+**Mum:** Fair enough. Your grandad was named after his uncle, wasn’t he?
 
-**Aisha:** I changed my surname when I got married. My **maiden name** was Rahman, so my **birth name** was Aisha Rahman.
+**Sophie:** Yes, and everyone called him by his middle name anyway. Names are never as straightforward as people think.
 
-**Receptionist:** Thanks. I’ll use the name shown on your passport for the booking.
+**Mum:** Tell me about it. Your cousin’s got three names on his passport and another one everyone uses at home.
 
-### 2. Monologue: The Name I Was Given
+### 2. Monologue: Being Named After Someone
 
-My parents chose my **given name** because it belonged to a poet they both admired. Years later, I discovered that my aunt had the same name; she was my **namesake**, although neither of us had known the story when I was little. When I got married, I decided to take my partner’s surname. It was a personal choice, not something I felt I had to do. Some friends kept their own names, and others changed theirs. I don’t think a name can tell you how committed someone is to a relationship.
+When I was little, I hated being named after my aunt. Every family gathering came with the same comments: I had her laugh, her temper, even the same way of folding my arms. I’d never met her properly, because she’d moved abroad before I was born, so the comparisons felt like being measured against a stranger. When I was eighteen, I finally asked my mum why she’d chosen the name. She told me my aunt had helped her through a difficult year and that the name was a way of saying thank you. I still don’t think a name decides who you become, but I understand the choice now. I’ve kept it, though I’ve made it my own.
 
-### 3. Reading: Names and Identity
+### 3. Reading: A Name on Two Passports
 
-Names can carry family history, personal identity and cultural expectations. A **given name** is the name given to a person, while a **surname** or **family name** is the name commonly shared by members of a family. Naming systems differ around the world, so official forms do not always fit every tradition neatly. **Maiden name** traditionally refers to a woman’s surname before marriage; **birth name** can refer more broadly to the name a person had at birth. The terms do not describe everyone’s experience, and should not be used to make assumptions about someone’s identity.
+When Amir moved to Britain for university, he discovered that his name caused a different kind of problem at every turn. His passport used one spelling, his university records another, and his relatives back home called him by a nickname that none of his new friends knew. At first, he corrected everyone. Then he got tired of explaining and let small mistakes pass—until his exam entry was registered under the wrong surname.
 
-A **namesake** is someone named after another person, or someone who shares another person’s name. Some people change their names after marriage, adoption or for personal reasons; others keep the names they already use. A **close-knit family** is one whose members feel connected and support one another, not a family that never disagrees. Names and family customs can matter deeply, but individuals should be able to explain their own identity in their own words.
+Sorting it out meant visiting the university office with his documents and explaining how his family’s naming tradition worked. The administrator was helpful, but the forms had no obvious place for the information. Once the records were corrected, Amir began telling friends the story instead of feeling embarrassed by it. He also learnt that a **namesake** is someone named after another person, something he discovered when he met an older cousin who shared his given name. Their family had chosen it to honour their grandfather. Amir still uses different forms of his name in different settings. He no longer sees that as being inconsistent; it is simply part of living between languages and traditions.
