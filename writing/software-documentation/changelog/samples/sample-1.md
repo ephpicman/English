@@ -1,27 +1,35 @@
-# Example release: add export option
+# Changelog — 2.4.0
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative release entry. Version, date, and changes must be checked against the actual release before publication.*
 
 ## Version and date
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- **Version:** 2.4.0
+- **Date:** 2026-02-18
 
 ## Added
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Added an optional `status` filter to the activity-list endpoint.
+- Added a `request_id` field to error responses to help support teams trace a failed request.
 
 ## Changed
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Clarified that list results are ordered by creation time, newest first.
+- Updated the configuration guide to distinguish required settings from optional overrides.
 
 ## Fixed
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Fixed a case where an empty search query was treated differently from an omitted query.
+- Corrected an example that used an outdated response field name.
 
 ## Deprecated and removed
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- No features were deprecated or removed in this illustrative release.
 
 ## Security
 
-Document the requirement, alternatives considered, trade-offs, and operational consequences. Include security, privacy, failure handling, performance, and maintenance where relevant. Label assumptions clearly and record what evidence or test would change the decision.
+- No security change is claimed here. Check the release issue and security review before publishing real release notes.
+
+## Final quality check
+
+Confirm every item against merged changes and approved release notes. Use user-facing language, distinguish breaking changes from fixes, and do not imply a security review or guarantee unless it has been completed.

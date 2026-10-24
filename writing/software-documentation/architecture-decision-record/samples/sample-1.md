@@ -1,31 +1,37 @@
-# ADR: choosing a background job queue
+# ADR-001: Store uploaded files in object storage
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative architecture decision record. Validate the system context and implementation details before adopting this decision.*
 
 ## Title, status, date, owners
 
-**Status:** illustrative update for adr: choosing a background job queue. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+- **Status:** Accepted for the illustrative service; review before implementation.
+- **Date:** 2026-03-12
+- **Owners:** Platform team
 
 ## Context and problem
 
-**Context:** the team needs a consistent approach for adr: choosing a background job queue. The decision should be based on requirements, operational constraints, security, maintenance effort, and the team's existing capabilities. Compare realistic alternatives and state the evidence or assumptions behind the choice.
+The service accepts user-uploaded reports that must remain available after an application instance restarts. Keeping files on a local disk couples data to a particular host and complicates replacement of instances. The design needs durable storage, controlled access, and a clear retention policy.
 
 ## Decision drivers
 
-**Status:** illustrative update for adr: choosing a background job queue. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+Durability across deployments; private-by-default access; predictable retrieval; manageable operating cost; support for lifecycle and deletion policies.
 
 ## Options considered
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+1. Local filesystem: simple, but difficult to share safely across instances and deployments. 2. Relational database blobs: transactional association is convenient, but large binary payloads increase database storage and backup pressure. 3. Object storage: separates file bytes from application compute and offers access controls and lifecycle policies, but requires careful permission and URL design.
 
 ## Decision
 
-**Status:** illustrative update for adr: choosing a background job queue. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+Use a private object-storage bucket for file bytes and keep only metadata, object keys, owner IDs, content type, size, and lifecycle state in the application database. Generate short-lived download links only after authorisation. The exact provider and retention settings must be chosen for the deployment environment.
 
 ## Consequences and trade-offs
 
-**Context:** the team needs a consistent approach for adr: choosing a background job queue. The decision should be based on requirements, operational constraints, security, maintenance effort, and the team's existing capabilities. Compare realistic alternatives and state the evidence or assumptions behind the choice.
+The application must handle failed uploads, orphaned objects, and deletion consistency. Monitoring should track upload failures and storage growth. Access must not depend on an unguessable object key alone; authorisation is checked before issuing a download link.
 
 ## Follow-up and review triggers
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+Review if file sizes, retention obligations, residency requirements, or provider costs materially change. Before release, test permission boundaries, deletion behaviour, and recovery from interrupted uploads.
+
+## Final quality check
+
+Confirm that the status reflects an actual decision, alternatives were considered fairly, and the owner has approved the trade-offs. Record links to implementation issues and tests in the real repository.

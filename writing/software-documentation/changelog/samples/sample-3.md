@@ -1,27 +1,34 @@
-# Example release: improve search filters
+# Changelog — 3.0.0
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative release entry. Version, date, and changes must be checked against the actual release before publication.*
 
 ## Version and date
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- **Version:** 3.0.0
+- **Date:** 2026-04-29
 
 ## Added
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Added a new configuration command that prints the resolved non-secret settings used by the application.
 
 ## Changed
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Changed the default configuration file location to the user-specific application directory.
+- Updated the command output to use stable field names for scripting.
 
 ## Fixed
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Fixed inconsistent exit codes for invalid command-line arguments.
 
 ## Deprecated and removed
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- The legacy `--config-path` alias is removed in this illustrative major release. Use `--config` instead.
+- Scripts relying on the previous default path must be updated.
 
 ## Security
 
-Document the requirement, alternatives considered, trade-offs, and operational consequences. Include security, privacy, failure handling, performance, and maintenance where relevant. Label assumptions clearly and record what evidence or test would change the decision.
+- The diagnostic command omits values marked as secrets, but users should review the output before sharing it.
+
+## Final quality check
+
+Confirm every item against merged changes and approved release notes. Use user-facing language, distinguish breaking changes from fixes, and do not imply a security review or guarantee unless it has been completed.

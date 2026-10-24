@@ -1,27 +1,33 @@
-# Example release: update dependencies
+# Changelog — 0.9.2
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative release entry. Version, date, and changes must be checked against the actual release before publication.*
 
 ## Version and date
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- **Version:** 0.9.2
+- **Date:** 2026-05-14
 
 ## Added
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Added a retry option for transient connection failures, disabled by default.
 
 ## Changed
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Updated the troubleshooting section to explain how to distinguish authentication failures from network timeouts.
 
 ## Fixed
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Fixed a retry loop that could continue after the configured attempt limit.
+- Fixed a message that incorrectly suggested credentials were invalid for every connection error.
 
 ## Deprecated and removed
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- No deprecations or removals in this illustrative release.
 
 ## Security
 
-Document the requirement, alternatives considered, trade-offs, and operational consequences. Include security, privacy, failure handling, performance, and maintenance where relevant. Label assumptions clearly and record what evidence or test would change the decision.
+- Retry behaviour should be reviewed for the target service to avoid excessive request volume. No security certification is implied.
+
+## Final quality check
+
+Confirm every item against merged changes and approved release notes. Use user-facing language, distinguish breaking changes from fixes, and do not imply a security review or guarantee unless it has been completed.
