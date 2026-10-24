@@ -1,23 +1,28 @@
 # Apology for a delayed delivery
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative customer-service email; only promise a date confirmed by the delivery team.*
 
 ## Subject
 
-**Apology for a delayed delivery**
+**Update and apology for your delayed delivery**
 
 ## Greeting and apology
 
-Dear [Recipient], I am sorry about apology for a delayed delivery. I recognise the inconvenience and take responsibility for the part within my control. I will address the issue and update you by [confirmed date].
+Dear Ms Patel,
+
+I’m sorry your order has not arrived within the delivery window we provided. I understand this is frustrating, particularly when you have planned around an expected arrival.
 
 ## Responsibility and context
 
-Dear [Recipient], I am sorry about apology for a delayed delivery. I recognise the inconvenience and take responsibility for the part within my control. I will address the issue and update you by [confirmed date].
+The latest tracking update does not yet confirm a delivery date. We should have communicated the delay as soon as the status changed, and I apologise that we did not do so.
 
 ## Corrective action
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+I have asked the delivery team to confirm the parcel’s current status and will update you as soon as we receive a reliable estimate. If the parcel cannot be located, I will explain the available replacement or refund options under our delivery policy rather than give you an unverified date.
 
 ## Close
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Thank you for your patience. I will follow up with a clear update.
+
+Kind regards,  
+Customer Support

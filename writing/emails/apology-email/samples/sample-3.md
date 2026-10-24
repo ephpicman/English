@@ -1,23 +1,28 @@
-# Apology for an incorrect attachment
+# Apology for sending an incorrect attachment
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative email; ensure the replacement file is correct and safe to share.*
 
 ## Subject
 
-**Apology for an incorrect attachment**
+**Corrected attachment — apologies**
 
 ## Greeting and apology
 
-Dear [Recipient], I am sorry about apology for an incorrect attachment. I recognise the inconvenience and take responsibility for the part within my control. I will address the issue and update you by [confirmed date].
+Hello Jordan,
+
+I’m sorry I sent the wrong attachment with my earlier email. I can see how this could have caused confusion while you were reviewing the proposal.
 
 ## Responsibility and context
 
-Dear [Recipient], I am sorry about apology for an incorrect attachment. I recognise the inconvenience and take responsibility for the part within my control. I will address the issue and update you by [confirmed date].
+I selected an outdated draft from the same folder and failed to check the filename before sending it. I should have verified the document first.
 
 ## Corrective action
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+Please use the file attached to this message, named **Project-Proposal-Review.docx**, and disregard the earlier version. I have checked that this is the intended draft. I will archive superseded files separately to reduce the chance of repeating the mistake.
 
 ## Close
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Thank you for your understanding. I’m happy to clarify any differences between the versions.
+
+Best,  
+Sam

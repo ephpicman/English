@@ -1,23 +1,28 @@
 # Apology for a delayed project update
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative email; confirm the actual delivery date before sending.*
 
 ## Subject
 
-**Apology for a delayed project update**
+**Apology for the delayed project update**
 
 ## Greeting and apology
 
-Dear [Recipient], I am sorry about apology for a delayed project update. I recognise the inconvenience and take responsibility for the part within my control. I will address the issue and update you by [confirmed date].
+Dear Maya,
+
+I’m sorry I missed the agreed deadline for sending the project update. I understand that this has made it harder for you to prepare the steering-group briefing.
 
 ## Responsibility and context
 
-Dear [Recipient], I am sorry about apology for a delayed project update. I recognise the inconvenience and take responsibility for the part within my control. I will address the issue and update you by [confirmed date].
+I should have flagged the risk earlier instead of waiting until the update was complete. The outstanding review took longer than expected, but I remain responsible for communicating the delay.
 
 ## Corrective action
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+I will send the reviewed status summary by 3 p.m. tomorrow and mark any unresolved items clearly. For future updates, I’ll share a brief progress note one working day before the deadline if a dependency is still open.
 
 ## Close
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Thank you for your patience. I’ll let you know promptly if anything changes.
+
+Best regards,  
+Alex

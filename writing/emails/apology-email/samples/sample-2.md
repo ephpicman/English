@@ -1,23 +1,28 @@
 # Apology for a missed meeting
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative email; replace the names and details with the actual circumstances.*
 
 ## Subject
 
-**Apology for a missed meeting**
+**Apology for missing our meeting**
 
 ## Greeting and apology
 
-Dear [Recipient], I am sorry about apology for a missed meeting. I recognise the inconvenience and take responsibility for the part within my control. I will address the issue and update you by [confirmed date].
+Dear Daniel,
+
+I’m sorry I missed our 10 a.m. meeting today. I know you set aside time to discuss the handover, and I should have notified you as soon as I realised I could not attend.
 
 ## Responsibility and context
 
-Dear [Recipient], I am sorry about apology for a missed meeting. I recognise the inconvenience and take responsibility for the part within my control. I will address the issue and update you by [confirmed date].
+I misread the calendar entry and did not check the invitation carefully enough. That was my mistake, and I understand that it may have delayed the decisions you needed to make.
 
 ## Corrective action
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+I have reviewed the calendar and added a reminder for future meetings. If you are available, I can meet tomorrow afternoon or send my handover notes today so that you can continue without waiting for me.
 
 ## Close
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Please let me know which option works best for you.
+
+Kind regards,  
+Priya
