@@ -1,35 +1,37 @@
-# Advice to a friend choosing a course
+# Letter of advice: responding to a difficult situation
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative advice letter. Adapt it to the relationship and avoid presenting personal opinion as professional advice.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Acknowledge the concern, offer manageable options, and recognise the limits of the advice.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use an empathetic tone without minimising the problem or taking control away from the reader.
 
 ## Greeting and empathy
 
-Dear [Recipient or Sir/Madam], I am writing regarding advice to a friend choosing a course. I would like to explain the situation clearly and ask for an appropriate next step.
+Hi there,
+
+I’m glad you told me what has been happening. I can understand why this feels difficult, and you do not need to make every decision at once.
 
 ## Restate the problem
 
-I am concerned about advice to a friend choosing a course. The relevant details are [verified reference], [confirmed date], and [specific impact]. I have already taken the following reasonable step: [action, if applicable]. Please review the matter and explain how it can be resolved.
+It sounds as though you want to help your friend but are worried that giving advice might make the situation worse. That is a thoughtful concern.
 
 ## Advice with reasons
 
-My suggestion is to begin with one manageable step: identify the main priority, set a realistic deadline, and ask for help early if a difficulty arises. You do not need to solve everything at once. Review what works after a week and adjust your plan if necessary.
+Start by listening and asking what kind of support your friend wants. You can offer practical help, such as accompanying them to an appointment or helping them compare options, without deciding for them. If the issue involves safety or professional advice, encourage them to contact an appropriate service.
 
 ## Options and cautions
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+You do not have to solve everything yourself, and it is okay to set boundaries if the situation becomes too much for you. Keep private details confidential unless someone is at risk and help is needed.
 
 ## Encouraging close
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Being present and respectful can matter a great deal. I hope the conversation goes well.
 
 ## Final review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Check that the advice fits the situation, preserves the reader’s choice, and directs them to qualified support where the issue requires it.

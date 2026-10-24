@@ -1,35 +1,40 @@
-# Request for a reference
+# Request letter: Request for an extension on the report
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use the following sections to make the requested decision easy to understand.
 
 ## Greeting and request purpose
 
-Dear [Recipient or Sir/Madam], I am writing regarding request for a reference. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Sir or Madam,
+
+I am writing to request a two-day extension for the research report currently due on 6 November.
 
 ## Context and justification
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+Two source documents needed for the analysis became available later than expected, and I need additional time to check how they affect the comparison rather than submit a conclusion based on incomplete information.
 
 ## Specific request and scope
 
-I would be grateful if you could consider request for a reference. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+I am requesting a revised submission date of 8 November. The outline and first analysis section are complete, and I can submit the current draft if that would help you assess progress.
 
 ## Supporting information and flexibility
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I understand that extensions depend on course policy and can provide a brief progress summary. If a two-day extension is not possible, please advise what alternative is permitted.
 
 ## Timing and closing
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for considering my request. I appreciate your guidance.
+
+Yours faithfully,
+[Your name]
 
 ## Final review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.

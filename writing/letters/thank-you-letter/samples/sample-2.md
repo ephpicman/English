@@ -1,31 +1,33 @@
-# Thank-you letter after an interview
+# Thank-you letter
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative thank-you letter. Keep the details specific to the actual contribution and relationship.*
 
 ## Plan first
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+A meaningful thank-you names the contribution, explains its effect, and offers a natural next step where useful.
 
 ## Letter structure
 
-This section should support a clear decision about thank-you letter after an interview. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+Keep the tone warm and proportionate to the relationship.
 
 ## Greeting and direct thanks
 
-Thank you for your support with thank-you letter after an interview. Your time and contribution were valuable, particularly in helping clarify the next steps. I appreciate your assistance and hope we can work together again.
+Dear colleague,
+
+I would like to thank you for reviewing my application materials before the deadline.
 
 ## Specific detail and impact
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+Your comments helped me replace broad claims with clearer examples of what I had actually done. I also appreciated the reminder to connect each example to the programme’s criteria rather than listing experiences without explanation.
 
 ## Relationship or next step
 
-The recommended next step is to approve the scoped planning work, confirm ownership, and agree how results will be reviewed. Proceed only when the required resources, risks, and success criteria are explicit. Revisit the recommendation if evidence changes.
+I have submitted the revised application and will keep you informed when I hear back. Thank you again for giving your time to help me improve it.
 
 ## Warm closing
 
-Thank you for your support with thank-you letter after an interview. Your time and contribution were valuable, particularly in helping clarify the next steps. I appreciate your assistance and hope we can work together again.
+Your support has meant a great deal. Kind regards, Amira
 
 ## Final review
 
-This section should support a clear decision about thank-you letter after an interview. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+Confirm the recipient’s name and the specific help being acknowledged. Avoid exaggerated praise or promises that you cannot keep.

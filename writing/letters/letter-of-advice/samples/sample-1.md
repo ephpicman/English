@@ -1,35 +1,37 @@
-# Advice to a friend starting university
+# Letter of advice: responding to a difficult situation
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative advice letter. Adapt it to the relationship and avoid presenting personal opinion as professional advice.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Acknowledge the concern, offer manageable options, and recognise the limits of the advice.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use an empathetic tone without minimising the problem or taking control away from the reader.
 
 ## Greeting and empathy
 
-Dear [Recipient or Sir/Madam], I am writing regarding advice to a friend starting university. I would like to explain the situation clearly and ask for an appropriate next step.
+Hi there,
+
+I’m glad you told me what has been happening. I can understand why this feels difficult, and you do not need to make every decision at once.
 
 ## Restate the problem
 
-I am concerned about advice to a friend starting university. The relevant details are [verified reference], [confirmed date], and [specific impact]. I have already taken the following reasonable step: [action, if applicable]. Please review the matter and explain how it can be resolved.
+I know you’re worried about starting at a new school where you don’t know anyone. It is normal to feel uncertain before a big change, especially when everything from the timetable to the social routines is unfamiliar.
 
 ## Advice with reasons
 
-My suggestion is to begin with one manageable step: identify the main priority, set a realistic deadline, and ask for help early if a difficulty arises. You do not need to solve everything at once. Review what works after a week and adjust your plan if necessary.
+Try choosing one small goal for the first week, such as learning two classmates’ names or asking a teacher one question. Joining a club related to something you already enjoy can also make conversations easier because you have an activity in common.
 
 ## Options and cautions
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+You do not need to become close friends with everyone immediately. Give yourself time, and if the anxiety starts affecting sleep or attendance, talk to a trusted adult or school support staff.
 
 ## Encouraging close
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I’m sure the first days will feel less overwhelming once you know your way around. Let me know how it goes.
 
 ## Final review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Check that the advice fits the situation, preserves the reader’s choice, and directs them to qualified support where the issue requires it.

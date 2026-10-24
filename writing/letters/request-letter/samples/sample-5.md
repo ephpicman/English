@@ -1,35 +1,40 @@
-# Request for repair of a shared facility
+# Request letter: Request for a reference letter
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use the following sections to make the requested decision easy to understand.
 
 ## Greeting and request purpose
 
-Dear [Recipient or Sir/Madam], I am writing regarding request for repair of a shared facility. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Sir or Madam,
+
+I am writing to ask whether you would be comfortable providing a reference for my application to the graduate research programme.
 
 ## Context and justification
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+I valued working with you on the seminar project about urban transport policy, where I prepared the source comparison and presented the findings to the group.
 
 ## Specific request and scope
 
-I would be grateful if you could consider request for repair of a shared facility. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+The application deadline is 30 November, and the programme asks referees to comment on research ability, written communication, and readiness for postgraduate study. I can send my statement and the programme details for context.
 
 ## Supporting information and flexibility
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Please feel free to decline if your schedule does not allow enough time. If you agree, I will provide the submission instructions and any required forms promptly.
 
 ## Timing and closing
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for considering this and for your guidance during the project.
+
+Yours faithfully,
+[Your name]
 
 ## Final review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.

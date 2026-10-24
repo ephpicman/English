@@ -1,35 +1,37 @@
-# Advice to a student preparing for exams
+# Letter of advice: responding to a difficult situation
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative advice letter. Adapt it to the relationship and avoid presenting personal opinion as professional advice.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Acknowledge the concern, offer manageable options, and recognise the limits of the advice.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use an empathetic tone without minimising the problem or taking control away from the reader.
 
 ## Greeting and empathy
 
-Dear [Recipient or Sir/Madam], I am writing regarding advice to a student preparing for exams. I would like to explain the situation clearly and ask for an appropriate next step.
+Hi there,
+
+I’m glad you told me what has been happening. I can understand why this feels difficult, and you do not need to make every decision at once.
 
 ## Restate the problem
 
-I am concerned about advice to a student preparing for exams. The relevant details are [verified reference], [confirmed date], and [specific impact]. I have already taken the following reasonable step: [action, if applicable]. Please review the matter and explain how it can be resolved.
+You said you want to improve your English but feel embarrassed when you make mistakes in conversation. I can understand that, especially when you are trying to express a complicated idea.
 
 ## Advice with reasons
 
-My suggestion is to begin with one manageable step: identify the main priority, set a realistic deadline, and ask for help early if a difficulty arises. You do not need to solve everything at once. Review what works after a week and adjust your plan if necessary.
+Choose a low-pressure routine: have a short conversation with a language partner, note two expressions you wanted to use, and practise them before the next session. Listening to a short recording and summarising it aloud can also build fluency without requiring a long study session.
 
 ## Options and cautions
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Do not wait until every sentence is perfect before speaking. Correct recurring errors, but allow yourself to communicate and learn from the conversation.
 
 ## Encouraging close
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Consistency matters more than one very long session. If you want, we can practise a short conversation together this week.
 
 ## Final review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Check that the advice fits the situation, preserves the reader’s choice, and directs them to qualified support where the issue requires it.

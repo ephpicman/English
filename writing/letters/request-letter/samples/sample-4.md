@@ -1,35 +1,40 @@
-# Request for information about a programme
+# Request letter: Request for a workplace adjustment
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use the following sections to make the requested decision easy to understand.
 
 ## Greeting and request purpose
 
-Dear [Recipient or Sir/Madam], I am writing regarding request for information about a programme. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Sir or Madam,
+
+I am writing to request a discussion about adjusting the lighting and screen setup at my workstation.
 
 ## Context and justification
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+The current arrangement causes discomfort during longer periods of screen work, and I would like to explore practical changes that may help me work more comfortably.
 
 ## Specific request and scope
 
-I would be grateful if you could consider request for information about a programme. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Possible options include reducing glare, changing the monitor position, or reviewing the available desk lighting. I am open to an assessment and do not assume that one particular solution is required.
 
 ## Supporting information and flexibility
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Please let me know the appropriate process and whether an occupational assessment or additional information is needed. I would appreciate a meeting within the next two weeks if possible.
 
 ## Timing and closing
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for considering this request. Yours sincerely.
+
+Yours faithfully,
+[Your name]
 
 ## Final review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.
