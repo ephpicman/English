@@ -1,59 +1,58 @@
-# Proposal for accessible community workshop registration
+# Technical proposal: centralise application configuration
 
-*Illustrative technical proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative technical proposal. Adapt it to the actual architecture and secret-management policy.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+Distinguish ordinary configuration from secrets and confirm existing deployment practices before choosing a platform.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+The proposal describes the current risk, target configuration model, alternatives, rollout, and controls.
 
 ## Title, version, and technical context
 
-Proposal for accessible community workshop registration
-Version: Draft 0.1 | Context: Internal workflow tooling | Date: 24 October 2026
+**Version:** Draft 0.1  
+**Context:** Multi-environment web application  
+**Date:** 24 October 2026  
+**Status:** For engineering review
 
 ## Executive summary
 
-Create a standard event record containing date, duration, venue, access information, cost, registration steps, and a contact route. Reuse it across promotional channels. This is a design proposal, not a claim that the change has been implemented or tested.
+Centralise environment-specific configuration and separate secrets from ordinary settings. The goal is to reduce inconsistent deployments and make changes traceable without exposing credentials in source control or logs.
 
 ## Problem statement and requirements
 
-Event notices sometimes omit access details and the registration confirmation does not consistently explain what participants should expect.
-Requirements: clear ownership, traceable status changes, access control, and a reversible pilot.
+Configuration values are managed in several places, increasing the chance that development, test, and production environments diverge. The target design should make required settings explicit, validate them at startup, and provide a secure route for secret rotation.
 
 ## Current architecture and constraints
 
-The current process relies on existing collaboration tools and manual handoffs. Any integration, API, retention rule, and permission model must be confirmed against the actual platform before implementation.
+The application runs in multiple environments. Confirm the deployment platform, approved secret store, and current access model. This proposal does not prescribe a vendor and should follow existing platform controls.
 
 ## Proposed design and rationale
 
-Create a standard event record containing date, duration, venue, access information, cost, registration steps, and a contact route. Reuse it across promotional channels.
+Define a schema for required non-secret values and validate missing or malformed settings before the service accepts traffic. Retrieve secrets from the approved secret-management system. Use defaults only where they cannot create security or correctness risks, and never print secret values in diagnostic messages.
 
 ## Alternatives and trade-offs
 
-Alternative 1: retain the current process with reminders—low setup effort but leaves ownership ambiguity. Alternative 2: introduce a shared structured workflow—moderate change effort and clearer state. Alternative 3: automate routing immediately—deferred until categories and exception handling are stable.
+Separate environment files may be simple for local development but difficult to audit at scale. A central system improves consistency but adds a dependency at startup. The design should define caching, rotation, and failure behaviour for the selected environment.
 
 ## Implementation, testing, and migration
 
-Draft the fields with outreach staff in week 1; test on two events in weeks 2–3; gather participant questions; revise before wider use. The outreach lead owns the record and the event organiser approves final details.
-Test required fields, permission boundaries, duplicate handling, and export or recovery behaviour before rollout. Document the migration and rollback path.
+Inventory current values, classify each as secret or non-secret, and map it to the new source. Test missing settings and failed secret retrieval, then migrate one environment at a time. Keep a rollback path until deployment checks pass.
 
 ## Security, reliability, and operational risks
 
-The process may add work if the form is too long. Keep fields limited to information participants need and assign one person to approve publication.
+Use least-privilege access. Test rotation and ensure logs do not expose sensitive values. If the secret store is unavailable, the application should fail safely rather than substitute insecure defaults.
 
 ## Acceptance criteria and decision
 
-Approve a two-event pilot. Review correction requests, repeated enquiries, and optional participant feedback before standardising the form.
-Acceptance requires a successful pilot, validated permissions, agreed ownership, and no unresolved critical workflow defect.
+Approve a prototype after platform and security review. Acceptance requires documented configuration, validation tests, access controls, and a tested rollback plan.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Confirm the deployment platform and approved secret store before implementation.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal distinguishes configuration consistency from secret protection and operational failure handling.

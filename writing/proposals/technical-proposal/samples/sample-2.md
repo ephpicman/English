@@ -1,59 +1,58 @@
-# Proposal to improve onboarding guidance
+# Technical proposal: idempotency for payment requests
 
-*Illustrative technical proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative technical proposal. Follow the actual payment-provider contract and security requirements.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+This is a design proposal only. Confirm provider support, transaction semantics, and applicable compliance requirements before implementation.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+It describes the reliability problem, proposed controls, alternatives, rollout, and acceptance criteria.
 
 ## Title, version, and technical context
 
-Proposal to improve onboarding guidance
-Version: Draft 0.1 | Context: Internal workflow tooling | Date: 24 October 2026
+**Version:** Draft 0.1  
+**Context:** Payment API integration  
+**Date:** 24 October 2026  
+**Status:** For architecture review
 
 ## Executive summary
 
-Consolidate the five most-used onboarding tasks into task-based guides, name a content owner for each, and add a quarterly link review. This is a design proposal, not a claim that the change has been implemented or tested.
+Introduce idempotency handling for supported payment-creation requests so that a retry after a timeout does not unintentionally create a second transaction. The implementation must define key scope, retention, concurrency behaviour, and how the original result is returned.
 
 ## Problem statement and requirements
 
-New colleagues receive the same setup instructions in several places, and some pages list prerequisites after the steps that depend on them.
-Requirements: clear ownership, traceable status changes, access control, and a reversible pilot.
+A network failure can leave a client uncertain whether a request completed. The API should allow safe retries for the same logical operation while preventing reuse of a key for a different request. It must distinguish an unknown outcome from a confirmed failure.
 
 ## Current architecture and constraints
 
-The current process relies on existing collaboration tools and manual handoffs. Any integration, API, retention rule, and permission model must be confirmed against the actual platform before implementation.
+The application sends payment requests to an external provider. Confirm support for idempotency keys, retention windows, and response replay. The proposal assumes the application can store a request fingerprint and transaction reference.
 
 ## Proposed design and rationale
 
-Consolidate the five most-used onboarding tasks into task-based guides, name a content owner for each, and add a quarterly link review.
+Require an idempotency key for supported creation requests. Store the key with a fingerprint of the relevant request fields and the operation result. Repeating the same key and payload returns the recorded result; reusing a key with a different payload is rejected. Concurrent requests with the same key must be serialised or protected by an atomic uniqueness constraint.
 
 ## Alternatives and trade-offs
 
-Alternative 1: retain the current process with reminders—low setup effort but leaves ownership ambiguity. Alternative 2: introduce a shared structured workflow—moderate change effort and clearer state. Alternative 3: automate routing immediately—deferred until categories and exception handling are stable.
+Client-only retry rules cannot prevent duplicates when the client loses a response. Server-side key storage adds state and retention requirements but offers stronger protection. The design must also handle partial failures between the application and provider.
 
 ## Implementation, testing, and migration
 
-Select guides in week 1; revise drafts in weeks 2–3; test with new readers in week 4; revise and publish in week 5. People operations coordinates; page owners validate procedures.
-Test required fields, permission boundaries, duplicate handling, and export or recovery behaviour before rollout. Document the migration and rollback path.
+Document key format and retention, implement storage and concurrency control, and test repeated requests, changed payloads, simultaneous retries, and provider timeouts. Roll out gradually and reconcile transactions during the pilot.
 
 ## Security, reliability, and operational risks
 
-A guide may become stale if ownership is unclear or linked policies change. Assign owners and include a review date; do not duplicate policy text that is maintained elsewhere.
+Do not log payment credentials or sensitive payloads. Restrict access to idempotency records and define cleanup rules that preserve keys for the required retry window.
 
 ## Acceptance criteria and decision
 
-Approve a five-guide pilot. Expand only if readers can locate the correct steps and content owners can maintain the pages within the agreed effort.
-Acceptance requires a successful pilot, validated permissions, agreed ownership, and no unresolved critical workflow defect.
+Approve implementation only after provider semantics are confirmed. Acceptance requires duplicate-request tests, safe handling of key reuse, and a documented reconciliation process.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Verify the current provider contract and security requirements before treating this as implementation-ready.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal makes reliability assumptions explicit and defines the failure cases to test.

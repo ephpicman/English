@@ -1,59 +1,58 @@
-# Proposal to add a validation step to monthly reporting
+# Technical proposal: structured logging for a backend service
 
-*Illustrative technical proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative technical proposal. Confirm logging standards, privacy requirements, and runtime constraints.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+The proposal aims to improve incident investigation without assuming that more logging is always better.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+It defines the diagnostic gap, proposed event format, trade-offs, rollout, and acceptance criteria.
 
 ## Title, version, and technical context
 
-Proposal to add a validation step to monthly reporting
-Version: Draft 0.1 | Context: Internal workflow tooling | Date: 24 October 2026
+**Version:** Draft 0.1  
+**Context:** Backend service logging  
+**Date:** 24 October 2026  
+**Status:** For engineering review
 
 ## Executive summary
 
-Add a data-definition review and a validation checklist before combining fields. Keep unresolved categories separate and label the limitation in interim reporting. This is a design proposal, not a claim that the change has been implemented or tested.
+Adopt a consistent structured log format for key service events. The change should make it easier to filter events by severity, request identifier, and component while reducing reliance on inconsistent free-text messages.
 
 ## Problem statement and requirements
 
-Two source systems use similar category labels with different meanings, which risks misleading comparisons in the monthly report.
-Requirements: clear ownership, traceable status changes, access control, and a reversible pilot.
+Logs currently use varying message formats, making it difficult to correlate events across components. The target format should support search, preserve useful context, and avoid storing secrets or unnecessary personal information.
 
 ## Current architecture and constraints
 
-The current process relies on existing collaboration tools and manual handoffs. Any integration, API, retention rule, and permission model must be confirmed against the actual platform before implementation.
+The service sends application logs to an existing platform. Confirm supported fields, ingestion limits, retention rules, and cost implications before selecting the final schema.
 
 ## Proposed design and rationale
 
-Add a data-definition review and a validation checklist before combining fields. Keep unresolved categories separate and label the limitation in interim reporting.
+Use structured fields such as timestamp, severity, service name, environment, request ID, event name, and error category. Include contextual identifiers only when they are safe and useful. Keep the human-readable message concise and ensure exceptions do not expose credentials or sensitive request bodies.
 
 ## Alternatives and trade-offs
 
-Alternative 1: retain the current process with reminders—low setup effort but leaves ownership ambiguity. Alternative 2: introduce a shared structured workflow—moderate change effort and clearer state. Alternative 3: automate routing immediately—deferred until categories and exception handling are stable.
+Free-text logs are easy to write but harder to query consistently. Structured logging requires conventions and migration work, but can improve filtering. Logging every variable is not recommended because it increases volume and may expose sensitive data.
 
 ## Implementation, testing, and migration
 
-Source owners review definitions in week 1; analytics drafts validation rules in week 2; test on a sample in week 3; approve the updated data dictionary in week 4.
-Test required fields, permission boundaries, duplicate handling, and export or recovery behaviour before rollout. Document the migration and rollback path.
+Define the schema, update high-value events first, and test how records appear in the logging platform. Check behaviour under high volume and confirm that redaction applies to error paths as well as successful requests. Migrate gradually and retain compatibility with existing dashboards during transition.
 
 ## Security, reliability, and operational risks
 
-Teams may disagree on terminology or lack an authoritative source. Escalate unresolved definitions to the reporting owner and do not silently merge categories.
+Excessive logging can increase cost and leak information. Define retention and access controls, review sampled records, and monitor ingestion volume. Do not rely on logs as the sole source of audit evidence where stronger records are required.
 
 ## Acceptance criteria and decision
 
-Approve the validation step for the next reporting cycle and review the discrepancy log before deciding whether further automation is justified.
-Acceptance requires a successful pilot, validated permissions, agreed ownership, and no unresolved critical workflow defect.
+Approve a pilot for one service. Acceptance requires searchable fields, verified redaction, no material performance regression, and updated operational guidance.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Verify platform support and data-retention requirements before rollout.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal balances diagnostic value with privacy, cost, and operational constraints.

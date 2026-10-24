@@ -1,59 +1,58 @@
-# Proposal for a structured customer-support handover
+# Technical proposal: automated API contract checks
 
-*Illustrative technical proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative technical proposal. Verify the API specification, toolchain, and CI environment before implementation.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+The proposal adds contract validation to existing tests; it does not replace integration or end-to-end testing.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+It describes the compatibility risk, proposed checks, alternatives, rollout, and acceptance criteria.
 
 ## Title, version, and technical context
 
-Proposal for a structured customer-support handover
-Version: Draft 0.1 | Context: Internal workflow tooling | Date: 24 October 2026
+**Version:** Draft 0.1  
+**Context:** HTTP API and continuous integration  
+**Date:** 24 October 2026  
+**Status:** For engineering review
 
 ## Executive summary
 
-Introduce a concise handover template with issue summary, steps tried, current status, next action, owner, and customer update timing. This is a design proposal, not a claim that the change has been implemented or tested.
+Add automated checks that compare API requests and responses with the maintained contract. The aim is to detect unintended interface changes earlier while keeping the specification aligned with the implementation.
 
 ## Problem statement and requirements
 
-Cases passed between support agents sometimes omit what has already been tested, the current status, or the next promised update.
-Requirements: clear ownership, traceable status changes, access control, and a reversible pilot.
+Changes to field names, required values, or status-code behaviour can break clients if they are not reviewed. The checks should run in the existing build pipeline, provide actionable failures, and require review for intentional breaking changes.
 
 ## Current architecture and constraints
 
-The current process relies on existing collaboration tools and manual handoffs. Any integration, API, retention rule, and permission model must be confirmed against the actual platform before implementation.
+The project has automated tests and a documented API contract, but coverage and freshness must be verified. The proposed check should work with the current language and CI environment rather than introduce an unrelated toolchain.
 
 ## Proposed design and rationale
 
-Introduce a concise handover template with issue summary, steps tried, current status, next action, owner, and customer update timing.
+Validate representative request and response shapes against the approved specification during CI. Include checks for required fields, data types, and documented error responses. A contract change should trigger review and tests rather than automatically updating expectations to match any implementation change.
 
 ## Alternatives and trade-offs
 
-Alternative 1: retain the current process with reminders—low setup effort but leaves ownership ambiguity. Alternative 2: introduce a shared structured workflow—moderate change effort and clearer state. Alternative 3: automate routing immediately—deferred until categories and exception handling are stable.
+Manual review is flexible but can miss subtle compatibility changes. Snapshot tests catch differences but may be noisy and may not explain whether a change is breaking. Contract validation adds maintenance work but provides clearer checks when the specification is accurate.
 
 ## Implementation, testing, and migration
 
-Draft the template with agents, test it on one case category for two weeks, review handover quality, and adjust before rollout. Support operations owns the pilot.
-Test required fields, permission boundaries, duplicate handling, and export or recovery behaviour before rollout. Document the migration and rollback path.
+Choose a supported validator, add it to the build, and start with critical endpoints. Test valid and intentionally invalid examples. Document how to update the contract and require review for changes affecting existing clients.
 
 ## Security, reliability, and operational risks
 
-Too many required fields could slow urgent cases. Keep the template short and allow a clear urgent escalation path.
+Test fixtures must not contain real personal data or credentials. Failure messages should not expose secrets. A stale specification can create false confidence, so ownership and review triggers are necessary.
 
 ## Acceptance criteria and decision
 
-Approve a two-week pilot and decide whether to expand based on agent feedback, handover completeness, and anonymised case review.
-Acceptance requires a successful pilot, validated permissions, agreed ownership, and no unresolved critical workflow defect.
+Approve a pilot covering critical endpoints. Acceptance requires reproducible CI results, understandable failures, reviewed contract updates, and a documented path for intentional breaking changes.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Confirm compatibility with the current build pipeline and API conventions.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal defines what automation can catch and what governance remains necessary.
