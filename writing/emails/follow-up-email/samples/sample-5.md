@@ -1,23 +1,23 @@
-# Follow-up after a networking conversation
+# Following up on maintenance visit
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
 
 ## Subject/thread reference
 
-**Follow-up after a networking conversation**
+Following up on maintenance visit
 
 ## Prior contact
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+I reported the leaking tap in apartment 3B on 12 October and received an acknowledgement that the request had been logged.
 
 ## Reason for follow-up
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+I am checking on the appointment because the leak has slowed but has not stopped completely.
 
 ## Update or question
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Could you let me know the expected visit window or whether you need any further details? The local valve remains closed while I wait.
 
 ## Next step and close
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+Thank you for the update. Kind regards, Alex

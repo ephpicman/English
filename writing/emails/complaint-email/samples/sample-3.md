@@ -1,27 +1,27 @@
-# Complaint about a service outage
+# Noise complaint about late-night deliveries
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative complaint email; confirm all dates and records before sending.*
 
 ## Subject Line
 
-**Complaint about a service outage**
+Noise complaint about late-night deliveries
 
 ## Greeting and Purpose
 
-Dear [Recipient], I am contacting you about complaint about a service outage. The reference is [verified order or case number], and the issue occurred on [confirmed date]. Please review the record and let me know what resolution is available.
+Dear Building Manager, I am writing to report repeated late-night delivery noise at the rear entrance of the building.
 
 ## Facts and Timeline
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+On Monday and Wednesday this week, delivery vehicles arrived after 11 p.m. and idled while crates were unloaded. The noise was audible in the bedrooms facing the courtyard.
 
 ## Impact and Evidence
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+The disturbance has made it difficult for residents to sleep. I understand deliveries may be necessary, but the timing and unloading method appear to be contributing to the problem.
 
 ## Requested Resolution
 
-Dear [Recipient], I am contacting you about complaint about a service outage. The reference is [verified order or case number], and the issue occurred on [confirmed date]. Please review the record and let me know what resolution is available.
+Could you contact the delivery operator and ask whether unloading can take place earlier or with reduced engine noise? Please let residents know what steps can reasonably be taken.
 
 ## Closing
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+Thank you for looking into this. Sincerely, A resident

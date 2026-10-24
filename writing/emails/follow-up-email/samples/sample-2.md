@@ -1,23 +1,23 @@
-# Follow-up on a pending proposal
+# Follow-up: interview availability
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
 
 ## Subject/thread reference
 
-**Follow-up on a pending proposal**
+Follow-up: interview availability
 
 ## Prior contact
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Thank you for your message last week about arranging an interview for the coordinator role.
 
 ## Reason for follow-up
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+I wanted to follow up in case my availability was missed in the earlier email.
 
 ## Update or question
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+I remain available on Tuesday after 2 p.m. or Thursday morning. If neither option works, I can try to accommodate another time with a little notice.
 
 ## Next step and close
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+Thank you for considering my application. Kind regards, Priya

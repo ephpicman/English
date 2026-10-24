@@ -1,23 +1,23 @@
-# Enquiry about a job vacancy
+# Availability of meeting room for a workshop
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative enquiry email; adapt the questions and constraints to your situation.*
 
 ## Subject
 
-**Enquiry about a job vacancy**
+Availability of meeting room for a workshop
 
 ## Greeting and context
 
-Dear [Recipient], I am writing to ask about enquiry about a job vacancy. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.
+Dear Facilities Team, I am organising a small internal workshop and would like to check room availability.
 
 ## Questions
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Do you have a room for approximately 12 participants with a display screen and video-conferencing equipment? Could you also confirm whether the room supports movable tables for group exercises?
 
 ## Constraints
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+The preferred date is 18 November from 1 p.m. to 4 p.m., although the following afternoon would also work. We need step-free access for all attendees.
 
 ## Response request and sign-off
 
-Dear [Recipient], I am writing to ask about enquiry about a job vacancy. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.
+Please let me know which rooms may be suitable and whether a booking form is required. Best regards, Chris

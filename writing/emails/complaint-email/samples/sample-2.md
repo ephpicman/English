@@ -1,27 +1,27 @@
-# Complaint about a delayed delivery
+# Request to correct an invoice
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative complaint email; confirm all dates and records before sending.*
 
 ## Subject Line
 
-**Complaint about a delayed delivery**
+Request to correct an invoice
 
 ## Greeting and Purpose
 
-Dear [Recipient], I am contacting you about complaint about a delayed delivery. The reference is [verified order or case number], and the issue occurred on [confirmed date]. Please review the record and let me know what resolution is available.
+Hello Accounts Team, I am contacting you about invoice INV-2046 dated 8 October.
 
 ## Facts and Timeline
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+The invoice includes two units of the service, although our approved order and delivery record list one. I have checked the line items against the purchase confirmation.
 
 ## Impact and Evidence
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+We cannot approve payment until the quantity matches the agreed order, and the discrepancy is holding up our month-end reconciliation.
 
 ## Requested Resolution
 
-Dear [Recipient], I am contacting you about complaint about a delayed delivery. The reference is [verified order or case number], and the issue occurred on [confirmed date]. Please review the record and let me know what resolution is available.
+Could you issue a corrected invoice showing one unit and confirm whether the original should be marked void? I can forward the purchase order and delivery record for reference.
 
 ## Closing
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+Thank you for reviewing this. Best regards, Morgan

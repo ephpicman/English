@@ -1,23 +1,23 @@
-# Follow-up on a support request
+# Follow-up on training registration
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
 
 ## Subject/thread reference
 
-**Follow-up on a support request**
+Follow-up on training registration
 
 ## Prior contact
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+I registered my interest in the data-protection workshop after the team announcement on Monday.
 
 ## Reason for follow-up
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+I have not yet received confirmation and would like to check whether my place has been recorded.
 
 ## Update or question
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Could you confirm the registration status and share the joining details when they are available? If the session is full, I would be happy to join a waiting list for a later date.
 
 ## Next step and close
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+Thank you. Regards, Amira

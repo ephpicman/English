@@ -1,23 +1,23 @@
-# Enquiry about course entry requirements
+# Question about evening language classes
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative enquiry email; adapt the questions and constraints to your situation.*
 
 ## Subject
 
-**Enquiry about course entry requirements**
+Question about evening language classes
 
 ## Greeting and context
 
-Dear [Recipient], I am writing to ask about enquiry about course entry requirements. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.
+Hello Course Team, I am considering enrolling in your evening English course for the next term.
 
 ## Questions
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Could you tell me which days the class meets, the expected class size, and whether students receive feedback on written assignments? I would also like to know whether a placement assessment is required.
 
 ## Constraints
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+I work until 5 p.m. on weekdays, so a start time after 6 p.m. would be easiest. I can attend in person or online, depending on the course format.
 
 ## Response request and sign-off
 
-Dear [Recipient], I am writing to ask about enquiry about course entry requirements. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.
+If possible, please send the current timetable and fee information. Thank you for your help. Kind regards, Noor

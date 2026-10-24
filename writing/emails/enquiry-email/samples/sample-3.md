@@ -1,23 +1,23 @@
-# Enquiry about a service quotation
+# Enquiry about internship applications
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative enquiry email; adapt the questions and constraints to your situation.*
 
 ## Subject
 
-**Enquiry about a service quotation**
+Enquiry about internship applications
 
 ## Greeting and context
 
-Dear [Recipient], I am writing to ask about enquiry about a service quotation. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.
+Dear Recruitment Team, I am interested in applying for the summer research internship listed on your careers page.
 
 ## Questions
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Could you confirm the application deadline, whether applicants must currently be enrolled at a university, and which documents should be included? I would also appreciate clarification on whether references are required at the initial stage.
 
 ## Constraints
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+I will be completing my second year of study before the internship begins and can commit to the full advertised period.
 
 ## Response request and sign-off
 
-Dear [Recipient], I am writing to ask about enquiry about a service quotation. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.
+Thank you for clarifying the requirements. Kind regards, Elena
