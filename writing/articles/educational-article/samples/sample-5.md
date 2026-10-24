@@ -33,3 +33,7 @@ Peer mentoring cannot remove structural problems such as inaccessible services, 
 ## Conclusion and takeaway
 
 Peer mentoring can make unfamiliar routines easier to navigate when it is well supported and has clear boundaries. Training, realistic expectations, and feedback protect both mentors and mentees. The strongest programme helps students build confidence while making it straightforward to reach specialist support when needed.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this article demonstrates a clear introduction, developed explanatory points, practical application, and a conclusion. It is a genre model rather than an IELTS task response; follow the exact question and assessment requirements when using it for exam preparation.

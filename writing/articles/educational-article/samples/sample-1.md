@@ -33,3 +33,7 @@ Spacing is not a magic formula. A demanding schedule may be abandoned, and memor
 ## Conclusion and takeaway
 
 Effective revision is not simply a matter of spending more hours with a book open. Returning to ideas over time, trying to retrieve them, and correcting mistakes can make study more purposeful. Start with one topic this week, schedule two brief reviews, and adjust the plan according to what you can recall and use.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this article demonstrates a clear introduction, developed explanatory points, practical application, and a conclusion. It is a genre model rather than an IELTS task response; follow the exact question and assessment requirements when using it for exam preparation.

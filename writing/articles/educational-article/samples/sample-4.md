@@ -33,3 +33,7 @@ Feedback takes time, and a single approach will not suit every learner or task. 
 ## Conclusion and takeaway
 
 Feedback is most valuable when it leads to action. Clear criteria, focused comments, and planned revision help learners understand what to keep and what to change. A simple test is whether a student could use the feedback to make a specific improvement without guessing what the teacher meant.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this article demonstrates a clear introduction, developed explanatory points, practical application, and a conclusion. It is a genre model rather than an IELTS task response; follow the exact question and assessment requirements when using it for exam preparation.

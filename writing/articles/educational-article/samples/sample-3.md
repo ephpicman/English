@@ -33,3 +33,7 @@ Online platforms change quickly, and no checklist can guarantee that a source is
 ## Conclusion and takeaway
 
 Digital literacy is not just knowing which buttons to press. It is the habit of checking claims, protecting people’s information, crediting others, and acknowledging uncertainty. When students practise these habits on meaningful tasks, they are better prepared to use digital resources thoughtfully in and beyond the classroom.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this article demonstrates a clear introduction, developed explanatory points, practical application, and a conclusion. It is a genre model rather than an IELTS task response; follow the exact question and assessment requirements when using it for exam preparation.

@@ -33,3 +33,7 @@ Information alone cannot solve every barrier. Work commitments, disability, lang
 ## Conclusion and takeaway
 
 Students are more likely to use support when it is easy to find, respectful, and practical to access. Institutions can reduce uncertainty by explaining options early, demonstrating the first step, and listening to students’ experiences. The goal is not to make every student follow the same route, but to ensure that no one has to guess where to begin.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this article demonstrates a clear introduction, developed explanatory points, practical application, and a conclusion. It is a genre model rather than an IELTS task response; follow the exact question and assessment requirements when using it for exam preparation.
