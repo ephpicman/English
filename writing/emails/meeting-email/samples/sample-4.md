@@ -1,23 +1,34 @@
-# Data quality review for monthly report
+# Meeting invitation: monthly reporting quality review
 
-*Illustrative meeting email. Confirm date, time, location, and links before sending.*
+*Illustrative meeting email. Confirm the meeting link and reporting period before sending.*
 
 ## Subject
 
-Data quality review for monthly report
+Review of monthly reporting checks
 
 ## Purpose and outcome
 
-The goal is to agree which data issues must be resolved before the monthly report is finalised and which limitations should be stated clearly.
+The purpose is to agree a short pre-publication checklist that improves consistency without duplicating mandatory financial controls.
 
 ## Logistics
 
-Wednesday, 18 November, 11:00–11:40 a.m. Online meeting; agenda and data-quality log are linked in the invitation.
+**Date:** Tuesday, 3 November 2026  
+**Time:** 9:30–10:15 a.m.  
+**Location:** Online meeting  
+**Organiser:** Reporting team lead
 
 ## Agenda and preparation
 
-Please review the open items and mark any corrections with a source reference. We will discuss missing values, duplicate identifiers, unresolved definitions, and the owner for each decision. Do not share raw personal data in the meeting notes.
+1. Review recent correction types — 10 minutes
+2. Compare current author checks — 10 minutes
+3. Review proposed checklist — 15 minutes
+4. Agree pilot scope and review date — 10 minutes
+
+Please bring one example of a recent correction and note which check would have detected it. Do not include confidential financial information in the meeting notes beyond what attendees are authorised to see.
 
 ## Confirmation and sign-off
 
-If you have an additional issue, add it to the log by Tuesday noon. Best regards, Daniel
+Please accept the calendar invitation and send any examples to the organiser before the meeting.
+
+Regards,  
+Reporting team lead

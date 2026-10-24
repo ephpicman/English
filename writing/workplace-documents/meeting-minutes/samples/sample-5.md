@@ -1,32 +1,33 @@
-# Meeting minutes: Community workshop venue
+# Meeting minutes: staff onboarding guide review
 
 ## Meeting metadata and attendees
 
-- **Date:** 21 November 2026
-- **Facilitator:** Priya Nair
-- **Attendees:** Priya Nair, facilities coordinator, outreach lead
-- **Record type:** Illustrative minutes; verify against the actual meeting
+- **Date:** 23 October 2026
+- **Facilitator:** People Operations manager
+- **Attendees:** Onboarding coordinator, policy owners, recent starter representative
+- **Record type:** Illustrative minutes; confirm against the actual meeting
 
 ## Purpose / agenda
 
-Decide whether to retain the preferred venue or activate the backup.
+Review the onboarding guide structure and agree how to test whether new starters can find key information.
 
 ## Discussion summary by topic
 
-The team reviewed the outstanding access details and discussed the risks of changing venues late in the promotion cycle.
+The current guide is organised by department, which may require readers to know who owns a task before finding instructions. The recent starter representative suggested organising the guide around first-week tasks. Policy owners emphasised that any reorganisation must preserve approved wording and current links.
 
 ## Decisions made
 
-A confirmation deadline was set; the backup venue will be used if required access information is not received.
+The team agreed to test a task-based contents structure before rewriting the full guide. Policy owners will verify their links and instructions before publication.
 
 ## Action items with owner and due date
 
-- Confirm preferred venue — Priya Nair — 23 November
-- Verify backup access — facilities coordinator — 24 November
-- Publish final event details — outreach lead — 26 November
+| Action | Owner | Due date |
+|---|---|---|
+| Gather common new-starter questions | Onboarding coordinator | 28 October 2026 |
+| Draft a task-based contents page | People Operations | 30 October 2026 |
+| Verify links and policy wording | Policy owners | 6 November 2026 |
+| Run a short usability test | Recent starter representative | 13 November 2026 |
 
 ## Open issues and next meeting
 
-Publishing before logistics are confirmed could mislead participants. A backup venue is available, but it requires confirmation of capacity and travel information.
-
-Decision checkpoint: 25 November.
+The team has not yet decided whether the revised guide will be published as a web page or PDF. The format decision will follow the usability test and accessibility review.

@@ -1,32 +1,33 @@
-# Meeting minutes: Monthly reporting definitions
+# Meeting minutes: community information day planning
 
 ## Meeting metadata and attendees
 
-- **Date:** 18 November 2026
-- **Facilitator:** Daniel Okafor
-- **Attendees:** Daniel Okafor, source system owners, analytics lead
-- **Record type:** Illustrative minutes; verify against the actual meeting
+- **Date:** 20 October 2026
+- **Facilitator:** Nina Patel
+- **Attendees:** Volunteer coordinator, venue contact, communications volunteer, accessibility contact
+- **Record type:** Illustrative minutes; verify details before circulation
 
 ## Purpose / agenda
 
-Agree definitions for the category fields and identify who approves future changes.
+Confirm the event schedule, venue arrangements, volunteer coverage, and public information.
 
 ## Discussion summary by topic
 
-The group reviewed examples where identical labels represented different events. Participants agreed that the source owner must confirm meaning before the report combines them.
+The draft timetable is ready, but the venue contact still needs to confirm the final room layout and step-free route. Volunteer coverage is incomplete for the final afternoon slot. The communications volunteer has drafted the notice but will not publish it until the room assignments and session times are confirmed.
 
 ## Decisions made
 
-The fields will remain separate in the next report pending written confirmation.
+The team agreed to keep the public notice in draft status until venue details are verified. A backup volunteer list will be prepared for the remaining shift.
 
 ## Action items with owner and due date
 
-- Send sample records — Daniel Okafor — 20 November
-- Confirm definitions — source owners — 25 November
-- Update data dictionary — analytics lead — after approval
+| Action | Owner | Due date |
+|---|---|---|
+| Confirm room layout and accessible route | Venue contact | 26 October 2026 |
+| Fill the remaining volunteer shift | Volunteer coordinator | 27 October 2026 |
+| Proofread notice after venue confirmation | Communications volunteer | 28 October 2026 |
+| Prepare a late-cancellation plan | Nina Patel | 29 October 2026 |
 
 ## Open issues and next meeting
 
-The team needs source owners to confirm definitions before merging values. Interim reports should show the fields separately and describe the limitation.
-
-Follow-up: 26 November, if definitions remain unresolved.
+Room confirmation and volunteer coverage remain open. The team will meet again on 30 October 2026 to approve the final schedule and notice.

@@ -1,32 +1,33 @@
-# Meeting minutes: New request intake process
+# Meeting minutes: monthly customer-support review
 
 ## Meeting metadata and attendees
 
-- **Date:** 4 November 2026
-- **Facilitator:** Jordan Lee
-- **Attendees:** Jordan Lee, operations manager, two team leads
-- **Record type:** Illustrative minutes; verify against the actual meeting
+- **Date:** 19 October 2026
+- **Facilitator:** Priya Nair
+- **Attendees:** Support lead, product representative, operations analyst, service manager
+- **Record type:** Illustrative minutes; confirm with the meeting record
 
 ## Purpose / agenda
 
-Choose the required fields and agree how the team will handle urgent requests.
+Review recurring support contacts and select improvement work for the next cycle.
 
 ## Discussion summary by topic
 
-The group reviewed common handoff failures and agreed that ownership and next action are the minimum required fields. Urgent requests need a separate escalation route.
+The support lead described repeated questions about account recovery and uncertainty about where to find the current instructions. The product representative noted that the help article needs to be checked against the latest workflow. The analyst cautioned that ticket categories are not fully consistent, so counts should be interpreted only after the labels are reviewed.
 
 ## Decisions made
 
-The team approved a four-week pilot for one request category; broader automation is deferred.
+The team agreed to review the account-recovery article first and to standardise the relevant ticket categories before using category totals to prioritise further work.
 
 ## Action items with owner and due date
 
-- Draft queue fields — Jordan Lee — 6 November
-- Define urgent route — team leads — 5 November
-- Review pilot outcomes — operations manager — 4 December
+| Action | Owner | Due date |
+|---|---|---|
+| Compare the article with the current workflow | Product representative | 27 October 2026 |
+| Review category definitions with agents | Support lead | 29 October 2026 |
+| Prepare a short summary of recurring case themes | Operations analyst | 30 October 2026 |
+| Recommend next improvement item | Service manager | 3 November 2026 |
 
 ## Open issues and next meeting
 
-A single queue with required owner, status, and next-action fields would improve visibility. Immediate automation is not recommended until categories and exception routes are stable.
-
-Review meeting: 4 December, after the pilot period.
+The team has not yet established whether the recurring contacts are caused mainly by unclear guidance or by product behaviour. The next review is scheduled for 5 November 2026, when the article review and category check will be discussed.

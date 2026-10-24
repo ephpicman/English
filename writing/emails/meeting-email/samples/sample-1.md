@@ -1,27 +1,34 @@
-# Planning meeting: autumn launch checklist
+# Planning meeting: customer portal readiness
 
-*Illustrative meeting email. Confirm date, time, location, and links before sending.*
+*Illustrative meeting email. Confirm the time, location, and calendar link before sending.*
 
 ## Subject
 
-Planning meeting: autumn launch checklist
+Customer portal readiness review — 2 November
 
 ## Purpose and outcome
 
-The aim is to confirm which launch tasks are complete, identify open dependencies, and agree owners for the remaining work.
+The aim is to review the remaining release dependencies and decide whether the evidence supports moving to the next readiness stage.
 
 ## Logistics
 
-Tuesday, 3 November, 10:00–10:45 a.m. Room Cedar / video link in the calendar invitation. Please tell me if you need an accessible format or remote attendance.
+**Date:** Monday, 2 November 2026  
+**Time:** 10:00–10:45 a.m.  
+**Location:** Room Cedar / video link in the calendar invitation  
+**Organiser:** Morgan Chen
 
 ## Agenda and preparation
 
-1. Review current readiness status (10 minutes)
-2. Resolve the outstanding content and support questions (15 minutes)
-3. Confirm owners and target dates (15 minutes)
-4. Recap decisions and risks (5 minutes)
-Please review the shared checklist and add any blocker before the meeting.
+1. Confirm current status and completed checks — 5 minutes
+2. Review authentication configuration — 10 minutes
+3. Review accessibility findings — 10 minutes
+4. Decide next steps and assign actions — 15 minutes
+
+Please update the shared readiness checklist by 30 October and link to evidence for any item marked complete. Identify unresolved dependencies rather than changing their status based on a forecast.
 
 ## Confirmation and sign-off
 
-Please accept or decline the calendar invitation so we can confirm attendance. Best, Morgan
+Please accept or decline the calendar invitation. If you need remote attendance or an accessible format, let me know in advance.
+
+Thanks,  
+Morgan

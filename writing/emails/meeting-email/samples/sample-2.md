@@ -1,23 +1,34 @@
-# Weekly support review — recurring issues
+# Meeting invitation: monthly customer-support review
 
-*Illustrative meeting email. Confirm date, time, location, and links before sending.*
+*Illustrative meeting email. Verify the time and attendees before sending.*
 
 ## Subject
 
-Weekly support review — recurring issues
+Monthly customer-support review — 5 November
 
 ## Purpose and outcome
 
-We will review the most common support issues from the past week and decide which need documentation changes or escalation.
+We will review recurring support contacts, check the status of agreed improvements, and choose the next issue to investigate.
 
 ## Logistics
 
-Thursday, 12 November, 2:00–2:30 p.m. Online meeting; link is in the calendar event.
+**Date:** Thursday, 5 November 2026  
+**Time:** 2:00–3:00 p.m.  
+**Location:** Online meeting  
+**Organiser:** Priya Nair
 
 ## Agenda and preparation
 
-Please bring one example of a recurring question, with personal or customer-identifying details removed. Proposed agenda: review patterns, confirm priority, assign a documentation owner, and agree how we will check whether the change helped.
+1. Review previous actions — 10 minutes
+2. Discuss recurring ticket themes and category quality — 20 minutes
+3. Review account-recovery guidance — 15 minutes
+4. Agree owners and next review date — 15 minutes
+
+Please bring examples of repeated customer questions with personal information removed. If you own a help article, check whether it still matches the current product workflow before the meeting.
 
 ## Confirmation and sign-off
 
-If you cannot attend, please send your example and any suggested action by Wednesday afternoon. Regards, Priya
+Please accept the invitation and send any agenda additions by 3 November.
+
+Kind regards,  
+Priya
