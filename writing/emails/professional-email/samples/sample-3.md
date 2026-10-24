@@ -1,43 +1,48 @@
-# Request to review the draft customer guide
+# Request for clarification on the data report
 
-*Illustrative professional email. Confirm recipients, deadlines, attachments, and status before sending.*
+*Illustrative professional email; verify the report version and figures before sending.*
 
 ## Plan before drafting
 
-The email has one clear purpose and identifies the action and timing required from the reader.
+Ask one focused question and identify the specific report section so the recipient can answer efficiently.
 
 ## Email structure
 
-Keep the subject specific, put essential context before the request, and close with a clear next step.
+The subject and opening identify the uncertainty without suggesting that the figures are wrong.
 
 ## Subject line
 
-Request to review the draft customer guide
+Clarification needed on the October data report
 
 ## Greeting and purpose
 
-Hi team, the first draft of the customer setup guide is ready for review.
+Hi Daniel,
+
+Could you clarify the definition used for “active account” in section 3 of the October data report?
 
 ## Essential context
 
-The guide has been organised around the tasks users need to complete, with prerequisites listed before the steps that depend on them.
+The chart shows a different total from the dashboard I used for the weekly summary. I want to confirm that both sources apply the same reporting window before I update the summary.
 
 ## Main message or request
 
-Please focus your review on technical accuracy, missing edge cases, and whether the expected result is clear after each important step. If you suggest a change, point to the section and explain the user problem it addresses.
+Does “active account” include accounts that were temporarily suspended during the month, or only accounts able to sign in on the final day? If the report uses a different rule, please point me to the relevant definition.
 
 ## Action, timing, or next step
 
-Please add comments by Thursday afternoon. I will consolidate the feedback and send a revised version for final approval.
+A reply by Thursday morning would help me finalise the summary. If another colleague owns this metric, please let me know who I should contact.
 
 ## Closing and sign-off
 
-Thanks for your help. Best, Marcus
+Thanks for helping me check this.
+
+Best,  
+Aisha
 
 ## Final checklist
 
-Check the recipient, subject, dates, links, attachments, and any promise of follow-up. Make sure the message does not present a pending decision as approved.
+Verify the report title and section number before sending.
 
 ## IELTS-oriented language practice
 
-The email uses a clear purpose, concise context, and polite request. In real professional correspondence, accuracy and the reader’s next action matter more than elaborate phrases.
+The question is neutral, specific, and explains why the clarification is needed.

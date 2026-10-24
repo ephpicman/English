@@ -1,41 +1,44 @@
-# Thank you for resolving the access issue
+# Thank you for helping with the community event
 
-*Illustrative thank-you email. Keep the details specific to the help actually received.*
+*Illustrative thank-you email; personalise it to the volunteer’s actual contribution.*
 
 ## Plan before drafting
 
-Name the contribution, explain its effect, and include a next step only if it is useful.
+Mention a specific task and explain how it helped the event run.
 
 ## Email structure
 
-A brief, specific message is more meaningful than generic praise.
+Keep the appreciation sincere and proportionate to the contribution.
 
 ## Subject line
 
-Thank you for resolving the access issue
+Thank you for supporting Saturday’s community event
 
 ## Greeting and direct thanks
 
-Hello,
+Hi Sam,
 
-Thank you for helping restore access to the shared dashboard this morning.
+Thank you for helping coordinate the registration desk at Saturday’s community event.
 
 ## Specific detail and impact
 
-The explanation of the permission change also helped me understand how to request the correct level of access next time, rather than opening a broad access request.
+Your clear signposting meant visitors could find the right activity without waiting in the main queue. You also noticed that the printed schedule was missing the room number for the children’s workshop and helped us correct it before the afternoon session.
 
 ## Follow-up or next step
 
-I have confirmed that I can view the required report and will contact the service desk if the issue returns.
+We have added that room-check to the event checklist for next time. If you are interested in helping again, I’ll share the date once the next event is confirmed.
 
 ## Warm closing and sign-off
 
-I appreciate the quick and clear support. Best regards, Marcus
+I’m grateful for your time and practical support.
+
+Best wishes,  
+Nina
 
 ## Final checklist
 
-Confirm the recipient’s name and the event or contribution being acknowledged. Do not exaggerate the impact or promise follow-up that you cannot deliver.
+Confirm that the examples reflect what the recipient actually did.
 
 ## IELTS-oriented language practice
 
-The message uses a direct expression of thanks, a concrete detail, and a natural close. For real correspondence, sincerity and specificity are more important than formal-sounding phrases.
+Specific details make the appreciation credible and show the effect of the person’s help.

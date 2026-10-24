@@ -1,43 +1,48 @@
-# Update: revised workshop logistics
+# Response to a request for project status
 
-*Illustrative professional email. Confirm recipients, deadlines, attachments, and status before sending.*
+*Illustrative professional email; update status and dates to match the project record.*
 
 ## Plan before drafting
 
-The email has one clear purpose and identifies the action and timing required from the reader.
+Give a concise, evidence-based status and distinguish completed work from risks and pending decisions.
 
 ## Email structure
 
-Keep the subject specific, put essential context before the request, and close with a clear next step.
+Lead with the current position, then list the remaining dependencies and next checkpoint.
 
 ## Subject line
 
-Update: revised workshop logistics
+Project status update: customer portal
 
 ## Greeting and purpose
 
-Dear participants, I am writing to share an update about the upcoming community workshop.
+Hello Priya,
+
+The customer-portal project remains on track for the internal review, but the final readiness decision depends on two open items.
 
 ## Essential context
 
-The venue has now confirmed the room booking and step-free entrance. The session will begin at 10 a.m. and finish at noon.
+Content migration and functional checks are complete. Accessibility testing is under way, and the identity team has not yet confirmed the production authentication configuration.
 
 ## Main message or request
 
-Please use the updated event page as the source for the location and access information. If you need materials in another format or have a question about getting to the venue, contact the outreach team before the event.
+The main risk is that a late authentication change could require another regression test. We have not observed a failure in the current test environment, but the production configuration still needs confirmation.
 
 ## Action, timing, or next step
 
-We will send the final joining note two days before the workshop. If any detail changes, we will update the event page and notify registered participants.
+The identity team is expected to confirm the configuration by Wednesday. I will update the readiness checklist after that response and raise any schedule impact at Friday’s review.
 
 ## Closing and sign-off
 
-Thank you for your interest. Best regards, Priya
+Please let me know if you need the detailed risk log.
+
+Best regards,  
+Morgan
 
 ## Final checklist
 
-Check the recipient, subject, dates, links, attachments, and any promise of follow-up. Make sure the message does not present a pending decision as approved.
+Check that the status matches the latest tracker and that expected dates are not presented as guarantees.
 
 ## IELTS-oriented language practice
 
-The email uses a clear purpose, concise context, and polite request. In real professional correspondence, accuracy and the reader’s next action matter more than elaborate phrases.
+The email reports progress accurately while identifying uncertainty and a concrete follow-up.

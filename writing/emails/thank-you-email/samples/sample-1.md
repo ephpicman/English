@@ -1,6 +1,6 @@
 # Thank you for the project handover
 
-*Illustrative thank-you email. Keep the details specific to the help actually received.*
+*Illustrative thank-you email; keep the details specific to the help actually received.*
 
 ## Plan before drafting
 
@@ -16,26 +16,29 @@ Thank you for the project handover
 
 ## Greeting and direct thanks
 
-Hello,
+Hello Daniel,
 
 Thank you for taking the time to walk me through the reporting process and the open items before your leave.
 
 ## Specific detail and impact
 
-The explanation of which figures are final and which still need review was especially helpful. It gave me a clear starting point and helped me avoid treating a provisional number as confirmed.
+Your explanation of which figures were final and which still needed review was especially helpful. It gave me a clear starting point and helped me avoid treating a provisional number as confirmed.
 
 ## Follow-up or next step
 
-I will use the checklist we discussed and contact the data owner if a definition remains unclear. I will also add any useful clarification to the shared handover notes.
+I’ll use the checklist we discussed and contact the data owner if a definition remains unclear. I’ll also add any useful clarification to the shared handover notes for the next person.
 
 ## Warm closing and sign-off
 
-I appreciate your help and hope you enjoy your time away. Best, Jordan
+I appreciate you making the time during a busy week.
+
+Best,  
+Riley
 
 ## Final checklist
 
-Confirm the recipient’s name and the event or contribution being acknowledged. Do not exaggerate the impact or promise follow-up that you cannot deliver.
+Ensure the thanks reflect help actually received and do not promise follow-up work you cannot complete.
 
 ## IELTS-oriented language practice
 
-The message uses a direct expression of thanks, a concrete detail, and a natural close. For real correspondence, sincerity and specificity are more important than formal-sounding phrases.
+The message links appreciation to a specific contribution and its practical impact.

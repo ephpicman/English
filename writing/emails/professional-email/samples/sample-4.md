@@ -1,43 +1,48 @@
-# Follow-up on the outstanding access approval
+# Notification of a planned system maintenance window
 
-*Illustrative professional email. Confirm recipients, deadlines, attachments, and status before sending.*
+*Illustrative internal notice; confirm the schedule and impact with the technical owner.*
 
 ## Plan before drafting
 
-The email has one clear purpose and identifies the action and timing required from the reader.
+The email tells affected colleagues what will happen, when it will happen, and what they should do.
 
 ## Email structure
 
-Keep the subject specific, put essential context before the request, and close with a clear next step.
+Put the time window and expected impact near the beginning, then provide a contact route.
 
 ## Subject line
 
-Follow-up on the outstanding access approval
+Planned maintenance: reporting portal on Saturday
 
 ## Greeting and purpose
 
-Hello Morgan, I am following up on the read-only access request for the monthly dashboard.
+Hello colleagues,
+
+The reporting portal is scheduled for maintenance on Saturday, 16 November, from 7:00 to 8:30 a.m. Central European Time.
 
 ## Essential context
 
-I submitted the request on Monday and need the dashboard to prepare the weekly summary.
+During this window, users may be unable to sign in or export reports. No action is needed for files already saved locally, but please avoid starting a scheduled export during the maintenance period.
 
 ## Main message or request
 
-Could you confirm whether the request is awaiting your approval or whether another step is required? Read-only access is sufficient for the task.
+The service team will test the portal after the update and confirm when normal access is restored. If the maintenance window changes, we will send a revised notice.
 
 ## Action, timing, or next step
 
-If possible, I would appreciate an update by Wednesday morning. If the approval needs to come from another owner, please let me know and I will contact them directly.
+Please complete any time-sensitive exports by Friday afternoon. Report access problems after the window through the usual service desk channel.
 
 ## Closing and sign-off
 
-Thank you. Kind regards, Amira
+Thank you for planning around this short interruption.
+
+Regards,  
+IT Operations
 
 ## Final checklist
 
-Check the recipient, subject, dates, links, attachments, and any promise of follow-up. Make sure the message does not present a pending decision as approved.
+Verify the date, time zone, duration, and expected impact with the service owner.
 
 ## IELTS-oriented language practice
 
-The email uses a clear purpose, concise context, and polite request. In real professional correspondence, accuracy and the reader’s next action matter more than elaborate phrases.
+The notice distinguishes the scheduled interruption from the steps users need to take.

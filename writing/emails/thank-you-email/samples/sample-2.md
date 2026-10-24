@@ -1,41 +1,44 @@
 # Thank you for the interview
 
-*Illustrative thank-you email. Keep the details specific to the help actually received.*
+*Illustrative recruitment email; refer only to topics that were actually discussed.*
 
 ## Plan before drafting
 
-Name the contribution, explain its effect, and include a next step only if it is useful.
+Thank the interviewer, mention a relevant conversation detail, and reinforce interest without making exaggerated claims.
 
 ## Email structure
 
-A brief, specific message is more meaningful than generic praise.
+A concise note sent promptly after the interview can show professionalism.
 
 ## Subject line
 
-Thank you for the interview
+Thank you for today’s interview
 
 ## Greeting and direct thanks
 
-Hello,
+Dear Ms Ahmed,
 
-Thank you for meeting with me to discuss the research assistant position.
+Thank you for meeting with me today to discuss the Operations Coordinator position.
 
 ## Specific detail and impact
 
-I particularly appreciated hearing how the team compares evidence from studies with different methods and makes uncertainty clear in its summaries. That approach matches the kind of careful research work I want to develop.
+I particularly appreciated hearing how the team is improving the handover process between customer support and logistics. The example you shared helped me understand the role’s focus on clear communication and practical problem-solving.
 
 ## Follow-up or next step
 
-Our conversation has strengthened my interest in the role. Please let me know if I can provide any additional information to support the application.
+Our conversation strengthened my interest in the position. Please let me know if I can provide any further information to support the next stage of the process.
 
 ## Warm closing and sign-off
 
-Thank you again for your time and consideration. Kind regards, Elena
+Thank you again for your time and consideration.
+
+Kind regards,  
+Leah Martin
 
 ## Final checklist
 
-Confirm the recipient’s name and the event or contribution being acknowledged. Do not exaggerate the impact or promise follow-up that you cannot deliver.
+Check the interviewer’s name and role, and avoid implying that an offer has been made.
 
 ## IELTS-oriented language practice
 
-The message uses a direct expression of thanks, a concrete detail, and a natural close. For real correspondence, sincerity and specificity are more important than formal-sounding phrases.
+The email uses a concrete discussion point rather than broad, impersonal praise.

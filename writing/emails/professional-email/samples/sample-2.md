@@ -1,43 +1,48 @@
-# Clarification needed on reporting definitions
+# Revised agenda for Thursday’s planning meeting
 
-*Illustrative professional email. Confirm recipients, deadlines, attachments, and status before sending.*
+*Illustrative professional email; confirm the agenda and meeting time before sending.*
 
 ## Plan before drafting
 
-The email has one clear purpose and identifies the action and timing required from the reader.
+The purpose is to share a changed agenda and help recipients prepare.
 
 ## Email structure
 
-Keep the subject specific, put essential context before the request, and close with a clear next step.
+State the change early, explain why it matters, and identify any preparation needed.
 
 ## Subject line
 
-Clarification needed on reporting definitions
+Revised agenda for Thursday’s planning meeting
 
 ## Greeting and purpose
 
-Dear colleagues, I am writing to clarify the definitions used for two fields in the monthly report.
+Hello everyone,
+
+I’ve updated the agenda for Thursday’s planning meeting to include a decision on the revised launch sequence.
 
 ## Essential context
 
-The source systems appear to use the same category label for different types of event. Combining the values before resolving the difference could make the comparison misleading.
+The dependency review identified two tasks that cannot run in parallel. We therefore need to agree on sequencing before confirming the remaining dates.
 
 ## Main message or request
 
-Could each source owner review the examples in the attached issue log and confirm the intended meaning of the field? Please indicate whether the definition is documented elsewhere and identify the person authorised to approve a change.
+The revised agenda is attached. The first 15 minutes will cover dependencies, followed by the launch sequence and open risks. Please review the decision points before the meeting and add any missing items to the shared document.
 
 ## Action, timing, or next step
 
-If possible, please respond by 25 November so the analytics team can update the data dictionary before the next reporting cycle. Until then, the fields will remain separate.
+Please send proposed additions by 3 p.m. Wednesday. If you cannot attend, add your comments to the document so the group can consider them.
 
 ## Closing and sign-off
 
-Thank you for helping us keep the report consistent. Kind regards, Daniel
+Thank you for preparing in advance.
+
+Kind regards,  
+Elena
 
 ## Final checklist
 
-Check the recipient, subject, dates, links, attachments, and any promise of follow-up. Make sure the message does not present a pending decision as approved.
+Check the attachment and deadline, and ensure the revised agenda is the version actually shared.
 
 ## IELTS-oriented language practice
 
-The email uses a clear purpose, concise context, and polite request. In real professional correspondence, accuracy and the reader’s next action matter more than elaborate phrases.
+The message explains the reason for a change and gives recipients a clear preparation task.

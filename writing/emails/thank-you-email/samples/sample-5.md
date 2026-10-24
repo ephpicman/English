@@ -1,41 +1,44 @@
-# Thank you for the recommendation
+# Thank you for a professional introduction
 
-*Illustrative thank-you email. Keep the details specific to the help actually received.*
+*Illustrative networking email; personalise the context and follow-up to the actual introduction.*
 
 ## Plan before drafting
 
-Name the contribution, explain its effect, and include a next step only if it is useful.
+Thank the person who made the introduction and briefly explain why it was useful.
 
 ## Email structure
 
-A brief, specific message is more meaningful than generic praise.
+Keep the message warm and specific without placing an obligation on either contact.
 
 ## Subject line
 
-Thank you for the recommendation
+Thank you for the introduction to Maya Chen
 
 ## Greeting and direct thanks
 
-Hello,
+Hello Thomas,
 
-Thank you for agreeing to provide a reference for my application.
+Thank you for introducing me to Maya Chen after the design forum last week.
 
 ## Specific detail and impact
 
-I appreciate the time this takes, especially alongside your current workload. The projects we worked on together gave you a useful view of how I organise tasks and respond to feedback.
+I appreciated the chance to discuss how her team approaches usability testing with limited research time. Her suggestion to run short, task-based sessions gave me a practical idea to explore for our next project.
 
 ## Follow-up or next step
 
-I have sent the application deadline and the role description so you have the relevant context. Please tell me if any other information would be helpful.
+I have sent Maya a brief note to thank her for the conversation. I’ll let you know if the discussion develops into a useful collaboration, and I appreciate you making the connection.
 
 ## Warm closing and sign-off
 
-Thank you again for your support. Warm regards, Noor
+Thanks again for thinking of me.
+
+Best regards,  
+Alex
 
 ## Final checklist
 
-Confirm the recipient’s name and the event or contribution being acknowledged. Do not exaggerate the impact or promise follow-up that you cannot deliver.
+Ensure the introduction and subsequent contact actually occurred before sending.
 
 ## IELTS-oriented language practice
 
-The message uses a direct expression of thanks, a concrete detail, and a natural close. For real correspondence, sincerity and specificity are more important than formal-sounding phrases.
+The email states the value of the introduction and closes without overstating a future outcome.
