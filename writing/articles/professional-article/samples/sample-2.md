@@ -1,35 +1,51 @@
-# Making project risks visible earlier
+# Building a practical data governance routine
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
+
+## Before you draft
+
+Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
+
+## Draft structure
+
+The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
 
 ## Title
 
-**Making project risks visible earlier**
+**Building a practical data governance routine**
 
 ## Executive opening
 
-Making project risks visible earlier raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Data governance is often treated as a large policy project, but many teams need a repeatable way to decide what a field means, who may change it, and how a correction is recorded. A lightweight routine can improve consistency without creating unnecessary approval layers. The key is to make ownership, definitions, and change history visible while applying stronger controls to higher-risk data.
 
 ## Context, definitions, and scope
 
-For this example, the scope is limited to making project risks visible earlier in a small team or learning environment. Define terms consistently and state assumptions about resources, timing, and audience before drawing conclusions. A narrow scope makes comparisons more meaningful and prevents one case from being presented as proof of a universal rule. Broader claims require additional evidence. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+This article focuses on operational data used across teams. It does not replace legal, privacy, security, or sector-specific obligations. Organisations should align any proposed routine with their approved governance framework and data classification rules.
 
 ## Professional insight 1
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Start with a data dictionary for the fields that influence important reports or workflows. Record a plain-language definition, allowed values, source system, owner, and known caveats. When two systems use the same label differently, keep the values separate until the owners agree on a mapping. A shared name is not proof of shared meaning.
 
 ## Professional insight 2
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Governance also needs a change process. A request should identify the field, the reason for change, affected reports, and the person who approves it. Version history helps analysts explain why a number differs from an earlier report. For sensitive data, access and retention decisions should be reviewed by the appropriate privacy or security owner.
 
 ## Recommendations and application
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Choose a small group of high-impact fields, assign owners, and hold a short monthly review for unresolved definitions. Link the dictionary to the reports that use it and include a process for reporting errors.
 
 ## Risks, limitations, and open questions
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A dictionary can become stale if no one owns it, and excessive approval steps can delay harmless corrections. Use risk-based review and distinguish wording changes from changes that alter meaning or downstream results.
 
 ## Conclusion
 
-Overall, making project risks visible earlier is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Effective governance is a working habit, not a document that sits unused. Clear ownership and traceable definitions help teams make consistent decisions while keeping the process proportionate to the data’s importance.
+
+## Language and quality review
+
+Check that recommendations follow from the explanation, that claims are supported by appropriate evidence, and that no local outcome is implied without verification. Remove repetition and ensure each section adds a distinct point.
+
+## IELTS-oriented practice note
+
+For language practice, notice the formal register, defined scope, and distinction between recommendations and limitations. The article’s professional usefulness takes priority over complicated vocabulary.

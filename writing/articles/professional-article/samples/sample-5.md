@@ -1,35 +1,51 @@
-# Building sustainable team processes
+# Planning a responsible pilot for process automation
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
+
+## Before you draft
+
+Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
+
+## Draft structure
+
+The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
 
 ## Title
 
-**Building sustainable team processes**
+**Planning a responsible pilot for process automation**
 
 ## Executive opening
 
-Building sustainable team processes raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Automation can make a stable process faster and more consistent, but it can also reproduce unclear rules at greater speed. A responsible pilot starts by mapping the process, identifying exceptions, and defining how a human can intervene when the system behaves unexpectedly. The purpose of a pilot is to learn whether automation is suitable, not to prove that the initial idea must be adopted.
 
 ## Context, definitions, and scope
 
-For this example, the scope is limited to building sustainable team processes in a small team or learning environment. Define terms consistently and state assumptions about resources, timing, and audience before drawing conclusions. A narrow scope makes comparisons more meaningful and prevents one case from being presented as proof of a universal rule. Broader claims require additional evidence. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+This article is intended for operational teams considering automation of a repeatable administrative task. It does not assume a particular tool or integration. Technical, privacy, and security reviews may be necessary depending on the data and actions involved.
 
 ## Professional insight 1
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Document the current process before selecting a tool. Identify inputs, decisions, exception cases, approvals, and the consequences of an incorrect action. If two staff members follow different rules for the same case, automation requires a policy decision before it requires code.
 
 ## Professional insight 2
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Define a limited test with representative cases, including failures and unusual inputs. Keep a manual fallback and log the system’s decisions so the team can investigate unexpected results. Compare quality and exception rates, not only processing time; a fast workflow that creates hard-to-detect errors is not an improvement.
 
 ## Recommendations and application
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Select one low-risk workflow, establish a baseline, and agree acceptance criteria with the people who do the work. Run the pilot in a controlled environment, review failures, and expand only when the controls and support process are ready.
 
 ## Risks, limitations, and open questions
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Automation may expose personal data to an unapproved service or perform actions that are difficult to reverse. Confirm access permissions, retention, monitoring, and rollback before using real records.
 
 ## Conclusion
 
-Overall, building sustainable team processes is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Responsible automation begins with a clear process and a testable problem. A limited pilot with explicit safeguards helps a team decide whether automation improves the work without hiding new risks.
+
+## Language and quality review
+
+Check that recommendations follow from the explanation, that claims are supported by appropriate evidence, and that no local outcome is implied without verification. Remove repetition and ensure each section adds a distinct point.
+
+## IELTS-oriented practice note
+
+For language practice, notice the formal register, defined scope, and distinction between recommendations and limitations. The article’s professional usefulness takes priority over complicated vocabulary.

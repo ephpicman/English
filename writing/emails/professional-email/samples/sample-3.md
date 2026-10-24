@@ -1,35 +1,43 @@
-# Clarifying a delivery timeline
+# Request to review the draft customer guide
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative professional email. Confirm recipients, deadlines, attachments, and status before sending.*
+
+## Plan before drafting
+
+The email has one clear purpose and identifies the action and timing required from the reader.
 
 ## Email structure
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Keep the subject specific, put essential context before the request, and close with a clear next step.
 
 ## Subject line
 
-**Clarifying a delivery timeline**
+Request to review the draft customer guide
 
 ## Greeting and purpose
 
-Hello [Recipient], I am writing to provide an update on clarifying a delivery timeline. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+Hi team, the first draft of the customer setup guide is ready for review.
 
 ## Essential context
 
-Hello [Recipient], I am writing to provide an update on clarifying a delivery timeline. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+The guide has been organised around the tasks users need to complete, with prerequisites listed before the steps that depend on them.
 
 ## Main message or request
 
-Hello [Recipient], I am writing to provide an update on clarifying a delivery timeline. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+Please focus your review on technical accuracy, missing edge cases, and whether the expected result is clear after each important step. If you suggest a change, point to the section and explain the user problem it addresses.
 
 ## Action, timing, or next step
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+Please add comments by Thursday afternoon. I will consolidate the feedback and send a revised version for final approval.
 
 ## Closing and sign-off
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+Thanks for your help. Best, Marcus
+
+## Final checklist
+
+Check the recipient, subject, dates, links, attachments, and any promise of follow-up. Make sure the message does not present a pending decision as approved.
 
 ## IELTS-oriented language practice
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+The email uses a clear purpose, concise context, and polite request. In real professional correspondence, accuracy and the reader’s next action matter more than elaborate phrases.

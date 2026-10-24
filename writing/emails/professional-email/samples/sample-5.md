@@ -1,35 +1,43 @@
-# Confirming agreed next steps
+# Update: revised workshop logistics
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative professional email. Confirm recipients, deadlines, attachments, and status before sending.*
+
+## Plan before drafting
+
+The email has one clear purpose and identifies the action and timing required from the reader.
 
 ## Email structure
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Keep the subject specific, put essential context before the request, and close with a clear next step.
 
 ## Subject line
 
-**Confirming agreed next steps**
+Update: revised workshop logistics
 
 ## Greeting and purpose
 
-Hello [Recipient], I am writing to provide an update on confirming agreed next steps. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+Dear participants, I am writing to share an update about the upcoming community workshop.
 
 ## Essential context
 
-Hello [Recipient], I am writing to provide an update on confirming agreed next steps. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+The venue has now confirmed the room booking and step-free entrance. The session will begin at 10 a.m. and finish at noon.
 
 ## Main message or request
 
-Hello [Recipient], I am writing to provide an update on confirming agreed next steps. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+Please use the updated event page as the source for the location and access information. If you need materials in another format or have a question about getting to the venue, contact the outreach team before the event.
 
 ## Action, timing, or next step
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+We will send the final joining note two days before the workshop. If any detail changes, we will update the event page and notify registered participants.
 
 ## Closing and sign-off
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+Thank you for your interest. Best regards, Priya
+
+## Final checklist
+
+Check the recipient, subject, dates, links, attachments, and any promise of follow-up. Make sure the message does not present a pending decision as approved.
 
 ## IELTS-oriented language practice
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+The email uses a clear purpose, concise context, and polite request. In real professional correspondence, accuracy and the reader’s next action matter more than elaborate phrases.

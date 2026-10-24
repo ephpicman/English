@@ -1,35 +1,51 @@
-# Using feedback to improve operations
+# Making cross-functional projects easier to govern
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
+
+## Before you draft
+
+Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
+
+## Draft structure
+
+The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
 
 ## Title
 
-**Using feedback to improve operations**
+**Making cross-functional projects easier to govern**
 
 ## Executive opening
 
-Using feedback to improve operations raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Cross-functional projects can lose momentum when teams use different definitions of progress, dependencies are hidden, or decisions are recorded only in meeting conversations. Good governance provides a shared view of goals, risks, owners, and decision rights without turning every task into a committee process. The right structure is the lightest one that makes important trade-offs visible and allows the project to respond to change.
 
 ## Context, definitions, and scope
 
-For this example, the scope is limited to using feedback to improve operations in a small team or learning environment. Define terms consistently and state assumptions about resources, timing, and audience before drawing conclusions. A narrow scope makes comparisons more meaningful and prevents one case from being presented as proof of a universal rule. Broader claims require additional evidence. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+This article addresses internal projects involving several teams and a shared delivery goal. It is not a substitute for formal governance required by regulated or high-risk work. The examples are illustrative and should be adapted to the organisation’s approval structure.
 
 ## Professional insight 1
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A concise project record should identify the intended outcome, scope, milestones, accountable owner, and measures of success. Teams should distinguish a completed activity from an achieved outcome: holding a workshop is an activity, while a decision made from the workshop may be an outcome. This distinction keeps reporting connected to purpose.
 
 ## Professional insight 2
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Dependencies need an owner and a date for review. A risk log that lists concerns without an action can become a passive record. Similarly, decision logs should state what was decided, why, and which assumptions might cause the decision to be revisited. Not every issue requires escalation, but material changes need a clear route.
 
 ## Recommendations and application
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Agree a small set of shared status definitions, review dependencies weekly, and record decisions in a location accessible to all relevant teams. Use escalation for choices that exceed the project owner’s authority or materially change scope, cost, or risk.
 
 ## Risks, limitations, and open questions
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Too much reporting can consume the time needed to deliver the work. Too little can leave teams surprised by a dependency. Review the governance routine with participants and remove fields that do not support decisions.
 
 ## Conclusion
 
-Overall, using feedback to improve operations is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Good governance is not paperwork for its own sake. It helps teams understand the same priorities, act on risks early, and preserve the reasoning behind important decisions.
+
+## Language and quality review
+
+Check that recommendations follow from the explanation, that claims are supported by appropriate evidence, and that no local outcome is implied without verification. Remove repetition and ensure each section adds a distinct point.
+
+## IELTS-oriented practice note
+
+For language practice, notice the formal register, defined scope, and distinction between recommendations and limitations. The article’s professional usefulness takes priority over complicated vocabulary.

@@ -1,35 +1,51 @@
-# Designing fair staff onboarding
+# Improving customer support through knowledge management
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
+
+## Before you draft
+
+Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
+
+## Draft structure
+
+The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
 
 ## Title
 
-**Designing fair staff onboarding**
+**Improving customer support through knowledge management**
 
 ## Executive opening
 
-Designing fair staff onboarding raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Support teams often solve the same problem repeatedly because the answer is difficult to find, outdated, or written for an internal expert rather than a customer. Knowledge management can reduce this friction when it captures verified solutions, assigns ownership, and makes feedback from real cases part of the review cycle. The goal is not to publish every internal note, but to help people find a safe and accurate next step.
 
 ## Context, definitions, and scope
 
-For this example, the scope is limited to designing fair staff onboarding in a small team or learning environment. Define terms consistently and state assumptions about resources, timing, and audience before drawing conclusions. A narrow scope makes comparisons more meaningful and prevents one case from being presented as proof of a universal rule. Broader claims require additional evidence. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The intended audience is a support operations lead managing a knowledge base for routine product questions. The article does not assume a specific platform or claim a quantified reduction in contacts; those outcomes require local evidence.
 
 ## Professional insight 1
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Begin with recurring case themes. Review anonymised case tags and identify questions that consume time because the same clarification is needed. For each article, define the user problem, prerequisites, steps, expected result, and escalation path. Keep troubleshooting steps separate from policy decisions that require a specialist.
 
 ## Professional insight 2
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Ownership and review are as important as writing. A page should have a content owner, a last-reviewed date, and a route for reporting an error. When a product changes, the team should check the instructions that depend on the changed behaviour. Search analytics can indicate what readers seek, but they do not prove that an article solved the problem.
 
 ## Recommendations and application
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Pilot improvements on the most frequent case category. Ask agents to test the guide against a real but anonymised case, then collect examples where the instructions were insufficient. Review usefulness through case audits and reader feedback.
 
 ## Risks, limitations, and open questions
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Publishing an unverified workaround can create security or data-loss risks. Articles should identify supported versions, avoid exposing secrets, and direct users to specialist help when the issue exceeds the documented scope.
 
 ## Conclusion
 
-Overall, designing fair staff onboarding is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Knowledge management works when content reflects real support needs and has a maintenance owner. A smaller, tested collection of clear articles is safer and more useful than a large archive of unreviewed notes.
+
+## Language and quality review
+
+Check that recommendations follow from the explanation, that claims are supported by appropriate evidence, and that no local outcome is implied without verification. Remove repetition and ensure each section adds a distinct point.
+
+## IELTS-oriented practice note
+
+For language practice, notice the formal register, defined scope, and distinction between recommendations and limitations. The article’s professional usefulness takes priority over complicated vocabulary.

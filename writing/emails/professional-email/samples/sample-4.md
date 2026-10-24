@@ -1,35 +1,43 @@
-# Escalating a recurring issue
+# Follow-up on the outstanding access approval
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative professional email. Confirm recipients, deadlines, attachments, and status before sending.*
+
+## Plan before drafting
+
+The email has one clear purpose and identifies the action and timing required from the reader.
 
 ## Email structure
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Keep the subject specific, put essential context before the request, and close with a clear next step.
 
 ## Subject line
 
-**Escalating a recurring issue**
+Follow-up on the outstanding access approval
 
 ## Greeting and purpose
 
-Hello [Recipient], I am writing to provide an update on escalating a recurring issue. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+Hello Morgan, I am following up on the read-only access request for the monthly dashboard.
 
 ## Essential context
 
-Hello [Recipient], I am writing to provide an update on escalating a recurring issue. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+I submitted the request on Monday and need the dashboard to prepare the weekly summary.
 
 ## Main message or request
 
-Hello [Recipient], I am writing to provide an update on escalating a recurring issue. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+Could you confirm whether the request is awaiting your approval or whether another step is required? Read-only access is sufficient for the task.
 
 ## Action, timing, or next step
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+If possible, I would appreciate an update by Wednesday morning. If the approval needs to come from another owner, please let me know and I will contact them directly.
 
 ## Closing and sign-off
 
-Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+Thank you. Kind regards, Amira
+
+## Final checklist
+
+Check the recipient, subject, dates, links, attachments, and any promise of follow-up. Make sure the message does not present a pending decision as approved.
 
 ## IELTS-oriented language practice
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+The email uses a clear purpose, concise context, and polite request. In real professional correspondence, accuracy and the reader’s next action matter more than elaborate phrases.
