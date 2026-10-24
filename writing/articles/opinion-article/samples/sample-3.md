@@ -1,42 +1,31 @@
-# A four-day workweek deserves careful trials
+# Employers should assess outcomes, not online presence
 
-*Illustrative opinion article. Verify any local or time-sensitive claims before publication.*
+*Illustrative opinion article. Adapt recommendations to the role, employment law, and workplace policies.*
 
 ## Headline
 
-**A four-day workweek deserves careful trials**
+**Employers should assess outcomes, not online presence**
 
 ## Opening and issue framing
 
-The idea of working four days for the same pay attracts attention because it promises more time outside work without sacrificing output. Yet the result depends on how a workplace is organised, not simply on deleting Friday from the calendar.
+A green status icon does not prove that an employee is doing valuable work, just as a quiet hour does not prove that someone is unproductive. Yet some workplaces still treat visible activity—rapid replies, frequent meetings, or time spent at a desk—as a substitute for clear expectations. This approach can reward performance theatre while making focused work harder. Employers should define what good work looks like and assess it using evidence appropriate to the role.
 
 ## Clear position and reasoning map
 
-Employers should test shorter workweeks where the work can be redesigned and measured, rather than adopting or rejecting the model as a universal rule. The case rests on practical benefits, fair implementation, and honest attention to trade-offs.
+Organisations should prioritise outcomes, quality, and reliable collaboration rather than constant online visibility. This does not mean abandoning supervision or ignoring how work is done. It means agreeing on responsibilities and reviewing performance through meaningful evidence, while using communication expectations to support coordination rather than surveillance.
 
 ## Reason 1 with support
 
-A well-planned trial can expose low-value meetings, repeated approvals, and unclear priorities. Teams may protect focused work time and agree on response expectations, allowing them to complete essential tasks with fewer interruptions. Measures should include quality, customer response, workload, and employee wellbeing—not just hours logged.
+Outcome-based management gives employees a clearer target. A support specialist may be assessed on the accuracy and helpfulness of responses, not simply how long the messaging application remains open. A project coordinator may need to keep decisions, owners, and deadlines clear so that colleagues can act. These expectations are more useful than vague demands to “look busy,” because they can be discussed, improved, and adjusted when priorities change. They also help managers identify where a problem comes from: insufficient resources, unclear instructions, or a genuine performance gap.
 
 ## Reason 2 with support
 
-A trial also gives managers a chance to discover where the model does not fit. A hospital ward, retail counter, or customer-support team still needs coverage at particular times. In those settings, a shorter week may require additional staffing, staggered schedules, or a different policy rather than the same arrangement used by an office team.
+Constant monitoring can damage trust and create incentives to optimise the wrong behaviour. If staff believe that every pause will be interpreted negatively, they may respond to messages immediately even when they are working on a task that requires concentration. They may also avoid raising problems for fear that an honest update will look like failure. Clear goals and regular check-ins can provide accountability without tracking every minute. Managers still need to address missed commitments, but they can do so by examining the work, the constraints, and the agreed expectations.
 
 ## Counterargument and response
-Employers should also distinguish genuine productivity improvement from work simply being compressed into fewer days. If employees respond to messages late at night or skip breaks to meet unchanged targets, the arrangement may be transferring pressure rather than reducing waste. A trial should therefore measure workload, quality, absence, and staff feedback alongside output. The criteria should be agreed before the trial begins so that the organisation does not select only the results that support its preferred conclusion. A careful review may show that a shorter week works well for some teams but needs a different design elsewhere.
 
-Opponents reasonably note that compressed schedules can intensify work and make employees feel obliged to be available after hours. This risk is real if targets remain unchanged while the time available shrinks. The answer is to set boundaries, monitor workload, and stop or redesign the trial when service quality or staff health worsens.
+Some roles require immediate availability, such as live customer support or operational monitoring. In these settings, response time and coverage are legitimate performance measures. The argument is not that every job should be judged identically; it is that measures should match the actual responsibility. A role requiring a scheduled response window should make that expectation explicit rather than applying the same rule to every employee.
 
 ## Conclusion and implication
-A policy that changes working hours should also consider people whose roles require coverage at specific times. Staggered schedules, additional staffing, or a different arrangement may be more suitable than applying the same four-day model to every team. This is not a reason to avoid experimentation; it is a reason to design the trial around the actual work and to be honest about the costs and limits.
-A trial should include a clear review point and a decision about what happens next. If the measures show better output but worse workload, the employer may need to redesign the schedule rather than declare the experiment a success. Employees should be able to report pressure without fear of undermining the policy. This makes the evidence more trustworthy and allows the organisation to learn whether the change is sustainable, not merely popular during the first few weeks.
 
-A four-day workweek is best treated as an organisational experiment with clear safeguards. Employers should publish the measures they will use, consult staff, and report both benefits and trade-offs before deciding whether the model should continue.
-
-## Language and quality review
-
-This draft states a clear position, supports it with distinct reasons, and responds to a plausible objection. Before publication, add relevant local evidence or authoritative sources where factual claims require support, and check that the headline accurately reflects the argument.
-
-## IELTS-oriented practice note
-
-For IELTS practice, this model demonstrates a direct position, developed reasons, a counterargument, and a conclusion. It is a genre example, not a score prediction; adapt the length and argument to the exact task prompt.
+Workplaces should replace vague visibility tests with clear outcomes, appropriate service measures, and regular conversations about quality. This approach supports accountability while making room for different working styles and the concentration needed to do good work.
