@@ -1,19 +1,29 @@
-# Personal statement: academic and professional direction
-*Illustrative statement. Adapt it to the actual programme and retain only experiences that are accurate for the applicant.*
+# Personal statement: community development
+
+*Illustrative statement. Keep only experiences and goals that accurately describe the applicant.*
+
 ## Motivation and direction
-I am drawn to communication studies because the same information can lead to very different responses depending on how it is framed, delivered, and understood. I want to learn how organisations can communicate clearly across audiences without sacrificing accuracy or reducing complex issues to slogans.
+
+I want to study community development because the success of a local programme depends not only on the service it offers but also on whether residents can access it, trust it, and shape how it works. I am interested in the relationship between community organisations, public services, and the people they serve. I hope to develop the skills needed to plan inclusive programmes, gather meaningful feedback, and evaluate whether an intervention is meeting its intended purpose.
+
 ## Relevant preparation
-My experience includes writing event announcements and coordinating details from several contributors. These tasks showed me that even a well-written message fails if its date, access information, or next step is unclear. I became interested in the planning behind communication: audience needs, channel choice, consistency, and the review process that protects accuracy.
+
+My interest grew through volunteering at a neighbourhood centre, where I helped prepare event materials, welcome visitors, and direct questions to the appropriate staff. I saw how small practical details could affect participation. For example, a schedule that did not clearly identify the room for each session created confusion for visitors who had limited time. Working with the coordinator, I helped update the guide so that the session topic, time, and location appeared together. The experience made me interested in how communication and service design influence access.
+
 ## Skills and learning evidence
-While helping a student group promote an event, I noticed that the start time differed between its social post and event page. I confirmed the schedule with the organiser, corrected both messages, and suggested a final check of key details before publication. I also asked a reader unfamiliar with the event to review the revised page and point out anything that remained unclear. This experience taught me to evaluate communication from the audience’s perspective rather than assuming that my own understanding is universal.
+
+I have developed organisational skills by maintaining sign-up records, coordinating small tasks, and checking that public information matches confirmed arrangements. I have also learned the importance of privacy. When handling contact information, I followed the centre’s procedures and referred questions about sensitive situations to trained staff rather than trying to resolve them independently. These experiences taught me that being helpful requires knowing the boundaries of my role as well as being approachable.
+
+I am also learning to evaluate feedback more carefully. A positive comment can indicate that an event was useful, but it does not necessarily show whether the programme reached people who were unable to attend. I want to develop better ways to gather feedback from a wider range of participants and use it to improve future planning.
+
 ## Fit with opportunity
-I want to develop stronger skills in audience research, communication planning, and evaluation. I would bring concise writing, attention to detail, and an interest in how messages work in real settings. I am also willing to learn from criticism and adjust a draft when the intended audience does not interpret it as expected.
+
+The programme interests me because I want to combine practical community experience with study of participation, programme planning, and evaluation. I would value opportunities to examine how local needs are identified, how resources are allocated, and how organisations measure outcomes without reducing people’s experiences to a single number. Before submission, I would connect this motivation to the actual modules and placement opportunities offered by the institution.
+
 ## Goals and contribution
-I would like to gain experience evaluating communication as well as producing it. That includes gathering audience feedback, comparing channels, and revising a message when readers interpret it differently than intended. I am particularly interested in accessible communication that gives people the information they need without assuming they share the writer’s background, time, or technical knowledge.
-After study, I hope to work in public-interest or organisational communications, helping people understand services, decisions, and opportunities. I want to measure success not only by how many people see a message, but by whether they can find the information they need and take an informed next step.
+
+My immediate goal is to strengthen my communication, project planning, and evaluation skills. In the longer term, I hope to work with a community organisation or public service that develops accessible local programmes. I would bring practical experience supporting events, a respectful approach to residents, and a willingness to learn from feedback. I am also interested in contributing to group discussions by considering how a programme might work for people with different schedules, language needs, and levels of access to information.
 
 ## Conclusion
 
-I want to learn how to plan communication around audience needs rather than relying only on instinct. That includes gathering information about what readers already know, testing whether instructions are understood, and evaluating which channel is suitable for a particular message. I am interested in how accessibility, language choice, and timing affect whether people can act on information. I would like to practise these skills through projects that involve research, drafting, feedback, and revision. I also understand that public communication can involve competing interests: a message must be concise without hiding important context, and persuasive without overstating the evidence. I hope to develop the judgment to make those choices responsibly and to explain the reasons behind them to colleagues.
-
-I see this programme as a chance to connect practical communication experience with a more rigorous understanding of audience, evidence, and impact.
+Community development appeals to me because it combines practical action with reflection about who benefits and who may be left out. I want to develop the knowledge and judgment to support programmes that are useful, inclusive, and responsive to the people they serve.

@@ -1,19 +1,29 @@
-# Personal statement: academic and professional direction
-*Illustrative statement. Adapt it to the actual programme and retain only experiences that are accurate for the applicant.*
+# Personal statement: public health
+
+*Illustrative statement. Adapt the content to the actual programme and use only accurate personal experience.*
+
 ## Motivation and direction
-I am interested in public administration because public services must turn limited resources and complex rules into support that people can actually use. I want to understand how organisations coordinate delivery, evaluate performance, and remain accountable to the communities they serve.
+
+I am interested in public health because people’s health is shaped not only by individual choices but also by housing, education, work, access to information, and the design of services. I want to understand how evidence can help communities prevent illness and improve wellbeing while recognising that different groups face different constraints. My goal is to develop the analytical and communication skills needed to contribute to programmes that are practical, equitable, and evaluated responsibly.
+
 ## Relevant preparation
-My preparation includes volunteer coordination and academic work involving service access and organisational processes. These experiences made me aware that a procedure can appear clear to its designers while remaining confusing to the person trying to use it. I became interested in the connection between internal operations and the public’s experience.
+
+My interest developed through study of health communication and community services. I became particularly interested in why a message that seems clear to its author may not be useful to every audience. During a volunteer activity, I helped prepare a short information sheet directing residents to local services. Reviewing the draft with the coordinator showed me that unfamiliar terminology and missing contact details could prevent readers from taking the next step. We revised the language and checked the information against the service providers’ current guidance.
+
 ## Skills and learning evidence
-In a volunteer project, requests were recorded in several places and responsibility for follow-up was not always obvious. I helped review the process with the team and suggested a shared tracker that identified the request, current status, owner, and next action. We checked unclear entries before moving active items and agreed on a simple update routine. The change did not solve every capacity problem, but it made the outstanding work easier to see and discuss.
+
+This experience strengthened my attention to detail and taught me to distinguish communicating information from confirming that it is understood. I have practised summarising source material, checking dates and definitions, and adapting the level of explanation to the intended audience. I also recognise the limits of my experience: a well-written information sheet cannot remove barriers such as cost, transport, or limited service capacity. I want to learn how public-health practitioners combine communication with data, community engagement, and evaluation.
+
+In group work, I try to make responsibilities clear and record the decisions that affect the final product. I am interested in developing my understanding of research methods so that I can interpret findings cautiously and explain uncertainty without making the results seem less useful than they are.
+
 ## Fit with opportunity
-I want to strengthen my knowledge of public-sector management, programme evaluation, and ethical decision-making. I would bring practical organisation, careful communication, and a habit of asking who may be excluded by a process. I am ready to engage with evidence and to revise an idea when the results do not support it.
+
+I am seeking a programme that brings together epidemiology, health promotion, research methods, and the social conditions that affect health. I would value practical assignments that require students to assess evidence and communicate recommendations to different audiences. Before submitting this statement, I would verify the actual course structure and refer to the modules most closely related to my interests.
+
 ## Goals and contribution
-I would like to learn how to evaluate service performance using both administrative data and feedback from the people who use a service. I am interested in how organisations balance consistent rules with individual circumstances, and how they explain decisions fairly. In study and work, I would aim to be careful with evidence, respectful in collaboration, and willing to revise a proposal when it does not address the actual problem.
-I hope to begin in a role supporting service improvement or programme coordination, with the longer-term aim of helping public organisations evaluate whether services are accessible and effective. I want my work to connect operational detail with the broader public purpose behind a service.
+
+In the near term, I want to strengthen my skills in evaluating evidence and planning community-facing information. In the longer term, I hope to contribute to public-health research, programme coordination, or health-promotion work. I would bring careful source checking, a respectful approach to community perspectives, and an interest in assessing whether a programme reaches the people it intends to serve.
 
 ## Conclusion
 
-I want to deepen my understanding of how public organisations evaluate services and account for their decisions. Operational records can show how many requests were processed, but they may not reveal whether residents found the service accessible or understood the outcome. I am interested in combining quantitative indicators with careful feedback and documenting the limits of each source. This would help me distinguish a problem caused by a single process from one that requires a broader policy response. I would also like to learn more about ethical decision-making, public consultation, and how organisations explain trade-offs when resources are limited. I would bring a practical understanding of coordination and a willingness to listen to people affected by the process before recommending a change.
-
-This opportunity would help me build the analytical and professional foundations to contribute responsibly to public service.
+Public health appeals to me because it connects evidence with the conditions in which people live. I want to develop the knowledge and judgment to support interventions that are clearly communicated, realistically designed, and evaluated with care.
