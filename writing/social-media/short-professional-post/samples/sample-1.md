@@ -1,19 +1,19 @@
-# A small process improvement for this week
+# Short professional post: project handovers
 
-*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
+*Illustrative post; adapt it to a real workplace experience.*
 
 ## Hook or Announcement
 
-A small process improvement for this week
+A useful handover should make the next action obvious.
 
 ## Essential Information
 
-Choose one recurring handoff and write down the owner, next action, and expected date. Ask the receiving colleague whether those details are enough to continue without chasing context.
+For each open item, record the current status, owner, next action, due date, and any dependency. Link to the source record instead of copying the entire project history.
 
 ## Relevance or Takeaway
 
-Clarity is often a better first step than adding another tool.
+This helps the next person act without having to reconstruct decisions from old messages.
 
 ## Call to Action or Close
 
-Try it on one workflow and review what changes.
+What makes a handover easier for your team?

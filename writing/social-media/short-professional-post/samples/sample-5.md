@@ -1,19 +1,19 @@
-# Status updates can be clear without pretending certainty
+# Short professional post: customer follow-up
 
-*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
+*Illustrative post; adapt it to the service standards you follow.*
 
 ## Hook or Announcement
 
-Status updates can be clear without pretending certainty
+A reliable next update can matter as much as an immediate answer.
 
 ## Essential Information
 
-Separate confirmed information from assumptions, identify the open risk, and state when the next update is expected. This gives readers a useful picture without turning an estimate into a promise.
+When a case needs investigation, explain what is confirmed, what remains open, and when the customer will hear from you again. Record the follow-up commitment so it is visible if the case changes hands.
 
 ## Relevance or Takeaway
 
-Trust grows when uncertainty is communicated responsibly.
+Realistic updates help customers plan without promising a result outside your control.
 
 ## Call to Action or Close
 
-Use this structure in your next project update.
+How does your team track follow-up commitments?

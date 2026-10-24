@@ -1,19 +1,19 @@
-# Meeting follow-up should name the next action
+# Short professional post: reporting uncertainty
 
-*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
+*Illustrative post; do not share confidential project details.*
 
 ## Hook or Announcement
 
-Meeting follow-up should name the next action
+A status update should say what is still uncertain.
 
 ## Essential Information
 
-After a discussion, record the decision, the person responsible, and when the action will be reviewed. If the group has not decided, write down what information is still needed.
+“Testing is planned for Thursday, pending access approval” is more useful than “on track” when the dependency is not yet closed. It tells the reader what to monitor and who needs to act.
 
 ## Relevance or Takeaway
 
-Clear minutes reduce the need to reconstruct the conversation later.
+Clear uncertainty helps teams make decisions before a forecast becomes a missed commitment.
 
 ## Call to Action or Close
 
-Read back actions before the meeting ends.
+What helps your team flag risks early?

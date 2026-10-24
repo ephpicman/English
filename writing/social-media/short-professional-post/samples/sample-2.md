@@ -1,19 +1,19 @@
-# Documentation tip: show the expected result
+# Short professional post: meeting notes
 
-*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
+*Illustrative post; adapt the advice to your team’s working style.*
 
 ## Hook or Announcement
 
-Documentation tip: show the expected result
+Meeting notes are most useful when they record decisions and owners.
 
 ## Essential Information
 
-A step-by-step guide is easier to follow when readers know what success looks like after each important action. Where it helps, include an example output or a simple verification check.
+Separate decisions from discussion, and give each action a responsible person and due date. If a point remains unresolved, label it as open rather than implying the team has agreed.
 
 ## Relevance or Takeaway
 
-This helps users distinguish a completed step from a silent failure.
+A short, accurate record can prevent confusion at the next check-in.
 
 ## Call to Action or Close
 
-Review one guide and add a verification point.
+How do you keep your meeting notes actionable?

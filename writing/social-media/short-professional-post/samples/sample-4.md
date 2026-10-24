@@ -1,19 +1,19 @@
-# Learning works better when it includes practice
+# Short professional post: accessible documents
 
-*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
+*Illustrative post; follow the relevant accessibility standards.*
 
 ## Hook or Announcement
 
-Learning works better when it includes practice
+Build accessibility into the first draft, not the final check.
 
 ## Essential Information
 
-Pair a learning resource with a small task that uses the skill, then create an opportunity for feedback and revision. Course completion alone does not show whether someone can apply the idea.
+Use semantic heading styles, descriptive link text, meaningful table headers, and appropriate alternative text. Automated checkers are useful, but manual review is still needed.
 
 ## Relevance or Takeaway
 
-Plan the practice step at the same time as the training.
+Good structure makes documents easier to navigate for more readers and simpler to maintain.
 
 ## Call to Action or Close
 
-What skill could your team practise this month?
+Which accessibility check do you use routinely?
