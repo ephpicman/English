@@ -1,71 +1,64 @@
-# API reference: Add a comment to a support ticket
+# API reference: Upload a document
 
-*Illustrative API contract. This is not a verified live endpoint; validate the schema, permissions, limits, and status codes against the actual implementation.*
+*Illustrative API contract. Confirm file limits, scanning behaviour, and storage permissions before implementation.*
 
 ## Before drafting
 
-Confirm the product version, source-of-truth schema, authentication model, and supported error behaviour. Do not publish untested examples as working requests.
+Use the actual upload contract and security requirements. The examples below are not a verified live endpoint.
 
 ## Document structure
 
-This reference describes the operation, its inputs, response, errors, limits, and a safe usage example.
+This reference describes upload requirements, permissions, response data, and failure cases.
 
 ## Overview
 
-Adds a comment to an existing ticket. The endpoint should distinguish public replies from internal notes and enforce permissions so internal content is not accidentally disclosed to a customer.
+Uploads a document to an authorised workspace and returns a file reference. The endpoint should not imply that the file is safe or available to other users until required validation and scanning are complete.
 
 ## Authentication and permissions
 
-Send a bearer token with permission to comment on the ticket. If the API supports internal notes, require a separate permission and make the visibility field explicit.
+Require a valid token and permission to upload to the target workspace. Validate workspace access server-side. Do not trust a client-supplied file name or content type as proof of file safety.
 
 ## Endpoint and method
 
-**POST `/v1/tickets/{ticket_id}/comments`**
+**POST** /v1/workspaces/{workspace_id}/files
 
 ## Parameters
 
-`ticket_id` (path, required): target ticket identifier.
+- **workspace_id** — required path parameter.
+- **file** — required multipart file field.
+- **purpose** — optional field only if supported by the implementation.
+
+Document accepted media types and the maximum upload size from the real service configuration.
 
 ## Request body
 
-{
-  "body": "I have reproduced the issue and am checking the authentication logs.",
-  "visibility": "internal"
-}
+Use multipart form data with the file field. Do not encode large files as JSON unless the API explicitly requires that format.
 
 ## Successful response
 
+Illustrative response:
+
 ```json
 {
-  "id": "cmt_example_456",
-  "ticket_id": "tkt_example_123",
-  "visibility": "internal",
-  "created_at": "2026-10-24T11:00:00Z"
+  "file_id": "file_example_789",
+  "status": "pending_scan"
 }
 ```
 
+The identifier is synthetic. Confirm whether the service returns a pending, ready, or rejected status.
+
 ## Errors and edge cases
 
-- `400 Bad Request`: empty body or unsupported visibility.
-- `401 Unauthorized`: missing or invalid token.
-- `403 Forbidden`: caller lacks comment or internal-note permission.
-- `404 Not Found`: ticket is unavailable to the caller.
-- `413 Content Too Large`: comment exceeds the documented limit, if this status is used by the implementation.
+Document unsupported media type, file too large, invalid workspace, insufficient permission, failed scan, and temporary storage errors.
 
 ## Limits and operational behaviour
 
-Set a maximum comment length, escape or safely render user-supplied content, and avoid including secrets or unnecessary personal data. The actual API must specify whether comments can be edited or deleted.
+State upload size, timeouts, retention, and when the file becomes available. Define safe retry behaviour so that network failures do not create uncontrolled duplicate uploads.
 
 ## Tested usage example
 
-```bash
-curl -X POST "https://api.example.test/v1/tickets/tkt_example_123/comments" \
-  -H "Authorization: Bearer $ACCESS_TOKEN" \
-  -H "Content-Type: application/json" \
-  -d '{"body":"Investigating the issue","visibility":"internal"}'
-```
-The host and identifiers are examples, not a real service. Verify the visibility rules before adapting this pattern.
+Use a harmless test file and test accepted, rejected, oversized, and interrupted uploads. Confirm that rejected files are not exposed to other users.
 
 ## Final quality check
 
-Verify method, path, authentication, permission checks, schema, status codes, pagination or concurrency behaviour, and example safety. Test requests against a controlled environment and record the API version before calling the example tested.
+Verify upload handling, scan status, storage access, and all error codes against the actual service.

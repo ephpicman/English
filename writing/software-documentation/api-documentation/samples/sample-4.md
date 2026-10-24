@@ -1,69 +1,68 @@
-# API reference: Update a ticket status
+# API reference: Update a user notification preference
 
-*Illustrative API contract. This is not a verified live endpoint; validate the schema, permissions, limits, and status codes against the actual implementation.*
+*Illustrative API contract. Verify the available preference fields, authentication, and audit requirements.*
 
 ## Before drafting
 
-Confirm the product version, source-of-truth schema, authentication model, and supported error behaviour. Do not publish untested examples as working requests.
+Confirm which preferences the API supports and whether changes require additional verification.
 
 ## Document structure
 
-This reference describes the operation, its inputs, response, errors, limits, and a safe usage example.
+This reference defines the operation, permissions, request fields, response, and failure behaviour.
 
 ## Overview
 
-Changes the status of an existing ticket when the caller is authorised and the transition is permitted. This example illustrates a partial update contract; the real service must document its allowed state transitions and concurrency behaviour.
+Updates a notification preference for the authenticated user. The example is illustrative and must be aligned with the actual user-settings schema.
 
 ## Authentication and permissions
 
-Send a bearer access token with permission to update the ticket. The service should verify access to the ticket and reject transitions that are not allowed by the workflow.
+Require an access token for the user whose settings are being changed, or an explicitly authorised administrative role. Do not allow a caller to update another user’s preferences by changing an identifier alone.
 
 ## Endpoint and method
 
-**PATCH `/v1/tickets/{ticket_id}`**
+**PATCH** /v1/me/notification-preferences
 
 ## Parameters
 
-`ticket_id` (path, required): ticket identifier. The request may optionally include a version or conditional header if the service supports optimistic concurrency.
+No path or query parameters are required in this example. Confirm whether the implementation supports partial updates and how omitted fields are handled.
 
 ## Request body
 
+```json
 {
-  "status": "in_progress"
+  "product_updates": false,
+  "service_messages": true
 }
+```
+
+These fields are examples only. Service-critical messages may have different rules from optional marketing or product updates.
 
 ## Successful response
 
+Illustrative response:
+
 ```json
 {
-  "id": "tkt_example_123",
-  "status": "in_progress",
-  "updated_at": "2026-10-24T10:30:00Z"
+  "product_updates": false,
+  "service_messages": true,
+  "updated_at": "2026-10-24T12:00:00Z"
 }
 ```
 
+Confirm the real response fields and timestamp format.
+
 ## Errors and edge cases
 
-- `400 Bad Request`: malformed body or unsupported status value.
-- `401 Unauthorized`: missing or invalid token.
-- `403 Forbidden`: caller lacks update permission.
-- `404 Not Found`: ticket is unavailable to the caller.
-- `409 Conflict`: requested transition conflicts with current state.
+Document invalid field names, unsupported values, unauthorised updates, and rate limiting. The service should reject unknown fields or handle them according to the published contract, not silently imply that they were saved.
 
 ## Limits and operational behaviour
 
-Document valid status values and transitions from the actual workflow. If concurrent edits are possible, use a version field or conditional request to avoid silently overwriting another user’s change.
+Explain whether updates take effect immediately, how preferences are audited, and whether any settings cannot be disabled for operational or legal reasons.
 
 ## Tested usage example
 
-```bash
-curl -X PATCH "https://api.example.test/v1/tickets/tkt_example_123" \
-  -H "Authorization: Bearer $ACCESS_TOKEN" \
-  -H "Content-Type: application/json" \
-  -d '{"status":"in_progress"}'
-```
-This is a sample request only; it has not been executed against a live endpoint.
+Test updating one field, sending an invalid field, and submitting an empty body. Confirm that the response accurately reflects stored preferences.
 
 ## Final quality check
 
-Verify method, path, authentication, permission checks, schema, status codes, pagination or concurrency behaviour, and example safety. Test requests against a controlled environment and record the API version before calling the example tested.
+Verify preference names, allowed values, and policy constraints before publishing.

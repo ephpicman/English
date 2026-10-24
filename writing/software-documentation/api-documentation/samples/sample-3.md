@@ -1,32 +1,35 @@
-# API reference: List tickets with cursor pagination
+# API reference: List project activity
 
-*Illustrative API contract. This is not a verified live endpoint; validate the schema, permissions, limits, and status codes against the actual implementation.*
+*Illustrative API contract. Confirm pagination, sorting, filtering, and access-control behaviour before publication.*
 
 ## Before drafting
 
-Confirm the product version, source-of-truth schema, authentication model, and supported error behaviour. Do not publish untested examples as working requests.
+Use the current API specification and database ordering rules as the source of truth. The example does not claim a live endpoint exists.
 
 ## Document structure
 
-This reference describes the operation, its inputs, response, errors, limits, and a safe usage example.
+The reference describes list behaviour, query parameters, response fields, errors, and operational limits.
 
 ## Overview
 
-Lists tickets visible to the authenticated caller. Cursor pagination allows clients to retrieve successive pages without requesting an arbitrary page number. The contract below is illustrative; confirm the ordering, filter semantics, and cursor format in the real implementation.
+Returns activity records visible to the authenticated user. The service should apply access controls before filtering or paginating the result.
 
 ## Authentication and permissions
 
-Send a bearer access token. The service must apply account and role-based access controls before returning results, including on every subsequent page.
+A bearer token is required. The caller can retrieve only activity they are authorised to view. Do not treat an activity identifier or cursor as proof of permission.
 
 ## Endpoint and method
 
-**GET `/v1/tickets`**
+**GET** /v1/projects/{project_id}/activity
 
 ## Parameters
 
-- `limit` (optional integer): number of items requested; example default 20, maximum 100.
-- `status` (optional): filter by a documented status value.
-- `cursor` (optional opaque string): continue from the prior response’s `next_cursor`.
+- **project_id** — required path parameter.
+- **limit** — optional page size with a documented maximum.
+- **cursor** — optional continuation token returned by the previous response.
+- **type** — optional event-type filter if supported.
+
+Confirm defaults and accepted values in the actual implementation.
 
 ## Request body
 
@@ -34,34 +37,35 @@ No request body is used for this GET operation.
 
 ## Successful response
 
+Illustrative response:
+
 ```json
 {
   "items": [
-    {"id": "tkt_example_123", "status": "open"}
+    {
+      "id": "evt_example_1",
+      "type": "comment_added",
+      "created_at": "2026-10-20T09:30:00Z"
+    }
   ],
-  "next_cursor": "cursor_example_next"
+  "next_cursor": null
 }
 ```
 
+The event ID and timestamp are synthetic examples.
+
 ## Errors and edge cases
 
-- `400 Bad Request`: unsupported status, invalid limit, or malformed cursor.
-- `401 Unauthorized`: missing or invalid token.
-- `429 Too Many Requests`: rate limit reached.
-- `5xx`: server-side failure; use documented retry behaviour.
+Document malformed cursors, inaccessible projects, unsupported filters, rate limiting, and temporary service failures. Do not promise stable snapshot semantics unless the API implements them.
 
 ## Limits and operational behaviour
 
-The cursor is opaque and must not be edited by the client. Define a stable ordering with a unique tie-breaker. A cursor may become invalid after a retention or schema change; the API should document how clients restart pagination.
+Specify the maximum page size, deterministic ordering, and what happens when new events arrive between requests. Apply the same permission checks to every page.
 
 ## Tested usage example
 
-```bash
-curl "https://api.example.test/v1/tickets?limit=20&status=open" \
-  -H "Authorization: Bearer $ACCESS_TOKEN"
-```
-To fetch the next page, pass the returned cursor as a URL-encoded query parameter. This sample has not been executed against a live service.
+Test an empty project, a project with multiple event types, a malformed cursor, and a user without project access. Verify that pagination neither duplicates nor skips records under the documented conditions.
 
 ## Final quality check
 
-Verify method, path, authentication, permission checks, schema, status codes, pagination or concurrency behaviour, and example safety. Test requests against a controlled environment and record the API version before calling the example tested.
+Ensure the query parameters and pagination contract match the implementation.

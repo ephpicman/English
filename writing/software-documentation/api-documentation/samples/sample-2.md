@@ -1,30 +1,33 @@
-# API reference: Retrieve a support ticket
+# API reference: Retrieve an order
 
-*Illustrative API contract. This is not a verified live endpoint; validate the schema, permissions, limits, and status codes against the actual implementation.*
+*Illustrative API contract. Verify the route, response fields, and access rules against the actual implementation.*
 
 ## Before drafting
 
-Confirm the product version, source-of-truth schema, authentication model, and supported error behaviour. Do not publish untested examples as working requests.
+Confirm how order ownership is checked and whether the API returns different fields for different roles.
 
 ## Document structure
 
-This reference describes the operation, its inputs, response, errors, limits, and a safe usage example.
+This reference covers retrieval of one order, required permissions, response shape, and failure cases.
 
 ## Overview
 
-Retrieves one ticket by its identifier, subject to the caller’s access permissions. This illustrative reference demonstrates the expected shape of a read endpoint; verify the actual schema and authorisation rules before implementation.
+Retrieves an order by its identifier for an authorised caller. The route and examples are illustrative and do not describe a verified live endpoint.
 
 ## Authentication and permissions
 
-Send a bearer access token with permission to view the requested ticket. The server must check access to the specific ticket, not merely whether the caller is authenticated.
+A valid access token is required. The caller must be permitted to view the requested order. The service should not reveal whether an order exists when the caller is not authorised, unless the actual API contract explicitly specifies otherwise.
 
 ## Endpoint and method
 
-**GET `/v1/tickets/{ticket_id}`**
+**GET** /v1/orders/{order_id}
 
 ## Parameters
 
-`ticket_id` (path, required): identifier returned when the ticket was created. Treat it as an identifier, not as proof of access.
+- **order_id** — required path parameter; use the identifier returned when the order was created.
+- **include_items** — optional boolean query parameter only if supported by the implementation.
+
+Validate identifier format and reject malformed values consistently.
 
 ## Request body
 
@@ -32,36 +35,36 @@ No request body is used for this GET operation.
 
 ## Successful response
 
+Illustrative response:
+
 ```json
 {
-  "id": "tkt_example_123",
-  "subject": "Dashboard access",
-  "status": "open",
-  "priority": "normal",
-  "created_at": "2026-10-24T10:00:00Z",
-  "updated_at": "2026-10-24T10:00:00Z"
+  "id": "ord_example_456",
+  "status": "processing",
+  "currency": "EUR",
+  "items": [
+    {"sku": "item-example", "quantity": 1}
+  ]
 }
 ```
 
+All values are synthetic. Confirm whether item details are included by default.
+
 ## Errors and edge cases
 
-- `400 Bad Request`: malformed ticket identifier.
-- `401 Unauthorized`: missing or invalid token.
-- `403 Forbidden`: caller is not allowed to view the ticket.
-- `404 Not Found`: ticket does not exist, or the service intentionally hides its existence from this caller.
+- **400:** malformed identifier or invalid query parameter.
+- **401:** missing or invalid authentication.
+- **403 or 404:** access denied or order not found, according to the documented privacy policy.
+- **429:** rate limit exceeded.
 
 ## Limits and operational behaviour
 
-The actual service should define whether inaccessible and nonexistent tickets return the same status to reduce information disclosure. Clients should not assume that sequential IDs are private or predictable.
+Document pagination if item lists can be large, caching behaviour if applicable, and any consistency delay between order updates and retrieval.
 
 ## Tested usage example
 
-```bash
-curl "https://api.example.test/v1/tickets/tkt_example_123" \
-  -H "Authorization: Bearer $ACCESS_TOKEN"
-```
-Use a ticket ID and token from a controlled test environment. This example is illustrative and has not been run against a live service.
+In a test environment, retrieve an order created by the same test account, then test a nonexistent identifier and an order belonging to another account. Confirm that the response does not expose unauthorised data.
 
 ## Final quality check
 
-Verify method, path, authentication, permission checks, schema, status codes, pagination or concurrency behaviour, and example safety. Test requests against a controlled environment and record the API version before calling the example tested.
+Verify route syntax, ownership checks, and the exact response schema before release.
