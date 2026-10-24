@@ -1,33 +1,32 @@
-# Thank-you letter
+# Thank-you letter after staying with a friend
 
-*Illustrative thank-you letter. Keep the details specific to the actual contribution and relationship.*
+*Illustrative personal letter; adapt it to the actual visit and relationship.*
 
 ## Plan first
 
-A meaningful thank-you names the contribution, explains its effect, and offers a natural next step where useful.
+Mention a specific part of the visit and show how the host’s help mattered.
 
 ## Letter structure
 
-Keep the tone warm and proportionate to the relationship.
+Use a warm tone without turning the letter into a list of compliments.
 
 ## Greeting and direct thanks
 
-Dear colleague,
+Dear Maya,
 
-I would like to thank you for reviewing my application materials before the deadline.
+Thank you for letting me stay with you last weekend while I was in town.
 
 ## Specific detail and impact
 
-Your comments helped me replace broad claims with clearer examples of what I had actually done. I also appreciated the reminder to connect each example to the programme’s criteria rather than listing experiences without explanation.
+I especially appreciated how you helped me plan the journey across the city and showed me the quiet café near the station. Your thoughtful arrangements made it much easier to manage a busy weekend, and I enjoyed having time to catch up properly rather than rushing between appointments.
 
 ## Relationship or next step
 
-I have submitted the revised application and will keep you informed when I hear back. Thank you again for giving your time to help me improve it.
+I have sent you the photographs from our walk and would love to return the favour when you visit my area. Let me know when you have a free weekend, and we can plan something relaxed.
 
 ## Warm closing
 
-Your support has meant a great deal. Kind regards, Amira
+Thank you again for your hospitality and for making me feel at home. It meant a lot.
 
-## Final review
-
-Confirm the recipient’s name and the specific help being acknowledged. Avoid exaggerated praise or promises that you cannot keep.
+With love,  
+Nina

@@ -1,37 +1,36 @@
-# Letter of apology
+# Apology for missing a family gathering
 
-*Illustrative formal letter. Replace names and circumstances with accurate details before use.*
+*Illustrative personal letter; adapt the tone and details to the actual relationship.*
 
 ## Plan first
 
-The letter acknowledges the mistake, explains the context without making excuses, recognises the impact, and describes a practical prevention step.
+The letter acknowledges disappointment without making excuses or demanding forgiveness.
 
 ## Letter structure
 
-Use a respectful tone and keep the corrective action specific.
+Explain briefly, recognise the effect, and offer a sincere next step.
 
 ## Greeting and clear apology
 
-Dear Ms Rahman,
+Dear Auntie,
 
-I am writing to offer a sincere apology for the mistake described below.
+I am sorry I missed Sunday’s family lunch and did not let you know in good time.
 
 ## Context and responsibility
 
-Please accept my apology for missing the appointment on Tuesday. I misread the confirmation message and failed to check the time against my calendar.
+My train was delayed, but I should have sent you a message as soon as I realised I would not arrive. I know you had spent time preparing the meal and arranging the afternoon around everyone being there.
 
 ## Impact and understanding
 
-I recognise that you reserved time for the appointment and that my absence disrupted your schedule.
+I understand that my silence may have made you think I had forgotten or did not value the invitation. That was not how I felt, but I recognise that I did not communicate that to you.
 
 ## Corrective action and prevention
 
-I have added a calendar reminder and will confirm future appointments the day before. If you are willing to reschedule, I can attend on Thursday morning or at another time convenient to you.
+I would love to visit next weekend if you are free, and I can bring the dessert we discussed. If that date is inconvenient, I will arrange another time that suits you. In future, I will contact you as soon as plans change rather than wait until I know exactly what will happen.
 
 ## Closing and sign-off
 
-I apologise again and understand if a new appointment cannot be arranged. Yours sincerely, Daniel
+I am truly sorry I let you down, and I hope I can make it up to you.
 
-## IELTS and language review
-
-The letter uses a direct apology, relevant context, acknowledgement of impact, and a concrete corrective action. Check that the explanation does not sound like an excuse and that all details are accurate.
+With love,  
+Mina

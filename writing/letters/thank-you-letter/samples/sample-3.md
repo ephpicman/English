@@ -1,33 +1,32 @@
-# Thank-you letter
+# Thank-you letter to a teacher
 
-*Illustrative thank-you letter. Keep the details specific to the actual contribution and relationship.*
+*Illustrative letter; include only feedback or support that the student actually received.*
 
 ## Plan first
 
-A meaningful thank-you names the contribution, explains its effect, and offers a natural next step where useful.
+Connect the thanks to a specific teaching action and the learning it supported.
 
 ## Letter structure
 
-Keep the tone warm and proportionate to the relationship.
+Be sincere and concise, and avoid exaggerated claims.
 
 ## Greeting and direct thanks
 
-Dear colleague,
+Dear Ms Lewis,
 
-Thank you for organising the community clean-up and making new volunteers feel welcome.
+Thank you for the guidance you gave me while I was preparing my research project this term.
 
 ## Specific detail and impact
 
-The short briefing at the start helped everyone understand the safety guidance and where to take the collected materials. I especially appreciated that tasks were explained clearly for people who had not joined before.
+Your suggestion to separate the research question from the method helped me see why my first draft was difficult to follow. The comments you made on the structure gave me a clear way to revise the introduction, and I became more confident explaining how each section supported the overall argument.
 
 ## Relationship or next step
 
-I would be happy to help again next month. Please let me know when the next date is confirmed.
+I plan to use the same approach when I prepare future assignments. I have also kept the planning notes we developed because they will be useful when I begin a larger project.
 
 ## Warm closing
 
-Thanks again for your effort and care. Best wishes, Farah
+I appreciate the time you spent giving detailed feedback and helping me improve the work.
 
-## Final review
-
-Confirm the recipient’s name and the specific help being acknowledged. Avoid exaggerated praise or promises that you cannot keep.
+Yours sincerely,  
+Amira

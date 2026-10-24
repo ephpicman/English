@@ -1,37 +1,36 @@
-# Letter of apology
+# Apology for cancelling a volunteer shift
 
-*Illustrative formal letter. Replace names and circumstances with accurate details before use.*
+*Illustrative letter; adapt the reason and proposed replacement to the real circumstances.*
 
 ## Plan first
 
-The letter acknowledges the mistake, explains the context without making excuses, recognises the impact, and describes a practical prevention step.
+The letter recognises the effect on the team and offers a realistic way to help.
 
 ## Letter structure
 
-Use a respectful tone and keep the corrective action specific.
+Avoid overexplaining personal circumstances and focus on responsibility.
 
 ## Greeting and clear apology
 
-Dear Sam,
+Dear Volunteer Coordinator,
 
-I am writing to offer a sincere apology for the mistake described below.
+I am sorry I cancelled my Saturday shift at short notice and did not give the team more time to find cover.
 
 ## Context and responsibility
 
-I am writing to apologise for booking the meeting room for the wrong time. I copied the time from an earlier draft and did not check it against the final schedule.
+An unexpected personal commitment meant I could not attend, but I should have contacted you as soon as I knew there was a problem. I recognise that the team relies on volunteers arriving when scheduled.
 
 ## Impact and understanding
 
-I realise that this affected your preparation and may have created a conflict for the group.
+My absence may have increased the workload for the other volunteers and made it harder to organise the morning’s distribution. I appreciate the time you spend coordinating shifts and regret adding to that pressure.
 
 ## Corrective action and prevention
 
-I have corrected the booking and sent an updated invitation. Before making future reservations, I will verify the agreed time with the organiser and check that the calendar entry matches the confirmation.
+If useful, I can take an additional shift next weekend, subject to the rota. I will confirm availability earlier and contact the coordinator directly if an emergency affects a future commitment.
 
 ## Closing and sign-off
 
-I am sorry for the inconvenience. Best wishes, Priya
+Thank you for understanding. I am sorry for the disruption and appreciate the work the team does.
 
-## IELTS and language review
-
-The letter uses a direct apology, relevant context, acknowledgement of impact, and a concrete corrective action. Check that the explanation does not sound like an excuse and that all details are accurate.
+Kind regards,  
+Farah

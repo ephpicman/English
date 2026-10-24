@@ -1,33 +1,32 @@
-# Thank-you letter
+# Thank-you letter to a workplace mentor
 
-*Illustrative thank-you letter. Keep the details specific to the actual contribution and relationship.*
+*Illustrative letter; personalise the details to the help actually received.*
 
 ## Plan first
 
-A meaningful thank-you names the contribution, explains its effect, and offers a natural next step where useful.
+Name the contribution, explain its effect, and offer a natural next step.
 
 ## Letter structure
 
-Keep the tone warm and proportionate to the relationship.
+Keep the appreciation specific and proportionate.
 
 ## Greeting and direct thanks
 
-Dear colleague,
+Dear Daniel,
 
 Thank you for taking the time to mentor me during my first month in the role.
 
 ## Specific detail and impact
 
-Your advice about preparing for handovers and recording decisions helped me understand how the team keeps work moving when responsibilities change. The example you shared made the process much easier to apply.
+Your advice about preparing for handovers and recording decisions helped me understand how the team keeps work moving when responsibilities change. The example you shared made the process easier to apply, and the checklist we discussed has already helped me organise my notes more clearly.
 
 ## Relationship or next step
 
-I have started using the checklist we discussed and will let you know if I find a useful improvement that could benefit the wider team.
+I have started using the checklist and will add any useful clarification to the shared handover guide. I would also be glad to share the revised version with you before it is circulated more widely.
 
 ## Warm closing
 
-I really appreciate your generosity and support. With best wishes, Jordan
+I appreciate your patience and the practical advice you offered while I was learning the role. It made the transition less daunting.
 
-## Final review
-
-Confirm the recipient’s name and the specific help being acknowledged. Avoid exaggerated praise or promises that you cannot keep.
+Best wishes,  
+Riley

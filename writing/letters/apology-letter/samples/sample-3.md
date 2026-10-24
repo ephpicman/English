@@ -1,37 +1,36 @@
-# Letter of apology
+# Apology for returning a borrowed book late
 
-*Illustrative formal letter. Replace names and circumstances with accurate details before use.*
+*Illustrative personal letter; change the details to reflect the actual situation.*
 
 ## Plan first
 
-The letter acknowledges the mistake, explains the context without making excuses, recognises the impact, and describes a practical prevention step.
+The letter takes responsibility for the delay and offers a practical way to put things right.
 
 ## Letter structure
 
-Use a respectful tone and keep the corrective action specific.
+Acknowledge the inconvenience and avoid overstating the reason.
 
 ## Greeting and clear apology
 
-Dear Professor Ellis,
+Dear Daniel,
 
-I am writing to offer a sincere apology for the mistake described below.
+I am sorry I kept your book longer than I promised and did not return it last week.
 
 ## Context and responsibility
 
-I am sorry that I submitted the draft with the incorrect file attached. I selected an earlier version and did not check the filename before sending it.
+I underestimated how long I would need to finish it and then forgot to bring it when we met. I should have let you know instead of assuming that a few extra days would not matter.
 
 ## Impact and understanding
 
-I understand that this may have made the review confusing and wasted time comparing the wrong document.
+I remember that you wanted to lend it to another friend, so my delay may have disrupted your plans. I appreciate that you trusted me with it, and I should have treated the agreed return date more carefully.
 
 ## Corrective action and prevention
 
-I have attached the intended draft and labelled it with the correct version date. I will separate archived drafts from current files and check attachments before future submissions.
+I have kept the book in my bag and can drop it off tomorrow evening or leave it with you at work, whichever is easier. I will check the pages and cover before returning it. Next time, I will set a reminder and contact you before the due date if I need more time.
 
 ## Closing and sign-off
 
-Thank you for your understanding. Yours sincerely, Noor
+Thank you for your patience, and please accept my apology.
 
-## IELTS and language review
-
-The letter uses a direct apology, relevant context, acknowledgement of impact, and a concrete corrective action. Check that the explanation does not sound like an excuse and that all details are accurate.
+Best,  
+Chris

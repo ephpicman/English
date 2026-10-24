@@ -1,33 +1,32 @@
-# Thank-you letter
+# Thank-you letter to a volunteer team
 
-*Illustrative thank-you letter. Keep the details specific to the actual contribution and relationship.*
+*Illustrative letter; personalise it to the event and the team’s actual contribution.*
 
 ## Plan first
 
-A meaningful thank-you names the contribution, explains its effect, and offers a natural next step where useful.
+Recognise the group’s effort and explain the practical effect of its work.
 
 ## Letter structure
 
-Keep the tone warm and proportionate to the relationship.
+Use concrete details so the thanks feels genuine rather than generic.
 
 ## Greeting and direct thanks
 
-Dear colleague,
+Dear Community Volunteers,
 
-I am writing to thank you for the thoughtful feedback on my draft report.
+Thank you for helping organise Saturday’s neighbourhood information day.
 
 ## Specific detail and impact
 
-Your suggestion to separate the observed findings from my interpretation made the argument clearer. It also helped me see where I needed a stronger source rather than a more confident sentence.
+The registration desk, clear signs, and help directing visitors made the event easier to navigate. I particularly appreciated how the team adjusted when the room for the employment session changed, updating the schedule and guiding people to the new location without creating confusion.
 
 ## Relationship or next step
 
-I have revised the analysis and added a note about the limitation we discussed. I will use the same distinction in future reports.
+We will include the room-check and signage review in the planning checklist for future events. I will share the date of the next session once it has been confirmed, and I hope some of you will be able to join us again.
 
 ## Warm closing
 
-Thank you for helping me improve the work. Yours sincerely, Daniel
+Your time and care made a real difference to the day. Thank you for supporting the community.
 
-## Final review
-
-Confirm the recipient’s name and the specific help being acknowledged. Avoid exaggerated praise or promises that you cannot keep.
+Best wishes,  
+Nina Patel

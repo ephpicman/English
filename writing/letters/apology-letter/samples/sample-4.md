@@ -1,37 +1,36 @@
-# Letter of apology
+# Apology for an error in a community newsletter
 
-*Illustrative formal letter. Replace names and circumstances with accurate details before use.*
+*Illustrative letter; verify the correction and publication details before sending.*
 
 ## Plan first
 
-The letter acknowledges the mistake, explains the context without making excuses, recognises the impact, and describes a practical prevention step.
+The letter explains the error, recognises its effect, and describes how the correction will be made.
 
 ## Letter structure
 
-Use a respectful tone and keep the corrective action specific.
+Be clear about responsibility and avoid minimising the mistake.
 
 ## Greeting and clear apology
 
-Dear Customer Support Manager,
+Dear Ms Patel,
 
-I am writing to offer a sincere apology for the mistake described below.
+I am writing to apologise for the incorrect meeting time printed in the community newsletter.
 
 ## Context and responsibility
 
-I apologise for giving you an incomplete update about the delivery delay. I shared an estimated arrival date before it had been confirmed by the carrier.
+The notice listed the residents’ meeting as starting at 6 p.m., although the confirmed time was 6:30 p.m. I copied the time from an earlier draft and failed to check it against the final notice before publication.
 
 ## Impact and understanding
 
-I understand that you may have planned around that estimate, and the uncertainty has caused avoidable frustration.
+I understand that residents may have arranged their evening around the information we provided, and the error could cause confusion for people arriving early or late. I am sorry for the inconvenience.
 
 ## Corrective action and prevention
 
-I have checked the latest tracking information and will provide another update only when the carrier confirms a reliable status. I will also distinguish estimates from confirmed dates in future messages.
+I have prepared a correction for the website and noticeboard and will send it through the agreed channels once approved. For future issues, I will compare event details against the final confirmation and ask a second editor to check dates and times before release.
 
 ## Closing and sign-off
 
-I am sorry for the confusion and appreciate the opportunity to correct it. Yours faithfully, Customer Service Team
+Thank you for bringing this to my attention. I apologise again for the mistake.
 
-## IELTS and language review
-
-The letter uses a direct apology, relevant context, acknowledgement of impact, and a concrete corrective action. Check that the explanation does not sound like an excuse and that all details are accurate.
+Yours sincerely,  
+Jordan Lee

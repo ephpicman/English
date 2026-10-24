@@ -1,37 +1,36 @@
-# Letter of apology
+# Apology for a delayed project schedule
 
-*Illustrative formal letter. Replace names and circumstances with accurate details before use.*
+*Illustrative letter; replace the names and circumstances with accurate details.*
 
 ## Plan first
 
-The letter acknowledges the mistake, explains the context without making excuses, recognises the impact, and describes a practical prevention step.
+The letter accepts responsibility, recognises the impact, and explains a realistic corrective step.
 
 ## Letter structure
 
-Use a respectful tone and keep the corrective action specific.
+Keep the explanation brief and focus on what will change.
 
 ## Greeting and clear apology
 
 Dear Morgan,
 
-I am writing to offer a sincere apology for the mistake described below.
+I am writing to apologise for sending the revised project schedule after the agreed deadline.
 
 ## Context and responsibility
 
-I am writing to apologise for sending the revised schedule after the agreed deadline. I should have warned you earlier that I was waiting for two confirmations.
+I was waiting for two confirmations before updating the dates, but I should have told you earlier that the schedule might be delayed. Instead, I waited until the information was complete, leaving you less time to prepare the briefing.
 
 ## Impact and understanding
 
-I understand that the delay left you with less time to prepare the briefing and may have created extra work for the team.
+I understand that this created avoidable pressure and may have affected the time available for your review. I recognise that the problem was not only the delay but also the lack of an early warning.
 
 ## Corrective action and prevention
 
-I have now sent the verified schedule and marked the two items that remain open. In future, I will send a progress note before the deadline if a dependency is unresolved, rather than waiting until the full document is ready.
+I have now sent the revised schedule and marked the dates that still depend on confirmation. In future, I will share a provisional update by the agreed deadline and clearly identify unresolved items rather than leave you without information. I will also notify you as soon as a dependency threatens a commitment.
 
 ## Closing and sign-off
 
-I am sorry for the inconvenience and appreciate your patience. Yours sincerely, Alex
+I am sorry for the inconvenience and appreciate your patience.
 
-## IELTS and language review
-
-The letter uses a direct apology, relevant context, acknowledgement of impact, and a concrete corrective action. Check that the explanation does not sound like an excuse and that all details are accurate.
+Yours sincerely,  
+Alex
