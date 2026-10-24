@@ -1,31 +1,32 @@
-# Release 1.2: accessibility improvements
+# Release notes — 5.1.0
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative release notes. Verify the version, date, merged changes, and security review before publication.*
 
 ## Version, release date, and summary
 
-This document explains how to release 1.2: accessibility improvements. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+**Version:** 5.1.0  
+**Release date:** 3 February 2027
+
+This release improves export previews and makes empty results easier to recognise. Confirm the actual build, dates, and feature status before using these notes.
 
 ## Highlights
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Users can review selected columns before generating an export. The interface also warns when the current selection contains no rows.
 
 ## New features and improvements
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- Added a preview of selected export columns.
+- Added a clear empty-result warning.
+- Clarified the difference between filtering the visible table and filtering the exported dataset.
 
 ## Bug fixes and security changes
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Fixed a column-order mismatch between the preview and generated CSV in the described scenario.
 
 ## Breaking changes / migration steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+No breaking change is intended in this illustrative release. Users should verify that saved export settings still produce the expected columns.
 
 ## Known issues and support
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Export availability continues to depend on the user’s permissions and the underlying dataset. If the preview differs from the downloaded file, retain a redacted example and contact support.

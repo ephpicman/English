@@ -1,31 +1,32 @@
-# Release 3.1: reporting update
+# Release notes — 0.9.2
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative release notes. Verify the version, date, merged changes, and security review before publication.*
 
 ## Version, release date, and summary
 
-This document explains how to release 3.1: reporting update. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+**Version:** 0.9.2  
+**Release date:** 7 January 2027
+
+This pre-release improves handling of temporary connection failures and updates troubleshooting guidance. It is not a statement about a real product release.
 
 ## Highlights
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+The release clarifies how the client reports connection timeouts and provides a bounded retry option for transient failures.
 
 ## New features and improvements
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- Added a configurable retry option that is disabled by default.
+- Added guidance for distinguishing connection timeouts from authentication errors.
 
 ## Bug fixes and security changes
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Fixed a retry loop that could exceed the configured attempt limit.
+- Corrected a message that previously implied every connection error was caused by invalid credentials.
 
 ## Breaking changes / migration steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+No breaking change is intended in this illustrative release. Review retry defaults and configuration before enabling retries in a production environment.
 
 ## Known issues and support
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Retries may increase load on a failing dependency. Use conservative limits and monitor error rates; no guarantee of recovery is implied.

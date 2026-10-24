@@ -1,39 +1,39 @@
-# Specification: background task processing
+# Technical specification: role-based dashboard access
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative technical specification. Confirm schemas, security requirements, and acceptance criteria with the actual system owners before implementation.*
 
 ## Purpose, scope, and terminology
 
-This document explains how to specification: background task processing. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+Define access controls for an internal dashboard with read-only users, editors, and administrators. Scope covers authentication, authorisation, audit events, and denial behaviour.
 
 ## Background and goals
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+The dashboard contains operational information that should not be visible to every authenticated user. Role names must map to explicit permissions and be reviewed when responsibilities change.
 
 ## Functional requirements
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+FR-1: authenticate through the approved identity provider. FR-2: resolve the user’s role from a trusted source. FR-3: enforce permission checks on every protected API operation. FR-4: record role changes and administrative actions. FR-5: return a consistent denial response without leaking restricted data.
 
 ## Non-functional requirements
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+Access checks should fail closed if role information cannot be verified. The service should avoid unnecessary personal data in logs and support timely revocation. Session duration and audit retention must follow approved policy.
 
 ## Architecture and data flow
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+The client authenticates through the identity provider and receives a session or token. The API validates the credential, resolves trusted claims, and checks the required permission for each operation. The interface may hide unavailable controls, but server-side enforcement remains authoritative.
 
 ## Interfaces, schemas, and dependencies
 
-**Illustrative example only:** show the exact input, expected output, and any required options using values safe for a test environment. Explain each non-obvious field, document the failure case, and state which version was tested. Do not present untested commands or invented schemas as verified behaviour.
+Define permissions such as `dashboard:read`, `dashboard:edit`, and `access:manage`. Exact role-to-permission mappings must be approved by the data owner. Token format, issuer, audience, and expiry settings depend on the actual identity provider.
 
 ## Failure modes, security, and observability
 
-Document the requirement, alternatives considered, trade-offs, and operational consequences. Include security, privacy, failure handling, performance, and maintenance where relevant. Label assumptions clearly and record what evidence or test would change the decision.
+Reject missing, expired, or invalid credentials; deny access when role lookup fails; log the event type and correlation ID without recording token contents. Rate-limit repeated authentication failures according to the security design.
 
 ## Acceptance criteria and validation
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Tests demonstrate that each role can perform only permitted actions, revoked access stops working within the approved window, and direct API calls cannot bypass interface restrictions.
 
 ## Open questions and exclusions
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Confirm emergency access procedure, periodic access review, role ownership, and audit retention. External identity federation is out of scope unless separately approved.

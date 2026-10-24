@@ -1,31 +1,31 @@
-# Release 1.8: reliability fixes
+# Release notes — 3.0.0
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative release notes. Verify the version, date, merged changes, and security review before publication.*
 
 ## Version, release date, and summary
 
-This document explains how to release 1.8: reliability fixes. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+**Version:** 3.0.0  
+**Release date:** 12 December 2026
+
+This major release changes the default configuration path and removes a legacy command-line alias. Users who rely on scripts or existing configuration locations must review the migration steps before upgrading.
 
 ## Highlights
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Configuration handling is more explicit, and diagnostic output uses stable field names. The default path change is intended to make per-user configuration easier to manage.
 
 ## New features and improvements
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- Added a command to display resolved non-secret configuration values.
+- Standardised names in diagnostic output.
 
 ## Bug fixes and security changes
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Normalised exit codes for invalid command-line arguments.
 
 ## Breaking changes / migration steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+The legacy `--config-path` alias is removed in this illustrative release; use `--config` instead. Scripts that depend on the previous default path must be updated and tested. Back up the existing configuration before upgrading.
 
 ## Known issues and support
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+The diagnostic command intentionally omits values marked as secrets, but review output before sharing it. Confirm actual secret-redaction behaviour in the released build.

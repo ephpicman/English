@@ -1,39 +1,39 @@
-# Specification: file upload workflow
+# Technical specification: monthly report export
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative technical specification. Confirm schemas, security requirements, and acceptance criteria with the actual system owners before implementation.*
 
 ## Purpose, scope, and terminology
 
-This document explains how to specification: file upload workflow. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+Specify a controlled export flow for a monthly reporting table. Scope includes selecting columns, applying filters, generating a CSV, and verifying that exported data matches the user’s authorised view.
 
 ## Background and goals
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Users need a reproducible export and a way to distinguish an empty result from a failed operation. The design should preserve permissions and avoid silently exporting columns that were not selected.
 
 ## Functional requirements
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+FR-1: display the current filter and selected columns before export. FR-2: validate the column selection. FR-3: show a clear message when no rows match. FR-4: generate a UTF-8 CSV with documented quoting and date formats. FR-5: record export status without storing sensitive file contents in logs.
 
 ## Non-functional requirements
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+The export should have a documented row or file-size limit. Large exports should not block the main request indefinitely. Access control, retention, and deletion of generated files must follow the organisation’s data policy.
 
 ## Architecture and data flow
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+The user submits a request to the export service. The service revalidates permission and filters, queries the authorised dataset, writes the file to a controlled temporary location, and returns a download route. The download route rechecks access and expires according to an approved policy.
 
 ## Interfaces, schemas, and dependencies
 
-**Illustrative example only:** show the exact input, expected output, and any required options using values safe for a test environment. Explain each non-obvious field, document the failure case, and state which version was tested. Do not present untested commands or invented schemas as verified behaviour.
+Inputs include filter criteria, selected column IDs, and an optional reporting period. Output includes export ID, status, row count, and download availability. Exact schema, maximum size, storage provider, and expiry are deployment decisions that must be confirmed.
 
 ## Failure modes, security, and observability
 
-Document the requirement, alternatives considered, trade-offs, and operational consequences. Include security, privacy, failure handling, performance, and maintenance where relevant. Label assumptions clearly and record what evidence or test would change the decision.
+Handle invalid columns, expired sessions, empty results, query timeouts, and file-generation failures separately. Log export IDs and error categories; do not log exported rows or secrets. Clean up partial files after failure.
 
 ## Acceptance criteria and validation
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+The export contains only authorised rows and selected columns; CSV escaping is correct for commas, quotes, and line breaks; empty results are clearly reported; and expired download links cannot be reused.
 
 ## Open questions and exclusions
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Confirm maximum rows, file retention, whether background generation is required, and the policy for exporting personal data. Scheduled exports are out of scope.

@@ -1,39 +1,39 @@
-# Specification: audit log service
+# Technical specification: secure file upload
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative technical specification. Confirm schemas, security requirements, and acceptance criteria with the actual system owners before implementation.*
 
 ## Purpose, scope, and terminology
 
-This document explains how to specification: audit log service. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+Define a server-side file upload flow for authenticated users. Scope includes validation, storage, metadata, access control, and deletion. It does not include content editing or public sharing.
 
 ## Background and goals
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Uploaded files must persist across application restarts and remain accessible only to authorised users. Local disk storage is not sufficient for a multi-instance deployment unless a shared persistent volume is deliberately designed.
 
 ## Functional requirements
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+FR-1: accept only documented file types and size limits. FR-2: validate the user’s permission before accepting an upload. FR-3: store metadata including owner, object key, size, type, and status. FR-4: provide an authorised download path. FR-5: support deletion according to retention rules.
 
 ## Non-functional requirements
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+Files must be private by default. Upload and download operations need timeouts, size limits, and monitoring. The service must not trust a client-supplied filename or MIME type as the sole validation signal.
 
 ## Architecture and data flow
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+The client requests an upload operation; the service authorises the user and issues a constrained upload route or accepts the file through the application. The file is stored in private object storage, while metadata is recorded in the database. Downloads require a fresh access check before a short-lived link is issued.
 
 ## Interfaces, schemas, and dependencies
 
-**Illustrative example only:** show the exact input, expected output, and any required options using values safe for a test environment. Explain each non-obvious field, document the failure case, and state which version was tested. Do not present untested commands or invented schemas as verified behaviour.
+Metadata schema includes file ID, owner ID, storage key, media type, byte size, creation time, and lifecycle state. Storage provider, allowed MIME types, maximum size, and malware scanning requirements must be confirmed for the deployment.
 
 ## Failure modes, security, and observability
 
-Document the requirement, alternatives considered, trade-offs, and operational consequences. Include security, privacy, failure handling, performance, and maintenance where relevant. Label assumptions clearly and record what evidence or test would change the decision.
+Reject oversized or unsupported files, handle interrupted uploads, and clean up orphaned objects. Never log file contents or signed URLs. Audit permission failures and suspicious upload patterns according to the security policy.
 
 ## Acceptance criteria and validation
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Unauthorised users cannot retrieve a file by guessing its ID; unsupported files are rejected; interrupted uploads do not appear as complete; and deletion removes access according to the retention policy.
 
 ## Open questions and exclusions
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Confirm retention period, scanning requirements, data residency, and whether external users can upload. Public sharing and file conversion are excluded.

@@ -1,31 +1,33 @@
-# Release 1.4: usability improvements
+# Release notes — 2.4.0
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative release notes. Verify the version, date, merged changes, and security review before publication.*
 
 ## Version, release date, and summary
 
-This document explains how to release 1.4: usability improvements. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+**Version:** 2.4.0  
+**Release date:** 18 October 2026
+
+This release adds status filtering to the ticket list and improves error messages for request tracing. Confirm the version and release date against the approved tag before publication.
 
 ## Highlights
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Ticket list filtering is now available in the illustrative API contract. Error responses include a request identifier that support staff can use to trace a failure when the logging system is configured to record it.
 
 ## New features and improvements
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- Added an optional `status` filter to ticket listing.
+- Added a request ID to supported error responses.
+- Updated setup documentation to distinguish required and optional settings.
 
 ## Bug fixes and security changes
 
-**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+- Fixed handling of an empty search query.
+- Corrected a response-field name in an example. No security fix is asserted; verify the approved security review before claiming one.
 
 ## Breaking changes / migration steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+No breaking change is intended in this illustrative release. Clients should still verify response parsing and review the status-filter values supported by their deployed version.
 
 ## Known issues and support
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+The request ID is useful only if it is propagated to the relevant logs. If a request cannot be traced, include the time, request ID if present, and a redacted description when contacting support.
