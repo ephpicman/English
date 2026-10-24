@@ -1,42 +1,40 @@
-# Formal complaint letter
+# Formal complaint letter: incorrect invoice charge
 
-*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
+*Illustrative letter. Verify the contract, invoice, and payment terms before sending.*
 
 ## Plan first
 
-The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
+The letter identifies the disputed charge and asks for a corrected record rather than assuming misconduct.
 
 ## Letter structure
 
-Keep the timeline clear and attach only relevant supporting evidence.
+Include the reference, explain the discrepancy, and state the action needed.
 
 ## Greeting and purpose
 
-Dear Sir or Madam,
+Dear Accounts Manager,
 
-I am writing to raise a concern about the matter identified below and to request a review.
+I am writing to dispute a charge on invoice INV-5841 and request that the invoice be reviewed.
 
 ## Transaction or reference details
 
-Reference 2026-118, maintenance visit on 11 July
+Invoice INV-5841, dated 11 October, relates to service agreement SA-118 for the October reporting period.
 
 ## Chronology and evidence
 
-The technician attended to inspect the heating control but left without testing the system after the initial reset failed. The service record states that the issue was resolved, although the control continued to display the same error.
+The invoice includes a charge for an additional support session. However, the signed service schedule lists one session per month, and our records show that only one session took place in October. I have retained the schedule and meeting confirmation for comparison.
 
 ## Impact and previous attempts
 
-The room remains difficult to heat consistently, and the record makes it appear that no further action is needed. I reported the continuing issue through the service portal the following morning.
+The discrepancy prevents our finance team from approving the invoice as submitted. I have checked the line items against the service schedule but have not yet received an explanation for the additional charge.
 
 ## Requested resolution
 
-Please correct the service record and arrange a follow-up visit that includes a diagnostic check. Please also confirm whether there will be any additional charge before the visit is booked.
+Please review the charge and issue a corrected invoice if it was added in error. If the additional amount relates to an authorised service, please send the relevant approval record. A response within five working days would help us complete the payment review.
 
 ## Professional closing
 
-I would be grateful for a response within three working days. Yours faithfully, Noor
+Thank you for your assistance.
 
-## IELTS and language review
-
-Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
-\n## IELTS and language review\n\nThe letter demonstrates formal register, chronological evidence, and a clear request. In a real complaint, accuracy and the recipient’s published procedure take priority over elaborate language.\n
+Yours faithfully,  
+Riley Chen

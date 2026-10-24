@@ -1,42 +1,40 @@
-# Formal complaint letter
+# Formal complaint letter: incorrect goods supplied
 
-*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
+*Illustrative letter. Verify all references and attach copies, not originals, of supporting records.*
 
 ## Plan first
 
-The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
+The letter explains the discrepancy, gives a clear timeline, and requests a reasonable remedy.
 
 ## Letter structure
 
-Keep the timeline clear and attach only relevant supporting evidence.
+Use the transaction details and chronology to make the issue straightforward to investigate.
 
 ## Greeting and purpose
 
-Dear Sir or Madam,
+Dear Customer Services Manager,
 
-I am writing to raise a concern about the matter identified below and to request a review.
+I am writing to complain about an incorrect item supplied with my order and to request an exchange.
 
 ## Transaction or reference details
 
-Purchase reference PO-2207, dated 14 September
+The order reference is PO-2207, placed on 14 September for six medium storage units.
 
 ## Chronology and evidence
 
-The goods arrived in two boxes on 20 September. One box contained the correct items; the second contained a different size from the one specified in the purchase order. I have retained the packaging and delivery note.
+The delivery arrived on 20 September in two boxes. The first contained the correct units, but the second contained large units rather than the medium size specified on the purchase order. The packing slip also lists the medium size. I have kept the packaging and can provide photographs of the labels and contents.
 
 ## Impact and previous attempts
 
-The incorrect size cannot be used for the planned installation. I notified the supplier by email on 21 September and included the item code, but have not yet received a return instruction.
+The incorrect units cannot be used in the planned storage area because they do not fit the allocated space. I checked the order confirmation before writing and have not unpacked the units further. This is the first time I have contacted your team about the issue.
 
 ## Requested resolution
 
-Please confirm how the incorrect items should be returned and arrange delivery of the specified size. If the correct stock is unavailable, please provide a realistic alternative and revised delivery date.
+Please arrange collection of the incorrect units and delivery of the correct size. I would appreciate written confirmation of the proposed arrangements within five working days.
 
 ## Professional closing
 
-I would appreciate confirmation within five working days. Yours faithfully, Jordan
+Thank you for your attention. I look forward to your response.
 
-## IELTS and language review
-
-Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
-\n## IELTS and language review\n\nThe letter demonstrates formal register, chronological evidence, and a clear request. In a real complaint, accuracy and the recipient’s published procedure take priority over elaborate language.\n
+Yours faithfully,  
+Morgan Lee

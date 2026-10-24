@@ -1,26 +1,36 @@
-# Request letter: Request for permission to use a photograph
-*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
+# Request letter: adjustment to a library loan
+
+*Illustrative request. Check the library’s current loan and extension rules before sending.*
+
 ## Plan first
-The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
+
+The letter explains the request and the reason while acknowledging that policy may limit the available options.
+
 ## Letter structure
-Use the following sections to make the requested decision easy to understand.
+
+Include the relevant item and due date so staff can locate the record.
+
 ## Greeting and request purpose
-I am writing to request permission to reproduce your photograph of the riverside restoration project in a community newsletter.
+
+Dear Library Services Team,
+
+I am writing to ask whether the due date for a borrowed reference book can be extended by one week.
 
 ## Context and justification
-The newsletter will explain the upcoming volunteer programme and provide residents with information about the site. The image would help readers recognise the location.
+
+The book is needed for a coursework assignment, and I have been using it to compare several chapters. My draft is nearly complete, but I need a little more time to check the references accurately.
+
 ## Specific request and scope
 
-We would like to use the photograph in one print issue and its accessible digital version, with a credit line linking to your portfolio. We would not alter the image beyond resizing and cropping for layout.
+The item is *Introduction to Urban Planning*, catalogue number UP-204, currently due on 22 October. I would be grateful if the loan could be extended until 29 October.
 
 ## Supporting information and flexibility
 
-If you prefer different credit wording or have a licence fee, please let me know. We will not publish the image unless permission and terms are clear.
+I understand that extensions may not be possible if another reader has reserved the book. If the item must be returned on the original date, could you let me know whether another copy or an electronic version is available?
 
 ## Timing and closing
 
-Thank you for considering the request. I look forward to hearing from you.
-Maya Chen
+A reply before the due date would help me plan. Thank you for considering my request.
 
-## Final review
-Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.
+Yours sincerely,  
+Daniel Moore

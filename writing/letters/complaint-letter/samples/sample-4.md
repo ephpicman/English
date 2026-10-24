@@ -1,42 +1,40 @@
-# Formal complaint letter
+# Formal complaint letter: delayed repair to shared entrance
 
-*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
+*Illustrative letter. Confirm the dates and property process before sending.*
 
 ## Plan first
 
-The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
+The letter gives a concise history of the issue, explains its impact, and requests an update on the repair.
 
 ## Letter structure
 
-Keep the timeline clear and attach only relevant supporting evidence.
+Focus on observable facts and a practical remedy.
 
 ## Greeting and purpose
 
-Dear Sir or Madam,
+Dear Building Management Team,
 
-I am writing to raise a concern about the matter identified below and to request a review.
+I am writing to follow up on the damaged door closer at the shared entrance and to request a repair date.
 
 ## Transaction or reference details
 
-Order 90331, delivery scheduled for 23 May
+The issue was reported on 2 October under maintenance reference BC-331.
 
 ## Chronology and evidence
 
-The delivery did not arrive on the scheduled date, and the tracking page showed no update for the next four days. I contacted support twice and received different estimates, neither of which was confirmed by the carrier.
+The entrance door has failed to close fully on several occasions since the report. I observed the problem again on 9 and 12 October and notified the concierge. I understand that a contractor may need to inspect the mechanism, but I have not received confirmation of an appointment.
 
 ## Impact and previous attempts
 
-I arranged to be at home for the delivery and had to change those plans more than once. The lack of a reliable update has been more difficult than the delay itself.
+A door that does not close reliably creates inconvenience for residents and raises concerns about building security. I appreciate that repairs need to be scheduled, but the lack of an update makes it difficult to know whether further action is required from residents.
 
 ## Requested resolution
 
-Please confirm the parcel’s current location and provide a delivery date supported by the carrier. If the parcel cannot be located, please explain the replacement or refund options available under the delivery policy.
+Please confirm whether a contractor has been assigned and provide an estimated inspection date. If the existing report needs additional information, let me know what is required.
 
 ## Professional closing
 
-Thank you for reviewing the tracking history. I look forward to a clear update. Yours faithfully, Sam
+Thank you for your attention to this issue. I look forward to your reply.
 
-## IELTS and language review
-
-Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
-\n## IELTS and language review\n\nThe letter demonstrates formal register, chronological evidence, and a clear request. In a real complaint, accuracy and the recipient’s published procedure take priority over elaborate language.\n
+Yours sincerely,  
+A resident

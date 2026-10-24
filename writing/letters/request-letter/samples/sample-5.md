@@ -1,26 +1,36 @@
-# Request letter: Request for a reference letter
-*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
+# Request letter: information about a professional course
+
+*Illustrative request. Verify course details and application dates before making commitments.*
+
 ## Plan first
-The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
+
+The letter asks clear questions and explains the applicant’s interest without assuming eligibility.
+
 ## Letter structure
-Use the following sections to make the requested decision easy to understand.
+
+Identify the course and ask for the information needed to decide whether to apply.
+
 ## Greeting and request purpose
-I am writing to ask whether you would be comfortable providing a reference for my application to the graduate research programme.
+
+Dear Training Coordinator,
+
+I am writing to request further information about your evening certificate course in project management.
 
 ## Context and justification
-I valued working with you on the seminar project about urban transport policy, where I prepared the source comparison and presented the findings to the group.
+
+I currently assist with scheduling and action tracking and would like to develop a stronger understanding of project planning, risk management, and stakeholder communication.
+
 ## Specific request and scope
 
-The application deadline is 30 November, and the programme asks referees to comment on research ability, written communication, and readiness for postgraduate study. I can send my statement and the programme details for context.
+Could you please send the next course dates, weekly timetable, total fee, and entry requirements? I would also like to know whether participants complete a practical project and whether the course is offered in person, online, or in a blended format.
 
 ## Supporting information and flexibility
 
-Please feel free to decline if your schedule does not allow enough time. If you agree, I will provide the submission instructions and any required forms promptly.
+I work full time, so evening sessions or a part-time option would be most suitable. If the next intake is already full, information about the following intake would also be helpful.
 
 ## Timing and closing
 
-Thank you for considering this and for your guidance during the project.
-Daniel Okafor
+I would be grateful for the current prospectus and application deadline when convenient. Thank you for your assistance.
 
-## Final review
-Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.
+Yours faithfully,  
+Riley Chen

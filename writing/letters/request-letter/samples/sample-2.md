@@ -1,26 +1,36 @@
-# Request letter: Request for an extension on the report
-*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
+# Request letter: permission to conduct a student survey
+
+*Illustrative request. Follow the institution’s ethics and data-protection procedures.*
+
 ## Plan first
-The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
+
+The request defines the purpose, scope, and safeguards so the recipient can assess it.
+
 ## Letter structure
-Use the following sections to make the requested decision easy to understand.
+
+Explain who will take part, what will be collected, and how participation will be handled.
+
 ## Greeting and request purpose
-I am writing to request a two-day extension for the research report currently due on 6 November.
+
+Dear Head of Department,
+
+I am writing to request permission to conduct a short student survey for my research methods module.
 
 ## Context and justification
-Two source documents needed for the analysis became available later than expected, and I need additional time to check how they affect the comparison rather than submit a conclusion based on incomplete information.
+
+The project examines how students choose study spaces and what facilities they find useful. The results will be used for coursework only and will not be presented as an official evaluation of the department.
+
 ## Specific request and scope
 
-I am requesting a revised submission date of 8 November. The outline and first analysis section are complete, and I can submit the current draft if that would help you assess progress.
+I would like to invite students in two tutorial groups to complete an anonymous questionnaire of approximately five minutes. The questions will focus on study habits and preferences and will not request names, student numbers, or sensitive personal details.
 
 ## Supporting information and flexibility
 
-I understand that extensions depend on course policy and can provide a brief progress summary. If a two-day extension is not possible, please advise what alternative is permitted.
+I can provide the draft questionnaire and information sheet for review before distributing anything. I will follow the department’s research guidance and make participation voluntary. If the proposed groups are not appropriate, I would be happy to use another approved recruitment method.
 
 ## Timing and closing
 
-Thank you for considering my request. I appreciate your guidance.
-Noor Hassan
+Please let me know whether this plan requires further review before I proceed. Thank you for your time.
 
-## Final review
-Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.
+Yours sincerely,  
+Maya Chen

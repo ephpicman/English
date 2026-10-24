@@ -1,42 +1,40 @@
-# Formal complaint letter
+# Formal complaint letter: recurring heating failure
 
-*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
+*Illustrative letter. Adapt the details to the property and follow any urgent repair procedure.*
 
 ## Plan first
 
-The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
+The letter records repeated events and requests a specific next step without making unsupported legal claims.
 
 ## Letter structure
 
-Keep the timeline clear and attach only relevant supporting evidence.
+Keep the chronology clear and describe the practical effect of the fault.
 
 ## Greeting and purpose
 
-Dear Sir or Madam,
+Dear Property Manager,
 
-I am writing to raise a concern about the matter identified below and to request a review.
+I am writing to raise a concern about the repeated failure of the heating system in my flat and to request a lasting repair.
 
 ## Transaction or reference details
 
-Membership account 51903, renewal dated 1 October
+The property is Flat 14, 8 Linden Court. My earlier maintenance report was logged under reference M-1842 on 3 October.
 
 ## Chronology and evidence
 
-My renewal notice showed the annual rate agreed at sign-up, but the latest payment was taken at a higher amount. I reviewed the account page and could not find a notice explaining the difference.
+A technician visited on 6 October and restarted the system, which worked for one evening. The heating stopped again on 8 October and has remained unreliable since then. I recorded the dates and room temperatures and can provide these notes if they would assist the maintenance team.
 
 ## Impact and previous attempts
 
-The unexpected charge has made it difficult to reconcile my budget, and I cannot tell whether the account is on the intended plan.
+The flat has been uncomfortably cold in the mornings, and the temporary restart has not resolved the problem. I have followed the instructions provided and have not attempted to repair the system myself.
 
 ## Requested resolution
 
-Please review the renewal calculation, explain the difference, and refund any amount charged in error. If the plan or rate changed, please provide the date and notice that authorised the change.
+Please arrange a further inspection to identify the cause and confirm when the repair can be completed. I would appreciate an update within three working days, or sooner if an urgent visit is available.
 
 ## Professional closing
 
-I have included the renewal notice and payment record. Thank you for your help. Yours sincerely, Amira
+Thank you for looking into this matter. I look forward to hearing from you.
 
-## IELTS and language review
-
-Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
-\n## IELTS and language review\n\nThe letter demonstrates formal register, chronological evidence, and a clear request. In a real complaint, accuracy and the recipient’s published procedure take priority over elaborate language.\n
+Yours sincerely,  
+Alex Turner

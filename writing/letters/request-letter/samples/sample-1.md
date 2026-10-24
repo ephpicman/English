@@ -1,26 +1,36 @@
-# Request letter: Request to borrow the community hall
-*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
+# Request letter: use of the community hall
+
+*Illustrative request. Confirm the recipient, date, fees, and conditions before sending.*
+
 ## Plan first
-The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
+
+The request explains the purpose, practical arrangements, and flexibility without assuming approval.
+
 ## Letter structure
-Use the following sections to make the requested decision easy to understand.
+
+Give the date and expected attendance so the recipient can assess the request.
+
 ## Greeting and request purpose
-I am writing to ask whether the community hall could be reserved for a neighbourhood book exchange on Saturday, 21 November.
+
+Dear Community Hall Coordinator,
+
+I am writing to ask whether the hall could be reserved for a neighbourhood book exchange on Saturday, 21 November.
 
 ## Context and justification
+
 The event would allow residents to bring books they no longer need and take others home. We expect a modest gathering and would organise volunteers to keep the entrance and walkways clear.
+
 ## Specific request and scope
 
-Could we use the main room from 10 a.m. to 2 p.m., including time for setup and tidying? We would need tables, chairs, and access to the recycling area. We would not require catering or audio equipment.
+If available, we would like to use the main hall from 10 a.m. until 2 p.m., including one hour for setup and cleanup. We would need access to tables and would bring our own signs and boxes. We would not serve food or charge an entrance fee.
 
 ## Supporting information and flexibility
 
-We can follow the hall’s safety and booking rules and provide a named event contact. If the proposed date is unavailable, the following Saturday would also work.
+I can provide the event plan and a contact person for the day. If the hall is unavailable on that date, the following Saturday would also be suitable. Please let me know whether a deposit, insurance document, or booking form is required.
 
 ## Timing and closing
 
-Please let me know the booking process and any fee or deposit. Thank you for considering the request.
-Jordan Lee
+I would be grateful for a response by 30 October so we can inform residents. Thank you for considering the request.
 
-## Final review
-Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.
+Yours sincerely,  
+Nina Patel

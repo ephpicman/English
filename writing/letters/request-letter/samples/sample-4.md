@@ -1,26 +1,36 @@
-# Request letter: Request for a workplace adjustment
-*Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
+# Request letter: workplace schedule adjustment
+
+*Illustrative request. Adapt it to actual workplace policy and the employee’s circumstances.*
+
 ## Plan first
-The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
+
+The letter proposes a specific arrangement and explains how work will remain covered.
+
 ## Letter structure
-Use the following sections to make the requested decision easy to understand.
+
+Keep personal context brief and focus on the requested change and practical details.
+
 ## Greeting and request purpose
-I am writing to request a discussion about adjusting the lighting and screen setup at my workstation.
+
+Dear Ms Roberts,
+
+I am writing to request a temporary adjustment to my working hours for the next four weeks.
 
 ## Context and justification
-The current arrangement causes discomfort during longer periods of screen work, and I would like to explore practical changes that may help me work more comfortably.
+
+A change in my evening transport schedule means that I need to leave the office earlier on Tuesdays. I would like to agree an arrangement in advance so that team coverage and deadlines remain clear.
+
 ## Specific request and scope
 
-Possible options include reducing glare, changing the monitor position, or reviewing the available desk lighting. I am open to an assessment and do not assume that one particular solution is required.
+Could I work from 8 a.m. to 4 p.m. on Tuesdays from 3 to 24 November, while keeping my usual hours on other weekdays? I would continue to attend the regular morning meeting and complete the scheduled handover before leaving.
 
 ## Supporting information and flexibility
 
-Please let me know the appropriate process and whether an occupational assessment or additional information is needed. I would appreciate a meeting within the next two weeks if possible.
+I can trial the arrangement for the stated period and review it with you at the end. If the earlier start does not fit the team’s coverage needs, I am open to discussing another option that meets the same requirement.
 
 ## Timing and closing
 
-Thank you for considering this request. Yours sincerely.
-Priya Nair
+I would appreciate your response by the end of next week so that I can plan accordingly. Thank you for considering my request.
 
-## Final review
-Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.
+Yours sincerely,  
+Alex Morgan

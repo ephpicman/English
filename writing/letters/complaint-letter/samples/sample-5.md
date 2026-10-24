@@ -1,42 +1,40 @@
-# Formal complaint letter
+# Formal complaint letter: damaged parcel received
 
-*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
+*Illustrative letter. Use the actual delivery details and retain any relevant packaging.*
 
 ## Plan first
 
-The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
+The letter documents the condition on arrival and requests a proportionate remedy.
 
 ## Letter structure
 
-Keep the timeline clear and attach only relevant supporting evidence.
+State the order reference, describe the damage, and explain the evidence available.
 
 ## Greeting and purpose
 
-Dear Sir or Madam,
+Dear Returns Department,
 
-I am writing to raise a concern about the matter identified below and to request a review.
+I am writing to report that my parcel arrived damaged and to ask how the matter can be resolved.
 
 ## Transaction or reference details
 
-Course registration ID CR-447, submitted 8 January
+The order number is WEB-7316, delivered on 16 October. The item was a ceramic table lamp.
 
 ## Chronology and evidence
 
-I registered for the intermediate class and received an email confirming my place. On the first day, the attendance list showed me in the beginner group, despite the confirmation.
+When I opened the outer box, I found that one corner was crushed and the lamp’s ceramic base was cracked. I photographed the parcel before disposing of any packaging and have kept the shipping label. The delivery was accepted at the door, and the damage was noticed immediately after opening.
 
 ## Impact and previous attempts
 
-The mismatch meant I missed the first part of the class while the coordinator checked the registration record. I am concerned that the same error may affect the materials and future timetable.
+The lamp cannot be used safely in its current condition. I have not attempted to repair it and can send the photographs and order confirmation for your review.
 
 ## Requested resolution
 
-Please correct my registration, confirm the appropriate class and timetable, and advise whether I need to complete any additional placement step.
+Please advise whether you can provide a replacement or refund and whether the damaged item needs to be returned. I would appreciate instructions within five working days.
 
 ## Professional closing
 
-I have attached the confirmation email for reference. Thank you for resolving this. Yours sincerely, Elena
+Thank you for your help. I look forward to your response.
 
-## IELTS and language review
-
-Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
-\n## IELTS and language review\n\nThe letter demonstrates formal register, chronological evidence, and a clear request. In a real complaint, accuracy and the recipient’s published procedure take priority over elaborate language.\n
+Yours faithfully,  
+Jamie Patel
