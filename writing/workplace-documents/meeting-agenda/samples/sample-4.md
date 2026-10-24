@@ -1,29 +1,32 @@
-# Meeting agenda: Staff training schedule
+# Meeting agenda: Quarterly budget planning
 
 ## Meeting metadata
 
-- **Date:** 9 November 2026
-- **Chair / organiser:** Amira Hassan
-- **Attendees:** Amira Hassan, team managers, learning lead
-- **Duration:** 30–45 minutes, to be confirmed
+- **Date:** 10 November 2026
+- **Chair / organiser:** Elena Ruiz
+- **Attendees:** Department manager, finance partner, project leads
+- **Duration:** 50 minutes
 
 ## Objective and desired outcomes
 
-Agree session times, coverage arrangements, and the follow-up materials.
+Review proposed spending for the next quarter, clarify assumptions, and agree which items require further approval before the budget is finalised.
 
 ## Agenda table
 
 | Item | Purpose | Lead | Time |
 |---|---|---|---|
-| Review context and current status | Establish shared facts | Amira Hassan | 5 min |
-| Discuss key issue | Compare evidence and options | Relevant owner | 15 min |
-| Confirm decisions | Record agreement or unresolved points | Chair | 10 min |
-| Assign actions | Name owners and due dates | All | 5 min |
+| Confirm planning assumptions | Align on period and constraints | Elena Ruiz | 5 min |
+| Review committed costs | Check existing obligations | Finance partner | 10 min |
+| Discuss new requests | Compare need, timing, and alternatives | Project leads | 15 min |
+| Identify gaps and risks | Record uncertain estimates | Finance partner | 10 min |
+| Confirm decisions and owners | Assign follow-up work | Elena Ruiz | 10 min |
 
 ## Pre-reading / preparation
 
-The initial training materials are drafted, but the proposed session times overlap with some operational shifts. Please review the relevant project record and bring any correction or dependency that may affect the decision.
+Project leads should submit requests with a rationale and estimated timing by 6 November. Label estimates separately from confirmed quotes and include any dependencies.
 
 ## Decisions required
 
-Offer two live sessions and provide an approved written recap for staff unable to attend. The meeting should close with an explicit decision, or with a named owner and date for any unresolved question.
+- Which requests can be approved within the current allocation?
+- Which items need a revised estimate or additional justification?
+- Who will prepare the final draft and when will it be reviewed?

@@ -1,29 +1,32 @@
-# Meeting agenda: Portal launch readiness
+# Meeting agenda: Customer portal launch readiness
 
 ## Meeting metadata
 
 - **Date:** 12 November 2026
 - **Chair / organiser:** Morgan Chen
-- **Attendees:** Morgan Chen, Priya Nair, Jordan Lee, release lead
-- **Duration:** 30–45 minutes, to be confirmed
+- **Attendees:** Release lead, product owner, accessibility lead, identity-team representative
+- **Duration:** 45 minutes
 
 ## Objective and desired outcomes
 
-Review the open launch risks and agree owners for the remaining checks.
+Review the remaining release dependencies and decide whether the portal is ready for the planned launch window or needs a revised date.
 
 ## Agenda table
 
 | Item | Purpose | Lead | Time |
 |---|---|---|---|
-| Review context and current status | Establish shared facts | Morgan Chen | 5 min |
-| Discuss key issue | Compare evidence and options | Relevant owner | 15 min |
-| Confirm decisions | Record agreement or unresolved points | Chair | 10 min |
-| Assign actions | Name owners and due dates | All | 5 min |
+| Confirm current release status | Separate completed checks from open work | Morgan Chen | 5 min |
+| Review authentication dependency | Confirm test environment and owner | Identity representative | 10 min |
+| Review accessibility findings | Identify any release-blocking issues | Accessibility lead | 10 min |
+| Decide launch readiness | Record decision and conditions | Release lead | 10 min |
+| Confirm actions and communication | Assign owners and due dates | All | 10 min |
 
 ## Pre-reading / preparation
 
-The navigation and content review are complete. Accessibility testing and one authentication dependency remain open, so the release date is not yet confirmed. Please review the relevant project record and bring any correction or dependency that may affect the decision.
+Update the shared readiness checklist by 10 November. Bring evidence for any item marked complete and identify unresolved risks rather than changing a status without a record.
 
 ## Decisions required
 
-Keep the release gated on the two open checks and confirm the decision at the next readiness review. The meeting should close with an explicit decision, or with a named owner and date for any unresolved question.
+- Is the authentication configuration confirmed for release?
+- Are any accessibility findings release-blocking?
+- If a condition remains open, who owns it and when will the launch decision be revisited?

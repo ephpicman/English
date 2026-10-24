@@ -1,29 +1,32 @@
-# Meeting agenda: New request intake process
+# Meeting agenda: Monthly service review
 
 ## Meeting metadata
 
-- **Date:** 4 November 2026
-- **Chair / organiser:** Jordan Lee
-- **Attendees:** Jordan Lee, operations manager, two team leads
-- **Duration:** 30–45 minutes, to be confirmed
+- **Date:** 5 November 2026
+- **Chair / organiser:** Priya Nair
+- **Attendees:** Service manager, support lead, operations analyst, product representative
+- **Duration:** 60 minutes
 
 ## Objective and desired outcomes
 
-Choose the required fields and agree how the team will handle urgent requests.
+Review recurring service issues, agree which problems need investigation, and assign owners for the next month’s improvement work.
 
 ## Agenda table
 
 | Item | Purpose | Lead | Time |
 |---|---|---|---|
-| Review context and current status | Establish shared facts | Jordan Lee | 5 min |
-| Discuss key issue | Compare evidence and options | Relevant owner | 15 min |
-| Confirm decisions | Record agreement or unresolved points | Chair | 10 min |
-| Assign actions | Name owners and due dates | All | 5 min |
+| Review previous actions | Confirm completed and overdue work | Priya Nair | 10 min |
+| Examine recurring ticket themes | Identify patterns and evidence gaps | Support lead | 15 min |
+| Review customer-facing guidance | Agree which articles need updates | Product representative | 10 min |
+| Prioritise improvements | Choose work for the next cycle | All | 15 min |
+| Confirm actions | Assign owner, due date, and review point | Priya Nair | 10 min |
 
 ## Pre-reading / preparation
 
-Requests currently arrive through email and a shared spreadsheet. Duplicate entries and missing ownership make it difficult to see what needs attention. Please review the relevant project record and bring any correction or dependency that may affect the decision.
+Bring the latest ticket-category summary and examples of recurring issues, with personal information removed. Owners should update action statuses by 4 November.
 
 ## Decisions required
 
-Pilot one intake queue for the facilities request category for four weeks. The meeting should close with an explicit decision, or with a named owner and date for any unresolved question.
+- Which recurring issue should be investigated first?
+- Which guidance updates are urgent?
+- What evidence will be used to review whether the changes helped?

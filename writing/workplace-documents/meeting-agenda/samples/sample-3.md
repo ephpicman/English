@@ -1,29 +1,32 @@
-# Meeting agenda: Monthly reporting definitions
+# Meeting agenda: Community event planning
 
 ## Meeting metadata
 
-- **Date:** 18 November 2026
-- **Chair / organiser:** Daniel Okafor
-- **Attendees:** Daniel Okafor, source system owners, analytics lead
-- **Duration:** 30–45 minutes, to be confirmed
+- **Date:** 3 November 2026
+- **Chair / organiser:** Nina Patel
+- **Attendees:** Volunteer coordinator, venue contact, communications volunteer, accessibility contact
+- **Duration:** 40 minutes
 
 ## Objective and desired outcomes
 
-Agree definitions for the category fields and identify who approves future changes.
+Confirm the event plan, identify remaining access and logistics questions, and assign final preparation tasks for the neighbourhood information day.
 
 ## Agenda table
 
 | Item | Purpose | Lead | Time |
 |---|---|---|---|
-| Review context and current status | Establish shared facts | Daniel Okafor | 5 min |
-| Discuss key issue | Compare evidence and options | Relevant owner | 15 min |
-| Confirm decisions | Record agreement or unresolved points | Chair | 10 min |
-| Assign actions | Name owners and due dates | All | 5 min |
+| Confirm event schedule | Check session times and room use | Nina Patel | 5 min |
+| Venue and access review | Confirm entrance, seating, and accessible route | Venue contact | 10 min |
+| Volunteer coverage | Check roles and shift gaps | Volunteer coordinator | 10 min |
+| Public information | Review signs and participant notice | Communications volunteer | 5 min |
+| Actions and contingency | Assign final tasks and backup plan | All | 10 min |
 
 ## Pre-reading / preparation
 
-Two source systems use different meanings for the same category label. Combining them without clarification could make the totals misleading. Please review the relevant project record and bring any correction or dependency that may affect the decision.
+Review the draft timetable and floor plan before the meeting. Bring any confirmed venue requirements and identify details that still need checking.
 
 ## Decisions required
 
-Keep the fields separate until the source owners approve a shared definition. The meeting should close with an explicit decision, or with a named owner and date for any unresolved question.
+- Is the room layout suitable for expected activities?
+- Who will handle late volunteer cancellations?
+- Which contact will approve the final public notice?

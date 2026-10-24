@@ -1,29 +1,32 @@
-# Meeting agenda: Community workshop venue
+# Meeting agenda: Research study progress check
 
 ## Meeting metadata
 
-- **Date:** 21 November 2026
-- **Chair / organiser:** Priya Nair
-- **Attendees:** Priya Nair, facilities coordinator, outreach lead
-- **Duration:** 30–45 minutes, to be confirmed
+- **Date:** 6 November 2026
+- **Chair / organiser:** Dr. Maya Chen
+- **Attendees:** Research lead, data manager, recruitment coordinator, student representative
+- **Duration:** 45 minutes
 
 ## Objective and desired outcomes
 
-Decide whether to retain the preferred venue or activate the backup.
+Review recruitment and data-handling progress, identify any protocol questions, and agree the next steps before the next scheduled study review.
 
 ## Agenda table
 
 | Item | Purpose | Lead | Time |
 |---|---|---|---|
-| Review context and current status | Establish shared facts | Priya Nair | 5 min |
-| Discuss key issue | Compare evidence and options | Relevant owner | 15 min |
-| Confirm decisions | Record agreement or unresolved points | Chair | 10 min |
-| Assign actions | Name owners and due dates | All | 5 min |
+| Review prior actions | Confirm progress and unresolved items | Maya Chen | 5 min |
+| Recruitment status | Compare current progress with the plan | Recruitment coordinator | 10 min |
+| Data quality and access | Review checks and permissions | Data manager | 10 min |
+| Participant feedback | Identify practical barriers | Student representative | 10 min |
+| Agree next actions | Assign owners and review dates | All | 10 min |
 
 ## Pre-reading / preparation
 
-The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability. Please review the relevant project record and bring any correction or dependency that may affect the decision.
+Use the approved study tracker and avoid including identifiable participant information in meeting materials. Submit updates by 5 November.
 
 ## Decisions required
 
-Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access. The meeting should close with an explicit decision, or with a named owner and date for any unresolved question.
+- Does recruitment need a revised approach?
+- Are any data-quality issues blocking analysis?
+- Which protocol questions require formal review before action?
