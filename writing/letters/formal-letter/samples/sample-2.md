@@ -1,42 +1,45 @@
-# Letter to a school about a proposed change
+# Formal letter: Request for review of course registration
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative formal letter. Confirm names, dates, and circumstances before use.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter states its purpose, gives only necessary context, explains the request, and sets a reasonable response point.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use the recipient’s correct title and the appropriate formal sign-off.
 
 ## Address, date, subject, and greeting
 
-**Letter to a school about a proposed change**
+Amira Hassan
+Learning Support Office
+24 October 2026
 
-[Sender address] · [Date]
-[Recipient name and address]
+**Subject: Request for review of course registration**
+
+Dear Sir or Madam,
 
 ## Purpose and main message
 
-I would be grateful if you could consider letter to a school about a proposed change. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+I am writing to request a review of my registration for the evening statistics module.
 
 ## Necessary background
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+I submitted the online form on 17 October and received an automated acknowledgement, but the module does not appear in my student timetable.
 
 ## Explanation and supporting points
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+I have checked the registration portal and confirmed that the course code on my submission matches the published module information. I am concerned that I may miss the first class if the registration has not been completed.
 
 ## Requested action and timing
 
-I would be grateful if you could consider letter to a school about a proposed change. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Would you please confirm whether the registration is complete or advise what further information is required? I would appreciate a response before the first class on 2 November.
 
 ## Formal closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for your assistance. Yours sincerely, Amira Hassan
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter uses a formal register and a clear request. Check the exact recipient, dates, supporting evidence, and sign-off convention required by the organisation.

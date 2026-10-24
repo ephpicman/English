@@ -1,42 +1,45 @@
-# Letter to an organisation requesting information
+# Formal letter: Application for a community learning grant
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative formal letter. Confirm names, dates, and circumstances before use.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter states its purpose, gives only necessary context, explains the request, and sets a reasonable response point.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use the recipient’s correct title and the appropriate formal sign-off.
 
 ## Address, date, subject, and greeting
 
-**Letter to an organisation requesting information**
+Selection Committee
+Community Learning Grant
+24 October 2026
 
-[Sender address] · [Date]
-[Recipient name and address]
+**Subject: Application for a community learning grant**
+
+Dear Sir or Madam,
 
 ## Purpose and main message
 
-I would be grateful if you could consider letter to an organisation requesting information. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+I am writing to apply for support for a series of free digital-skills sessions for adult learners in the local community.
 
 ## Necessary background
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+The proposed sessions would focus on practical tasks such as using online forms, managing passwords safely, and identifying trustworthy information. The plan is to work with an existing community venue and invite participants through local service organisations.
 
 ## Explanation and supporting points
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+The programme would use short demonstrations followed by guided practice, with printed instructions available for participants who prefer them. The evaluation would collect voluntary feedback and record which tasks participants want to practise further, without collecting unnecessary personal information.
 
 ## Requested action and timing
 
-I would be grateful if you could consider letter to an organisation requesting information. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Please let me know if a budget breakdown or additional supporting documents are required for the application to be assessed.
 
 ## Formal closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for considering the proposal. Yours faithfully, Priya Nair
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter uses a formal register and a clear request. Check the exact recipient, dates, supporting evidence, and sign-off convention required by the organisation.

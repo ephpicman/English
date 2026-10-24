@@ -1,35 +1,35 @@
-# Letter to a relative sharing good news
+# Informal letter: a personal update
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative personal letter. Adapt the details so they reflect your real relationship and experience.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The purpose is to share a personal update, respond warmly, and suggest a natural next step.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Keep the tone friendly and specific; avoid turning a personal note into a formal report.
 
 ## Friendly opening
 
-Dear [First name], I hope you are doing well. I wanted to write to you about letter to a relative sharing good news.
+Hi Elena,
 
 ## Reason for writing
 
-I would be grateful if you could consider letter to a relative sharing good news. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+I wanted to share some good news: I’ve started volunteering at the community garden near my flat.
 
 ## Main details and personal response
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+I was nervous on the first morning because I don’t know much about plants, but everyone was friendly and showed me what to do. So far I’ve helped prepare the beds, label seedlings, and water the new plants. It’s surprisingly relaxing to spend a few hours outside without checking my phone.
 
 ## Suggestions, plans, or questions
 
-My suggestion is to begin with one manageable step: identify the main priority, set a realistic deadline, and ask for help early if a difficulty arises. You do not need to solve everything at once. Review what works after a week and adjust your plan if necessary.
+You mentioned wanting to meet more people in the area, so you might like to join us one Saturday. You don’t need any experience, and they lend you gloves and tools.
 
 ## Warm closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Let me know if you’d like the details. Hope to see you soon! Best, Jordan
 
 ## Final review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Check that the details sound natural for the relationship, the invitation or question is clear, and the closing matches the level of familiarity.

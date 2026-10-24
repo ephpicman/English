@@ -1,42 +1,46 @@
-# Letter to a council about street lighting
+# Formal letter: Request for accessible public meeting information
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative formal letter. Confirm names, dates, and circumstances before use.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter states its purpose, gives only necessary context, explains the request, and sets a reasonable response point.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use the recipient’s correct title and the appropriate formal sign-off.
 
 ## Address, date, subject, and greeting
 
-**Letter to a council about street lighting**
+Jordan Lee
+18 Cedar Walk
+Berlin 10115
+24 October 2026
 
-[Sender address] · [Date]
-[Recipient name and address]
+**Subject: Request for accessible public meeting information**
+
+Dear Sir or Madam,
 
 ## Purpose and main message
 
-I would be grateful if you could consider letter to a council about street lighting. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+I am writing to ask that the public information for the upcoming neighbourhood meeting include clear access details and a contact for accommodation requests.
 
 ## Necessary background
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+The current notice lists the date and venue but does not state whether the entrance is step-free or whether printed materials can be provided in an alternative format.
 
 ## Explanation and supporting points
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+These details help residents decide whether they can attend and make arrangements in advance. Adding them to the notice would also reduce the need for individual enquiries.
 
 ## Requested action and timing
 
-I would be grateful if you could consider letter to a council about street lighting. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Could the information be updated before the next round of promotion, ideally by 30 October? If the details are not yet confirmed, please identify the person responsible for checking them.
 
 ## Formal closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for considering this request. Yours faithfully, Jordan Lee
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter uses a formal register and a clear request. Check the exact recipient, dates, supporting evidence, and sign-off convention required by the organisation.

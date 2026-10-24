@@ -1,42 +1,45 @@
-# Letter to a local authority about park maintenance
+# Formal letter: Clarification of submission requirements
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative formal letter. Confirm names, dates, and circumstances before use.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter states its purpose, gives only necessary context, explains the request, and sets a reasonable response point.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use the recipient’s correct title and the appropriate formal sign-off.
 
 ## Address, date, subject, and greeting
 
-**Letter to a local authority about park maintenance**
+Daniel Okafor
+Research Office
+24 October 2026
 
-[Sender address] · [Date]
-[Recipient name and address]
+**Subject: Clarification of submission requirements**
+
+Dear Sir or Madam,
 
 ## Purpose and main message
 
-I would be grateful if you could consider letter to a local authority about park maintenance. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+I am writing to clarify the format required for the final research summary.
 
 ## Necessary background
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+The guidance document refers to both a 1,500-word summary and a separate executive overview, but it is not clear whether the overview is included in the word limit.
 
 ## Explanation and supporting points
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+I want to ensure that the submission follows the intended format and that the evidence tables are placed in the appropriate section. I have reviewed the online guidance but could not find a specific answer to this point.
 
 ## Requested action and timing
 
-I would be grateful if you could consider letter to a local authority about park maintenance. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Could you confirm whether the executive overview counts toward the word limit and whether appendices should be submitted as a separate file? A response before 3 November would help me prepare the final version.
 
 ## Formal closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for your guidance. Yours sincerely, Daniel Okafor
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter uses a formal register and a clear request. Check the exact recipient, dates, supporting evidence, and sign-off convention required by the organisation.

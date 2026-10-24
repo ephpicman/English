@@ -1,42 +1,45 @@
-# Letter to a landlord about repairs
+# Formal letter: Concern regarding repeated noise at the rear entrance
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative formal letter. Confirm names, dates, and circumstances before use.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter states its purpose, gives only necessary context, explains the request, and sets a reasonable response point.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use the recipient’s correct title and the appropriate formal sign-off.
 
 ## Address, date, subject, and greeting
 
-**Letter to a landlord about repairs**
+Morgan Chen
+Facilities Coordinator
+24 October 2026
 
-[Sender address] · [Date]
-[Recipient name and address]
+**Subject: Concern regarding repeated noise at the rear entrance**
+
+Dear Sir or Madam,
 
 ## Purpose and main message
 
-I would be grateful if you could consider letter to a landlord about repairs. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+I am writing to raise a concern about late-night unloading at the rear entrance of the residential building.
 
 ## Necessary background
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+During the past week, deliveries have been unloaded after 11 p.m. on several occasions. The noise has been particularly noticeable in flats facing the courtyard.
 
 ## Explanation and supporting points
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+I recognise that deliveries are necessary, but the current timing and use of idling vehicles appear to be causing avoidable disturbance. A review of the delivery window may help balance operational needs with residents’ ability to rest.
 
 ## Requested action and timing
 
-I would be grateful if you could consider letter to a landlord about repairs. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Could you contact the delivery operator and advise whether unloading can be scheduled earlier or carried out with reduced noise? I would appreciate an update when the options have been reviewed.
 
 ## Formal closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for your attention to this matter. Yours faithfully, Morgan Chen
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter uses a formal register and a clear request. Check the exact recipient, dates, supporting evidence, and sign-off convention required by the organisation.
