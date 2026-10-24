@@ -1,23 +1,23 @@
-# A small change that improved handovers
+# Learning at work needs room for practice, not only access to courses.
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative professional post; adapt it to a real experience and do not imply personal results you cannot verify.*
 
 ## Hook
 
-A practical lesson from a small change that improved handovers.
+Learning at work needs room for practice, not only access to courses.
 
 ## Main point
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+A course can introduce a concept, but people need time to apply it to their actual tasks and ask questions when the real workflow differs from the example.
 
 ## Support or experience
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+A useful plan links one learning objective to a small task, a feedback point, and a chance to revise the work. Completion alone does not show whether the skill transferred.
 
 ## Practical takeaway
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+When planning training, decide in advance what someone should be able to do afterwards and how they can practise it safely.
 
 ## Question or call to action
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+What helps new skills stick in your workplace?

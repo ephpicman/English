@@ -1,19 +1,19 @@
-# A reminder about clear project ownership
+# A small process improvement for this week
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
 
 ## Hook or Announcement
 
-A practical lesson from a reminder about clear project ownership.
+A small process improvement for this week
 
 ## Essential Information
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Choose one recurring handoff and write down the owner, next action, and expected date. Ask the receiving colleague whether those details are enough to continue without chasing context.
 
 ## Relevance or Takeaway
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Clarity is often a better first step than adding another tool.
 
 ## Call to Action or Close
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Try it on one workflow and review what changes.

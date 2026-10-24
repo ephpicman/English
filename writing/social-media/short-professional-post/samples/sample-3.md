@@ -1,19 +1,19 @@
-# A practical meeting habit
+# Meeting follow-up should name the next action
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
 
 ## Hook or Announcement
 
-A practical lesson from a practical meeting habit.
+Meeting follow-up should name the next action
 
 ## Essential Information
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+After a discussion, record the decision, the person responsible, and when the action will be reviewed. If the group has not decided, write down what information is still needed.
 
 ## Relevance or Takeaway
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Clear minutes reduce the need to reconstruct the conversation later.
 
 ## Call to Action or Close
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Read back actions before the meeting ends.

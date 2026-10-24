@@ -1,23 +1,23 @@
-# Discussion: responsible use of AI tools
+# Online discussion: Should companies publish salary ranges in job advertisements?
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative response to a discussion prompt. Adjust it to the actual context and other participants’ contributions.*
 
 ## Direct response
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Publishing salary ranges can make recruitment more transparent, provided the range is meaningful and reflects the actual level of the role.
 
 ## Reasoning and support
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Applicants need enough information to decide whether a position is worth pursuing. A very broad range may technically disclose a number while revealing little about likely compensation.
 
 ## Example or qualification
 
-For example, a short handover note can state what changed, what remains open, and who will follow up. It is a small habit, but it makes collaboration easier to sustain.
+Employers can explain the factors that affect placement within a range, such as role scope, relevant experience, and location, while ensuring those factors are applied consistently.
 
 ## Engage another view
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Some employers worry that ranges limit flexibility or create internal comparisons. Those concerns deserve a fair process, but withholding all information can shift the burden onto applicants and waste time for both sides.
 
 ## Synthesis or question
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+A clear range is not a complete pay-equity policy, but it is a practical starting point for more informed recruitment.

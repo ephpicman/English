@@ -1,15 +1,15 @@
-# Comment on a post about inclusive design
+# Professional LinkedIn comment 3
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative comment; post only when it genuinely responds to the original discussion.*
 
 ## Point of connection
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+Good point about learning transfer. A short practice task and timely feedback often reveal more than course completion alone.
 
 ## Added insight or question
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+Have you found a simple way to measure whether the training changed day-to-day behaviour?
 
 ## Optional close
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Thanks for raising a practical point that teams can test in their own context.

@@ -1,15 +1,15 @@
-# Comment on a post about documentation
+# Professional LinkedIn comment 2
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative comment; post only when it genuinely responds to the original discussion.*
 
 ## Point of connection
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+That distinction between a decision and an action is important. I’d add an owner and review date so the team can tell whether the action actually moved forward.
 
 ## Added insight or question
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+How do you decide when a page should be split into a task guide and a troubleshooting guide?
 
 ## Optional close
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Thanks for raising a practical point that teams can test in their own context.

@@ -1,23 +1,23 @@
-# A practical tip for better documentation
+# Good documentation answers the question the reader has right now.
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative professional post; adapt it to a real experience and do not imply personal results you cannot verify.*
 
 ## Hook
 
-A practical lesson from a practical tip for better documentation.
+Good documentation answers the question the reader has right now.
 
 ## Main point
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+Someone installing a tool needs prerequisites and a verified path. Someone facing an error needs symptoms, safe checks, and a recovery route. One long page rarely serves both moments equally well.
 
 ## Support or experience
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+I find it useful to ask a colleague unfamiliar with the task to follow the instructions while I stay quiet. Their pauses reveal assumptions the author no longer notices.
 
 ## Practical takeaway
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Use task-based headings, show expected output where helpful, and put risky steps behind a clear warning.
 
 ## Question or call to action
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Which documentation habit saves you the most time?

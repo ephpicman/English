@@ -1,19 +1,19 @@
-# Reply to a post about project delivery
+# Reply to a professional post: You argue that feedback should always be direct and blunt.
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative reply. Use only when it accurately responds to the original post.*
 
 ## Point being answered
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+You argue that feedback should always be direct and blunt.
 
 ## Response and reasoning
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Directness is useful, but feedback is most effective when it is specific and respectful.
 
 ## Added value
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Describe the observed behaviour, explain its effect, and agree on a next step. That keeps the conversation honest without turning it into a judgment about someone’s character.
 
 ## Optional close
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+How do you keep feedback clear without making it personal?

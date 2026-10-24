@@ -1,19 +1,19 @@
-# A tip for calmer project handovers
+# Status updates can be clear without pretending certainty
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
 
 ## Hook or Announcement
 
-A practical lesson from a tip for calmer project handovers.
+Status updates can be clear without pretending certainty
 
 ## Essential Information
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Separate confirmed information from assumptions, identify the open risk, and state when the next update is expected. This gives readers a useful picture without turning an estimate into a promise.
 
 ## Relevance or Takeaway
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Trust grows when uncertainty is communicated responsibly.
 
 ## Call to Action or Close
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Use this structure in your next project update.

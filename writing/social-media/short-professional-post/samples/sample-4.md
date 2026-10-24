@@ -1,19 +1,19 @@
-# A lesson from reviewing feedback
+# Learning works better when it includes practice
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
 
 ## Hook or Announcement
 
-A practical lesson from a lesson from reviewing feedback.
+Learning works better when it includes practice
 
 ## Essential Information
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Pair a learning resource with a small task that uses the skill, then create an opportunity for feedback and revision. Course completion alone does not show whether someone can apply the idea.
 
 ## Relevance or Takeaway
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Plan the practice step at the same time as the training.
 
 ## Call to Action or Close
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+What skill could your team practise this month?

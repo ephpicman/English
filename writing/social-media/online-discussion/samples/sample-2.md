@@ -1,23 +1,23 @@
-# Discussion: learning online or in person
+# Online discussion: Is remote work always more productive?
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative response to a discussion prompt. Adjust it to the actual context and other participants’ contributions.*
 
 ## Direct response
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Remote work is not automatically more or less productive; the result depends on the task, team norms, and working conditions.
 
 ## Reasoning and support
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Focused individual work may benefit from fewer interruptions, while onboarding, sensitive conversations, and rapid collaboration may need more deliberate coordination. Productivity should be judged by outcomes and quality rather than online presence alone.
 
 ## Example or qualification
 
-For example, a short handover note can state what changed, what remains open, and who will follow up. It is a small habit, but it makes collaboration easier to sustain.
+A team could agree on response windows, document decisions, and use in-person time for work that genuinely benefits from being together. It should also consider home working conditions and access needs.
 
 ## Engage another view
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+Some people value the spontaneous learning that happens in an office, and that is a legitimate concern. Teams can create mentoring and collaboration opportunities without assuming that every task needs the same location.
 
 ## Synthesis or question
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Rather than debating a universal rule, organisations should test arrangements against the work they need to deliver and review the results with staff.

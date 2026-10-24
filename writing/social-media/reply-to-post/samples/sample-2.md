@@ -1,19 +1,19 @@
-# Reply to a post about career development
+# Reply to a professional post: You suggest that documentation should include every possible detail.
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative reply. Use only when it accurately responds to the original post.*
 
 ## Point being answered
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+You suggest that documentation should include every possible detail.
 
 ## Response and reasoning
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Completeness matters, but the reader’s task should determine how the information is organised.
 
 ## Added value
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+A quick-start path can help new users begin, while reference details and troubleshooting steps remain available in separate sections. That keeps critical steps visible without losing depth.
 
 ## Optional close
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+How do you decide what belongs in the main path?

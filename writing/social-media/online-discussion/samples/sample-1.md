@@ -1,23 +1,23 @@
-# Discussion: should meetings be shorter?
+# Online discussion: Should every meeting have an agenda?
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative response to a discussion prompt. Adjust it to the actual context and other participants’ contributions.*
 
 ## Direct response
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Most meetings benefit from an agenda, although the agenda can be brief and informal.
 
 ## Reasoning and support
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+It gives participants a shared purpose and helps them prepare relevant information. It also makes it easier to notice when the discussion has moved away from the decision the group needs to make.
 
 ## Example or qualification
 
-For example, a short handover note can state what changed, what remains open, and who will follow up. It is a small habit, but it makes collaboration easier to sustain.
+For a quick incident huddle, three bullets may be enough: current impact, immediate action, and owner. A creative workshop may need more room for exploration, but participants should still know the intended outcome.
 
 ## Engage another view
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+The counterpoint is that overly rigid agendas can shut down useful discoveries. I would leave space for new issues while making clear which items require a decision today.
 
 ## Synthesis or question
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+The goal is not paperwork; it is helping people use their time well. What is the smallest agenda that works for your team?

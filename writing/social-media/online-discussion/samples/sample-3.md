@@ -1,23 +1,23 @@
-# Discussion: how teams share knowledge
+# Online discussion: Should teams prioritise speed or quality?
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative response to a discussion prompt. Adjust it to the actual context and other participants’ contributions.*
 
 ## Direct response
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Teams should define the acceptable quality threshold first, then optimise speed within that boundary.
 
 ## Reasoning and support
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+The right balance depends on the cost of an error. A draft for internal discussion can tolerate different risks from a payment change, medical instruction, or security-sensitive release.
 
 ## Example or qualification
 
-For example, a short handover note can state what changed, what remains open, and who will follow up. It is a small habit, but it makes collaboration easier to sustain.
+A team might release a small feature behind a flag while keeping automated checks and a rollback path. That creates a faster feedback loop without pretending that testing is unnecessary.
 
 ## Engage another view
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+It is true that excessive review can delay useful work. The answer is to make reviews proportional to risk, not to remove them indiscriminately.
 
 ## Synthesis or question
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Speed and quality are not always opposites; clear scope, small changes, and proportionate safeguards can support both.

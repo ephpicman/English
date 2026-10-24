@@ -1,23 +1,23 @@
-# Why accessible meetings matter
+# Clear communication includes saying what is not yet known.
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative professional post; adapt it to a real experience and do not imply personal results you cannot verify.*
 
 ## Hook
 
-A practical lesson from why accessible meetings matter.
+Clear communication includes saying what is not yet known.
 
 ## Main point
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+A confident update can sound reassuring while hiding an unresolved dependency. Readers need to know what is confirmed, what is assumed, and when the next update will arrive.
 
 ## Support or experience
 
-One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+Separating confirmed facts from open questions helps teams make proportionate decisions. It also prevents a tentative estimate from being repeated as a promise.
 
 ## Practical takeaway
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+In your next status update, label the risk, owner, next action, and review date—and avoid inventing certainty to make the update sound polished.
 
 ## Question or call to action
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+How do you communicate uncertainty without creating confusion?

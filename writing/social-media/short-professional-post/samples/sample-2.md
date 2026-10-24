@@ -1,19 +1,19 @@
-# A short note on accessible documents
+# Documentation tip: show the expected result
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative short professional post. Verify any role-specific or time-sensitive detail before publishing.*
 
 ## Hook or Announcement
 
-A practical lesson from a short note on accessible documents.
+Documentation tip: show the expected result
 
 ## Essential Information
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+A step-by-step guide is easier to follow when readers know what success looks like after each important action. Where it helps, include an example output or a simple verification check.
 
 ## Relevance or Takeaway
 
-I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+This helps users distinguish a completed step from a silent failure.
 
 ## Call to Action or Close
 
-What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+Review one guide and add a verification point.
