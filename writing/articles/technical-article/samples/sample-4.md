@@ -1,25 +1,46 @@
 # Validating CSV files before data ingestion
-*Illustrative technical article. Verify commands, versions, architecture, and security requirements against the actual implementation before use.*
+
+*Illustrative technical article. Verify encoding, schema, and validation rules against the actual data pipeline.*
+
 ## Summary
-CSV files look simple, but inconsistent headers, encoding, delimiters, missing values, and duplicate identifiers can corrupt downstream analysis. A validation step should detect predictable problems before ingestion while preserving the original file and explaining failures clearly. This article presents a layered validation approach. Exact rules should come from the receiving system’s schema and business requirements.
+
+CSV files look simple, but inconsistent headers, encodings, delimiters, missing values, and duplicate identifiers can cause downstream failures or misleading analysis. A validation stage should detect predictable problems before ingestion, report them clearly, and preserve the original file. Validation does not prove that every value is correct; it checks whether the input meets defined structural and domain rules. The examples here are illustrative and should be adapted to the data contract.
+
 ## Scope and Prerequisites
-The intended reader builds a data pipeline that accepts CSV files from internal or external sources. The article assumes a tabular dataset with a known schema. It does not define rules for a specific domain, and sample field names are illustrative.
+
+The intended reader builds or maintains a data-ingestion workflow. The input is a delimited text file with a documented schema. Before validation, confirm the expected encoding, delimiter, header names, field types, required columns, and meaning of missing values. If the producer’s format is undocumented, establish a contract before writing strict checks.
+
 ## Core Concepts
-Syntactic validation checks whether the file can be parsed: encoding, delimiter, quoting, row shape, and headers. Schema validation checks required columns and expected types. Business validation checks domain rules such as allowed status values or unique identifiers. Keeping these layers separate helps the user understand whether a file is malformed, structurally incompatible, or logically invalid.
-Validation should be explicit about missing values. An empty string, a missing column, and a null-like token are not necessarily equivalent. Similarly, a date that parses successfully may still fall outside the allowed reporting period.
+
+Structural validation checks whether the file can be parsed and contains the expected columns. Type validation checks whether values can be interpreted as dates, numbers, or identifiers in the required format. Domain validation checks rules that depend on the business meaning of the data, such as an allowed status value or a non-negative quantity. These categories should be reported separately because they require different fixes.
+
+Missing values need careful treatment. An empty field may mean unknown, not applicable, or not yet supplied. Replacing every blank with zero can change the meaning of the data. Likewise, duplicate rows are not always errors: a repeated event may be valid, while a duplicate unique identifier may violate the data contract.
+
 ## Architecture or Workflow
-Validation rules should be versioned alongside the schema that defines them. If a producer adds a new category, a strict validator may reject every file containing that value until the receiving system is updated. Conversely, silently accepting an unknown category may cause reports to omit it from totals. The data contract should describe how schema changes are announced and whether a transition period is supported.
-A safe pipeline preserves the source file, records its checksum or import ID, parses it using defined rules, and validates the parsed rows. It then produces a report of errors and warnings. Files with critical errors should not enter the target table; warning-only cases may be accepted if the policy allows them.
-The report should identify row and column where possible, describe the expected value, and avoid echoing sensitive data. Rejected files should have a clear correction and resubmission path.
+
+The pipeline should preserve the source file, parse it with an explicit configuration, validate the schema, run field-level checks, and produce a report. Only data that passes the required checks should proceed to the next stage. If the pipeline supports quarantine, invalid rows can be separated with reasons while preserving a reference to the source file.
+
+Validation rules should be versioned with the data contract. When a producer changes a column name or allowed value, the team should update the contract deliberately rather than silently adapting the parser to any incoming shape. A validation failure should include the row number or safe record reference, field, rule, and reason without exposing sensitive values unnecessarily.
+
 ## Implementation Details
-A validation plan can include: required header check; duplicate header detection; row-width consistency; type parsing; required-field checks; allowed-value checks; duplicate business-key detection; and aggregate sanity checks. Define whether identifiers are case-sensitive and whether whitespace should be trimmed before comparison.
-Use a small known-good fixture and fixtures for each expected failure. The pipeline should return a clear status code or structured result so automated jobs can stop before loading invalid data. Avoid automatically “fixing” ambiguous values without recording the transformation.
+
+A practical validation sequence is:
+
+1. Check that the file exists and is within the configured size limit.
+2. Decode using the expected encoding and report invalid byte sequences.
+3. Parse using the agreed delimiter, quoting, and escape rules.
+4. Confirm required headers and detect unexpected or duplicated column names.
+5. Validate required fields, types, allowed values, and unique identifiers.
+6. Summarise failures and stop or quarantine records according to the pipeline policy.
+
+Avoid guessing the delimiter or encoding silently in a production pipeline. Heuristics can be useful for interactive tools, but ingestion should have a documented rule and a clear failure mode. Keep validation deterministic so that the same input and schema produce the same result.
+
 ## Limitations and Operational Concerns
-Validation reports should be actionable. Group repeated failures where appropriate, show the first affected row and column, and state how to correct the source. Avoid printing the full rejected value when it could contain personal data. For large files, consider streaming validation and clear limits so the validator does not exhaust memory before it can report an error.
-Validation cannot establish that a source value is factually true; it can only check the rules provided. Strict rules may reject legitimate new categories, while permissive rules may allow bad data. Schema changes should be versioned and communicated to data producers.
+
+A file can pass structural checks while still containing incorrect business information. Validation also depends on a trustworthy schema; an outdated schema can reject valid changes or accept bad data. Large files may require streaming to control memory usage. Error reports should be bounded and access-controlled if records contain personal or confidential information.
+
+Track validation failures by rule and source, not just the total number of rejected files. This helps identify whether the problem comes from a producer change, a data-entry issue, or an overly strict rule.
+
 ## Conclusion
-A final test should simulate a provider timeout after the provider may have accepted the operation. Confirm that the worker checks operation state or uses the provider’s idempotency mechanism before attempting the side effect again. This is one of the most important cases to document because the local process may not know whether the first attempt succeeded. Include the recovery decision in the operational runbook, along with instructions for pausing processing, inspecting the attempt history, and deciding when manual review is needed.
-Publish the validation contract alongside the data schema so that producers can correct files before submitting them. Include a small valid example and a separate example of common failures, using synthetic data. If a schema change is planned, communicate it before enforcement begins and provide a transition period when practical. This reduces avoidable rejections while preserving the ability to stop unsafe or misleading data from entering the pipeline.
-Validation should be designed around the receiving system’s contract rather than a generic idea of a well-formed spreadsheet. Define required columns, accepted types, null behaviour, allowed values, and business rules with the data owner. If an identifier is unique only within a reporting period, the validation key should reflect that; checking global uniqueness would reject valid records. Date rules should specify timezone and whether boundary dates are inclusive. These choices need to be documented so the same file is evaluated consistently across runs and environments.
-For larger inputs, stream rows through the parser and collect a bounded set of representative errors while maintaining total counts. This prevents a malformed file from exhausting memory or producing a report too large to review. Keep validation and transformation separate: if values are normalised, record the rule and make the transformation reproducible. A failed import should leave the target dataset unchanged unless partial acceptance is an explicit, approved behaviour. Tests should cover valid files, malformed quoting, duplicate headers, empty files, unexpected columns, encoding problems, and schema changes. Finally, monitor rejection reasons over time; recurring failures may indicate that the producer needs clearer documentation rather than that the validator should simply become more permissive.
-Reliable CSV ingestion combines parse checks, schema rules, domain validation, and a clear failure report. Preserve the original, make transformations traceable, and test both valid files and representative error cases.
+
+Reliable ingestion begins with an explicit data contract and a validation stage that explains failures. Preserve source data, separate structural from domain checks, and treat schema changes as reviewed changes rather than assumptions. This makes pipeline behaviour more predictable and errors easier to resolve.

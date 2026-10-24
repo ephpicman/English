@@ -1,25 +1,46 @@
 # Storing API credentials safely in applications
-*Illustrative technical article. Verify commands, versions, architecture, and security requirements against the actual implementation before use.*
+
+*Illustrative technical article. Follow the organisation’s secret-management policy and platform guidance.*
+
 ## Summary
-Applications often need credentials to call other services, but storing them in source code or logs creates avoidable exposure. A safer design limits where secrets are stored, who can access them, how they are rotated, and what happens when they are suspected of compromise. This article provides general engineering guidance rather than a provider-specific setup; follow the approved secrets-management approach for the deployment environment.
+
+Applications often need credentials to call other services, but storing them in source code, configuration committed to a repository, or logs creates avoidable exposure. A safer design limits where secrets are stored, who can access them, how they are rotated, and what happens when compromise is suspected. This article describes common controls and operational considerations; the exact implementation depends on the deployment platform and the organisation’s security requirements.
+
 ## Scope and Prerequisites
-The intended audience is a developer deploying a service that authenticates to another system. The discussion covers server-side credentials and does not replace a security review, threat model, or the service provider’s authentication documentation.
+
+The intended reader develops or operates a service that uses API credentials. The discussion assumes the team has an approved secret-management mechanism and a defined process for granting access. It does not replace a security review or provide a universal configuration for every cloud or hosting platform.
+
 ## Core Concepts
-A secret is sensitive because possession of it may grant access. Examples include API keys, client secrets, and private keys. The core principles are least privilege, limited lifetime where possible, controlled distribution, rotation, and auditability. A credential should be scoped to the minimum resources and actions needed by the application.
-Configuration values and secrets should be treated differently. Ordinary settings may be stored in a repository when appropriate, but credentials should be injected through an approved secret store or deployment mechanism. Environment variables can be useful in some deployments, but their protection depends on the runtime, process permissions, and diagnostic tooling.
+
+A secret is a value that grants access or authority, such as an API key, password, private key, or refresh token. Configuration and secrets are related but different: a service URL may be ordinary configuration, while a credential used to authenticate to that service must be protected. Environment variables can be useful for supplying secrets to a process, but they are not themselves a complete secret-management strategy.
+
+Least privilege means each service receives only the access it needs. Rotation means replacing a credential according to policy or after a suspected exposure. Revocation removes a credential’s ability to authorise future requests. A secure design needs all three concepts as well as a plan for deployment and recovery.
+
 ## Architecture or Workflow
-Credential rotation should be designed before an incident occurs. The application may need a period in which both old and new credentials are valid, followed by revocation of the old value. The exact sequence depends on the provider, so test it in a non-production environment and document the expected restart or reload behaviour. A rotation process that exists only in one engineer’s memory is difficult to execute reliably under pressure.
-At startup, the application obtains the credential from its approved secret source and uses it only for the required service call. Access is granted to the workload identity or deployment role rather than to every developer or process. Rotation should be tested so that a new credential can be deployed without an uncontrolled outage.
-Logs and error messages must not print secret values. If a secret may have been exposed, revoke or rotate it, assess the access logs, and follow the incident process rather than merely deleting the visible copy.
+
+At startup, the application retrieves credentials from the approved secret store or receives them through the platform’s protected injection mechanism. Access should be granted to the workload identity rather than to every person who can read the application repository. The service uses the credential for the required downstream call and avoids returning it in errors or logs.
+
+Credential rotation should be planned so that the application can move from an old secret to a new one without an uncontrolled outage. Depending on the provider, this may require a short overlap period, a coordinated rollout, or a documented restart. The exact sequence must follow the provider’s contract. If compromise is suspected, revocation and incident response take priority over preserving uninterrupted service.
+
 ## Implementation Details
-Use a secrets manager or the organisation’s approved platform feature, enforce least-privilege permissions, and keep development and production credentials separate. Avoid hardcoding secrets in source, container images, sample configuration, test fixtures, or documentation. Add automated checks for accidental secret commits and restrict access to build logs and crash reports.
-Document the owner, rotation method, and emergency revocation procedure. Test that an application handles missing or expired credentials with a clear failure and does not fall back to insecure defaults.
+
+A practical control set includes:
+
+- Store secrets in the approved secret-management service, not in source code or committed environment files.
+- Restrict access to workloads and operators who need it.
+- Keep development, test, and production credentials separate.
+- Redact credentials from logs, exception messages, traces, and support bundles.
+- Scan repositories for accidental secret exposure and rotate any credential that may have been committed.
+- Document how to issue, rotate, revoke, and recover credentials.
+
+Do not rely on obscuring a credential name or encoding a secret as a security control. If a credential is exposed in a public repository or log, deleting the visible copy is not enough; assume it may have been copied and follow the revocation procedure.
+
 ## Limitations and Operational Concerns
-A useful review also considers how secrets reach the runtime: deployment logs, crash dumps, environment inspection, build artefacts, and developer machines can all become exposure paths. Limit access to the secret source, audit reads where supported, and avoid copying production credentials into local development. If a credential is suspected of exposure, follow the incident process and inspect relevant access records rather than relying only on a successful rotation.
-No storage mechanism removes the need for access control and monitoring. A secret exposed to a compromised runtime may still be stolen. Rotation can fail if multiple services rely on an undocumented shared credential, so ownership and dependency mapping matter.
+
+Secret stores can become dependencies at startup or during rotation, so the service needs explicit failure behaviour. Caching may improve availability but also affects how quickly a revoked credential stops being used. Audit access to secret values and avoid printing them during diagnostics. The correct balance depends on the threat model and platform capabilities.
+
+A secret-management service does not compensate for excessive permissions on the credential itself. Prefer short-lived or workload-bound credentials when supported and appropriate. Review permissions periodically and remove unused keys.
+
 ## Conclusion
-Document the schema owner and the process for approving new fields or allowed values. Without that ownership, the validator may become either too strict for legitimate changes or too permissive to protect downstream analysis. A clear change process helps producers and consumers coordinate updates. The same review should check that error reports remain safe to share and do not expose sensitive row contents. Include a valid sample and representative invalid cases in the documentation so producers can test their files before submitting them.
-Include a clear ownership and review record for every production credential. When a service is retired or a team changes, remove credentials that are no longer needed and verify that no scheduled job still depends on them. Periodic review should cover permissions as well as age: a recently rotated secret can still be over-privileged. These checks help keep the secret inventory accurate and make incident response more predictable.
-Plan credential rotation as a controlled change with a tested rollback path. The deployment procedure should identify the owner, the systems that consume the secret, and how the new value becomes active. Where a provider supports overlapping credentials, a staged rotation may allow the application to switch before the old credential is revoked. If overlap is not supported, document the expected interruption and coordinate the change with the service owner. Never assume that changing a value in a secret store automatically reloads it into every running process; verify the runtime’s behaviour.
-The threat model should include developers’ machines, CI logs, build artefacts, crash reports, and operational support bundles. Automated scanning can catch some accidental commits, but it does not replace access controls or incident response. Use separate credentials for development and production, restrict who can read production secrets, and audit access where the platform supports it. If a credential is suspected of exposure, revoke it promptly, review access records, and follow the security incident process. The application should fail safely when credentials are missing or expired and must not fall back to a hard-coded default. These steps make credential handling maintainable as the team and deployment environment change.
-Credential safety depends on reducing exposure, limiting permissions, preventing leakage, and rehearsing rotation and revocation. Verify the actual platform configuration and include secret handling in deployment tests.
+
+Credential safety depends on storage, access, rotation, logging, and incident response working together. Use the approved secret store, minimise permissions, test rotation, and treat accidental exposure as a credential incident rather than a simple file-cleanup task.
