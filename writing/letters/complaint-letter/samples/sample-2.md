@@ -1,39 +1,42 @@
-# Complaint about repeated delivery delays
+# Formal complaint letter
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Keep the timeline clear and attach only relevant supporting evidence.
 
 ## Greeting and purpose
 
-Dear [Recipient or Sir/Madam], I am writing regarding complaint about repeated delivery delays. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Sir or Madam,
+
+I am writing to raise a concern about the matter identified below and to request a review.
 
 ## Transaction or reference details
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+Membership account 51903, renewal dated 1 October
 
 ## Chronology and evidence
 
-I am interested in complaint about repeated delivery delays because it aligns with my relevant experience and goals. My preparation includes [verified qualification or experience], where I developed [relevant skill] through [specific task]. I would welcome the opportunity to explain how this background meets the stated criteria.
+My renewal notice showed the annual rate agreed at sign-up, but the latest payment was taken at a higher amount. I reviewed the account page and could not find a notice explaining the difference.
 
 ## Impact and previous attempts
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The unexpected charge has made it difficult to reconcile my budget, and I cannot tell whether the account is on the intended plan.
 
 ## Requested resolution
 
-I would be grateful if you could consider complaint about repeated delivery delays. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Please review the renewal calculation, explain the difference, and refund any amount charged in error. If the plan or rate changed, please provide the date and notice that authorised the change.
 
 ## Professional closing
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+I have included the renewal notice and payment record. Thank you for your help. Yours sincerely, Amira
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
+\n## IELTS and language review\n\nThe letter demonstrates formal register, chronological evidence, and a clear request. In a real complaint, accuracy and the recipient’s published procedure take priority over elaborate language.\n

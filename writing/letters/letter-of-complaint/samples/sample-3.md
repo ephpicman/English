@@ -1,39 +1,41 @@
-# Formal complaint about an unresolved repair
+# Letter of complaint
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Keep the timeline clear and attach only relevant supporting evidence.
 
 ## Greeting and clear purpose
 
-Dear [Recipient or Sir/Madam], I am writing regarding formal complaint about an unresolved repair. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Sir or Madam,
+
+I am writing to raise a concern about the matter identified below and to request a review.
 
 ## Relevant purchase, service, or event details
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+Booking reference BK-3015, reservation for 6 October
 
 ## Factual account and evidence
 
-I am interested in formal complaint about an unresolved repair because it aligns with my relevant experience and goals. My preparation includes [verified qualification or experience], where I developed [relevant skill] through [specific task]. I would welcome the opportunity to explain how this background meets the stated criteria.
+The confirmation email stated that the room would be available from 2 p.m. When I arrived, staff advised that it was not ready and asked me to wait until after 4 p.m.
 
 ## Impact and attempted resolution
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The delay disrupted the schedule for a small workshop and required participants to wait in the reception area. I raised the issue with the desk at the time, but no alternative room was available.
 
 ## Specific remedy requested
 
-I would be grateful if you could consider formal complaint about an unresolved repair. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Please explain why the confirmed room time was not met and advise whether a partial refund or credit is available under the booking terms.
 
 ## Closing and next step
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+I would appreciate a written response within seven working days. Yours faithfully, Priya
 
 ## Final review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.

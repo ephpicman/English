@@ -1,39 +1,41 @@
-# Formal complaint about a cancelled service
+# Letter of complaint
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Keep the timeline clear and attach only relevant supporting evidence.
 
 ## Greeting and clear purpose
 
-Dear [Recipient or Sir/Madam], I am writing regarding formal complaint about a cancelled service. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Sir or Madam,
+
+I am writing to raise a concern about the matter identified below and to request a review.
 
 ## Relevant purchase, service, or event details
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+Order 6724, placed 2 October; delivered 9 October
 
 ## Factual account and evidence
 
-I am interested in formal complaint about a cancelled service because it aligns with my relevant experience and goals. My preparation includes [verified qualification or experience], where I developed [relevant skill] through [specific task]. I would welcome the opportunity to explain how this background meets the stated criteria.
+The order confirmation lists a set of four ceramic mugs. The parcel contained three mugs, and the packing slip also lists four. I checked the packaging and found no sign that a separate parcel was delivered.
 
 ## Impact and attempted resolution
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The set is incomplete, so I cannot use it as intended. I contacted the online help desk on 10 October and was advised to send the order reference for review.
 
 ## Specific remedy requested
 
-I would be grateful if you could consider formal complaint about a cancelled service. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Please send the missing mug or explain the available refund option. I can provide photographs of the contents and the packing slip if needed.
 
 ## Closing and next step
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+I would appreciate a response within five working days. Thank you for your attention. Yours faithfully, Taylor
 
 ## Final review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.

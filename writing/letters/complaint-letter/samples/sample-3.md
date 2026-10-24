@@ -1,39 +1,42 @@
-# Complaint about poor accommodation
+# Formal complaint letter
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Keep the timeline clear and attach only relevant supporting evidence.
 
 ## Greeting and purpose
 
-Dear [Recipient or Sir/Madam], I am writing regarding complaint about poor accommodation. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Sir or Madam,
+
+I am writing to raise a concern about the matter identified below and to request a review.
 
 ## Transaction or reference details
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+Reference 2026-118, maintenance visit on 11 July
 
 ## Chronology and evidence
 
-I am interested in complaint about poor accommodation because it aligns with my relevant experience and goals. My preparation includes [verified qualification or experience], where I developed [relevant skill] through [specific task]. I would welcome the opportunity to explain how this background meets the stated criteria.
+The technician attended to inspect the heating control but left without testing the system after the initial reset failed. The service record states that the issue was resolved, although the control continued to display the same error.
 
 ## Impact and previous attempts
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The room remains difficult to heat consistently, and the record makes it appear that no further action is needed. I reported the continuing issue through the service portal the following morning.
 
 ## Requested resolution
 
-I would be grateful if you could consider complaint about poor accommodation. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Please correct the service record and arrange a follow-up visit that includes a diagnostic check. Please also confirm whether there will be any additional charge before the visit is booked.
 
 ## Professional closing
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+I would be grateful for a response within three working days. Yours faithfully, Noor
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
+\n## IELTS and language review\n\nThe letter demonstrates formal register, chronological evidence, and a clear request. In a real complaint, accuracy and the recipient’s published procedure take priority over elaborate language.\n

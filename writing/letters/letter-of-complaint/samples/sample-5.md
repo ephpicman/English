@@ -1,39 +1,41 @@
-# Formal complaint about poor customer service
+# Letter of complaint
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Keep the timeline clear and attach only relevant supporting evidence.
 
 ## Greeting and clear purpose
 
-Dear [Recipient or Sir/Madam], I am writing regarding formal complaint about poor customer service. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Sir or Madam,
+
+I am writing to raise a concern about the matter identified below and to request a review.
 
 ## Relevant purchase, service, or event details
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+Event registration confirmation for 17 September
 
 ## Factual account and evidence
 
-I am interested in formal complaint about poor customer service because it aligns with my relevant experience and goals. My preparation includes [verified qualification or experience], where I developed [relevant skill] through [specific task]. I would welcome the opportunity to explain how this background meets the stated criteria.
+The registration page stated that the workshop included a printed workbook. No workbook was available at the event, and staff said they had not received the final materials list.
 
 ## Impact and attempted resolution
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The missing workbook made it harder to follow the exercises and take notes. I understand that last-minute issues can occur, but the event information did not mention that materials might be unavailable.
 
 ## Specific remedy requested
 
-I would be grateful if you could consider formal complaint about poor customer service. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Please send a digital copy of the workbook if one is available and clarify whether the event information will be corrected for future participants.
 
 ## Closing and next step
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for considering this feedback. Yours faithfully, Daniel
 
 ## Final review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.

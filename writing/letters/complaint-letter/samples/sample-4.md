@@ -1,39 +1,42 @@
-# Complaint about an incorrect utility bill
+# Formal complaint letter
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Keep the timeline clear and attach only relevant supporting evidence.
 
 ## Greeting and purpose
 
-Dear [Recipient or Sir/Madam], I am writing regarding complaint about an incorrect utility bill. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Sir or Madam,
+
+I am writing to raise a concern about the matter identified below and to request a review.
 
 ## Transaction or reference details
 
-To explain the circumstances, [state the relevant facts in chronological order]. The effect was [specific, proportionate impact]. I have included only details relevant to the matter and can provide supporting records if needed.
+Order 90331, delivery scheduled for 23 May
 
 ## Chronology and evidence
 
-I am interested in complaint about an incorrect utility bill because it aligns with my relevant experience and goals. My preparation includes [verified qualification or experience], where I developed [relevant skill] through [specific task]. I would welcome the opportunity to explain how this background meets the stated criteria.
+The delivery did not arrive on the scheduled date, and the tracking page showed no update for the next four days. I contacted support twice and received different estimates, neither of which was confirmed by the carrier.
 
 ## Impact and previous attempts
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I arranged to be at home for the delivery and had to change those plans more than once. The lack of a reliable update has been more difficult than the delay itself.
 
 ## Requested resolution
 
-I would be grateful if you could consider complaint about an incorrect utility bill. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+Please confirm the parcel’s current location and provide a delivery date supported by the carrier. If the parcel cannot be located, please explain the replacement or refund options available under the delivery policy.
 
 ## Professional closing
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for reviewing the tracking history. I look forward to a clear update. Yours faithfully, Sam
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
+\n## IELTS and language review\n\nThe letter demonstrates formal register, chronological evidence, and a clear request. In a real complaint, accuracy and the recipient’s published procedure take priority over elaborate language.\n
