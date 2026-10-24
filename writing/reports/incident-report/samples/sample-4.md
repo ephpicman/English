@@ -1,55 +1,64 @@
-# Incident report: delayed data import
+# Incident report: failed file upload during submission
 
-*Illustrative incident report. Replace all example details and timestamps with verified records; follow the organisation’s incident and privacy procedures.*
+*Illustrative incident report. Replace example details with verified application logs and user reports.*
+
+## Before drafting
+
+Confirm the affected application, time zone, submission window, and source records. Do not infer data loss solely from a failed upload message.
 
 ## Report structure
 
-It records incident details and the timeline, separates confirmed facts from hypotheses, and documents recovery and corrective actions.
+This report records the user impact, system timeline, containment, and checks required to confirm recovery.
 
 ## Incident details and document control
 
-Incident ID: OPS-2026-033 | Date: 7 October | Process: Daily data import | Status: Resolved with follow-up
+- **Incident ID:** APP-2026-033
+- **Date:** 20 October 2026
+- **System:** Online document submission portal
+- **Reporter:** Service desk
+- **Status:** Service restored; data integrity check open
+- **Version:** 1.0
 
 ## Executive incident summary
 
-The daily data import completed later than expected because the source file was not available at the scheduled start time. The downstream report was delayed, but the import completed after the source was received and the team validated the resulting row count. The available information points to a dependency delay rather than a confirmed defect in the import code. Follow-up should improve visibility of missing inputs and clarify how downstream users are notified.
+Several users reported that the submission portal displayed an error after they attempted to upload documents. The service team applied a configuration rollback and confirmed that a test upload succeeded. The team is still checking whether any user submissions require recovery or resubmission.
 
 ## Scope and impact
 
-This report covers the scheduled import and the dependent report refresh. It does not assess the accuracy of the source system itself. Confirm the actual start and completion times from job logs before recording final operational metrics.
+The affected function was document upload. Current reports indicate that some users could not complete submission during the incident window. The number of affected users and whether any files reached the server must be established from application logs and support tickets.
 
 ## Timeline of events
 
-06:00 — scheduled import did not find the expected file.
-06:10 — automated retry completed without input.
-06:25 — operator checked the source delivery status.
-07:05 — source file became available.
-07:18 — import completed and validation ran.
-07:30 — downstream report refreshed. These times are illustrative.
+| Time (local) | Event | Source / action |
+|---|---|---|
+| 14:05 | First upload error reported | Service-desk ticket |
+| 14:14 | Similar reports grouped | Support log |
+| 14:30 | Recent configuration reviewed | Change record |
+| 14:42 | Rollback applied | Operations log |
+| 14:55 | Test upload succeeded | Verification note |
 
 ## Response and containment
 
-The operator confirmed the file was absent, checked the source delivery channel, and reran the import after the file arrived. Row-count and schema checks were completed before the downstream report was refreshed.
+The team grouped reports, reviewed the recent configuration change, and rolled it back. A test upload then succeeded. Users were advised to check their submission status before retrying to avoid creating duplicate entries.
 
 ## Cause and contributing factors
 
-The immediate cause was late availability of the source file. The reason for the delay at the source remains outside this report’s confirmed evidence. The retry schedule also did not communicate the dependency delay to report users.
+The timing suggests the configuration change may be related, but the cause is not confirmed until the log review is complete. The team should also check whether error handling gave users a clear indication of whether a file had been received.
 
 ## Recovery and verification
 
-Recovery was confirmed by successful import logs, expected schema, a row-count check, and a completed downstream refresh. Additional reconciliation may be needed if the source system can deliver partial files.
+The test upload succeeded after rollback. The team must reconcile submission records with affected tickets and contact users only where a missing or incomplete submission is confirmed.
 
 ## Corrective and preventive actions
 
-1. Add an alert when the source file is missing beyond the agreed threshold.
-2. Notify report users when the refresh will be delayed.
-3. Confirm the source team’s expected delivery window and escalation route.
-4. Review whether validation should compare key totals, not only row count.
+- Compare server logs with affected tickets — Application owner — 22 October.
+- Confirm whether any submission records are missing — Data operations — 23 October.
+- Review pre-release checks for upload configuration — Engineering lead — 27 October.
 
 ## Final quality check
 
-Separate confirmed facts from hypotheses, preserve relevant evidence, document impact only when verified, and assign an owner and due date to every corrective action. Review sensitive details before distribution.
+Confirm the impact assessment and the result of the record reconciliation before closing the incident.
 
 ## IELTS-oriented language practice
 
-The report uses neutral, chronological language and avoids assigning blame before the evidence is reviewed. In a real incident report, factual accuracy and the approved reporting process take priority over stylistic complexity.
+The report uses evidence to distinguish correlation from a confirmed root cause.

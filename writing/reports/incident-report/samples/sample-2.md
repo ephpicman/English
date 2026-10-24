@@ -1,54 +1,64 @@
-# Incident report: duplicate notification emails
+# Incident report: misdirected email attachment
 
-*Illustrative incident report. Replace all example details and timestamps with verified records; follow the organisation’s incident and privacy procedures.*
+*Illustrative report. Follow the organisation’s privacy and information-security procedures; do not include unnecessary personal data.*
+
+## Before drafting
+
+Use the incident ticket and mail-system records as sources. Escalate through the approved privacy process if sensitive information may be involved.
 
 ## Report structure
 
-It records incident details and the timeline, separates confirmed facts from hypotheses, and documents recovery and corrective actions.
+The report describes what was sent, who was affected in general terms, the containment steps, and the investigation still required.
 
 ## Incident details and document control
 
-Incident ID: INC-2026-052 | Date: 3 November | Component: Notification worker | Status: Under investigation
+- **Incident ID:** SEC-2026-018
+- **Date reported:** 7 October 2026
+- **System:** Corporate email
+- **Reporter:** Staff member
+- **Status:** Containment requested; review open
+- **Version:** 1.0
 
 ## Executive incident summary
 
-Some users received duplicate notification emails for a single event. The team paused the affected worker and inspected recent job records to limit further duplicates. The incident appears related to retry handling, but the precise sequence must be confirmed before assigning root cause. The immediate priority is to protect users from repeated messages, identify affected events, and add a tested safeguard against duplicate processing.
+A staff member reported that an attachment intended for an internal recipient was sent to an external address with a similar name. The recipient and content must be confirmed from the message record. The incident has been referred to the information-security contact for assessment.
 
 ## Scope and impact
 
-The review covers outbound notifications produced by the worker during the reported window. It does not include unrelated email delivery delays. The affected-user count and time range must be established from delivery logs before notification or remediation is finalised.
+The potential impact depends on the attachment’s contents and whether the external recipient accessed or retained it. This report does not reproduce the file or include personal details. The information-security team must determine the classification and whether notification or additional action is required.
 
 ## Timeline of events
 
-14:02 — support received the first duplicate-email report.
-14:10 — on-call staff compared reports with worker logs.
-14:18 — worker paused to prevent additional sends.
-14:31 — team identified jobs with repeated processing attempts.
-15:05 — controlled processing resumed for a limited test batch. Replace these example times with confirmed logs.
+| Time (local) | Event | Source / action |
+|---|---|---|
+| 10:04 | Email sent with attachment | Mail record |
+| 10:17 | Sender noticed address mismatch | Staff report |
+| 10:22 | Incident reported to service desk | Ticket SEC-2026-018 |
+| 10:40 | Security contact notified | Incident log |
+| Pending | Recipient response and access review | To be confirmed |
 
 ## Response and containment
 
-The worker was paused, recent job IDs were collected, and the team compared queued jobs with delivery records. A limited test batch was used before normal processing resumed. Any user-facing communication should describe the confirmed impact and avoid speculating about the cause.
+The sender was advised not to send further messages containing the attachment and to follow the security team’s instructions. The team is checking whether recall or deletion is available, without assuming that either action removes all copies.
 
 ## Cause and contributing factors
 
-A retry after an ambiguous delivery response is a plausible contributor: the provider may have accepted a message even when the worker did not receive confirmation. This remains a hypothesis until queue, worker, and provider records are correlated.
+The immediate error appears to involve selecting a similarly named address, but the review has not yet established why the normal checks did not prevent it. The team should examine the workflow and available safeguards before assigning a root cause.
 
 ## Recovery and verification
 
-Recovery requires confirming that normal notifications are processed once, that the queue is draining at an expected rate, and that no additional duplicate pattern is present. The team should continue monitoring after resumption.
+Containment and impact assessment remain open. The security contact should record whether the recipient confirms deletion and whether the content requires further action under policy.
 
 ## Corrective and preventive actions
 
-1. Correlate job IDs with provider delivery records.
-2. Add idempotency protection for notification events where supported.
-3. Test the timeout-after-acceptance scenario.
-4. Prepare a user-impact review using confirmed counts and an approved communication plan.
+- Confirm the attachment classification and affected information — Security contact — 8 October.
+- Record the recipient response and any containment outcome — Incident owner — 9 October.
+- Review address-selection safeguards and staff guidance — IT and security — after assessment.
 
 ## Final quality check
 
-Separate confirmed facts from hypotheses, preserve relevant evidence, document impact only when verified, and assign an owner and due date to every corrective action. Review sensitive details before distribution.
+Do not mark the incident resolved until impact and required notifications have been assessed by the authorised team.
 
 ## IELTS-oriented language practice
 
-The report uses neutral, chronological language and avoids assigning blame before the evidence is reviewed. In a real incident report, factual accuracy and the approved reporting process take priority over stylistic complexity.
+The report distinguishes a reported misdirection from the still-pending assessment of exposure.

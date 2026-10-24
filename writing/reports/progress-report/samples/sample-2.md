@@ -1,50 +1,57 @@
-# Progress report: staff training rollout
+# Progress report: staff onboarding guide
 
-*Illustrative progress report. Replace status, dates, milestones, costs, and dependencies with current project records before circulation.*
+*Illustrative report. Verify progress, approval status, and dates against the project record.*
+
+## Before drafting
+
+Reporting period: 1–31 October 2026. Audience: People Operations manager and content owners.
 
 ## Report structure
 
-It summarises status, completed work, schedule and risks, then identifies the next-period plan and decisions required.
+The report records work completed, schedule position, open review issues, and next steps.
 
 ## Title and reporting metadata
 
-Reporting period: September | Owner: Learning coordinator | Status: On track with attendance risk
+- **Owner:** People Operations
+- **Reporting date:** 2 November 2026
+- **Overall status:** Green for draft delivery; final approval pending
+- **Data date:** 31 October 2026
 
 ## Executive status summary
 
-The first training materials have been drafted and reviewed by subject-matter contributors. Session scheduling is progressing, although attendance across shift patterns remains an open concern. The next period will focus on testing the materials with a small group, confirming accessible formats, and finalising a schedule that does not leave critical teams without coverage.
+The first draft of the staff onboarding guide has been assembled and reviewed for structure. The project remains on schedule for a second review, but policy owners still need to confirm the sections covering equipment requests and account access.
 
 ## Objectives and scope
 
-Objective: introduce a consistent process for handling routine customer requests. Scope covers core guidance, short practice exercises, and manager briefing materials; specialist training remains outside this phase.
+The guide is intended to help new employees complete initial tasks and locate the correct support channels. It covers first-week activities, required contacts, and common administrative steps. It does not replace formal HR policies or security instructions.
 
 ## Work completed
 
-- Drafted the core guidance and facilitator notes.
-- Collected feedback from two team leads.
-- Identified three scenarios for practice exercises.
-- Started a schedule covering weekday sessions.
+- Collected current onboarding materials from the relevant teams.
+- Removed duplicate explanations and reorganised content by the employee’s first-week tasks.
+- Added a checklist for managers and new starters.
+- Recorded policy questions for owner review.
 
 ## Milestones, schedule, and budget
 
-Content draft: complete. Pilot session: planned for next period. Accessible materials: in review. Full rollout: dependent on pilot feedback and confirmed staffing. Budget status should be checked against approved training and backfill costs.
+The draft milestone was met on 30 October. Review by policy owners is planned for 6 November, followed by usability feedback from a small group of recent starters. No additional spend has been requested in this reporting period.
 
 ## Risks, issues, and dependencies
 
-Risk: some shift-based employees may be unable to attend scheduled sessions. Dependency: manager confirmation of coverage. Mitigation: test alternative session times and provide a supported catch-up route.
+The guide depends on confirmation that linked policies and access-request routes are current. Broken or outdated links could direct new employees to the wrong process. Each policy owner is responsible for checking their section before publication.
 
 ## Next-period plan
 
-Run the pilot, collect participant feedback, revise the exercises, and confirm session times with each team lead.
+Collect policy comments, test the guide with readers unfamiliar with the process, and revise unclear instructions. Record unresolved questions rather than making assumptions about policy.
 
 ## Decisions and support required
 
-Managers are asked to confirm available session windows and whether a recorded recap is appropriate under internal policy. The coordinator needs approval for any additional backfill cost.
+The People Operations manager should confirm who has final approval authority and whether the guide will be published as a web page or PDF.
 
 ## Final quality check
 
-Confirm that status agrees with the project tracker, dates and costs are current, and each risk has an owner or mitigation. Make clear where information is not yet confirmed rather than filling gaps with estimates.
+Verify links, policy references, and review dates before changing the status to complete.
 
 ## IELTS-oriented language practice
 
-The report separates completed work from planned work and states risks directly. In a real workplace report, use the organisation’s agreed status definitions and do not imply that a milestone is complete before it is verified.
+The report uses a qualified status rather than presenting a draft as fully approved.

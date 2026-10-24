@@ -1,53 +1,64 @@
-# Incident report: incorrect permissions on a shared folder
+# Incident report: water leak in an office kitchenette
 
-*Illustrative incident report. Replace all example details and timestamps with verified records; follow the organisation’s incident and privacy procedures.*
+*Illustrative facilities incident report. Confirm times, damage, and repair status with the facilities record.*
+
+## Before drafting
+
+Record observable facts, actions taken, and unresolved safety or repair questions. Avoid guessing at the cause of the leak.
 
 ## Report structure
 
-It records incident details and the timeline, separates confirmed facts from hypotheses, and documents recovery and corrective actions.
+The report covers location and impact, a factual timeline, containment, and follow-up responsibilities.
 
 ## Incident details and document control
 
-Incident ID: SEC-2026-018 | Date: 21 September | System: Shared project folder | Classification: Review by security owner required
+- **Incident ID:** FAC-2026-027
+- **Date:** 15 October 2026
+- **Location:** Third-floor kitchenette
+- **Reporter:** Office administrator
+- **Status:** Leak contained; inspection pending
+- **Version:** 1.0
 
 ## Executive incident summary
 
-A shared project folder was found to have broader access than intended. The team restricted access while reviewing the folder’s membership and available audit records. The extent of any unauthorised viewing is not established by the discovery of the permission setting alone. The incident requires a careful access review, preservation of relevant logs, and a documented decision about notification under the organisation’s policy.
+Water was observed beneath the sink in the third-floor kitchenette. Staff turned off the local valve and notified facilities. The immediate flow stopped, but the cabinet base was damp and a maintenance inspection is required to establish the source and extent of any damage.
 
 ## Scope and impact
 
-The review covers the folder permission setting, membership changes, and relevant access logs for the period in which the setting may have been active. Do not copy sensitive contents into this report. Security or privacy owners should determine applicable reporting obligations.
+The kitchenette sink was taken out of use pending inspection. No injuries were reported in the initial notification. The affected cabinet and surrounding floor require a check for water damage; the report should be updated if the inspection identifies a wider impact.
 
 ## Timeline of events
 
-10:20 — team member noticed the folder was visible to a wider group.
-10:27 — owner restricted the folder to the approved project group.
-10:40 — access and membership records were preserved for review.
-11:15 — security contact was notified. Times are illustrative; replace with confirmed records.
+| Time (local) | Event | Source / action |
+|---|---|---|
+| 08:40 | Water noticed beneath sink | Staff report |
+| 08:45 | Local valve closed | Reporter confirmation |
+| 08:52 | Facilities notified | Maintenance ticket |
+| 09:10 | Area marked and sink taken out of use | Facilities note |
+| Pending | Inspection and repair | Appointment to be confirmed |
 
 ## Response and containment
 
-The folder’s sharing setting was narrowed, the owner checked current membership, and relevant logs were retained. Further permission changes should be coordinated with the security owner so evidence is not inadvertently lost.
+Staff stopped using the sink, closed the local valve, and reported the issue. Facilities marked the area and arranged for inspection. Staff were advised not to dismantle the connection or attempt an unauthorised repair.
 
 ## Cause and contributing factors
 
-The cause is not yet confirmed. Possible explanations include an inherited permission, a mistaken sharing choice, or a group membership change. Audit history and the folder’s parent permissions must be reviewed before drawing a conclusion.
+The cause is unknown pending inspection. The report should not attribute the leak to wear, misuse, or a faulty fitting until the maintenance technician has examined the connection.
 
 ## Recovery and verification
 
-Recovery means confirming the intended membership, testing access with an authorised account and a non-member account, and checking whether linked copies or alternate shares exist.
+The area can return to normal use only after facilities confirms the leak has been repaired and the affected area is safe. Any cabinet or flooring damage should be documented in the maintenance record.
 
 ## Corrective and preventive actions
 
-1. Complete an access and audit-log review with the security owner.
-2. Confirm whether the incident meets internal or legal notification criteria.
-3. Add a periodic review for high-sensitivity shared folders.
-4. Update guidance on inherited permissions and external sharing.
+- Inspect connection and identify source — Facilities technician — 16 October.
+- Record repair and any affected materials — Facilities coordinator — after visit.
+- Confirm sink can return to use — Building manager — after repair verification.
 
 ## Final quality check
 
-Separate confirmed facts from hypotheses, preserve relevant evidence, document impact only when verified, and assign an owner and due date to every corrective action. Review sensitive details before distribution.
+Verify the incident timeline and close-out evidence before changing the status to resolved.
 
 ## IELTS-oriented language practice
 
-The report uses neutral, chronological language and avoids assigning blame before the evidence is reviewed. In a real incident report, factual accuracy and the approved reporting process take priority over stylistic complexity.
+The report records the response without speculating about the leak’s cause.

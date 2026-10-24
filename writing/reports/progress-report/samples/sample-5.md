@@ -1,50 +1,57 @@
-# Progress report: API migration
+# Progress report: staff training programme
 
-*Illustrative progress report. Replace status, dates, milestones, costs, and dependencies with current project records before circulation.*
+*Illustrative report. Verify attendance, feedback, and completion records before circulation.*
+
+## Before drafting
+
+Reporting period: September–October 2026. Audience: training coordinator and department managers.
 
 ## Report structure
 
-It summarises status, completed work, schedule and risks, then identifies the next-period plan and decisions required.
+This report distinguishes delivery activity from evidence of learning and identifies improvements for the next session.
 
 ## Title and reporting metadata
 
-Reporting period: sprint 4 | Owner: Engineering lead | Status: Amber; compatibility tests incomplete
+- **Owner:** Learning and Development
+- **Reporting date:** 30 October 2026
+- **Overall status:** Green for delivery; evaluation ongoing
+- **Data date:** 29 October 2026
 
 ## Executive status summary
 
-The migration has completed the endpoint inventory and implemented the first set of request changes in a test environment. Compatibility testing is incomplete for clients that still use the legacy response field. The team should keep the migration release gated until the agreed client scenarios pass and the deprecation notice is approved.
+The planned introductory training sessions have been delivered. Feedback forms have been collected, but the team has not yet reviewed whether participants can apply the procedures independently. The programme is complete for delivery, not yet fully evaluated.
 
 ## Objectives and scope
 
-Objective: migrate consumers to the current API contract while preserving service reliability. Scope includes client updates, contract tests, and migration documentation; unrelated API feature work is excluded.
+The programme introduces staff to the request-tracking process, document handling, and escalation routes. It includes a short demonstration and practice exercise. It does not replace role-specific technical training.
 
 ## Work completed
 
-- Documented the affected endpoints and response fields.
-- Updated one internal consumer in the test environment.
-- Added initial contract tests for successful responses.
-- Drafted a migration note for reviewers.
+- Training materials reviewed by process owners.
+- Sessions delivered according to the published timetable.
+- Practice exercise and feedback form provided.
+- Questions from participants recorded for follow-up.
 
 ## Milestones, schedule, and budget
 
-Endpoint inventory: complete. Internal consumer update: in test. Legacy-client tests: incomplete. Documentation review: pending. Confirm delivery dates and effort from the issue tracker before publishing a forecast.
+Delivery finished within the planned period. The next milestone is a review of participant feedback and a short follow-up task to check whether the process can be applied. Costs remain within the approved training allocation according to the current record.
 
 ## Risks, issues, and dependencies
 
-Risk: an untested client may depend on legacy behaviour. Dependency: consumer teams must confirm their test cases. Mitigation: maintain compatibility until the test matrix and migration plan are approved.
+Attendance alone does not demonstrate that participants can use the process correctly. Managers will need to provide time for the follow-up task and identify staff who require additional support.
 
 ## Next-period plan
 
-Complete contract tests, collect confirmation from consumer owners, review deprecation wording, and run a staging smoke test before scheduling release.
+Summarise feedback, review recurring questions, and revise the training guide where instructions were unclear. Schedule a short follow-up exercise for the next reporting period.
 
 ## Decisions and support required
 
-The API owner is asked to confirm the support window for the legacy field and approve the release gate criteria.
+Department managers should confirm the time available for the follow-up task and nominate a contact for staff who need additional help.
 
 ## Final quality check
 
-Confirm that status agrees with the project tracker, dates and costs are current, and each risk has an owner or mitigation. Make clear where information is not yet confirmed rather than filling gaps with estimates.
+Confirm the attendance record and distinguish feedback received from learning outcomes that have not yet been assessed.
 
 ## IELTS-oriented language practice
 
-The report separates completed work from planned work and states risks directly. In a real workplace report, use the organisation’s agreed status definitions and do not imply that a milestone is complete before it is verified.
+The report avoids treating completed training sessions as proof of successful learning.
