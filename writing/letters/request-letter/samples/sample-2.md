@@ -1,15 +1,9 @@
 # Request letter: Request for an extension on the report
-
 *Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
-
 ## Plan first
-
 The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
-
 ## Letter structure
-
 Use the following sections to make the requested decision easy to understand.
-
 ## Greeting and request purpose
 I am writing to request a two-day extension for the research report currently due on 6 November.
 

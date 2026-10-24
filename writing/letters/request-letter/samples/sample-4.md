@@ -1,15 +1,9 @@
 # Request letter: Request for a workplace adjustment
-
 *Illustrative request letter. Confirm the recipient, dates, costs, and terms before sending.*
-
 ## Plan first
-
 The request is specific, explains why it is needed, and offers reasonable flexibility without assuming approval.
-
 ## Letter structure
-
 Use the following sections to make the requested decision easy to understand.
-
 ## Greeting and request purpose
 I am writing to request a discussion about adjusting the lighting and screen setup at my workstation.
 
