@@ -1,23 +1,26 @@
-# Follow-up: interview availability
+# Follow-up on interview availability
 
-*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
+*Illustrative recruitment email; do not imply that an interview is guaranteed.*
 
 ## Subject/thread reference
 
-Follow-up: interview availability
+Follow-up: availability for the second interview
 
 ## Prior contact
 
-Thank you for your message last week about arranging an interview for the coordinator role.
+Thank you for your email on Monday about the next stage of the Operations Coordinator recruitment process.
 
 ## Reason for follow-up
 
-I wanted to follow up in case my availability was missed in the earlier email.
+I am following up because I have not yet received the scheduling details and would like to keep the relevant times available.
 
 ## Update or question
 
-I remain available on Tuesday after 2 p.m. or Thursday morning. If neither option works, I can try to accommodate another time with a little notice.
+I remain interested in the role and am available on Tuesday or Thursday afternoon next week. Could you let me know whether either day suits the panel, or whether I should provide additional options?
 
 ## Next step and close
 
-Thank you for considering my application. Kind regards, Priya
+I would appreciate an update when convenient. Thank you again for coordinating the process.
+
+Kind regards,  
+Leah

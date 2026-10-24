@@ -1,23 +1,26 @@
-# Follow-up on training registration
+# Following up on a supplier quotation
 
-*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
+*Illustrative business email; verify quote validity and delivery requirements before relying on them.*
 
 ## Subject/thread reference
 
-Follow-up on training registration
+Follow-up: quotation for office chairs
 
 ## Prior contact
 
-I registered my interest in the data-protection workshop after the team announcement on Monday.
+You sent quotation Q-1048 on 10 October for 18 office chairs, including delivery to our central office.
 
 ## Reason for follow-up
 
-I have not yet received confirmation and would like to check whether my place has been recorded.
+We are preparing the purchase request and need to confirm that the quoted terms remain current before submitting it for approval.
 
 ## Update or question
 
-Could you confirm the registration status and share the joining details when they are available? If the session is full, I would be happy to join a waiting list for a later date.
+Could you confirm whether the unit price, delivery charge, and estimated lead time are unchanged? Please also clarify whether assembly is included or listed as a separate service.
 
 ## Next step and close
 
-Thank you. Regards, Amira
+If the quotation remains valid, please send a refreshed copy showing its expiry date. Thank you for your assistance.
+
+Best regards,  
+Imran

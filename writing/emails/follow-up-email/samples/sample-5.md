@@ -1,23 +1,26 @@
-# Following up on maintenance visit
+# Follow-up on workshop registration
 
-*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
+*Illustrative event email; confirm registration status before making travel arrangements.*
 
 ## Subject/thread reference
 
-Following up on maintenance visit
+Follow-up on registration for the November workshop
 
 ## Prior contact
 
-I reported the leaking tap in apartment 3B on 12 October and received an acknowledgement that the request had been logged.
+I submitted the registration form for the Accessible Design Workshop on 4 October and received an automated acknowledgement.
 
 ## Reason for follow-up
 
-I am checking on the appointment because the leak has slowed but has not stopped completely.
+I have not yet received a confirmation or payment instructions, so I would like to check whether my registration is complete.
 
 ## Update or question
 
-Could you let me know the expected visit window or whether you need any further details? The local valve remains closed while I wait.
+Could you confirm whether my place has been reserved and whether any further information is required? If the event is full, please let me know whether a waiting list is available.
 
 ## Next step and close
 
-Thank you for the update. Kind regards, Alex
+I would appreciate a brief update before I finalise my travel plans. Thank you for your help.
+
+Kind regards,  
+Sofia

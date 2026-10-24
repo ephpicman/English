@@ -4,20 +4,23 @@
 
 ## Subject/thread reference
 
-Following up on proposal review
+Following up on the proposal review
 
 ## Prior contact
 
-I sent the draft proposal on 9 October for your comments before the planning meeting.
+I sent the draft proposal on 9 October and asked for comments before the planning meeting.
 
 ## Reason for follow-up
 
-I am checking in because the meeting is approaching and I want to allow enough time to incorporate any essential changes.
+The meeting is approaching, and I want to leave enough time to incorporate any essential changes rather than circulate an unfinished version.
 
 ## Update or question
 
-If you have had a chance to review it, could you let me know whether the scope and timeline look reasonable? If the review is still in progress, a brief estimate of when you expect to finish would help me plan.
+Have you had a chance to review the proposed scope and timeline? If your review is still in progress, could you share an estimate of when you expect to finish? I can send a one-page summary if that would make the review easier.
 
 ## Next step and close
 
-I can also arrange a short call if that is easier. Thank you, Jordan
+I can arrange a short call if useful. A brief update by Thursday would help me plan the next draft.
+
+Thank you,  
+Jordan

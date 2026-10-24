@@ -1,23 +1,26 @@
-# Checking status of access request
+# Follow-up on an outstanding maintenance request
 
-*Illustrative follow-up email; adjust dates and commitments to the actual thread.*
+*Illustrative tenant email; verify the ticket number and current status before sending.*
 
 ## Subject/thread reference
 
-Checking status of access request
+Follow-up on maintenance ticket MT-2381
 
 ## Prior contact
 
-I submitted a request for access to the project dashboard on 6 October through the internal service portal.
+I reported the loose stairwell handrail in building C on 6 October and received ticket reference MT-2381.
 
 ## Reason for follow-up
 
-I am following up because I need the dashboard to prepare the weekly summary.
+I am checking the status because the handrail still appears loose and residents continue to use the stairs daily.
 
 ## Update or question
 
-Could you confirm whether the request is awaiting approval or whether any additional information is needed from me? I can provide the project owner’s confirmation if required.
+Could you confirm whether an inspection has been scheduled and provide an estimated visit date? I have not attempted to repair the handrail, but I can send a current photograph if it would help the maintenance team assess the issue.
 
 ## Next step and close
 
-Thanks for your help. Best, Marcus
+Please let me know the next step or whether the report should be escalated through another channel. Thank you for your help.
+
+Sincerely,  
+A resident
