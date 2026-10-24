@@ -1,41 +1,44 @@
-# Application letter
+# Application letter: Community Programme Assistant
 
 *Illustrative application letter. Confirm the opportunity and keep only qualifications that accurately describe the applicant.*
 
 ## Plan first
 
-The purpose is to apply for a specific opportunity and connect relevant evidence to its requirements.
+The letter connects motivation to the role and uses a concrete example to support the applicant’s fit.
 
 ## Letter structure
 
-Organise the letter around motivation, qualifications, fit, and supporting information.
+Organise the letter around the opportunity, relevant experience, and practical contribution.
 
 ## Greeting and opportunity
 
 Dear Recruitment Panel,
 
-I am writing in response to the advertised opportunity.
+I am writing to apply for the Community Programme Assistant position advertised on your organisation’s careers page.
 
 ## Purpose and motivation
 
-I am writing to apply for the community programme assistant position advertised on your careers page. I am interested in work that combines reliable administration with practical support for people using local services.
+I am interested in work that combines reliable administration with practical support for local residents. The opportunity to help organise community activities and make information easier to access matches the kind of work I would like to develop.
 
 ## Relevant qualifications and evidence
 
-In volunteer and study projects, I have coordinated schedules, maintained shared records, and communicated changes to people with different needs. I work carefully with personal information and ask for clarification when a procedure is unclear.
+In a volunteer role at a neighbourhood centre, I helped prepare event schedules, welcomed visitors, and directed questions to the appropriate staff member. I also maintained sign-up records and checked that public information matched the confirmed timetable. These tasks strengthened my attention to detail and taught me to communicate clearly with people who may be unfamiliar with the service.
 
 ## Organization- or programme-specific fit
 
-The role’s focus on accessible community programmes appeals to me because small details—clear joining instructions, accurate records, and timely replies—can affect whether people are able to participate.
+I would bring a respectful manner, careful record keeping, and a willingness to ask questions when a request falls outside my role. I understand the importance of privacy and of referring sensitive concerns to trained staff.
 
 ## Supporting information
 
-I would bring organised follow-through, respectful communication, and a willingness to learn the organisation’s safeguarding and data-handling procedures.
+I have attached my CV and can provide references if required. I would be happy to discuss how my experience relates to the programme’s needs.
 
 ## Closing and sign-off
 
-Thank you for considering my application. I would welcome the opportunity to discuss my suitability. Yours faithfully, Jordan Lee
+Thank you for considering my application.
+
+Yours faithfully,  
+Samira Khan
 
 ## IELTS and language review
 
-The letter answers the application purpose directly and uses relevant examples. Before sending, check the recipient, opportunity title, evidence, and any required attachments.
+Before submission, verify the role title, recipient, attachments, and all experience claims.

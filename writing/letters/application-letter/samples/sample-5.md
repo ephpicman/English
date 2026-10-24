@@ -1,41 +1,44 @@
-# Application letter
+# Application letter: Customer Support Trainee
 
-*Illustrative application letter. Confirm the opportunity and keep only qualifications that accurately describe the applicant.*
+*Illustrative letter. Keep only experience and skills that accurately describe the applicant.*
 
 ## Plan first
 
-The purpose is to apply for a specific opportunity and connect relevant evidence to its requirements.
+The letter shows readiness to learn while grounding the claim in relevant communication experience.
 
 ## Letter structure
 
-Organise the letter around motivation, qualifications, fit, and supporting information.
+It states the application purpose, gives evidence, and explains how the applicant could contribute.
 
 ## Greeting and opportunity
 
-Dear Selection Committee,
+Dear Hiring Manager,
 
-I am writing in response to the advertised opportunity.
+I am writing to apply for the Customer Support Trainee position at BrightDesk Software.
 
 ## Purpose and motivation
 
-I am writing to apply for the research assistant opportunity in the environmental policy group. I am interested in how evidence can inform decisions while making uncertainty and trade-offs clear.
+I enjoy helping people solve practical problems and would like to develop those skills in a software-support environment. I am particularly interested in learning how support teams document issues and work with technical colleagues to resolve them.
 
 ## Relevant qualifications and evidence
 
-My academic projects have involved literature searches, reference management, and comparing reports that use different methods or definitions. I am careful to distinguish a source’s findings from my own interpretation and to keep references traceable.
+In a retail role, I answered customer questions, checked order details, and referred issues requiring approval to a supervisor. I learned to confirm the problem before suggesting a solution and to explain next steps clearly. I also used a shared system to record follow-up tasks so that requests were not lost between shifts.
 
 ## Organization- or programme-specific fit
 
-The group’s focus on policy-relevant research matches my interest in work that connects analytical detail with public decisions. I would welcome the opportunity to learn the team’s research protocols and contribute to evidence summaries.
+These experiences would help me learn the company’s support procedures while contributing patience, accurate notes, and a responsible approach to customer information. I understand that trainees should follow approved guidance and escalate issues beyond their access or knowledge.
 
 ## Supporting information
 
-I can assist with source organisation, meeting notes, structured comparisons, and draft preparation while following the project’s data-handling requirements.
+My CV is enclosed. I am available for an interview and can provide references if requested.
 
 ## Closing and sign-off
 
-Thank you for considering my application. I look forward to the possibility of discussing the role. Yours faithfully, Daniel Okafor
+Thank you for considering my application.
+
+Yours faithfully,  
+Taylor Reed
 
 ## IELTS and language review
 
-The letter answers the application purpose directly and uses relevant examples. Before sending, check the recipient, opportunity title, evidence, and any required attachments.
+Check the company name, role title, and attachment list before sending.

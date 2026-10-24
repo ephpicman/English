@@ -1,45 +1,49 @@
-# Formal letter: Application for a community learning grant
+# Formal letter: Request for correction to a certificate
 
-*Illustrative formal letter. Confirm names, dates, and circumstances before use.*
+*Illustrative letter. Verify the certificate details and required correction evidence.*
 
 ## Plan first
 
-The letter states its purpose, gives only necessary context, explains the request, and sets a reasonable response point.
+The letter identifies the record and requests a correction with supporting documentation.
 
 ## Letter structure
 
-Use the recipient’s correct title and the appropriate formal sign-off.
+Keep the request factual and make the desired correction unambiguous.
 
 ## Address, date, subject, and greeting
 
-Selection Committee
-Community Learning Grant
+Riley Chen  
+15 Market Lane  
+Berlin 10117  
 24 October 2026
 
-**Subject: Application for a community learning grant**
+**Subject: Request to correct the name on certificate C-1937**
 
-Dear Sir or Madam,
+Dear Records Office,
 
 ## Purpose and main message
 
-I am writing to apply for support for a series of free digital-skills sessions for adult learners in the local community.
+I am writing to request a correction to the name printed on certificate C-1937.
 
 ## Necessary background
 
-The proposed sessions would focus on practical tasks such as using online forms, managing passwords safely, and identifying trustworthy information. The plan is to work with an existing community venue and invite participants through local service organisations.
+The certificate was issued on 10 October 2026 after completion of the training course. The surname is missing its final letter, so it does not match the name on my enrolment record.
 
 ## Explanation and supporting points
 
-The programme would use short demonstrations followed by guided practice, with printed instructions available for participants who prefer them. The evaluation would collect voluntary feedback and record which tasks participants want to practise further, without collecting unnecessary personal information.
+I have checked the certificate against the enrolment confirmation and can provide copies of both documents. I understand that the office may need to verify the record before issuing a replacement.
 
 ## Requested action and timing
 
-Please let me know if a budget breakdown or additional supporting documents are required for the application to be assessed.
+Please advise whether the attached records are sufficient and whether I should return the original certificate. If a replacement can be issued, I would appreciate an estimate of the processing time.
 
 ## Formal closing and sign-off
 
-Thank you for considering the proposal. Yours faithfully, Priya Nair
+Thank you for your help. I look forward to your reply.
+
+Yours faithfully,  
+Riley Chen
 
 ## IELTS and language review
 
-The letter uses a formal register and a clear request. Check the exact recipient, dates, supporting evidence, and sign-off convention required by the organisation.
+Confirm the reference number, spelling, and required evidence before submission.

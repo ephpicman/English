@@ -1,41 +1,44 @@
-# Application letter
+# Application letter: Research Internship
 
-*Illustrative application letter. Confirm the opportunity and keep only qualifications that accurately describe the applicant.*
+*Illustrative letter. Adapt the research interest and experience to the actual internship requirements.*
 
 ## Plan first
 
-The purpose is to apply for a specific opportunity and connect relevant evidence to its requirements.
+Answer the opportunity directly and connect the applicant’s preparation to the advertised work.
 
 ## Letter structure
 
-Organise the letter around motivation, qualifications, fit, and supporting information.
+The letter links motivation, research preparation, and contribution.
 
 ## Greeting and opportunity
 
-Dear Hiring Manager,
+Dear Internship Selection Committee,
 
-I am writing in response to the advertised opportunity.
+I am writing to apply for the summer research internship in environmental policy.
 
 ## Purpose and motivation
 
-I am applying for the junior communications assistant role. I enjoy turning information from several contributors into clear messages that help readers understand what is happening and what they need to do.
+I am interested in how evidence is used to evaluate public decisions, especially when policies have different effects across communities. The internship would help me develop practical research skills and learn how a team turns a question into a clear analysis.
 
 ## Relevant qualifications and evidence
 
-My experience includes drafting event announcements, proofreading short copy, and checking details such as dates, names, access information, and links. I am comfortable responding to feedback and adjusting tone for different audiences.
+My coursework has included research methods, policy analysis, and introductory statistics. In a class project, I compared reports that used different definitions of urban green space and learned how those choices affected the conclusions. I documented the differences and presented the limitations alongside the findings rather than treating the sources as directly comparable.
 
 ## Organization- or programme-specific fit
 
-Your role’s combination of writing and coordination suits my strengths. I am interested in communication that is welcoming without sacrificing accuracy, especially when people rely on the information to plan attendance.
+I would bring careful source checking, organised notes, and a willingness to revise my interpretation when new evidence appears. I am interested in supporting literature reviews, data preparation, and concise research summaries under supervision.
 
 ## Supporting information
 
-I would contribute careful editing, dependable follow-up, and an organised approach to collecting approvals before publication.
+My CV and academic transcript are enclosed. I can provide a writing sample if the committee would find it useful.
 
 ## Closing and sign-off
 
-Thank you for your time and consideration. Yours sincerely, Priya Nair
+Thank you for considering my application. I would welcome the opportunity to discuss my interest in the programme.
+
+Yours sincerely,  
+Elena Ruiz
 
 ## IELTS and language review
 
-The letter answers the application purpose directly and uses relevant examples. Before sending, check the recipient, opportunity title, evidence, and any required attachments.
+Verify the internship title, eligibility, and required supporting documents.

@@ -1,45 +1,49 @@
-# Formal letter: Concern regarding repeated noise at the rear entrance
+# Formal letter: Enquiry about public consultation documents
 
-*Illustrative formal letter. Confirm names, dates, and circumstances before use.*
+*Illustrative letter. Confirm the consultation title and deadline before sending.*
 
 ## Plan first
 
-The letter states its purpose, gives only necessary context, explains the request, and sets a reasonable response point.
+The letter asks for specific documents and explains why they are needed.
 
 ## Letter structure
 
-Use the recipient’s correct title and the appropriate formal sign-off.
+State the consultation and request the relevant materials in a formal, concise manner.
 
 ## Address, date, subject, and greeting
 
-Morgan Chen
-Facilities Coordinator
+Maya Chen  
+7 Oak Street  
+Berlin 10119  
 24 October 2026
 
-**Subject: Concern regarding repeated noise at the rear entrance**
+**Subject: Request for documents relating to the transport consultation**
 
-Dear Sir or Madam,
+Dear Consultation Team,
 
 ## Purpose and main message
 
-I am writing to raise a concern about late-night unloading at the rear entrance of the residential building.
+I am writing to ask where I can access the background documents for the current public consultation on local transport changes.
 
 ## Necessary background
 
-During the past week, deliveries have been unloaded after 11 p.m. on several occasions. The noise has been particularly noticeable in flats facing the courtyard.
+I have read the consultation summary but would like to understand the options being considered before submitting a response. In particular, I am looking for the proposed route map and any explanation of how feedback will be assessed.
 
 ## Explanation and supporting points
 
-I recognise that deliveries are necessary, but the current timing and use of idling vehicles appear to be causing avoidable disturbance. A review of the delivery window may help balance operational needs with residents’ ability to rest.
+The summary refers to supporting documents, but I have not been able to locate them through the consultation page. I may have overlooked a link, so I would appreciate guidance to the correct source.
 
 ## Requested action and timing
 
-Could you contact the delivery operator and advise whether unloading can be scheduled earlier or carried out with reduced noise? I would appreciate an update when the options have been reviewed.
+Could you please provide the relevant links or send the documents in an accessible format? If possible, I would be grateful for a reply before the consultation closes.
 
 ## Formal closing and sign-off
 
-Thank you for your attention to this matter. Yours faithfully, Morgan Chen
+Thank you for your assistance.
+
+Yours faithfully,  
+Maya Chen
 
 ## IELTS and language review
 
-The letter uses a formal register and a clear request. Check the exact recipient, dates, supporting evidence, and sign-off convention required by the organisation.
+Verify the consultation name and closing date before sending.

@@ -1,41 +1,44 @@
-# Application letter
+# Application letter: Library Assistant
 
-*Illustrative application letter. Confirm the opportunity and keep only qualifications that accurately describe the applicant.*
+*Illustrative letter. Replace the institution and experience with accurate details before sending.*
 
 ## Plan first
 
-The purpose is to apply for a specific opportunity and connect relevant evidence to its requirements.
+The letter demonstrates relevant service skills rather than relying on general claims about being hardworking.
 
 ## Letter structure
 
-Organise the letter around motivation, qualifications, fit, and supporting information.
+The applicant explains the motivation, evidence, and fit with the role.
 
 ## Greeting and opportunity
 
-Dear Admissions Committee,
+Dear Hiring Manager,
 
-I am writing in response to the advertised opportunity.
+I am writing to apply for the Library Assistant vacancy at your public library.
 
 ## Purpose and motivation
 
-I am applying for the postgraduate certificate in data analytics because I want to develop the technical and critical skills needed to interpret data responsibly.
+I would welcome the opportunity to help visitors find resources, use library services, and feel comfortable asking questions. I value libraries as places for learning and community access, and I am interested in supporting both digital and printed resources.
 
 ## Relevant qualifications and evidence
 
-My previous study has introduced me to statistics, spreadsheets, SQL, and data visualisation. In project work, I have cleaned inconsistent records, documented assumptions, and explained why incomplete data limits the conclusions that can be drawn.
+In my current part-time role at a community centre, I answer routine enquiries, organise shared materials, and help visitors locate the correct service. I have learned to listen carefully before offering directions and to ask a colleague when a question requires specialist knowledge. I am also comfortable following procedures for handling records and keeping shared spaces organised.
 
 ## Organization- or programme-specific fit
 
-The programme’s combination of analytical methods and applied projects matches my goal of learning to produce results that are reproducible and understandable to non-specialists.
+These skills would help me support visitors with different levels of familiarity with the library’s catalogue and digital services. I would be keen to learn your lending system and the procedures for helping users access computers and online resources.
 
 ## Supporting information
 
-I am prepared to commit regular time to the coursework and to seek feedback when a method or interpretation needs improvement.
+My CV is enclosed. I am available for an interview at a time convenient to the panel.
 
 ## Closing and sign-off
 
-Thank you for reviewing my application. Yours sincerely, Amira Hassan
+Thank you for considering my application.
+
+Yours faithfully,  
+Jordan Lee
 
 ## IELTS and language review
 
-The letter answers the application purpose directly and uses relevant examples. Before sending, check the recipient, opportunity title, evidence, and any required attachments.
+Confirm the vacancy title, required documents, and any local application instructions.
