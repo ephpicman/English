@@ -1,35 +1,34 @@
-# Example project: task tracker
+# csv-audit
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+A small command-line utility for checking CSV files before they enter a data pipeline.
 
 ## Project name and one-line purpose
 
-This document explains how to example project: task tracker. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+**csv-audit** — A small command-line utility for checking CSV files before they enter a data pipeline.
 
 ## Overview and intended audience
 
-This document explains how to example project: task tracker. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+This illustrative Python project helps analysts inspect a CSV file for missing required columns, blank values, and duplicate rows. It is intended for local validation, not as a replacement for domain-specific data-quality rules.
 
 ## Key features
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- Reports whether required columns are present.
+- Counts blank values in selected columns.
+- Reports exact duplicate rows.
+- Exits with a non-zero status when configured checks fail.
 
 ## Prerequisites
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+Python 3.11 or a compatible version supported by the project; a terminal; and a UTF-8 CSV file. Confirm the actual package metadata before publishing a real repository README.
 
 ## Quick start
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Create and activate a virtual environment, install the project’s declared dependencies, then run the command against a test file. For an installed CLI named `csv-audit`, an illustrative invocation is `csv-audit data.csv --required id,email`. The command name and flags must match the actual implementation.
 
 ## Configuration / usage
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Use a version-controlled configuration file for project-specific required fields. Do not place secrets in the file. Run the tool on a small sample first and review the report before adding it to an automated pipeline.
 
 ## Contribution, support, and licence
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Contributions should include a focused change, tests for valid and invalid CSV input, and an update to user-facing documentation when behaviour changes. Choose a licence only after confirming the repository owner’s intended terms. Report bugs with a minimal sample that contains no sensitive data.

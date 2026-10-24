@@ -1,47 +1,34 @@
-# Install a local development environment
+# Installation guide: Node.js web application
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative guide. Confirm project-specific commands, versions, and configuration before publishing or following these steps on a real system.*
 
 ## Purpose and supported environment
 
-This document explains how to install a local development environment. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+This guide gives a generic local setup flow for a Node.js application whose repository includes a package manifest and lockfile.
 
 ## Prerequisites
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+Install a Node.js version supported by the project. Use the package manager associated with the committed lockfile, and ensure you have permission to access any required private package registry.
 
 ## Preparation and configuration
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Clone the repository from its trusted source. Read the project README and sample environment file. Create a local environment file from the documented example, but do not commit secrets or production credentials.
 
 ## Installation steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+1. Open a terminal in the project directory.
+2. Install dependencies with the package manager matching the lockfile; for npm projects with a package-lock file, use `npm ci`.
+3. Set required local environment variables using safe development values.
+4. Run the development command defined in the project’s `scripts` section, for example `npm run dev` only if that script exists.
 
 ## Verification
 
-Verify completion using a repeatable check and record the result. If the expected outcome is not observed, stop and follow the recovery path rather than continuing blindly. Update the document when the verified procedure or supported behaviour changes.
+Open the local address printed by the application and check the documented health or landing page. Review the terminal for startup errors and test one basic user flow. Run the repository’s lint and test scripts if they are defined.
 
 ## Common installation issues
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+If dependency installation fails, confirm the Node.js version and lockfile are compatible. If the server starts but a route fails, check required environment variables and service dependencies. Never paste secrets from environment files into a public issue.
 
 ## Uninstall / rollback if applicable
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Stop the development server and remove only the local dependencies or environment files created for the test if no longer needed. Keep source files and user data intact. Use the package manager to remove a globally installed tool rather than deleting arbitrary system directories.

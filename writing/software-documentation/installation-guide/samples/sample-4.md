@@ -1,47 +1,34 @@
-# Install a desktop client
+# Installation guide: Static website deployment preview
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative guide. Confirm project-specific commands, versions, and configuration before publishing or following these steps on a real system.*
 
 ## Purpose and supported environment
 
-This document explains how to install a desktop client. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+This guide describes how to build and preview a static site locally before publishing it. Build commands vary by framework and must be confirmed in the project manifest.
 
 ## Prerequisites
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+Install the runtime and package manager supported by the site. Ensure the repository’s dependencies can be installed and identify the documented build and preview commands.
 
 ## Preparation and configuration
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Review the site’s environment configuration and distinguish public build-time settings from secrets. Static assets may be visible to every visitor, so never embed private API keys or credentials in client-side code.
 
 ## Installation steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+1. Retrieve the source from the trusted repository.
+2. Install dependencies using the package manager and lockfile.
+3. Run the project’s documented build script, such as `npm run build` only if defined.
+4. Serve the generated output using the framework’s preview command or a local static server.
 
 ## Verification
 
-Verify completion using a repeatable check and record the result. If the expected outcome is not observed, stop and follow the recovery path rather than continuing blindly. Update the document when the verified procedure or supported behaviour changes.
+Open the preview URL and check key routes, links, images, and responsive layouts. Inspect the browser console and network requests. If the site uses client-side routing, test a direct refresh on a nested route.
 
 ## Common installation issues
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+A blank page may indicate an incorrect asset base path or a runtime error. Missing environment settings may affect build output. Check the framework’s deployment documentation before changing routing or public path configuration.
 
 ## Uninstall / rollback if applicable
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Remove generated build output if it is safe to regenerate, and revert only the local configuration changes made for the preview. Do not publish the build until required environment settings and route behaviour have been checked.

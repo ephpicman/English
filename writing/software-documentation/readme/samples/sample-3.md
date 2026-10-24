@@ -1,35 +1,34 @@
-# Example project: document converter
+# image-metadata-checker
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+A review tool for listing basic metadata from image files.
 
 ## Project name and one-line purpose
 
-This document explains how to example project: document converter. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+**image-metadata-checker** — A review tool for listing basic metadata from image files.
 
 ## Overview and intended audience
 
-This document explains how to example project: document converter. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+This illustrative project helps a user inspect image dimensions, file type, and selected metadata before publishing a batch of images. It is designed as a review aid; it does not determine whether an image is legally safe to publish.
 
 ## Key features
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- Lists supported file types and image dimensions.
+- Flags files with missing or unexpected metadata.
+- Writes a review report without modifying originals by default.
+- Separates inspection from any optional metadata removal.
 
 ## Prerequisites
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+A supported Python runtime and the imaging library specified in the project dependency file. Use test images first and avoid uploading private images to an untrusted service.
 
 ## Quick start
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Install dependencies in an isolated environment, then run the checker against a directory of test images. Review the report and confirm that the file list and metadata fields match the intended scope before using it on production assets.
 
 ## Configuration / usage
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Configure accepted file extensions and the metadata fields relevant to the workflow. Treat filenames and metadata as potentially sensitive; redact paths from reports before sharing them externally.
 
 ## Contribution, support, and licence
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Include tests for corrupt files, unsupported formats, and images with missing metadata. A change that deletes or rewrites metadata should be explicit, reversible where possible, and documented separately from read-only inspection.

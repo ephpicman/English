@@ -1,35 +1,34 @@
-# Example project: feedback service
+# meeting-notes-kit
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+A lightweight set of templates for recording meeting decisions and action items.
 
 ## Project name and one-line purpose
 
-This document explains how to example project: feedback service. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+**meeting-notes-kit** — A lightweight set of templates for recording meeting decisions and action items.
 
 ## Overview and intended audience
 
-This document explains how to example project: feedback service. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+Meeting Notes Kit provides Markdown templates for agendas, decisions, risks, and follow-up actions. It is intended for teams that want readable records in version control or a shared document workspace.
 
 ## Key features
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- Agenda template with objectives and preparation.
+- Minutes template separating decisions from discussion.
+- Action register with owner, due date, and status.
+- Review checklist for confirming decisions before distribution.
 
 ## Prerequisites
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+A Markdown editor or plain-text editor and a place where team members can access the files. No runtime dependency is required for the templates themselves.
 
 ## Quick start
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Copy the relevant template into a new meeting file, replace the instructional prompts, and share the agenda before the meeting. Afterward, record confirmed decisions and action owners; remove drafting notes before distributing the minutes.
 
 ## Configuration / usage
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Teams can rename headings or add fields for project IDs and confidentiality labels. Keep the meaning of status values consistent and avoid storing sensitive personnel details in broadly accessible notes.
 
 ## Contribution, support, and licence
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Propose changes with an example showing how the template improves clarity. Avoid adding fields that create administrative work without helping a reader make a decision. Confirm the licence and contribution process in the actual repository before accepting external contributions.

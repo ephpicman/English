@@ -1,35 +1,34 @@
-# Example project: learning portal
+# study-session-planner
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+A simple planner for distributing review sessions across a study week.
 
 ## Project name and one-line purpose
 
-This document explains how to example project: learning portal. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+**study-session-planner** — A simple planner for distributing review sessions across a study week.
 
 ## Overview and intended audience
 
-This document explains how to example project: learning portal. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+Study Session Planner is an illustrative planning template for listing topics, retrieval questions, review dates, and confidence after each session. It helps organise study; it does not predict grades or replace course guidance.
 
 ## Key features
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- Tracks topics and planned review dates.
+- Records questions to answer from memory.
+- Marks items that need another review.
+- Offers a weekly view for balancing subjects.
 
 ## Prerequisites
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+A Markdown editor, spreadsheet, or compatible planning application. The basic template can be used without installing software.
 
 ## Quick start
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Copy the weekly planner, add topics from your current course, and write one or two retrieval questions for each. After each session, record what was difficult and schedule the next review based on your needs.
 
 ## Configuration / usage
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Adjust the number of review columns to fit your timetable. Avoid scheduling more sessions than you can realistically complete, and keep personal academic information in a location appropriate to your privacy needs.
 
 ## Contribution, support, and licence
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Suggest changes that make the planner easier to use without adding complexity. Explain the learner need behind each new field and test the template with a real week of study before proposing a larger redesign.

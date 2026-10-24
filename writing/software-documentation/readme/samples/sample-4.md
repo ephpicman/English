@@ -1,35 +1,34 @@
-# Example project: event processor
+# service-health-notes
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+A documentation starter for tracking service health checks and operational response.
 
 ## Project name and one-line purpose
 
-This document explains how to example project: event processor. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+**service-health-notes** — A documentation starter for tracking service health checks and operational response.
 
 ## Overview and intended audience
 
-This document explains how to example project: event processor. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+This repository contains examples of health-check definitions, incident notes, and operational checklists. It documents a workflow rather than providing a monitoring agent or guaranteeing service availability.
 
 ## Key features
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+- Separates liveness checks from dependency readiness.
+- Provides an incident timeline template.
+- Records owner, alert condition, and escalation route.
+- Includes a review checklist for false positives and missing signals.
 
 ## Prerequisites
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+A service with an identified owner, an agreed monitoring system, and access to the team’s operational procedures. Replace all example alert names with real configured signals.
 
 ## Quick start
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Choose the checklist that matches the service, identify its critical dependencies, and confirm what each health signal actually tests. Test the alert route in a non-production environment before relying on it during an incident.
 
 ## Configuration / usage
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Keep thresholds and escalation routes in the service’s approved configuration. Do not put credentials, private endpoints, or sensitive incident details in a public repository.
 
 ## Contribution, support, and licence
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Changes should explain the operational problem they address and include a review owner. Avoid documenting an alert as active until its configuration and notification path have been tested.
