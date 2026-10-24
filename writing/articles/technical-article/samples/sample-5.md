@@ -11,20 +11,16 @@ Configuration values and secrets should be treated differently. Ordinary setting
 Credential rotation should be designed before an incident occurs. The application may need a period in which both old and new credentials are valid, followed by revocation of the old value. The exact sequence depends on the provider, so test it in a non-production environment and document the expected restart or reload behaviour. A rotation process that exists only in one engineer’s memory is difficult to execute reliably under pressure.
 At startup, the application obtains the credential from its approved secret source and uses it only for the required service call. Access is granted to the workload identity or deployment role rather than to every developer or process. Rotation should be tested so that a new credential can be deployed without an uncontrolled outage.
 Logs and error messages must not print secret values. If a secret may have been exposed, revoke or rotate it, assess the access logs, and follow the incident process rather than merely deleting the visible copy.
-
 ## Implementation Details
-
 Use a secrets manager or the organisation’s approved platform feature, enforce least-privilege permissions, and keep development and production credentials separate. Avoid hardcoding secrets in source, container images, sample configuration, test fixtures, or documentation. Add automated checks for accidental secret commits and restrict access to build logs and crash reports.
-
 Document the owner, rotation method, and emergency revocation procedure. Test that an application handles missing or expired credentials with a clear failure and does not fall back to insecure defaults.
-
 ## Limitations and Operational Concerns
-
 A useful review also considers how secrets reach the runtime: deployment logs, crash dumps, environment inspection, build artefacts, and developer machines can all become exposure paths. Limit access to the secret source, audit reads where supported, and avoid copying production credentials into local development. If a credential is suspected of exposure, follow the incident process and inspect relevant access records rather than relying only on a successful rotation.
-
 No storage mechanism removes the need for access control and monitoring. A secret exposed to a compromised runtime may still be stolen. Rotation can fail if multiple services rely on an undocumented shared credential, so ownership and dependency mapping matter.
 
 ## Conclusion
+
+Include a clear ownership and review record for every production credential. When a service is retired or a team changes, remove credentials that are no longer needed and verify that no scheduled job still depends on them. Periodic review should cover permissions as well as age: a recently rotated secret can still be over-privileged. These checks help keep the secret inventory accurate and make incident response more predictable.
 
 Plan credential rotation as a controlled change with a tested rollback path. The deployment procedure should identify the owner, the systems that consume the secret, and how the new value becomes active. Where a provider supports overlapping credentials, a staged rotation may allow the application to switch before the old credential is revoked. If overlap is not supported, document the expected interruption and coordinate the change with the service owner. Never assume that changing a value in a secret store automatically reloads it into every running process; verify the runtime’s behaviour.
 

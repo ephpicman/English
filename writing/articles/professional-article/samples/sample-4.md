@@ -11,17 +11,11 @@ Cross-functional projects can lose momentum when teams use different definitions
 ## Context, definitions, and scope
 This article addresses internal projects involving several teams and a shared delivery goal. It is not a substitute for formal governance required by regulated or high-risk work. The examples are illustrative and should be adapted to the organisation’s approval structure.
 ## Professional insight 1
-
 A concise project record should identify the intended outcome, scope, milestones, accountable owner, and measures of success. Teams should distinguish a completed activity from an achieved outcome: holding a workshop is an activity, while a decision made from the workshop may be an outcome. This distinction keeps reporting connected to purpose.
-
 ## Professional insight 2
-
 Governance should match the scale and risk of the project. A small internal improvement may need a weekly dependency review and a concise decision log, while a high-risk change may require formal approvals and evidence of testing. The structure should be explicit enough that participants know who can decide, who must be consulted, and when a concern needs escalation. This prevents meetings from becoming a substitute for decision rights.,A simple dashboard can show milestone status, unresolved decisions, and dependencies, but it should link to the underlying records. Status labels should have shared definitions, and a change from green to amber should include the reason and next action. This gives stakeholders a useful summary without losing the context required to challenge or revise a plan.
-
 Dependencies need an owner and a date for review. A risk log that lists concerns without an action can become a passive record. Similarly, decision logs should state what was decided, why, and which assumptions might cause the decision to be revisited. Not every issue requires escalation, but material changes need a clear route.
-
 ## Recommendations and application
-
 Agree a small set of shared status definitions, review dependencies weekly, and record decisions in a location accessible to all relevant teams. Use escalation for choices that exceed the project owner’s authority or materially change scope, cost, or risk.
 
 ## Risks, limitations, and open questions
@@ -29,6 +23,8 @@ Agree a small set of shared status definitions, review dependencies weekly, and 
 Too much reporting can consume the time needed to deliver the work. Too little can leave teams surprised by a dependency. Review the governance routine with participants and remove fields that do not support decisions.
 
 ## Conclusion
+
+Review a sample of resolved cases with agents and check whether the article’s steps match the product as it currently behaves. This practical review can identify outdated screenshots, missing prerequisites, or an escalation instruction that is too vague to use under pressure.
 
 Governance can be improved by making decision rights explicit at the start of a project. The team should know which choices the project owner can make, which require sponsor approval, and which need specialist review. This prevents decisions from being delayed because participants assume someone else has authority. It also protects the team from making a change that exceeds its remit. A concise decision log should record the choice, rationale, owner, and any condition that would trigger reconsideration. This is particularly valuable when team membership changes during a long project.
 

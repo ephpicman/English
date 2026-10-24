@@ -11,20 +11,16 @@ An idempotency key identifies the logical operation rather than a single executi
 The idempotency key should be derived from the business operation, not from a timestamp generated anew for each retry. For example, a notification for one order event should reuse the same key across worker attempts. Store the key with an operation status and a bounded retention policy that is longer than the realistic retry window. If a legitimate new event occurs later, it needs a distinct key so it is not mistaken for a duplicate.
 A worker receives a job and checks its idempotency record. If the operation is already complete, it returns without repeating the side effect. Otherwise, it records or claims the operation, performs the work, and stores the result. The exact ordering and transaction boundaries matter: two workers must not both perform the same side effect concurrently.
 For an external API, use the provider’s idempotency mechanism if one exists. If it does not, design a reconciliation process for ambiguous outcomes rather than assuming a timeout means the request failed.
-
 ## Implementation Details
-
 A common internal safeguard is a unique constraint on the business operation key. A worker attempts to create the operation record; a duplicate-key result indicates that another attempt already claimed or completed the same operation. The state model should distinguish in-progress, completed, and failed operations, and define how stale in-progress records are recovered.
-
 Do not mark an operation complete before the side effect is known to have succeeded. Conversely, do not blindly repeat an external action merely because the local confirmation was lost. Use bounded retries, backoff, metrics, and a dead-letter or review path for persistent failures.
-
 ## Limitations and Operational Concerns
-
 Concurrency is an important edge case. Two workers can receive the same message before either records completion, so a check-then-act sequence without an atomic claim is insufficient. A unique constraint, lease, or queue-level deduplication mechanism can help, but its guarantees must be understood. Document what happens when a worker crashes after the external action but before the local state update.
-
 Idempotency records need retention rules and can grow without limit. Some side effects cannot be made atomic with a local database transaction. An incorrect key can suppress legitimate work or allow duplicates. Test concurrency, retries after partial completion, timeouts after remote acceptance, and recovery after worker restart.
 
 ## Conclusion
+
+Document how an operator can safely pause and resume processing, and identify which states require manual review. The runbook should avoid ambiguous instructions such as “retry the job” when an external effect may already have happened. Include the checks that must pass before a job is requeued and the evidence needed to close a reconciliation case. These operational details make the technical design usable during an actual incident.
 
 Concurrency and recovery need explicit tests. Start two workers against the same job key and verify that only one can claim the operation. Simulate a worker crash before the side effect, after the side effect, and before the completion record is saved. Each case may require a different recovery path. A stale in-progress record should not remain blocked forever, but automatically reclaiming it must not cause a second external action if the first attempt may have succeeded. Where the provider supports idempotency keys, verify the provider’s retention window and response semantics rather than assuming that a key is stored indefinitely.
 

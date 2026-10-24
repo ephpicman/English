@@ -11,11 +11,8 @@ A cursor should be treated as opaque by clients. It can encode the boundary valu
 Cursor pagination also needs a clear contract for filters. The server should apply the same authorisation and filter predicates to every page; otherwise, a cursor could accidentally cross a boundary between records the user may and may not see. If the filter changes, a cursor generated for the old query should either be rejected or be explicitly scoped to that filter. The response should explain whether cursors expire and what clients should do when the server returns an invalid-cursor error.
 For a descending feed, the server queries rows whose `(created_at, id)` tuple is earlier than the last row in the previous page. The server fetches `limit + 1` rows to determine whether another page exists, returns at most `limit`, and constructs the next cursor from the final returned row. Filtering and authorisation must be applied consistently on every page.
 A response might contain `items` and `next_cursor`. If there are no more results, `next_cursor` can be null. The API should document maximum page size, cursor expiry if any, and how clients should react when a cursor is invalid.
-
 ## Implementation Details
-
 Illustrative SQL pattern:
-
 ```sql
 SELECT id, created_at, title
 FROM activity
@@ -23,16 +20,15 @@ WHERE (created_at, id) < (:cursor_time, :cursor_id)
 ORDER BY created_at DESC, id DESC
 LIMIT :limit_plus_one;
 ```
-
 This tuple comparison is supported by some SQL engines; verify syntax and index behaviour for the actual database. The initial page omits the cursor predicate. Validate `limit` against a server-side maximum, and never trust a client-supplied cursor as an authorisation decision. An index aligned with the filter and ordering can improve query performance.
-
 ## Limitations and Operational Concerns
-
 Testing should include timestamps that are identical, a record inserted between requests, a record deleted after the first page, and a client that repeats the same cursor. These cases expose unstable ordering and accidental duplication. Measure query plans with representative data rather than assuming that a cursor is efficient simply because it avoids offsets.
 
 Cursor pagination is well suited to sequential browsing but does not naturally provide “jump to page 12.” Updates to sort fields can also move records across boundaries. Define whether the feed represents a live view or a stable snapshot, and test equal timestamps, deleted records, invalid cursors, empty pages, and new inserts between requests.
 
 ## Conclusion
+
+Finally, test the contract from the client’s perspective as well as the server’s. A client should be able to distinguish a temporary failure from an invalid cursor and should not have to inspect undocumented database details. Publish a concise example showing how to request the first page and continue with the returned cursor. If the API changes its cursor format, treat that as a compatibility concern and communicate the change before deployment.
 
 Implementation should begin with a contract test that fixes the ordering and continuation behaviour. Seed a test database with records that share timestamps, records inserted between page requests, and records that are removed after the first page. Verify that the combined pages contain no unintended duplicates and that the cursor advances consistently. Test filters independently and in combination, because a cursor that works for the unfiltered feed may fail when a filter changes the set of eligible records. The service should also define what happens when a cursor is malformed, expired, or created for a different filter. Return a documented error and give the client a clear way to restart rather than silently returning an incorrect page.
 

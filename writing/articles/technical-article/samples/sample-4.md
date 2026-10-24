@@ -11,20 +11,16 @@ Validation should be explicit about missing values. An empty string, a missing c
 Validation rules should be versioned alongside the schema that defines them. If a producer adds a new category, a strict validator may reject every file containing that value until the receiving system is updated. Conversely, silently accepting an unknown category may cause reports to omit it from totals. The data contract should describe how schema changes are announced and whether a transition period is supported.
 A safe pipeline preserves the source file, records its checksum or import ID, parses it using defined rules, and validates the parsed rows. It then produces a report of errors and warnings. Files with critical errors should not enter the target table; warning-only cases may be accepted if the policy allows them.
 The report should identify row and column where possible, describe the expected value, and avoid echoing sensitive data. Rejected files should have a clear correction and resubmission path.
-
 ## Implementation Details
-
 A validation plan can include: required header check; duplicate header detection; row-width consistency; type parsing; required-field checks; allowed-value checks; duplicate business-key detection; and aggregate sanity checks. Define whether identifiers are case-sensitive and whether whitespace should be trimmed before comparison.
-
 Use a small known-good fixture and fixtures for each expected failure. The pipeline should return a clear status code or structured result so automated jobs can stop before loading invalid data. Avoid automatically “fixing” ambiguous values without recording the transformation.
-
 ## Limitations and Operational Concerns
-
 Validation reports should be actionable. Group repeated failures where appropriate, show the first affected row and column, and state how to correct the source. Avoid printing the full rejected value when it could contain personal data. For large files, consider streaming validation and clear limits so the validator does not exhaust memory before it can report an error.
-
 Validation cannot establish that a source value is factually true; it can only check the rules provided. Strict rules may reject legitimate new categories, while permissive rules may allow bad data. Schema changes should be versioned and communicated to data producers.
 
 ## Conclusion
+
+Publish the validation contract alongside the data schema so that producers can correct files before submitting them. Include a small valid example and a separate example of common failures, using synthetic data. If a schema change is planned, communicate it before enforcement begins and provide a transition period when practical. This reduces avoidable rejections while preserving the ability to stop unsafe or misleading data from entering the pipeline.
 
 Validation should be designed around the receiving system’s contract rather than a generic idea of a well-formed spreadsheet. Define required columns, accepted types, null behaviour, allowed values, and business rules with the data owner. If an identifier is unique only within a reporting period, the validation key should reflect that; checking global uniqueness would reject valid records. Date rules should specify timezone and whether boundary dates are inclusive. These choices need to be documented so the same file is evaluated consistently across runs and environments.
 
