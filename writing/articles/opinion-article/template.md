@@ -1,0 +1,65 @@
+# Opinion Article Template
+
+<!-- TEMPLATE RULES:
+- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
+- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
+- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
+- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
+- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
+-->
+
+<!-- WORD COUNT STANDARD: Target total = 700–1,200. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+
+<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+
+<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Opinion Article. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
+[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
+<!-- SECTION INSTRUCTIONS: Title. Purpose: Inform or persuade the intended reader with a clear central idea and well-supported development. Length: 6–14. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+## Title
+
+[PLACEHOLDER: write this section according to the instructions above]
+
+<!-- SECTION INSTRUCTIONS: Opening and relevance. Purpose: Inform or persuade the intended reader with a clear central idea and well-supported development. Length: 70–120. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+## Opening and relevance
+
+[PLACEHOLDER: write this section according to the instructions above]
+
+<!-- SECTION INSTRUCTIONS: Context and central idea. Purpose: Inform or persuade the intended reader with a clear central idea and well-supported development. Length: 100–160. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+## Context and central idea
+
+[PLACEHOLDER: write this section according to the instructions above]
+
+<!-- SECTION INSTRUCTIONS: Main point 1: explanation and support. Purpose: Inform or persuade the intended reader with a clear central idea and well-supported development. Length: 140–220. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+## Main point 1: explanation and support
+
+[PLACEHOLDER: write this section according to the instructions above]
+
+<!-- SECTION INSTRUCTIONS: Main point 2: explanation and support. Purpose: Inform or persuade the intended reader with a clear central idea and well-supported development. Length: 140–220. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+## Main point 2: explanation and support
+
+[PLACEHOLDER: write this section according to the instructions above]
+
+<!-- SECTION INSTRUCTIONS: Implications / practical value. Purpose: Inform or persuade the intended reader with a clear central idea and well-supported development. Length: 80–140. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+## Implications / practical value
+
+[PLACEHOLDER: write this section according to the instructions above]
+
+<!-- SECTION INSTRUCTIONS: Limitations or nuance. Purpose: Inform or persuade the intended reader with a clear central idea and well-supported development. Length: 50–100. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+## Limitations or nuance
+
+[PLACEHOLDER: write this section according to the instructions above]
+
+<!-- SECTION INSTRUCTIONS: Conclusion and takeaway. Purpose: Inform or persuade the intended reader with a clear central idea and well-supported development. Length: 40–80. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+## Conclusion and takeaway
+
+[PLACEHOLDER: write this section according to the instructions above]
+
+<!-- FINAL QUALITY CHECK:
+1. Purpose and every part of the task are addressed.
+2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
+3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
+4. Tone, terminology, spelling, and formatting are consistent.
+5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
+6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
+7. Check total and section word counts against these ranges and any higher-priority external limit.
+-->
