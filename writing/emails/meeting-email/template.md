@@ -1,55 +1,34 @@
 # Meeting Email Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- TEMPLATE RULES: This is a reusable scaffold, not a completed document. Replace all [PLACEHOLDER: ...] tokens. Do not include sample prose. Use only accurate, verified facts; resolve [TO CONFIRM: ...] notes before delivery. Match tone to audience and purpose. External limits set by an employer, platform, or process take precedence over these ranges. -->
 
-<!-- WORD COUNT STANDARD: Target total = 60–220. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+<!-- TOTAL LENGTH: 60–220 words, depending on email purpose. Ranges are planning targets, not a reason to add filler. Comments and metadata are excluded from prose counts. -->
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+<!-- BRIEF: Audience = [PLACEHOLDER: define reader]; purpose = [PLACEHOLDER: state intended outcome]; constraints = [PLACEHOLDER: record requirements]; tone = [PLACEHOLDER: specify]; verified source material = [PLACEHOLDER: list if applicable]. -->
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Meeting Email. Aim for 4–10 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Subject line. Purpose: Make the message purpose, essential context, and requested action immediately clear. Length: 4–10. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Subject line
+<!-- SECTION GUIDE: Subject. Identify the meeting purpose or requested decision. Target length: 4–10. -->
+## Subject
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Greeting and purpose. Purpose: Make the message purpose, essential context, and requested action immediately clear. Length: 5–25. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Greeting and purpose
+<!-- SECTION GUIDE: Purpose and outcome. State why the meeting is needed and what should be achieved. Target length: 15–25. -->
+## Purpose and outcome
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Essential context. Purpose: Make the message purpose, essential context, and requested action immediately clear. Length: 15–40. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Essential context
+<!-- SECTION GUIDE: Logistics. Specify date, time zone, duration, location or link, and attendees if known. Target length: 10–25. -->
+## Logistics
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Main message / request / response. Purpose: Make the message purpose, essential context, and requested action immediately clear. Length: 20–70. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Main message / request / response
+<!-- SECTION GUIDE: Agenda and preparation. List the topics and any pre-reading or decisions required. Target length: 15–35. -->
+## Agenda and preparation
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Action, timing, or resolution. Purpose: Make the message purpose, essential context, and requested action immediately clear. Length: 10–35. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Action, timing, or resolution
+<!-- SECTION GUIDE: Confirmation and sign-off. Ask for confirmation and provide a polite close. Target length: 5–15. -->
+## Confirmation and sign-off
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Closing and sign-off. Purpose: Make the message purpose, essential context, and requested action immediately clear. Length: 5–15. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Closing and sign-off
-
-[PLACEHOLDER: write this section according to the instructions above]
-
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+<!-- FINAL CHECK: Confirm factual accuracy, audience-appropriate tone, logical order, concise language, all required details, and word limits. Replace every placeholder and resolve every [TO CONFIRM: ...] note before sending or publishing. -->
