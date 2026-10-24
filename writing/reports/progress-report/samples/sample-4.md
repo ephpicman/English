@@ -1,22 +1,39 @@
-# A university course
+# Progress update: service desk review
 
-**To:** Operations Lead  
-**From:** Project Analyst  
-**Date:** 24 October 2026  
-**Subject:** A university course
+*Illustrative example. Verify project-specific facts and technical details before use.*
 
-## Purpose
-This report reviews the current position, identifies the main findings and recommends proportionate next steps.
+## Title and reporting metadata
 
-## Findings
-Initial feedback about a university course indicates that responsibilities are not always clear and updates are recorded inconsistently. These gaps make it difficult to compare performance or identify emerging risks. A shared process would reduce duplication and improve accountability.
+Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
 
-## Recommendations
-1. Assign a named owner to each action.
-2. Record status, due date and evidence in one shared tracker.
-3. Review progress fortnightly and escalate overdue items.
+## Executive status summary
 
-## Conclusion
-Run a short pilot for one month. Compare completion rates, user feedback and administrative time before deciding whether to expand the approach.
+**Status:** illustrative update for progress update: service desk review. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
 
----
+## Objectives and scope
+
+Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+
+## Work completed
+
+Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+
+## Milestones, schedule, and budget
+
+**Status:** illustrative update for progress update: service desk review. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+
+## Risks, issues, and dependencies
+
+The next step is to confirm the outstanding dependency, assign a named owner, and agree a review date. Record any risk with its impact and mitigation, and escalate only where a decision or support is needed.
+
+## Next-period plan
+
+Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+
+## Decisions and support required
+
+**Status:** illustrative update for progress update: service desk review. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+
+## IELTS-oriented language practice
+
+Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.

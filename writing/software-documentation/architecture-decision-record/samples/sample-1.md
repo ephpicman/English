@@ -1,15 +1,31 @@
-# A university mentoring programme
+# ADR: choosing a background job queue
 
-## Status
-Accepted
+*Illustrative example. Verify project-specific facts and technical details before use.*
 
-## Context
-The service needs to handle a university mentoring programme reliably without delaying interactive requests. The existing synchronous design creates variable response times during peak usage.
+## Title, status, date, owners
+
+**Status:** illustrative update for adr: choosing a background job queue. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+
+## Context and problem
+
+**Context:** the team needs a consistent approach for adr: choosing a background job queue. The decision should be based on requirements, operational constraints, security, maintenance effort, and the team's existing capabilities. Compare realistic alternatives and state the evidence or assumptions behind the choice.
+
+## Decision drivers
+
+**Status:** illustrative update for adr: choosing a background job queue. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+
+## Options considered
+
+Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
 
 ## Decision
-Use a managed queue and idempotent workers. Assign each task a stable identifier and retry transient failures with bounded exponential backoff.
 
-## Consequences
-This improves responsiveness and observability but introduces queue operations and eventual consistency. Monitor queue depth, processing latency and retry rates before increasing traffic.
+**Status:** illustrative update for adr: choosing a background job queue. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
 
----
+## Consequences and trade-offs
+
+**Context:** the team needs a consistent approach for adr: choosing a background job queue. The decision should be based on requirements, operational constraints, security, maintenance effort, and the team's existing capabilities. Compare realistic alternatives and state the evidence or assumptions behind the choice.
+
+## Follow-up and review triggers
+
+Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.

@@ -1,7 +1,23 @@
-# A missed project deadline
+# A practical tip for better documentation
 
-**Context:** Publish a concise professional update about a missed project deadline.
+*Illustrative example. Verify project-specific facts and technical details before use.*
 
-A practical lesson from a missed project deadline: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook
 
----
+A practical lesson from a practical tip for better documentation.
+
+## Main point
+
+One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+
+## Support or experience
+
+One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+
+## Practical takeaway
+
+I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+
+## Question or call to action
+
+What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.

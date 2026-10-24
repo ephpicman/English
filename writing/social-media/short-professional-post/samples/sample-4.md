@@ -1,7 +1,19 @@
-# A university course
+# A lesson from reviewing feedback
 
-**Context:** Publish a concise professional update about a university course.
+*Illustrative example. Verify project-specific facts and technical details before use.*
 
-A practical lesson from a university course: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook or Announcement
 
----
+A practical lesson from a lesson from reviewing feedback.
+
+## Essential Information
+
+I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+
+## Relevance or Takeaway
+
+I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+
+## Call to Action or Close
+
+What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.

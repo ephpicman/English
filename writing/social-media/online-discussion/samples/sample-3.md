@@ -1,7 +1,23 @@
-# A new colleague
+# Discussion: how teams share knowledge
 
-**Context:** Reply to a discussion about a new colleague.
+*Illustrative example. Verify project-specific facts and technical details before use.*
 
-A useful point. I’d add that a new colleague works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Direct response
 
----
+What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+
+## Reasoning and support
+
+I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+
+## Example or qualification
+
+For example, a short handover note can state what changed, what remains open, and who will follow up. It is a small habit, but it makes collaboration easier to sustain.
+
+## Engage another view
+
+I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+
+## Synthesis or question
+
+What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.

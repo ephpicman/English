@@ -1,24 +1,39 @@
-# A workplace policy
+# Example API: submit feedback
 
-## Endpoint
-`POST /v1/tasks` creates a task for the authenticated account.
+*Illustrative example. Verify project-specific facts and technical details before use.*
 
-### Request
-```json
-{
-  "title": "Review onboarding flow",
-  "due_date": "2026-11-15"
-}
-```
+## Overview
 
-### Success response
-```json
-{
-  "id": "tsk_1042",
-  "status": "created"
-}
-```
+**Illustrative API design only; not a verified live endpoint.** Define the method, path, authentication requirements, inputs, response schema, status codes, and failure behaviour from the actual implementation. Use a non-production credential in examples and never include real tokens or personal data.
 
-Returns `201 Created` on success and `400 Bad Request` for invalid input. Include the bearer token in the `Authorization` header; do not retry non-retryable client errors.
+## Authentication and permissions
 
----
+**Illustrative API design only; not a verified live endpoint.** Define the method, path, authentication requirements, inputs, response schema, status codes, and failure behaviour from the actual implementation. Use a non-production credential in examples and never include real tokens or personal data.
+
+## Endpoint and method
+
+**Illustrative API design only; not a verified live endpoint.** Define the method, path, authentication requirements, inputs, response schema, status codes, and failure behaviour from the actual implementation. Use a non-production credential in examples and never include real tokens or personal data.
+
+## Parameters
+
+**Illustrative API design only; not a verified live endpoint.** Define the method, path, authentication requirements, inputs, response schema, status codes, and failure behaviour from the actual implementation. Use a non-production credential in examples and never include real tokens or personal data.
+
+## Request body
+
+**Illustrative API design only; not a verified live endpoint.** Define the method, path, authentication requirements, inputs, response schema, status codes, and failure behaviour from the actual implementation. Use a non-production credential in examples and never include real tokens or personal data.
+
+## Successful response
+
+**Illustrative API design only; not a verified live endpoint.** Define the method, path, authentication requirements, inputs, response schema, status codes, and failure behaviour from the actual implementation. Use a non-production credential in examples and never include real tokens or personal data.
+
+## Errors and edge cases
+
+**Illustrative API design only; not a verified live endpoint.** Define the method, path, authentication requirements, inputs, response schema, status codes, and failure behaviour from the actual implementation. Use a non-production credential in examples and never include real tokens or personal data.
+
+## Limits and operational behaviour
+
+**Illustrative API design only; not a verified live endpoint.** Define the method, path, authentication requirements, inputs, response schema, status codes, and failure behaviour from the actual implementation. Use a non-production credential in examples and never include real tokens or personal data.
+
+## Tested usage example
+
+**Illustrative API design only; not a verified live endpoint.** Define the method, path, authentication requirements, inputs, response schema, status codes, and failure behaviour from the actual implementation. Use a non-production credential in examples and never include real tokens or personal data.

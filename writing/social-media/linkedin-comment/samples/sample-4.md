@@ -1,7 +1,15 @@
-# A university course
+# Comment on a post about team learning
 
-**Context:** Reply to a discussion about a university course.
+*Illustrative example. Verify project-specific facts and technical details before use.*
 
-A useful point. I’d add that a university course works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point of connection
 
----
+One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+
+## Added insight or question
+
+One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+
+## Optional close
+
+I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.

@@ -1,7 +1,19 @@
-# A university mentoring programme
+# Reply to a post about remote work
 
-**Context:** Reply to a discussion about a university mentoring programme.
+*Illustrative example. Verify project-specific facts and technical details before use.*
 
-A useful point. I’d add that a university mentoring programme works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point being answered
 
----
+One thing I have found useful is making the next action explicit. When the goal, owner, and expected result are clear, people spend less time guessing and more time solving the actual problem.
+
+## Response and reasoning
+
+What has worked for your team? I would be interested in examples that made the process clearer without adding unnecessary administration.
+
+## Added value
+
+I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
+
+## Optional close
+
+I agree with the emphasis on practical improvements. The most useful changes are specific, inclusive, and easy to review; it is worth checking whether they help the people who use the process every day.
