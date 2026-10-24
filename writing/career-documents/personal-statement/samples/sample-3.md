@@ -1,27 +1,27 @@
-# Applying to a teacher-training course
+# Personal statement: academic and professional direction
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative statement. Adapt it to the actual programme and retain only experiences that are accurate for the applicant.*
 
 ## Motivation and direction
 
-This section makes applying to a teacher-training course clear and useful to its intended reader. Identify the relevant facts, explain why they matter, and connect them to the requested outcome instead of repeating the same point. A strong example names the action, explains the reasoning, and states what would count as success. Confirm organisation-specific details before publication rather than filling gaps with invented information. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+I am drawn to communication studies because the same information can lead to very different responses depending on how it is framed, delivered, and understood. I want to learn how organisations can communicate clearly across audiences without sacrificing accuracy or reducing complex issues to slogans.
 
 ## Relevant preparation
 
-A relevant illustrative example is a bounded task in which the writer clarified the goal, organised the work, and checked the result with the people affected. The value lies in the actions and learning, not in an unsupported claim of exceptional performance. For real use, replace this scenario with a verifiable example, your specific contribution, the constraints you faced, and an outcome you can substantiate. Do not invent metrics or credentials. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+My experience includes writing event announcements and coordinating details from several contributors. These tasks showed me that even a well-written message fails if its date, access information, or next step is unclear. I became interested in the planning behind communication: audience needs, channel choice, consistency, and the review process that protects accuracy.
 
 ## Skills and learning evidence
 
-A relevant illustrative example is a bounded task in which the writer clarified the goal, organised the work, and checked the result with the people affected. The value lies in the actions and learning, not in an unsupported claim of exceptional performance. For real use, replace this scenario with a verifiable example, your specific contribution, the constraints you faced, and an outcome you can substantiate. Do not invent metrics or credentials. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+While helping a student group promote an event, I noticed that the start time differed between its social post and event page. I confirmed the schedule with the organiser, corrected both messages, and suggested a final check of key details before publication. I also asked a reader unfamiliar with the event to review the revised page and point out anything that remained unclear. This experience taught me to evaluate communication from the audience’s perspective rather than assuming that my own understanding is universal.
 
 ## Fit with opportunity
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+I want to develop stronger skills in audience research, communication planning, and evaluation. I would bring concise writing, attention to detail, and an interest in how messages work in real settings. I am also willing to learn from criticism and adjust a draft when the intended audience does not interpret it as expected.
 
 ## Goals and contribution
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+After study, I hope to work in public-interest or organisational communications, helping people understand services, decisions, and opportunities. I want to measure success not only by how many people see a message, but by whether they can find the information they need and take an informed next step.
 
 ## Conclusion
 
-Overall, applying to a teacher-training course is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+I see this programme as a chance to connect practical communication experience with a more rigorous understanding of audience, evidence, and impact.

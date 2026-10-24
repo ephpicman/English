@@ -1,23 +1,23 @@
-# A profile for a project coordinator
+# Professional bio
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative bio. Keep only details that are true of the person represented.*
 
 ## Professional identity
 
-This section should make a profile for a project coordinator concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Daniel Okafor is a research assistant interested in evidence-informed environmental policy.
 
 ## Expertise and audience
 
-This section should make a profile for a project coordinator concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+His strengths include literature review, source management, structured comparison, and concise research summaries.
 
 ## Credibility and impact
 
-This section should make a profile for a project coordinator concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+For a research project, Daniel built a source matrix to compare studies using different methods and made areas of uncertainty explicit in the final summary.
 
 ## Current focus and value
 
-This section should make a profile for a project coordinator concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+He wants to support research that is transparent about evidence quality and the limits of its conclusions.
 
 ## Optional human detail
 
-This section should make a profile for a project coordinator concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+He also volunteers at a neighbourhood gardening group.

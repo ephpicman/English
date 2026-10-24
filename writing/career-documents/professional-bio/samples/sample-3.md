@@ -1,23 +1,23 @@
-# A profile for a product designer
+# Professional bio
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative bio. Keep only details that are true of the person represented.*
 
 ## Professional identity
 
-This section should make a profile for a product designer concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Marcus Chen is a customer-support professional who enjoys solving problems with clarity and care.
 
 ## Expertise and audience
 
-This section should make a profile for a product designer concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+He specialises in case triage, customer communication, knowledge-base improvement, and collaboration with technical teams.
 
 ## Credibility and impact
 
-This section should make a profile for a product designer concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+When recurring setup questions appeared in support cases, Marcus grouped the symptoms and shared the common point of confusion with the documentation owner.
 
 ## Current focus and value
 
-This section should make a profile for a product designer concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+He is interested in support systems that make answers easier to find and help teams learn from repeated issues.
 
 ## Optional human detail
 
-This section should make a profile for a product designer concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+In his spare time, he experiments with home cooking and keeps notes on recipes that need improvement.

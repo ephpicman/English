@@ -1,27 +1,27 @@
-# Applying to a public health programme
+# Personal statement: academic and professional direction
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative statement. Adapt it to the actual programme and retain only experiences that are accurate for the applicant.*
 
 ## Motivation and direction
 
-This section makes applying to a public health programme clear and useful to its intended reader. Identify the relevant facts, explain why they matter, and connect them to the requested outcome instead of repeating the same point. A strong example names the action, explains the reasoning, and states what would count as success. Confirm organisation-specific details before publication rather than filling gaps with invented information. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+I want to study environmental policy because many public decisions require balancing long-term ecological effects with immediate social and economic needs. I am particularly interested in how evidence is translated into decisions that communities can understand and scrutinise. Rather than treating policy as a purely theoretical subject, I want to learn how research methods, public consultation, and implementation constraints interact.
 
 ## Relevant preparation
 
-A relevant illustrative example is a bounded task in which the writer clarified the goal, organised the work, and checked the result with the people affected. The value lies in the actions and learning, not in an unsupported claim of exceptional performance. For real use, replace this scenario with a verifiable example, your specific contribution, the constraints you faced, and an outcome you can substantiate. Do not invent metrics or credentials. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+My interest developed through coursework on urban development and climate adaptation. I found that reports on the same policy sometimes reached different conclusions because they used different baselines, time periods, or definitions of success. Comparing those assumptions taught me to ask not only what a source concludes, but how it reached that conclusion and which groups may be affected.
 
 ## Skills and learning evidence
 
-A relevant illustrative example is a bounded task in which the writer clarified the goal, organised the work, and checked the result with the people affected. The value lies in the actions and learning, not in an unsupported claim of exceptional performance. For real use, replace this scenario with a verifiable example, your specific contribution, the constraints you faced, and an outcome you can substantiate. Do not invent metrics or credentials. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+For a seminar project, I organised a set of policy reports into a comparison table covering research question, method, location, and limitations. This helped my group distinguish evidence that was broadly consistent from findings that depended on local conditions. I also presented the summary to classmates, explaining technical terms in plain language and noting questions the available sources could not answer. The experience strengthened my ability to synthesise information without overstating certainty.
 
 ## Fit with opportunity
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The programme appeals to me because it combines analytical study with the practical challenges of policy design. I am ready to develop stronger skills in evaluation, quantitative reasoning, and stakeholder analysis. I would contribute careful preparation, openness to feedback, and a willingness to test my initial assumptions against evidence.
 
 ## Goals and contribution
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+In the near term, I want to learn to assess policy options systematically and communicate trade-offs clearly. Over time, I hope to support research or programme evaluation for organisations working on sustainable urban development. I understand that these goals may evolve as I gain experience, but they give me a clear reason to build a rigorous foundation now.
 
 ## Conclusion
 
-Overall, applying to a public health programme is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+I would approach the opportunity with curiosity, discipline, and respect for the people affected by policy decisions. I hope to develop the methods needed to turn complex evidence into practical, accountable recommendations.

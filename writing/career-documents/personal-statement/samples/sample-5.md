@@ -1,27 +1,27 @@
-# Applying to a research opportunity
+# Personal statement: academic and professional direction
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative statement. Adapt it to the actual programme and retain only experiences that are accurate for the applicant.*
 
 ## Motivation and direction
 
-This section makes applying to a research opportunity clear and useful to its intended reader. Identify the relevant facts, explain why they matter, and connect them to the requested outcome instead of repeating the same point. A strong example names the action, explains the reasoning, and states what would count as success. Confirm organisation-specific details before publication rather than filling gaps with invented information. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+I am interested in public administration because public services must turn limited resources and complex rules into support that people can actually use. I want to understand how organisations coordinate delivery, evaluate performance, and remain accountable to the communities they serve.
 
 ## Relevant preparation
 
-A relevant illustrative example is a bounded task in which the writer clarified the goal, organised the work, and checked the result with the people affected. The value lies in the actions and learning, not in an unsupported claim of exceptional performance. For real use, replace this scenario with a verifiable example, your specific contribution, the constraints you faced, and an outcome you can substantiate. Do not invent metrics or credentials. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+My preparation includes volunteer coordination and academic work involving service access and organisational processes. These experiences made me aware that a procedure can appear clear to its designers while remaining confusing to the person trying to use it. I became interested in the connection between internal operations and the public’s experience.
 
 ## Skills and learning evidence
 
-A relevant illustrative example is a bounded task in which the writer clarified the goal, organised the work, and checked the result with the people affected. The value lies in the actions and learning, not in an unsupported claim of exceptional performance. For real use, replace this scenario with a verifiable example, your specific contribution, the constraints you faced, and an outcome you can substantiate. Do not invent metrics or credentials. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+In a volunteer project, requests were recorded in several places and responsibility for follow-up was not always obvious. I helped review the process with the team and suggested a shared tracker that identified the request, current status, owner, and next action. We checked unclear entries before moving active items and agreed on a simple update routine. The change did not solve every capacity problem, but it made the outstanding work easier to see and discuss.
 
 ## Fit with opportunity
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+I want to strengthen my knowledge of public-sector management, programme evaluation, and ethical decision-making. I would bring practical organisation, careful communication, and a habit of asking who may be excluded by a process. I am ready to engage with evidence and to revise an idea when the results do not support it.
 
 ## Goals and contribution
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+I hope to begin in a role supporting service improvement or programme coordination, with the longer-term aim of helping public organisations evaluate whether services are accessible and effective. I want my work to connect operational detail with the broader public purpose behind a service.
 
 ## Conclusion
 
-Overall, applying to a research opportunity is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+This opportunity would help me build the analytical and professional foundations to contribute responsibly to public service.

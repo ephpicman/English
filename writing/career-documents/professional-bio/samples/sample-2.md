@@ -1,23 +1,23 @@
-# A bio for a community educator
+# Professional bio
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative bio. Keep only details that are true of the person represented.*
 
 ## Professional identity
 
-This section should make a bio for a community educator concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Amira Hassan is an early-career data analyst interested in reliable, explainable analysis.
 
 ## Expertise and audience
 
-This section should make a bio for a community educator concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Her work focuses on data cleaning, exploratory analysis, SQL, and communicating findings to non-technical audiences.
 
 ## Credibility and impact
 
-This section should make a bio for a community educator concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+In academic projects, she has documented data-quality decisions and separated observed patterns from conclusions that require further testing.
 
 ## Current focus and value
 
-This section should make a bio for a community educator concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Amira aims to help teams use data responsibly by making assumptions, limitations, and next steps visible.
 
 ## Optional human detail
 
-This section should make a bio for a community educator concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+She also enjoys turning complex topics into concise visual explanations.

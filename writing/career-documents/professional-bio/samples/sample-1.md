@@ -1,23 +1,23 @@
-# A concise bio for a data analyst
+# Professional bio
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative bio. Keep only details that are true of the person represented.*
 
 ## Professional identity
 
-This section should make a concise bio for a data analyst concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Jordan Lee is a project coordinator focused on making cross-team work easier to plan and track.
 
 ## Expertise and audience
 
-This section should make a concise bio for a data analyst concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Jordan supports project teams with clear documentation, practical workflows, and stakeholder updates for internal operations.
 
 ## Credibility and impact
 
-This section should make a concise bio for a data analyst concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+In recent coordination work, Jordan standardised a task tracker and clarified ownership at handover, helping colleagues see open actions and dependencies.
 
 ## Current focus and value
 
-This section should make a concise bio for a data analyst concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Jordan is currently interested in lightweight process improvement and documentation that helps teams make decisions without adding unnecessary administration.
 
 ## Optional human detail
 
-This section should make a concise bio for a data analyst concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Outside work, Jordan enjoys mapping walking routes and visiting local museums.

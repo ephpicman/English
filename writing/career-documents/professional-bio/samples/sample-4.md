@@ -1,23 +1,23 @@
-# A bio for a research assistant
+# Professional bio
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative bio. Keep only details that are true of the person represented.*
 
 ## Professional identity
 
-This section should make a bio for a research assistant concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Priya Nair is a communications assistant with an interest in accessible public information.
 
 ## Expertise and audience
 
-This section should make a bio for a research assistant concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+She works across short-form writing, proofreading, event information, and coordinating updates across digital channels.
 
 ## Credibility and impact
 
-This section should make a bio for a research assistant concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+In volunteer communications work, she identified inconsistent event details across channels and introduced a final fact-check before publication.
 
 ## Current focus and value
 
-This section should make a bio for a research assistant concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+Priya aims to make messages accurate, welcoming, and easy for readers to act on.
 
 ## Optional human detail
 
-This section should make a bio for a research assistant concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+She enjoys community arts events and independent bookshops.
