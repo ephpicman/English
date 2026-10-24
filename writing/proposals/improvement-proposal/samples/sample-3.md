@@ -1,53 +1,53 @@
-# Proposal for accessible community workshop registration
+# Improvement proposal: make onboarding information easier to navigate
 
-*Illustrative improvement proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative improvement proposal. Verify user feedback and policy links before implementation.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+Focus on navigation and clarity, not a complete rewrite of every policy.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+The proposal identifies user difficulties, likely causes, a targeted redesign, and a review plan.
 
 ## Title and metadata
 
-Proposal for accessible community workshop registration
-Owner: Process improvement lead | Status: Proposal
+**Owner:** People Operations  
+**Status:** Improvement proposal  
+**Decision requested:** Approve a usability review and targeted revision
 
 ## Executive summary
 
-Create a standard event record containing date, duration, venue, access information, cost, registration steps, and a contact route. Reuse it across promotional channels. A limited pilot will test whether the change addresses the observed problem before wider adoption.
+New starters need a clearer route to common first-week information. The proposal is to reorganise the onboarding guide around tasks, place key links next to the relevant instructions, and test the revised structure with recent starters before publication.
 
 ## Current process and evidence of the problem
 
-Event notices sometimes omit access details and the registration confirmation does not consistently explain what participants should expect.
+The guide currently groups information by department, requiring readers to know which team owns a task before finding the instructions. Review new-starter questions and conduct short usability sessions to confirm where people become confused.
 
 ## Root causes and constraints
 
-A single source reduces the risk that a flyer and web page show different details. It will not remove all participation barriers, such as transport or language needs, which should be tracked separately. Constraints include staff time, existing tools, and the need to keep current responsibilities clear.
+The content has grown over time and reflects the organisation’s structure rather than the reader’s journey. Policy owners must retain responsibility for accuracy, and the revision should not change policy wording without approval.
 
 ## Recommended improvement
 
-Create a standard event record containing date, duration, venue, access information, cost, registration steps, and a contact route. Reuse it across promotional channels.
+Reorganise the guide around tasks such as setting up accounts, requesting equipment, understanding leave, and finding support. Add a clear contents list, check link labels, and include the correct contact route for each task.
 
 ## Implementation and change management
 
-Draft the fields with outreach staff in week 1; test on two events in weeks 2–3; gather participant questions; revise before wider use. The outreach lead owns the record and the event organiser approves final details.
+People Operations will draft the new structure, policy owners will verify links and content, and a small group of recent starters will test the guide. Record unresolved questions and assign owners before publication.
 
 ## Benefits, costs, and risks
 
-Costs are primarily staff time and any required accessible-format preparation. Venue and translation costs must be estimated from the actual event plan rather than assumed.
-The process may add work if the form is too long. Keep fields limited to information participants need and assign one person to approve publication.
+The main cost is staff review time. The benefit is easier navigation and fewer avoidable questions, though any reduction in enquiries must be measured rather than assumed. The main risk is outdated links after publication.
 
 ## Measures, review, and approval
 
-Approve a two-event pilot. Review correction requests, repeated enquiries, and optional participant feedback before standardising the form.
+Approve the revision and usability test. Review task-finding success, user feedback, and link accuracy before deciding whether to adopt the new structure.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Keep policy authority with the relevant owner and use plain language without changing requirements.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal addresses a specific usability problem while protecting policy accuracy.

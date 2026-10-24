@@ -1,56 +1,57 @@
-# Proposal to add a validation step to monthly reporting
+# Business proposal: centralised equipment booking
 
-*Illustrative business proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative proposal. Check current inventory, booking demand, and IT requirements before implementation.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+The request is for a controlled pilot using existing equipment records, subject to access and support checks.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+The proposal defines the problem, scope, implementation, assumptions, and measures for a go/no-go decision.
 
 ## Title and decision metadata
 
-Proposal to add a validation step to monthly reporting
-Owner: Operations lead | Date: 24 October 2026 | Decision: approve a limited pilot
+**Owner:** Workplace services  
+**Date:** 24 October 2026  
+**Decision requested:** Approve a pilot for shared equipment booking
 
 ## Executive summary
 
-Add a data-definition review and a validation checklist before combining fields. Keep unresolved categories separate and label the limitation in interim reporting. The proposal is designed to test the operational value before committing to a wider rollout.
+Approve a pilot booking process for shared meeting-room equipment, including portable screens and video-conferencing kits. The aim is to make availability and responsibility visible and reduce last-minute uncertainty. The pilot would run with a small set of items before any wider rollout.
 
 ## Business need and current state
 
-Two source systems use similar category labels with different meanings, which risks misleading comparisons in the monthly report.
+Staff currently check availability through informal messages or by asking the facilities team. This can create duplicate requests and makes it difficult to know where equipment is located. The extent of the issue should be checked against current enquiries and inventory records.
 
 ## Proposed solution and scope
 
-Add a data-definition review and a validation checklist before combining fields. Keep unresolved categories separate and label the limitation in interim reporting.
+Use an approved shared calendar or booking tool linked to an inventory list. Each item would have an identifier, storage location, booking window, and return status. The pilot excludes personal devices and any equipment requiring specialist approval.
 
 ## Market, customer, or operational rationale
 
-A documented definition should improve consistency and traceability. It does not guarantee the source data itself is complete or correct.
+A visible booking process could improve planning and accountability. It may also reveal which items are frequently requested, supporting future purchasing decisions, although demand should be measured rather than assumed.
 
 ## Delivery plan and governance
 
-Source owners review definitions in week 1; analytics drafts validation rules in week 2; test on a sample in week 3; approve the updated data dictionary in week 4.
+Workplace services will verify the inventory and configure the booking process. IT will confirm access permissions and any security requirements. Users will receive a short guide and a contact for reporting errors.
 
 ## Budget, benefits, and commercial assumptions
 
-The proposal requires analyst and source-owner time. Any engineering work should be estimated after the rules are agreed. Benefits should be measured through fewer unresolved discrepancies and clearer audit trails.
+The pilot is expected to use existing tools, subject to IT confirmation. Costs include staff time for inventory checks and administration. A new platform or equipment purchase is outside this request.
 
 ## Risks and mitigations
 
-Teams may disagree on terminology or lack an authoritative source. Escalate unresolved definitions to the reporting owner and do not silently merge categories.
+Outdated inventory records could undermine trust in the system. Assign a responsible owner to update returns and review missing items weekly during the pilot.
 
 ## Success measures and decision requested
 
-Approve the validation step for the next reporting cycle and review the discrepancy log before deciding whether further automation is justified.
+Approve the pilot and review booking conflicts, missing-item reports, user feedback, and administrative effort after four weeks.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Confirm the approved tool and inventory scope before rollout.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal links the pilot to measurable operational questions without claiming guaranteed savings.

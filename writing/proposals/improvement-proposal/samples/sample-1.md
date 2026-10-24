@@ -1,53 +1,53 @@
-# Proposal to introduce a shared service-request queue
+# Improvement proposal: clarify ownership in service requests
 
-*Illustrative improvement proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative improvement proposal. Confirm the current workflow and evidence before implementation.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+Identify the delay pattern and the decision-maker. This proposal recommends a small process change rather than a new platform.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+The proposal links the current problem to likely causes, a controlled improvement, and review criteria.
 
 ## Title and metadata
 
-Proposal to introduce a shared service-request queue
-Owner: Process improvement lead | Status: Proposal
+**Owner:** Operations lead  
+**Status:** Proposal for a four-week pilot  
+**Decision requested:** Approve revised request-tracking fields
 
 ## Executive summary
 
-Pilot one shared queue for facilities requests with required fields for owner, status, next action, and due date. Keep urgent safety issues on the existing escalation route. A limited pilot will test whether the change addresses the observed problem before wider adoption.
+Requests are difficult to follow when the record does not show who must act next. The proposed improvement adds clear ownership, next action, due date, and escalation fields to the existing tracker. A four-week pilot will test whether these changes make handovers and overdue items easier to manage.
 
 ## Current process and evidence of the problem
 
-Internal requests currently arrive through email and spreadsheets, making ownership and priority difficult to track.
+The current tracker records request title and status, but handover notes are inconsistent. Before rollout, the operations lead should review recent cases and confirm that unclear ownership is a recurring issue rather than an isolated example.
 
 ## Root causes and constraints
 
-A single view can reduce duplicate entry and make handoffs more visible. The proposal assumes the team can use its existing collaboration tools; licensing and access permissions must be confirmed. Constraints include staff time, existing tools, and the need to keep current responsibilities clear.
+Possible causes include inconsistent status definitions, missing next-action information, and uncertainty about who can escalate a blocked request. The team has limited time for training, so any change should be simple and fit the existing workflow.
 
 ## Recommended improvement
 
-Pilot one shared queue for facilities requests with required fields for owner, status, next action, and due date. Keep urgent safety issues on the existing escalation route.
+Add fields for owner, next action, due date, and dependency. Define what each status means and when an item should be escalated. Keep urgent safety issues in the existing emergency process.
 
 ## Implementation and change management
 
-Week 1: agree categories and permissions. Week 2: configure and test with sample requests. Weeks 3–6: run the pilot and gather feedback. Operations manager owns the review; team leads own status definitions.
+Test the new fields with one team. Provide a short guide, review usage weekly, and ask users which fields are unclear or redundant. The operations lead will own the process and record any agreed changes.
 
 ## Benefits, costs, and risks
 
-Primary cost is staff time for setup, training, and review. No new software purchase is assumed. Estimate actual hours before approval; benefits should be assessed through completeness of ownership fields, time spent chasing updates, and staff feedback.
-Risks include duplicate entry during transition and inconsistent use. Mitigate with a clear start date, short guide, and weekly review. Do not migrate sensitive records without confirming permissions.
+The change uses existing tools, so no new licence is proposed. Staff time is required for configuration and review. Risks include duplicate entry and inconsistent updates; clear definitions and a named owner should reduce these risks.
 
 ## Measures, review, and approval
 
-Approve a four-week pilot for one request category. Review whether requests have a named owner and next action, and decide whether to expand based on evidence.
+Review field completeness, examples of delayed handovers, and user feedback after four weeks. Approve the pilot and schedule a decision meeting before any wider rollout.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Verify the problem through recent records and confirm the process owner before launch.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal ties each change to a specific workflow problem and a review measure.

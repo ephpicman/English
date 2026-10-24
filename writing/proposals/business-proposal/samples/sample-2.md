@@ -1,56 +1,57 @@
-# Proposal to improve onboarding guidance
+# Business proposal: evening customer-support coverage
 
-*Illustrative business proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative proposal. Validate demand, staffing rules, and costs before approval.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+The proposal seeks approval to assess a limited evening-coverage trial, not a permanent staffing change.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+It explains the service need, possible operating model, costs, risks, and decision requested.
 
 ## Title and decision metadata
 
-Proposal to improve onboarding guidance
-Owner: Operations lead | Date: 24 October 2026 | Decision: approve a limited pilot
+**Owner:** Customer support manager  
+**Date:** 24 October 2026  
+**Decision requested:** Approve a staffing and demand assessment
 
 ## Executive summary
 
-Consolidate the five most-used onboarding tasks into task-based guides, name a content owner for each, and add a quarterly link review. The proposal is designed to test the operational value before committing to a wider rollout.
+Approve a short assessment of customer enquiries received outside current support hours. The team would review contact timestamps, customer needs, and staffing constraints, then propose whether a limited evening trial is justified. No permanent schedule change is requested until the evidence and cost implications are clear.
 
 ## Business need and current state
 
-New colleagues receive the same setup instructions in several places, and some pages list prerequisites after the steps that depend on them.
+Customers who contact the service after the current staffed period may wait until the next working day. The extent of the issue should be established from ticket records and customer feedback rather than inferred from a small number of complaints.
 
 ## Proposed solution and scope
 
-Consolidate the five most-used onboarding tasks into task-based guides, name a content owner for each, and add a quarterly link review.
+Analyse evening contact patterns, identify the most common request types, and assess whether trained staff can cover a defined window on selected weekdays. The assessment excludes emergency support, which must follow its separate route.
 
 ## Market, customer, or operational rationale
 
-Clear task headings and current links should make instructions easier to locate. A platform replacement is not proposed until content and ownership issues have been addressed.
+More predictable response expectations may improve customer planning and reduce repeat contacts. The benefit depends on the number and nature of enquiries and should be measured during any subsequent trial.
 
 ## Delivery plan and governance
 
-Select guides in week 1; revise drafts in weeks 2–3; test with new readers in week 4; revise and publish in week 5. People operations coordinates; page owners validate procedures.
+The support analyst will prepare the demand review. The manager will consult HR and operations about coverage, breaks, and escalation. A recommendation will be presented before any rota is changed.
 
 ## Budget, benefits, and commercial assumptions
 
-The main investment is staff editing and review time. Any tooling cost is excluded unless the pilot identifies a specific requirement. Success should be measured by reader task completion, correction requests, and feedback.
+The assessment uses existing ticket data and staff time. Any trial budget must include staffing, training, and possible schedule adjustments. No financial saving is assumed at this stage.
 
 ## Risks and mitigations
 
-A guide may become stale if ownership is unclear or linked policies change. Assign owners and include a review date; do not duplicate policy text that is maintained elsewhere.
+Potential risks include low demand, staff fatigue, and unclear handover between shifts. A trial should have defined hours, an escalation process, and a review point.
 
 ## Success measures and decision requested
 
-Approve a five-guide pilot. Expand only if readers can locate the correct steps and content owners can maintain the pages within the agreed effort.
+Approve the demand and staffing assessment. The next decision should be based on verified contact patterns, operational feasibility, and an explicit cost estimate.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Confirm the current support hours and applicable staffing requirements.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal avoids promising benefits before demand and costs are understood.

@@ -1,56 +1,57 @@
-# Proposal for accessible community workshop registration
+# Business proposal: paid community workshop series
 
-*Illustrative business proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative proposal. Confirm venue availability, participant demand, and pricing before committing funds.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+The proposal asks for permission to test demand and costs before a full programme is launched.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+It sets out the audience, proposed format, delivery plan, assumptions, and decision criteria.
 
 ## Title and decision metadata
 
-Proposal for accessible community workshop registration
-Owner: Operations lead | Date: 24 October 2026 | Decision: approve a limited pilot
+**Owner:** Community programmes coordinator  
+**Date:** 24 October 2026  
+**Decision requested:** Approve planning for a pilot series
 
 ## Executive summary
 
-Create a standard event record containing date, duration, venue, access information, cost, registration steps, and a contact route. Reuse it across promotional channels. The proposal is designed to test the operational value before committing to a wider rollout.
+Approve planning for a small paid workshop series on practical digital skills. The coordinator would test interest, estimate delivery costs, and identify suitable facilitators and accessible venues. Final approval to advertise or collect fees would be requested separately after the plan is reviewed.
 
 ## Business need and current state
 
-Event notices sometimes omit access details and the registration confirmation does not consistently explain what participants should expect.
+Residents have asked for practical help with online forms, document handling, and safe account use. The programme should confirm which topics are most needed and whether existing free services already meet the demand.
 
 ## Proposed solution and scope
 
-Create a standard event record containing date, duration, venue, access information, cost, registration steps, and a contact route. Reuse it across promotional channels.
+Plan three introductory workshops, each focused on a distinct task. The pilot would use small groups, plain-language materials, and a short feedback form. It would not provide individual legal, financial, or technical advice beyond the facilitator’s competence.
 
 ## Market, customer, or operational rationale
 
-A single source reduces the risk that a flyer and web page show different details. It will not remove all participation barriers, such as transport or language needs, which should be tracked separately.
+A paid format may cover some delivery costs while offering structured learning. Affordability and access must be considered, and a free or subsidised place may be appropriate if funding allows.
 
 ## Delivery plan and governance
 
-Draft the fields with outreach staff in week 1; test on two events in weeks 2–3; gather participant questions; revise before wider use. The outreach lead owns the record and the event organiser approves final details.
+The coordinator will survey interested residents, request venue quotes, and prepare facilitator requirements. The programme manager will review the proposed price, accessibility arrangements, and cancellation policy before promotion.
 
 ## Budget, benefits, and commercial assumptions
 
-Costs are primarily staff time and any required accessible-format preparation. Venue and translation costs must be estimated from the actual event plan rather than assumed.
+Costs may include venue hire, facilitator time, printed materials, and administration. Revenue depends on actual enrolment and the approved fee. No income forecast should be treated as confirmed until interest and costs are checked.
 
 ## Risks and mitigations
 
-The process may add work if the form is too long. Keep fields limited to information participants need and assign one person to approve publication.
+Risks include insufficient enrolment, accessibility barriers, and participants expecting one-to-one support. Clear course descriptions, a minimum enrolment threshold, and signposting to specialist services can reduce these risks.
 
 ## Success measures and decision requested
 
-Approve a two-event pilot. Review correction requests, repeated enquiries, and optional participant feedback before standardising the form.
+Approve the planning phase. A final launch decision should consider confirmed demand, a costed budget, accessible delivery, and a clear learning outcome for each workshop.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Verify venue and fee assumptions before sharing the proposal.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal separates permission to plan from approval to launch.

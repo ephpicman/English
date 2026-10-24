@@ -1,53 +1,53 @@
-# Proposal for a structured customer-support handover
+# Improvement proposal: make appointment reminders clearer
 
-*Illustrative improvement proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative improvement proposal. Confirm current reminder channels, consent rules, and service policies before implementation.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+The proposal aims to make reminders clearer while respecting privacy and user preferences.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+It identifies the communication problem, proposes a targeted change, and defines how to review it.
 
 ## Title and metadata
 
-Proposal for a structured customer-support handover
-Owner: Process improvement lead | Status: Proposal
+**Owner:** Service operations  
+**Status:** Improvement proposal  
+**Decision requested:** Approve a reminder-message pilot
 
 ## Executive summary
 
-Introduce a concise handover template with issue summary, steps tried, current status, next action, owner, and customer update timing. A limited pilot will test whether the change addresses the observed problem before wider adoption.
+Revise appointment reminders to show the date, time, location or connection details, cancellation route, and contact method in a consistent format. Pilot the revised message with one service before wider adoption and review whether users find it clearer.
 
 ## Current process and evidence of the problem
 
-Cases passed between support agents sometimes omit what has already been tested, the current status, or the next promised update.
+Current reminders may use different wording across teams, and some omit the route for changing an appointment. Review recent customer questions and missed-appointment feedback to confirm which details are most often unclear.
 
 ## Root causes and constraints
 
-The template should reduce repeated questions and help the next agent continue the case. It must not encourage agents to promise a resolution date before one is known. Constraints include staff time, existing tools, and the need to keep current responsibilities clear.
+Messages have been created by different teams over time. Privacy rules and user communication preferences limit what can be included, and not every service uses the same booking system.
 
 ## Recommended improvement
 
-Introduce a concise handover template with issue summary, steps tried, current status, next action, owner, and customer update timing.
+Create a standard message template with a concise appointment summary and a clear action for rescheduling or cancellation. Use approved channels and include only the information appropriate for that channel. Do not include sensitive details in notifications that may appear on a shared device.
 
 ## Implementation and change management
 
-Draft the template with agents, test it on one case category for two weeks, review handover quality, and adjust before rollout. Support operations owns the pilot.
+Service operations will draft the template, privacy and service owners will review it, and one team will test it for a defined period. Staff should record common questions and any delivery problems.
 
 ## Benefits, costs, and risks
 
-Costs are staff time for design, training, and review; no new tool is assumed. Track completeness of handovers and the reasons for repeat contacts rather than using raw closure speed alone.
-Too many required fields could slow urgent cases. Keep the template short and allow a clear urgent escalation path.
+The change mainly requires review and configuration time. Clearer reminders may help users plan, but the effect on attendance should be measured and not assumed. The main risks are incorrect appointment details and messages sent to outdated contact information.
 
 ## Measures, review, and approval
 
-Approve a two-week pilot and decide whether to expand based on agent feedback, handover completeness, and anonymised case review.
+Approve the pilot. Review message accuracy, user feedback, and recurring clarification questions before deciding whether to use the template across services.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Verify privacy and consent requirements before the template is enabled.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal balances usability with accuracy and privacy constraints.

@@ -1,53 +1,53 @@
-# Proposal to improve onboarding guidance
+# Improvement proposal: reduce errors in monthly reporting
 
-*Illustrative improvement proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative improvement proposal. Confirm the current reporting process and error history before approval.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+The proposal aims to reduce preventable reporting errors without adding unnecessary approval steps.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+It describes the current risk, likely causes, a revised check, and a time-limited review.
 
 ## Title and metadata
 
-Proposal to improve onboarding guidance
-Owner: Process improvement lead | Status: Proposal
+**Owner:** Reporting team lead  
+**Status:** Improvement proposal  
+**Decision requested:** Approve a revised pre-publication checklist
 
 ## Executive summary
 
-Consolidate the five most-used onboarding tasks into task-based guides, name a content owner for each, and add a quarterly link review. A limited pilot will test whether the change addresses the observed problem before wider adoption.
+Introduce a short pre-publication checklist for monthly reports. The checklist would confirm the reporting period, source version, key definitions, and totals before a report is circulated. The team should pilot it for two reporting cycles and revise it if it creates duplication without improving reliability.
 
 ## Current process and evidence of the problem
 
-New colleagues receive the same setup instructions in several places, and some pages list prerequisites after the steps that depend on them.
+Reports are assembled from several source files, and checks vary between authors. The team should review recent corrections and feedback to identify the most common error types and establish a baseline before deciding whether the checklist is sufficient.
 
 ## Root causes and constraints
 
-Clear task headings and current links should make instructions easier to locate. A platform replacement is not proposed until content and ownership issues have been addressed. Constraints include staff time, existing tools, and the need to keep current responsibilities clear.
+Potential causes include copied filters from a previous period, inconsistent definitions, and late changes to source files. The reporting deadline is fixed, so the check must be short and assignable without delaying routine publication.
 
 ## Recommended improvement
 
-Consolidate the five most-used onboarding tasks into task-based guides, name a content owner for each, and add a quarterly link review.
+Create a checklist that records the report period, source file version, reconciliation of key totals, and reviewer sign-off. Include a step to label partial periods and explain any material limitation.
 
 ## Implementation and change management
 
-Select guides in week 1; revise drafts in weeks 2–3; test with new readers in week 4; revise and publish in week 5. People operations coordinates; page owners validate procedures.
+The team lead will draft the checklist with report authors and test it on the next two cycles. Feedback should identify steps that catch real errors and those that merely repeat existing controls.
 
 ## Benefits, costs, and risks
 
-The main investment is staff editing and review time. Any tooling cost is excluded unless the pilot identifies a specific requirement. Success should be measured by reader task completion, correction requests, and feedback.
-A guide may become stale if ownership is unclear or linked policies change. Assign owners and include a review date; do not duplicate policy text that is maintained elsewhere.
+The main cost is review time. The benefit is more consistent validation and a clearer audit trail. A checklist can still miss errors if source data is wrong or reviewers treat the process as a formality.
 
 ## Measures, review, and approval
 
-Approve a five-guide pilot. Expand only if readers can locate the correct steps and content owners can maintain the pages within the agreed effort.
+Compare correction types and review effort across the pilot cycles, using the same definitions. Approve the trial and review the outcome before making the checklist mandatory.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Ensure that the checklist does not replace required financial or compliance controls.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal defines a limited change and evaluates both effectiveness and workload.

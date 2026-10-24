@@ -1,56 +1,57 @@
-# Proposal for a structured customer-support handover
+# Business proposal: refreshing the customer help centre
 
-*Illustrative business proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative proposal. Verify support trends, content ownership, and platform constraints before approval.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+The proposal seeks approval for a scoped content audit and targeted refresh, not a complete platform replacement.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+It explains the user problem, proposed work, governance, cost assumptions, and success criteria.
 
 ## Title and decision metadata
 
-Proposal for a structured customer-support handover
-Owner: Operations lead | Date: 24 October 2026 | Decision: approve a limited pilot
+**Owner:** Customer experience lead  
+**Date:** 24 October 2026  
+**Decision requested:** Approve a six-week help-content audit
 
 ## Executive summary
 
-Introduce a concise handover template with issue summary, steps tried, current status, next action, owner, and customer update timing. The proposal is designed to test the operational value before committing to a wider rollout.
+Approve a six-week audit of high-use help articles to identify outdated instructions, unclear wording, and gaps in escalation guidance. The team will prioritise fixes based on verified support cases and user feedback, then report whether a wider redesign is justified.
 
 ## Business need and current state
 
-Cases passed between support agents sometimes omit what has already been tested, the current status, or the next promised update.
+Customers and support agents rely on help articles to answer common questions. Some guidance may no longer match current product behaviour, but the scope and frequency of such issues should be confirmed before investing in a larger redesign.
 
 ## Proposed solution and scope
 
-Introduce a concise handover template with issue summary, steps tried, current status, next action, owner, and customer update timing.
+Review a defined set of frequently used articles, confirm each with the relevant product owner, and test the instructions with a reader unfamiliar with the process. The audit excludes changes to product functionality and any new customer-support platform.
 
 ## Market, customer, or operational rationale
 
-The template should reduce repeated questions and help the next agent continue the case. It must not encourage agents to promise a resolution date before one is known.
+Clear, current guidance can help users complete routine tasks and support agents respond consistently. The benefit should be evaluated through article accuracy, user feedback, and the nature of related support cases rather than article volume alone.
 
 ## Delivery plan and governance
 
-Draft the template with agents, test it on one case category for two weeks, review handover quality, and adjust before rollout. Support operations owns the pilot.
+The content owner will coordinate the audit, product specialists will validate technical steps, and the support lead will prioritise articles. Changes to policy or product behaviour require approval from the relevant owner.
 
 ## Budget, benefits, and commercial assumptions
 
-Costs are staff time for design, training, and review; no new tool is assumed. Track completeness of handovers and the reasons for repeat contacts rather than using raw closure speed alone.
+The work uses existing staff and the current publishing platform. Staff time is the main cost. No reduction in support volume is assumed until the revised articles have been evaluated.
 
 ## Risks and mitigations
 
-Too many required fields could slow urgent cases. Keep the template short and allow a clear urgent escalation path.
+A review may identify dependencies that cannot be fixed within six weeks. Record these separately with owners and proposed dates rather than leaving inaccurate guidance in place without a warning.
 
 ## Success measures and decision requested
 
-Approve a two-week pilot and decide whether to expand based on agent feedback, handover completeness, and anonymised case review.
+Approve the audit and name the content and technical reviewers. At the end, decide whether to continue targeted updates or commission a broader redesign.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Verify the article set and the approval route before the audit begins.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal requests a bounded, evidence-led piece of work with a clear next decision.
