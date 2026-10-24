@@ -1,12 +1,27 @@
-# A workplace policy
+# Complaint about an incorrect booking
 
-**Subject:** Thank you for your support
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Dear Jordan,
+## Subject Line
 
-Thank you for your help with a workplace policy. Your prompt feedback made it easier to resolve the main questions and move forward with confidence. I particularly appreciated the clear explanation of the options. I will share the outcome with the wider team.
+**Complaint about an incorrect booking**
 
-Best regards,
-Alex Morgan
+## Greeting and Purpose
 
----
+Dear [Recipient], I am contacting you about complaint about an incorrect booking. The reference is [verified order or case number], and the issue occurred on [confirmed date]. Please review the record and let me know what resolution is available.
+
+## Facts and Timeline
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Impact and Evidence
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Requested Resolution
+
+Dear [Recipient], I am contacting you about complaint about an incorrect booking. The reference is [verified order or case number], and the issue occurred on [confirmed date]. Please review the record and let me know what resolution is available.
+
+## Closing
+
+Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.

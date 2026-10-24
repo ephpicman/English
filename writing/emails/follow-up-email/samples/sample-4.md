@@ -1,12 +1,23 @@
-# A university course
+# Follow-up on a support request
 
-**Subject:** Meeting and next steps
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Hello everyone,
+## Subject/thread reference
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+**Follow-up on a support request**
 
-Best regards,
-Alex Morgan
+## Prior contact
 
----
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Reason for follow-up
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Update or question
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Next step and close
+
+Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.

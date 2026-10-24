@@ -1,12 +1,23 @@
-# A new colleague
+# Follow-up after a client meeting
 
-**Subject:** Enquiry about available options
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Dear Hiring Team,
+## Subject/thread reference
 
-I am considering a new colleague and would be grateful if you could clarify the available options, expected timeline and total cost. Please also let me know whether any prerequisites or supporting documents are required. This will help me assess whether it meets our needs.
+**Follow-up after a client meeting**
 
-Yours faithfully,
-Alex Morgan
+## Prior contact
 
----
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Reason for follow-up
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Update or question
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Next step and close
+
+Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.

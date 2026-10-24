@@ -1,12 +1,23 @@
-# A missed project deadline
+# Follow-up on a pending proposal
 
-**Subject:** Following up on our discussion
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Hello Priya,
+## Subject/thread reference
 
-I wanted to follow up regarding a missed project deadline. I appreciate that you have several priorities, so please let me know whether you have had a chance to review the information. I can send a concise summary or arrange a short call if that would be easier.
+**Follow-up on a pending proposal**
 
-Best regards,
-Alex Morgan
+## Prior contact
 
----
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Reason for follow-up
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Update or question
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Next step and close
+
+Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.

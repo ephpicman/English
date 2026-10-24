@@ -1,12 +1,23 @@
-# A workplace policy
+# Follow-up after a networking conversation
 
-**Subject:** Thank you for your support
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Dear Jordan,
+## Subject/thread reference
 
-Thank you for your help with a workplace policy. Your prompt feedback made it easier to resolve the main questions and move forward with confidence. I particularly appreciated the clear explanation of the options. I will share the outcome with the wider team.
+**Follow-up after a networking conversation**
 
-Best regards,
-Alex Morgan
+## Prior contact
 
----
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Reason for follow-up
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Update or question
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Next step and close
+
+Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.

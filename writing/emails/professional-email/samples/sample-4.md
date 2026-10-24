@@ -1,12 +1,35 @@
-# A university course
+# Escalating a recurring issue
 
-**Subject:** Meeting and next steps
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Hello everyone,
+## Email structure
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
 
-Best regards,
-Alex Morgan
+## Subject line
 
----
+**Escalating a recurring issue**
+
+## Greeting and purpose
+
+Hello [Recipient], I am writing to provide an update on escalating a recurring issue. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+
+## Essential context
+
+Hello [Recipient], I am writing to provide an update on escalating a recurring issue. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+
+## Main message or request
+
+Hello [Recipient], I am writing to provide an update on escalating a recurring issue. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+
+## Action, timing, or next step
+
+Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+
+## Closing and sign-off
+
+Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+
+## IELTS-oriented language practice
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.

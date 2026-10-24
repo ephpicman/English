@@ -1,12 +1,23 @@
-# A university course
+# Enquiry about accessibility arrangements
 
-**Subject:** Meeting and next steps
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Hello everyone,
+## Subject
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+**Enquiry about accessibility arrangements**
 
-Best regards,
-Alex Morgan
+## Greeting and context
 
----
+Dear [Recipient], I am writing to ask about enquiry about accessibility arrangements. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.
+
+## Questions
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Constraints
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Response request and sign-off
+
+Dear [Recipient], I am writing to ask about enquiry about accessibility arrangements. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.

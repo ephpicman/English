@@ -1,12 +1,23 @@
-# A missed project deadline
+# Meeting invitation for a design review
 
-**Subject:** Following up on our discussion
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Hello Priya,
+## Subject
 
-I wanted to follow up regarding a missed project deadline. I appreciate that you have several priorities, so please let me know whether you have had a chance to review the information. I can send a concise summary or arrange a short call if that would be easier.
+**Meeting invitation for a design review**
 
-Best regards,
-Alex Morgan
+## Purpose and outcome
 
----
+Hello [Recipient], could we arrange a short meeting about meeting invitation for a design review? I suggest [two possible times], but I can adapt to your availability. The intended outcome is to agree the next steps and assign responsibilities.
+
+## Logistics
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Agenda and preparation
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Confirmation and sign-off
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.

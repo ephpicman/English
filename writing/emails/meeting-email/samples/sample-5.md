@@ -1,12 +1,23 @@
-# A workplace policy
+# Request for a short decision meeting
 
-**Subject:** Thank you for your support
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Dear Jordan,
+## Subject
 
-Thank you for your help with a workplace policy. Your prompt feedback made it easier to resolve the main questions and move forward with confidence. I particularly appreciated the clear explanation of the options. I will share the outcome with the wider team.
+**Request for a short decision meeting**
 
-Best regards,
-Alex Morgan
+## Purpose and outcome
 
----
+Hello [Recipient], could we arrange a short meeting about request for a short decision meeting? I suggest [two possible times], but I can adapt to your availability. The intended outcome is to agree the next steps and assign responsibilities.
+
+## Logistics
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Agenda and preparation
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Confirmation and sign-off
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.

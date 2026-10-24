@@ -1,12 +1,27 @@
-# A missed project deadline
+# Complaint about a delayed delivery
 
-**Subject:** Following up on our discussion
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Hello Priya,
+## Subject Line
 
-I wanted to follow up regarding a missed project deadline. I appreciate that you have several priorities, so please let me know whether you have had a chance to review the information. I can send a concise summary or arrange a short call if that would be easier.
+**Complaint about a delayed delivery**
 
-Best regards,
-Alex Morgan
+## Greeting and Purpose
 
----
+Dear [Recipient], I am contacting you about complaint about a delayed delivery. The reference is [verified order or case number], and the issue occurred on [confirmed date]. Please review the record and let me know what resolution is available.
+
+## Facts and Timeline
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Impact and Evidence
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Requested Resolution
+
+Dear [Recipient], I am contacting you about complaint about a delayed delivery. The reference is [verified order or case number], and the issue occurred on [confirmed date]. Please review the record and let me know what resolution is available.
+
+## Closing
+
+Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.

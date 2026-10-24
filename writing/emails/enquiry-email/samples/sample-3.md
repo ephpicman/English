@@ -1,12 +1,23 @@
-# A new colleague
+# Enquiry about a service quotation
 
-**Subject:** Enquiry about available options
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Dear Hiring Team,
+## Subject
 
-I am considering a new colleague and would be grateful if you could clarify the available options, expected timeline and total cost. Please also let me know whether any prerequisites or supporting documents are required. This will help me assess whether it meets our needs.
+**Enquiry about a service quotation**
 
-Yours faithfully,
-Alex Morgan
+## Greeting and context
 
----
+Dear [Recipient], I am writing to ask about enquiry about a service quotation. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.
+
+## Questions
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Constraints
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Response request and sign-off
+
+Dear [Recipient], I am writing to ask about enquiry about a service quotation. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.

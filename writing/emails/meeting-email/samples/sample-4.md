@@ -1,12 +1,23 @@
-# A university course
+# Meeting agenda for a service review
 
-**Subject:** Meeting and next steps
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Hello everyone,
+## Subject
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+**Meeting agenda for a service review**
 
-Best regards,
-Alex Morgan
+## Purpose and outcome
 
----
+Hello [Recipient], could we arrange a short meeting about meeting agenda for a service review? I suggest [two possible times], but I can adapt to your availability. The intended outcome is to agree the next steps and assign responsibilities.
+
+## Logistics
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Agenda and preparation
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Confirmation and sign-off
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.

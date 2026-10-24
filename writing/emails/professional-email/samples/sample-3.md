@@ -1,12 +1,35 @@
-# A new colleague
+# Clarifying a delivery timeline
 
-**Subject:** Enquiry about available options
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Dear Hiring Team,
+## Email structure
 
-I am considering a new colleague and would be grateful if you could clarify the available options, expected timeline and total cost. Please also let me know whether any prerequisites or supporting documents are required. This will help me assess whether it meets our needs.
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
 
-Yours faithfully,
-Alex Morgan
+## Subject line
 
----
+**Clarifying a delivery timeline**
+
+## Greeting and purpose
+
+Hello [Recipient], I am writing to provide an update on clarifying a delivery timeline. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+
+## Essential context
+
+Hello [Recipient], I am writing to provide an update on clarifying a delivery timeline. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+
+## Main message or request
+
+Hello [Recipient], I am writing to provide an update on clarifying a delivery timeline. The current status is [verified status]; the main outstanding item is [item]. I will confirm any changes as soon as they are known.
+
+## Action, timing, or next step
+
+Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+
+## Closing and sign-off
+
+Please confirm the agreed action and expected timing. I will keep the relevant record up to date and contact you if the plan changes. Thank you for your time.
+
+## IELTS-oriented language practice
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.

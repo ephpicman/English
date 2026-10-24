@@ -1,24 +1,39 @@
-# A workplace policy
+# Operations assistant resume
 
-**Alex Morgan**  
-Project Coordinator | alex.morgan@example.com | Berlin, Germany
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-## Profile
-Project coordinator with four years of experience improving workflows, communicating with stakeholders and tracking delivery risks.
+## Plan first
 
-## Experience
-**Project Coordinator — Northstar Services | 2023–Present**
-- Coordinated six concurrent projects across multiple teams.
-- Introduced a shared tracker that reduced overdue actions by 25%.
-- Prepared concise weekly reports for senior stakeholders.
+This section should make operations assistant resume concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
 
-**Operations Assistant — Brightline | 2021–2023**
-- Maintained records and supported customer escalations.
+## Contact information and target role
+
+This section should make operations assistant resume concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+
+## Professional summary
+
+A operations assistant resume should lead with the role-relevant strengths and scope of experience. Keep claims specific, use plain language, and include only skills or outcomes that can be supported by the candidate's actual record.
 
 ## Skills
-Project planning, stakeholder communication, Excel, risk tracking and process improvement.
 
-## Education
-BA Business Management, City University, 2021
+Select the experience most relevant to operations assistant resume. Describe the task, the candidate's own contribution, the tools or process used, and the outcome. Use numbers only when verified, and distinguish personal responsibility from team results.
 
----
+## Professional experience
+
+Select the experience most relevant to operations assistant resume. Describe the task, the candidate's own contribution, the tools or process used, and the outcome. Use numbers only when verified, and distinguish personal responsibility from team results.
+
+## Education and qualifications
+
+Select the experience most relevant to operations assistant resume. Describe the task, the candidate's own contribution, the tools or process used, and the outcome. Use numbers only when verified, and distinguish personal responsibility from team results.
+
+## Projects, certifications, or additional experience
+
+Select the experience most relevant to operations assistant resume. Describe the task, the candidate's own contribution, the tools or process used, and the outcome. Use numbers only when verified, and distinguish personal responsibility from team results.
+
+## Optional sections
+
+This section should make operations assistant resume concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.
+
+## Resume-specific checks
+
+This section should make operations assistant resume concrete for the intended reader. State the relevant facts, explain the action taken, and connect the evidence to the role or requested outcome. Avoid vague adjectives and unsupported claims; use real examples in a final version.

@@ -1,12 +1,23 @@
-# A university mentoring programme
+# Enquiry about course entry requirements
 
-**Subject:** Request to resolve a service issue
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Dear Customer Support Team,
+## Subject
 
-I am writing about a university mentoring programme. The service did not match the arrangements confirmed earlier, and my attempts to resolve the issue have not been successful. Please investigate and let me know whether a correction or refund is appropriate. I would appreciate an update within five working days.
+**Enquiry about course entry requirements**
 
-Kind regards,
-Alex Morgan
+## Greeting and context
 
----
+Dear [Recipient], I am writing to ask about enquiry about course entry requirements. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.
+
+## Questions
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Constraints
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Response request and sign-off
+
+Dear [Recipient], I am writing to ask about enquiry about course entry requirements. Could you please confirm the relevant requirements, key dates, costs, and any documents I should prepare? This information will help me decide how to proceed.

@@ -1,12 +1,23 @@
-# A new colleague
+# Rescheduling a team meeting
 
-**Subject:** Enquiry about available options
+*Illustrative example. Replace all bracketed details with verified information before real use.*
 
-Dear Hiring Team,
+## Subject
 
-I am considering a new colleague and would be grateful if you could clarify the available options, expected timeline and total cost. Please also let me know whether any prerequisites or supporting documents are required. This will help me assess whether it meets our needs.
+**Rescheduling a team meeting**
 
-Yours faithfully,
-Alex Morgan
+## Purpose and outcome
 
----
+Hello [Recipient], could we arrange a short meeting about rescheduling a team meeting? I suggest [two possible times], but I can adapt to your availability. The intended outcome is to agree the next steps and assign responsibilities.
+
+## Logistics
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Agenda and preparation
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+
+## Confirmation and sign-off
+
+Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
