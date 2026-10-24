@@ -28,6 +28,8 @@ Some roles require immediate availability, such as live customer support or oper
 
 Outcome-based assessment also requires agreement about what counts as a good result. Some work has measurable outputs, such as a completed report or resolved support case; other work depends on quality, risk reduction, or collaboration over time. Managers should set expectations with employees and review them when priorities change. This is more demanding than monitoring online status because it requires judgment and communication, but it gives both sides a clearer basis for discussing performance. It also makes it easier to identify when a missed outcome reflects an unclear goal or an obstacle that management can remove.
 
+Road design should be reviewed after opening, not treated as finished once construction ends. Observing how people use a crossing at different times can reveal whether signal timing, visibility, or loading activity creates a new conflict. Residents should have a clear way to report problems, and the authority should publish what it changes in response. This feedback loop makes the infrastructure safer over time.
+
 ## Conclusion and implication
 
 Workplaces should replace vague visibility tests with clear outcomes, appropriate service measures, and regular conversations about quality. This approach supports accountability while making room for different working styles and the concentration needed to do good work.

@@ -28,6 +28,8 @@ Public services cannot always be as simple as a retail checkout. They may need i
 
 A user-centred process should still be transparent about the rules that cannot be changed. If a service requires identity verification or supporting documents, explain why the information is needed, how it will be used, and what happens if the user cannot provide it. When an application is rejected, the explanation should identify the missing requirement and any available review route. This does not guarantee that every decision will be welcome, but it gives people a clearer understanding of the process and reduces avoidable repeat contact. Simplicity is most valuable when it improves comprehension without hiding important obligations.
 
+Schools can build these skills through short activities in science, history, language, and civic education. A science class might compare the evidence behind two claims, while a history lesson might examine how a photograph’s caption changes its interpretation. Repeated practice across subjects shows students that source evaluation is not a niche digital skill but part of careful thinking in any field.
+
 ## Conclusion and implication
 
 Designing around users helps public services become easier to understand without abandoning accountability. Organisations should test important tasks with the people who use them, remove unnecessary friction, and explain any unavoidable complexity clearly.

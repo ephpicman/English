@@ -28,6 +28,8 @@ Some argue that the curriculum is already crowded and that digital skills are be
 
 Media literacy should be assessed through the reasoning students show, not through whether they reach a teacher’s preferred conclusion. A student may reasonably disagree with an interpretation while still demonstrating careful source checking and a fair account of the evidence. Teachers can ask learners to identify what would change their mind, which sources are independent, and which claims remain uncertain. This approach encourages intellectual humility without treating all claims as equally credible. It also makes room for discussion of how images, headlines, and recommendation systems shape what people notice.
 
+Performance discussions should also recognise that work is interdependent. An employee may complete their own task on time but depend on a delayed decision from another team. A fair review records those dependencies and looks at what the employee could reasonably control. This does not remove responsibility; it makes expectations more precise and helps managers identify where the process needs improvement rather than assigning blame to the most visible person.
+
 ## Conclusion and implication
 
 Schools should make critical evaluation a normal part of learning. By practising source checks, privacy decisions, and transparent reasoning, students can become more confident users of information without confusing confidence with certainty.

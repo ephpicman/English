@@ -28,6 +28,8 @@ Some residents argue that road space is limited and that cycling infrastructure 
 
 The design process should include people who are least likely to be comfortable speaking at a formal consultation. A short trial route, a walk-through with local residents, and a way to report maintenance problems can reveal barriers that a planning map misses. Authorities should also check how new infrastructure connects to existing bus stops and local destinations. A route that looks impressive on a map but ends at a dangerous junction is not a complete journey. Maintenance matters too: faded markings, blocked pavements, and broken lighting can undo the benefit of an initial investment.
 
+The review should include the experience of people who rely on public services, not only those who already use them regularly. A branch’s quiet period may reflect unsuitable opening hours or a lack of awareness rather than a lack of need. Asking local schools, community groups, and residents about practical barriers can help the library choose changes that are relevant instead of simply copying another branch’s model.
+
 ## Conclusion and implication
 
 Walking and cycling should be treated as transport options that need reliable infrastructure. Cities should prioritise continuous routes, safe junctions, accessible pavements, and maintenance, then use local feedback to improve the design rather than rely on awareness campaigns alone.
