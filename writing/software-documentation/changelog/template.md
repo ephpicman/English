@@ -1,50 +1,53 @@
 # Changelog Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- PURPOSE: Reusable software-documentation scaffold. Replace every placeholder and remove drafting notes before publication. -->
+<!-- BRIEF: Audience = [PLACEHOLDER: identify]; reader task = [PLACEHOLDER: state]; product/version = [PLACEHOLDER: specify]; verified sources = [PLACEHOLDER: link]. -->
+<!-- ACCURACY: Do not invent system behaviour, commands, versions, schemas, errors, or results. Resolve all [TO CONFIRM: ...] notes before publication. Project standards take precedence. -->
 
-<!-- WORD COUNT STANDARD: Target total = 50–300 words per release. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+## Before drafting
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+1. Identify the reader's task and the outcome this document must enable.
+2. Verify details against authoritative sources for the stated version.
+3. Keep only relevant sections; remove inapplicable headings rather than adding generic filler.
+4. Prefer exact terminology, active voice, and short, task-focused paragraphs.
+5. For procedures, state prerequisites, action, expected result, and recovery path.
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Changelog. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Version and release date. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 2–8. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Version and release date
+## Document structure
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Use the actual released version and date. -->
+## Version and date
 
-<!-- SECTION INSTRUCTIONS: Added. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 0–80. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+[PLACEHOLDER: complete this section with verified, task-specific information]
+
+<!-- SECTION GUIDE: List user-visible new capabilities and their practical effect. -->
 ## Added
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section with verified, task-specific information]
 
-<!-- SECTION INSTRUCTIONS: Changed. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 0–80. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+<!-- SECTION GUIDE: Describe changed behaviour, compatibility effects, and migration requirements. -->
 ## Changed
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section with verified, task-specific information]
 
-<!-- SECTION INSTRUCTIONS: Fixed. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 0–80. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+<!-- SECTION GUIDE: Describe the problem fixed and affected behaviour; verify issue references. -->
 ## Fixed
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section with verified, task-specific information]
 
-<!-- SECTION INSTRUCTIONS: Deprecated / Removed / Security if applicable. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 0–80. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Deprecated / Removed / Security if applicable
+<!-- SECTION GUIDE: State affected version, replacement, timeline, and user action. -->
+## Deprecated and removed
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section with verified, task-specific information]
 
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+<!-- SECTION GUIDE: Include approved security information without exposing exploit details. -->
+## Security
+
+[PLACEHOLDER: complete this section with verified, task-specific information]
+
+## Final quality check
+
+- Are commands, endpoints, schemas, versions, links, and outputs verified?
+- Are prerequisites, limitations, failure cases, and compatibility requirements explicit?
+- Are instructions correctly ordered and success criteria testable?
+- Are privacy and secure credential handling addressed where relevant?
+- Have all placeholders and unresolved notes been removed?

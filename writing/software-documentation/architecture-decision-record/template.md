@@ -1,60 +1,58 @@
 # Architecture Decision Record Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- PURPOSE: Reusable software-documentation scaffold. Replace every placeholder and remove drafting notes before publication. -->
+<!-- BRIEF: Audience = [PLACEHOLDER: identify]; reader task = [PLACEHOLDER: state]; product/version = [PLACEHOLDER: specify]; verified sources = [PLACEHOLDER: link]. -->
+<!-- ACCURACY: Do not invent system behaviour, commands, versions, schemas, errors, or results. Resolve all [TO CONFIRM: ...] notes before publication. Project standards take precedence. -->
 
-<!-- WORD COUNT STANDARD: Target total = 300–700 words. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+## Before drafting
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+1. Identify the reader's task and the outcome this document must enable.
+2. Verify details against authoritative sources for the stated version.
+3. Keep only relevant sections; remove inapplicable headings rather than adding generic filler.
+4. Prefer exact terminology, active voice, and short, task-focused paragraphs.
+5. For procedures, state prerequisites, action, expected result, and recovery path.
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Architecture Decision Record. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Title and status. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 5–20. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Title and status
+## Document structure
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Record decision title, status, date, and decision owners. -->
+## Title, status, date, owners
 
-<!-- SECTION INSTRUCTIONS: Context and problem. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 80–140. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+[PLACEHOLDER: complete this section with verified, task-specific information]
+
+<!-- SECTION GUIDE: Explain the problem, forces, constraints, and assumptions. -->
 ## Context and problem
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section with verified, task-specific information]
 
-<!-- SECTION INSTRUCTIONS: Decision drivers / constraints. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 40–80. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Decision drivers / constraints
+<!-- SECTION GUIDE: List criteria such as reliability, security, cost, performance, and operability. -->
+## Decision drivers
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section with verified, task-specific information]
 
-<!-- SECTION INSTRUCTIONS: Decision. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 40–80. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+<!-- SECTION GUIDE: Compare credible alternatives against the same criteria and explain rejections. -->
+## Options considered
+
+[PLACEHOLDER: complete this section with verified, task-specific information]
+
+<!-- SECTION GUIDE: State the selected option and why it best meets the drivers. -->
 ## Decision
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section with verified, task-specific information]
 
-<!-- SECTION INSTRUCTIONS: Alternatives considered. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 60–120. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Alternatives considered
-
-[PLACEHOLDER: write this section according to the instructions above]
-
-<!-- SECTION INSTRUCTIONS: Consequences and trade-offs. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 60–120. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+<!-- SECTION GUIDE: Record benefits, costs, risks, migration effects, and accepted downsides. -->
 ## Consequences and trade-offs
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section with verified, task-specific information]
 
-<!-- SECTION INSTRUCTIONS: Follow-up actions if needed. Purpose: Make instructions and claims precise, testable, and reproducible. Length: 20–50. Include only relevant information, be specific and verifiable, and avoid repetition. State assumptions and prerequisites; ensure commands, schemas, and behaviour claims can be verified. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Follow-up actions if needed
+<!-- SECTION GUIDE: List actions with owners and conditions for revisiting the decision. -->
+## Follow-up and review triggers
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section with verified, task-specific information]
 
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+## Final quality check
+
+- Are commands, endpoints, schemas, versions, links, and outputs verified?
+- Are prerequisites, limitations, failure cases, and compatibility requirements explicit?
+- Are instructions correctly ordered and success criteria testable?
+- Are privacy and secure credential handling addressed where relevant?
+- Have all placeholders and unresolved notes been removed?
