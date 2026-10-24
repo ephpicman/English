@@ -1,10 +1,10 @@
-# Internal announcement: Portal launch readiness
+# Internal announcement: customer portal readiness review
 
-*Illustrative internal announcement. Confirm dates and operational details before sending.*
+*Illustrative announcement. Confirm operational dates and status before sending.*
 
 ## Plan first
 
-The message explains the change, who is affected, what action is required, and where to get help.
+Explain the current status, who is affected, and what action is required.
 
 ## Document structure
 
@@ -12,34 +12,40 @@ Lead with the main message and keep supporting context brief.
 
 ## Announcement metadata
 
-- **Date:** 12 November 2026
+- **Date:** 24 October 2026
 - **Contact:** Morgan Chen
-- **Audience:** Relevant project and operations teams
+- **Audience:** Portal project and operations teams
 
 ## Headline and key message
 
-**The portal release remains conditional on final checks.**
+**The customer portal remains in readiness review; two checks are still open.**
 
 ## What is changing and why
 
-The navigation and content review are complete. Accessibility testing and one authentication dependency remain open, so the release date is not yet confirmed. Keep the release gated on the two open checks and confirm the decision at the next readiness review.
+The project is continuing preparation, but the launch decision will not be finalised until the authentication configuration and accessibility findings have been reviewed. This ensures the decision is based on confirmed evidence rather than expected completion dates.
 
 ## Impact on employees and teams
 
-Product, support, and communications teams should avoid announcing a firm launch date until the release gate is met.
+Work that does not depend on these checks can continue. Teams should not communicate an unconditional launch date externally until the release lead confirms the decision.
 
 ## Actions, dates, and support
 
-Morgan: obtain authentication status by 5 November. Priya: complete accessibility review by 6 November. Release lead: update the schedule after both checks. Use the readiness checklist and raise any blocker in the project channel.
+- Identity representative: confirm the configuration and test slot by 28 October.
+- Accessibility lead: classify findings by 29 October.
+- Project coordinator: update the readiness checklist by 30 October.
+- Release lead: review the evidence on 2 November.
+
+Questions about status should be directed to the project coordinator. Use the shared readiness checklist as the current source of truth.
 
 ## Closing and contact
 
-Please review the relevant project record and raise any blocker with Morgan Chen before the stated deadline.
+Thank you for keeping updates accurate and flagging new blockers promptly.  
+Contact: Morgan Chen, project coordination.
 
 ## Final quality check
 
-Confirm the audience, date, required action, and support route. Remove any internal detail that the audience does not need.
+Confirm owners, dates, and the current status before distribution.
 
 ## IELTS-oriented language practice
 
-The announcement prioritises the key change and practical next steps. In a real announcement, clarity and accuracy are more important than lengthy background.
+The announcement explains the change, the reason, and the actions required.

@@ -1,45 +1,46 @@
-# Internal announcement: Monthly reporting definitions
+# Internal announcement: meeting-room booking pilot
 
-*Illustrative internal announcement. Confirm dates and operational details before sending.*
+*Illustrative announcement. Confirm the rooms, calendar link, and pilot dates before circulation.*
 
 ## Plan first
 
-The message explains the change, who is affected, what action is required, and where to get help.
+Explain the pilot, the staff groups affected, and the actions they need to take.
 
 ## Document structure
 
-Lead with the main message and keep supporting context brief.
+Lead with the start date and practical instructions.
 
 ## Announcement metadata
 
-- **Date:** 18 November 2026
-- **Contact:** Daniel Okafor
-- **Audience:** Relevant project and operations teams
+- **Date:** 24 October 2026
+- **Contact:** Workplace services
+- **Audience:** Staff booking shared meeting rooms
 
 ## Headline and key message
 
-**No data definition changes will be applied until the owners agree the intended meaning.**
+**A shared calendar will be used for selected meeting rooms during a four-week pilot.**
 
 ## What is changing and why
 
-Two source systems use different meanings for the same category label. Combining them without clarification could make the totals misleading. Keep the fields separate until the source owners approve a shared definition.
+From 2 November, staff should book the selected rooms through the shared calendar instead of relying on informal messages. The pilot is intended to make availability visible and reduce conflicting reservations.
 
 ## Impact on employees and teams
 
-Report readers should treat the affected totals as provisional and avoid comparing them directly with prior periods.
+For each booking, enter the meeting time, expected attendance, and equipment needs. If a booking changes, update the existing calendar entry rather than creating a second one. Current rules for accessible arrangements and urgent room changes remain in place.
 
 ## Actions, dates, and support
 
-Daniel: circulate examples by 20 November. Source owners: confirm definitions by 25 November. Analytics lead: update the data dictionary after approval. The data dictionary and issue log are available in the reporting workspace.
+The list of rooms and calendar link will be shared before the pilot begins. Workplace services will monitor conflicts weekly and collect feedback through the service desk. The pilot will be reviewed on 7 December before any decision to expand it.
 
 ## Closing and contact
 
-Please review the relevant project record and raise any blocker with Daniel Okafor before the stated deadline.
+Thank you for using the calendar consistently during the trial.  
+Contact: Workplace services.
 
 ## Final quality check
 
-Confirm the audience, date, required action, and support route. Remove any internal detail that the audience does not need.
+Check the pilot scope and ensure the calendar is accessible to the intended staff.
 
 ## IELTS-oriented language practice
 
-The announcement prioritises the key change and practical next steps. In a real announcement, clarity and accuracy are more important than lengthy background.
+The announcement distinguishes the pilot from a permanent policy change.

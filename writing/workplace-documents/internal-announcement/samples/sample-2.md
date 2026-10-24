@@ -1,45 +1,46 @@
-# Internal announcement: New request intake process
+# Internal announcement: new document accessibility checklist
 
-*Illustrative internal announcement. Confirm dates and operational details before sending.*
+*Illustrative announcement. Confirm policy requirements and support contacts before circulation.*
 
 ## Plan first
 
-The message explains the change, who is affected, what action is required, and where to get help.
+Tell staff what changes, when it starts, and where to find help.
 
 ## Document structure
 
-Lead with the main message and keep supporting context brief.
+State the new expectation first, then explain the impact and support.
 
 ## Announcement metadata
 
-- **Date:** 4 November 2026
-- **Contact:** Jordan Lee
-- **Audience:** Relevant project and operations teams
+- **Date:** 24 October 2026
+- **Contact:** Communications lead
+- **Audience:** Staff who create external documents
 
 ## Headline and key message
 
-**Requests for the pilot category will be recorded in one shared queue instead of separate email lists.**
+**A short accessibility check will be required before new external documents are published.**
 
 ## What is changing and why
 
-Requests currently arrive through email and a shared spreadsheet. Duplicate entries and missing ownership make it difficult to see what needs attention. Pilot one intake queue for the facilities request category for four weeks.
+From 2 November, authors should complete the document accessibility checklist before submitting new external guidance or major revisions. The check supports the existing accessibility policy and helps identify barriers earlier in the drafting process.
 
 ## Impact on employees and teams
 
-Staff should record new requests in the queue and avoid creating duplicate entries in local trackers.
+Authors should use semantic heading styles, descriptive link text, meaningful table headers, and appropriate alternative text. Run the available checker, then review the document manually. The checklist does not replace specialist review where it is required.
 
 ## Actions, dates, and support
 
-Jordan: configure fields by 6 November. Team leads: agree status definitions by 5 November. Operations manager: review the pilot after four weeks. A one-page guide will be shared before the pilot begins. Questions can be raised in the operations channel.
+The checklist and guidance will be available in the shared communications folder from 28 October. Team leads should include the process in their next briefing. Questions can be sent to the accessibility contact, who will collect recurring issues and update the guidance.
 
 ## Closing and contact
 
-Please review the relevant project record and raise any blocker with Jordan Lee before the stated deadline.
+Thank you for helping make our documents easier for more people to use.  
+Contact: Communications lead.
 
 ## Final quality check
 
-Confirm the audience, date, required action, and support route. Remove any internal detail that the audience does not need.
+Confirm the checklist location and start date before sending.
 
 ## IELTS-oriented language practice
 
-The announcement prioritises the key change and practical next steps. In a real announcement, clarity and accuracy are more important than lengthy background.
+The announcement uses clear dates and distinguishes routine checks from specialist support.

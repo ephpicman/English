@@ -1,45 +1,53 @@
-# Briefing document: New request intake process
+# Briefing document: options for improving staff onboarding
 
-*Illustrative internal briefing. Confirm current status and owners before circulation.*
+*Illustrative internal briefing. Validate staff feedback and policy requirements before a decision.*
 
 ## Plan first
 
-The reader needs a concise account of the issue, options, recommended decision, and immediate actions.
+Summarise the problem, compare feasible options, and identify the decision needed from the manager.
 
 ## Document structure
 
-This briefing separates known context from the recommendation and identifies what remains unresolved.
+The briefing separates current difficulties from the options and the proposed next step.
 
 ## Document metadata
 
-- **Date:** 4 November 2026
-- **Owner:** Jordan Lee
-- **Subject:** New request intake process
+- **Date:** 24 October 2026
+- **Owner:** People Operations
+- **Audience:** People Operations manager
+- **Subject:** Improving first-week onboarding information
 
 ## Purpose and key message
 
-Agree a consistent way to receive and assign internal service requests. Pilot one intake queue for the facilities request category for four weeks.
+Approve a small usability review and targeted revision of the onboarding guide before deciding whether a broader programme redesign is needed.
 
 ## Background and current position
 
-Requests currently arrive through email and a shared spreadsheet. Duplicate entries and missing ownership make it difficult to see what needs attention.
+The guide contains useful policy links, but information is grouped by department rather than by the tasks new starters need to complete. The extent of the problem should be confirmed through recent questions and short usability sessions.
 
 ## Options or analysis
 
-A single queue with required owner, status, and next-action fields would improve visibility. Immediate automation is not recommended until categories and exception routes are stable.
+**Option A: Add more explanatory text.** This may help with some questions but could make the guide longer without improving navigation.
+
+**Option B: Reorganise information around first-week tasks and test it with new starters.** This addresses findability and allows the team to observe where readers struggle.
+
+**Option C: Replace the onboarding platform.** This may offer broader features but requires cost, migration, and training that are not yet justified.
 
 ## Recommendation and rationale
 
-Pilot one intake queue for the facilities request category for four weeks.
+Choose Option B. It is a bounded change that can test whether the main issue is structure rather than platform capability.
 
 ## Actions, owners, and deadlines
 
-Jordan: configure fields by 6 November. Team leads: agree status definitions by 5 November. Operations manager: review the pilot after four weeks.
+- People Operations: gather common questions by 30 October.
+- Policy owners: verify links and wording by 6 November.
+- Recent starters: test the revised guide during the week of 9 November.
+- Manager: review findings by 20 November.
 
 ## Final quality check
 
-Verify that the recommendation follows from the stated facts, owners have agreed to the actions, and no provisional detail is presented as confirmed.
+Confirm that policy owners retain approval of policy content.
 
 ## IELTS-oriented language practice
 
-The briefing uses direct language and a decision-focused structure. In a real workplace document, follow the organisation’s approved format and keep the requested decision prominent.
+The briefing recommends a proportionate option and identifies the evidence needed for a later decision.

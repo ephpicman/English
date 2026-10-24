@@ -1,45 +1,53 @@
-# Briefing document: Community workshop venue
+# Briefing document: options for shared equipment booking
 
-*Illustrative internal briefing. Confirm current status and owners before circulation.*
+*Illustrative briefing. Confirm inventory, tool capabilities, and user requirements before a decision.*
 
 ## Plan first
 
-The reader needs a concise account of the issue, options, recommended decision, and immediate actions.
+The reader needs to choose a proportionate approach to booking shared equipment.
 
 ## Document structure
 
-This briefing separates known context from the recommendation and identifies what remains unresolved.
+The briefing explains the current problem, compares options, and recommends a pilot.
 
 ## Document metadata
 
-- **Date:** 21 November 2026
-- **Owner:** Priya Nair
-- **Subject:** Community workshop venue
+- **Date:** 24 October 2026
+- **Owner:** Workplace services
+- **Audience:** Workplace services manager
+- **Subject:** Shared equipment booking process
 
 ## Purpose and key message
 
-Confirm the venue and access arrangements before promoting the community workshop. Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
+Approve a pilot of a shared booking calendar for a defined group of portable equipment.
 
 ## Background and current position
 
-The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability.
+Staff currently check availability through messages or by contacting workplace services. The frequency of duplicate requests and missing items should be confirmed through current records.
 
 ## Options or analysis
 
-Publishing before logistics are confirmed could mislead participants. A backup venue is available, but it requires confirmation of capacity and travel information.
+**Option A: Keep informal booking.** Requires no setup but offers limited visibility.
+
+**Option B: Use an approved shared calendar and inventory list.** Makes booking windows and return status visible but requires clear ownership of updates.
+
+**Option C: Purchase a dedicated asset platform.** May provide additional features but is premature until the pilot identifies requirements that existing tools cannot meet.
 
 ## Recommendation and rationale
 
-Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
+Choose Option B for four weeks. It tests whether visibility and consistent records address the main issue before procurement is considered.
 
 ## Actions, owners, and deadlines
 
-Priya: contact preferred venue by 23 November. Facilities coordinator: verify backup access by 24 November. Outreach lead: publish final details by 26 November.
+- Workplace services: verify the pilot inventory by 30 October.
+- IT: confirm permissions and tool suitability by 3 November.
+- Staff: use the shared calendar from 9 November.
+- Pilot owner: review conflicts and feedback by 7 December.
 
 ## Final quality check
 
-Verify that the recommendation follows from the stated facts, owners have agreed to the actions, and no provisional detail is presented as confirmed.
+Confirm the equipment in scope and ensure the calendar is accessible to authorised users.
 
 ## IELTS-oriented language practice
 
-The briefing uses direct language and a decision-focused structure. In a real workplace document, follow the organisation’s approved format and keep the requested decision prominent.
+The briefing recommends a reversible pilot before a larger investment.

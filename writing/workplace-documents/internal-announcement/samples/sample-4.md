@@ -1,45 +1,46 @@
-# Internal announcement: Staff training schedule
+# Internal announcement: scheduled reporting portal maintenance
 
-*Illustrative internal announcement. Confirm dates and operational details before sending.*
+*Illustrative announcement. Confirm the service window and expected impact with IT before sending.*
 
 ## Plan first
 
-The message explains the change, who is affected, what action is required, and where to get help.
+Tell users when the interruption will occur, what it affects, and what action they should take.
 
 ## Document structure
 
-Lead with the main message and keep supporting context brief.
+Put the time window and service impact near the beginning.
 
 ## Announcement metadata
 
-- **Date:** 9 November 2026
-- **Contact:** Amira Hassan
-- **Audience:** Relevant project and operations teams
+- **Date:** 24 October 2026
+- **Contact:** IT Operations
+- **Audience:** Staff who use the reporting portal
 
 ## Headline and key message
 
-**The training will be offered in two time slots rather than one.**
+**The reporting portal will be unavailable during a scheduled maintenance window on 7 November.**
 
 ## What is changing and why
 
-The initial training materials are drafted, but the proposed session times overlap with some operational shifts. Offer two live sessions and provide an approved written recap for staff unable to attend.
+Maintenance is planned for Saturday, 7 November, from 7:00 to 8:30 a.m. Central European Time. The work supports a routine platform update. The service team will verify access after the maintenance is complete.
 
 ## Impact on employees and teams
 
-Managers should identify staff who need an alternative session and confirm coverage before final registration.
+During the window, users may be unable to sign in or export reports. Please complete time-sensitive exports beforehand and avoid starting a scheduled export during the interruption.
 
 ## Actions, dates, and support
 
-Amira: propose two time slots by 11 November. Team managers: confirm coverage by 13 November. Learning lead: approve recap format by 16 November. The learning team will share the materials and answer questions after each session.
+Save any required files by Friday afternoon. If the window changes, IT Operations will issue an updated notice. Report access problems after the maintenance period through the usual service desk channel.
 
 ## Closing and contact
 
-Please review the relevant project record and raise any blocker with Amira Hassan before the stated deadline.
+Thank you for planning around this short interruption.  
+Contact: IT Operations via the service desk.
 
 ## Final quality check
 
-Confirm the audience, date, required action, and support route. Remove any internal detail that the audience does not need.
+Verify the date, time zone, duration, and impact before circulation.
 
 ## IELTS-oriented language practice
 
-The announcement prioritises the key change and practical next steps. In a real announcement, clarity and accuracy are more important than lengthy background.
+The announcement gives the operational facts before asking users to act.

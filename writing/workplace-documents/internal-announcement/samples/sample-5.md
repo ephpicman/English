@@ -1,45 +1,46 @@
-# Internal announcement: Community workshop venue
+# Internal announcement: updated customer escalation record
 
-*Illustrative internal announcement. Confirm dates and operational details before sending.*
+*Illustrative announcement. Confirm the process with support operations before issuing.*
 
 ## Plan first
 
-The message explains the change, who is affected, what action is required, and where to get help.
+Clarify what staff should record and when the new practice begins.
 
 ## Document structure
 
-Lead with the main message and keep supporting context brief.
+State the new expectation, explain why it matters, and identify support.
 
 ## Announcement metadata
 
-- **Date:** 21 November 2026
-- **Contact:** Priya Nair
-- **Audience:** Relevant project and operations teams
+- **Date:** 24 October 2026
+- **Contact:** Support operations manager
+- **Audience:** Customer support team
 
 ## Headline and key message
 
-**Promotion will wait until the venue, time, and access details are verified.**
+**From 2 November, unresolved cases must show an owner, next action, and follow-up date.**
 
 ## What is changing and why
 
-The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability. Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
+The existing escalation policy remains unchanged. This update clarifies the information needed in the case record so that a colleague can understand the status without reconstructing the previous conversation.
 
 ## Impact on employees and teams
 
-The outreach team should hold scheduled posts and avoid distributing flyers with provisional details.
+For each unresolved case requiring specialist input, record the current status, the reason for escalation, the responsible owner, and the next review date. Do not include passwords, payment credentials, or unnecessary personal information in notes.
 
 ## Actions, dates, and support
 
-Priya: contact preferred venue by 23 November. Facilities coordinator: verify backup access by 24 November. Outreach lead: publish final details by 26 November. The event record contains the draft copy and checklist. Contact Priya with questions.
+Team leads will explain the fields during shift handovers next week. Agents should update open cases by 4 November. Support operations will review a sample of records on 6 November and clarify any recurring questions.
 
 ## Closing and contact
 
-Please review the relevant project record and raise any blocker with Priya Nair before the stated deadline.
+Thank you for keeping records clear and useful for colleagues and customers.  
+Contact: Support operations manager.
 
 ## Final quality check
 
-Confirm the audience, date, required action, and support route. Remove any internal detail that the audience does not need.
+Confirm that the new guidance aligns with the formal escalation policy.
 
 ## IELTS-oriented language practice
 
-The announcement prioritises the key change and practical next steps. In a real announcement, clarity and accuracy are more important than lengthy background.
+The announcement identifies what changes and what remains unchanged.
