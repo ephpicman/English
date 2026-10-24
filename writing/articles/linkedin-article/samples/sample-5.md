@@ -28,6 +28,8 @@ Review the most important risks at a predictable cadence. For each one, record a
 
 A follow-up promise should be treated as a task with an owner and a due time, not as a polite closing sentence. If another team must provide information, record that dependency and set a reminder to update the customer even if the answer is still pending. This creates a reliable experience without forcing support staff to promise a resolution they cannot control. It also makes handovers safer because the next agent can see what the customer was told and when the next contact is due.
 
+A small follow-up record also helps: note the promised date, responsible owner, and whether the customer has been updated.
+
 ## Conclusion and conversation prompt
 
 A useful risk register makes uncertainty actionable without pretending to eliminate it. What helps your team raise risks early enough to respond?

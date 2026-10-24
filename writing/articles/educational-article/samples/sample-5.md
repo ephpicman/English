@@ -32,6 +32,8 @@ Mentoring programmes should avoid assuming that every student wants the same kin
 
 Peer mentoring cannot remove structural problems such as inaccessible services, financial pressure, or insufficient teaching support. Participation may also be uneven, and some students prefer independent routes to help. The programme should be voluntary, accessible, and connected to wider institutional services rather than presented as a universal solution.
 
+Teachers can also revisit the lesson after a short interval and ask students which questions were still difficult. That reflection helps them adjust the next review rather than follow a rigid schedule regardless of need.
+
 ## Conclusion and takeaway
 
 Peer mentoring can make unfamiliar routines easier to navigate when it is well supported and has clear boundaries. Training, realistic expectations, and feedback protect both mentors and mentees. The strongest programme helps students build confidence while making it straightforward to reach specialist support when needed.
