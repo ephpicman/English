@@ -1,14 +1,35 @@
-# A missed project deadline
+# Advice to a colleague managing workload
 
-Dear Jamie,
+*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
 
-I am writing regarding a missed project deadline.
+## Plan first
 
-Thank you for asking for my advice. I would begin by identifying your priorities, setting a realistic timetable and speaking to someone with relevant experience. Consider their suggestions, but make the final decision based on your own circumstances.
+I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+## Letter structure
 
-Best wishes,
-Alex Morgan
+I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
 
----
+## Greeting and empathy
+
+Dear [Recipient or Sir/Madam], I am writing regarding advice to a colleague managing workload. I would like to explain the situation clearly and ask for an appropriate next step.
+
+## Restate the problem
+
+I am concerned about advice to a colleague managing workload. The relevant details are [verified reference], [confirmed date], and [specific impact]. I have already taken the following reasonable step: [action, if applicable]. Please review the matter and explain how it can be resolved.
+
+## Advice with reasons
+
+My suggestion is to begin with one manageable step: identify the main priority, set a realistic deadline, and ask for help early if a difficulty arises. You do not need to solve everything at once. Review what works after a week and adjust your plan if necessary.
+
+## Options and cautions
+
+I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+
+## Encouraging close
+
+I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+
+## Final review
+
+I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
