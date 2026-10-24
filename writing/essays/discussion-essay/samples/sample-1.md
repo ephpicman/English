@@ -1,35 +1,35 @@
 # Discuss whether homework should be reduced
 
-*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
+*IELTS-style practice response. Adapt the argument to the exact task wording.*
 
 ## Before writing
 
-This point supports the overall argument by linking the claim to a practical consequence. The example should be relevant to the exact question and explained clearly, rather than added as an unsupported assertion. Taken together, the evidence and reasoning indicate that the issue requires a considered response, not a simple generalisation.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
 
 ## Essay structure
 
-This point supports the overall argument by linking the claim to a practical consequence. The example should be relevant to the exact question and explained clearly, rather than added as an unsupported assertion. Taken together, the evidence and reasoning indicate that the issue requires a considered response, not a simple generalisation.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
 
 ## Introduction and issue framing
 
-The question of discuss whether homework should be reduced matters because it affects both individual choices and wider public outcomes. Although the issue has several dimensions, this essay argues that a carefully designed approach is preferable because it can address the main benefit while limiting the most significant drawback.
+There are credible arguments on both sides of the question of homework should be reduce. One view emphasises the potential benefits, while the other highlights costs and unintended effects. On balance, the best policy should reflect the evidence and adapt to local circumstances rather than apply a single rule everywhere.
 
 ## Viewpoint 1 and reasoning
 
-However, the alternative view deserves serious attention. The change may require additional funding, careful coordination, or support for people whose circumstances differ. These concerns are real, but they do not automatically outweigh the potential gains. A fair comparison should consider the scale of the cost, who bears it, and whether a practical safeguard can reduce the disadvantage without removing the main benefit.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
 
 ## Viewpoint 2 and reasoning
 
-However, the alternative view deserves serious attention. The change may require additional funding, careful coordination, or support for people whose circumstances differ. These concerns are real, but they do not automatically outweigh the potential gains. A fair comparison should consider the scale of the cost, who bears it, and whether a practical safeguard can reduce the disadvantage without removing the main benefit.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
 
 ## Your opinion (only if requested)
 
-This point supports the overall argument by linking the claim to a practical consequence. The example should be relevant to the exact question and explained clearly, rather than added as an unsupported assertion. Taken together, the evidence and reasoning indicate that the issue requires a considered response, not a simple generalisation.
+The most convincing approach is to compare outcomes against the same criteria: accessibility, effectiveness, cost, and long-term sustainability. A limited pilot can reveal trade-offs that are not obvious in theory. The results should be shared transparently, including drawbacks and uncertainty, so the decision can be revised if the evidence does not support the original expectation.
 
 ## Conclusion
 
-In conclusion, the strongest response to discuss whether homework should be reduced is a balanced, evidence-led one. The main benefits or causes should guide the decision, while realistic safeguards address the limitations. A focused trial and transparent evaluation would provide a sound basis for deciding what to retain or change.
+In conclusion, the issue should be addressed through a practical, evidence-led decision rather than an absolute rule. The main benefits are meaningful, but the costs and risks need safeguards. A carefully scoped trial, clear responsibilities, and a review of outcomes offer a sensible way to decide what should happen next.
 
 ## Final IELTS checklist
 
-This point supports the overall argument by linking the claim to a practical consequence. The example should be relevant to the exact question and explained clearly, rather than added as an unsupported assertion. Taken together, the evidence and reasoning indicate that the issue requires a considered response, not a simple generalisation.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.

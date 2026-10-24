@@ -1,27 +1,27 @@
 # Are electric buses a good investment?
 
-*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
+*IELTS-style practice response. Adapt the argument to the exact task wording.*
 
 ## Introduction and paraphrase
 
-The question of are electric buses a good investment? matters because it affects both individual choices and wider public outcomes. Although the issue has several dimensions, this essay argues that a carefully designed approach is preferable because it can address the main benefit while limiting the most significant drawback.
+The case for electric buses a good investment depends on both immediate benefits and long-term costs. This essay argues that the option can be worthwhile when implementation is planned carefully, performance is monitored, and the people affected have a meaningful way to provide feedback.
 
 ## Overall judgement if the prompt asks which side outweighs the other
 
-This point supports the overall argument by linking the claim to a practical consequence. The example should be relevant to the exact question and explained clearly, rather than added as an unsupported assertion. Taken together, the evidence and reasoning indicate that the issue requires a considered response, not a simple generalisation.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
 
 ## Advantages
 
-One important consideration is the practical benefit for the people directly affected. When access is reliable and expectations are clear, participants can plan more effectively and use their time or resources with less uncertainty. For example, a school or workplace could test the change on a limited scale and collect feedback from different groups. This would show whether the expected benefit occurs in practice rather than relying on assumptions.
+A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
 
 ## Disadvantages
 
-One important consideration is the practical benefit for the people directly affected. When access is reliable and expectations are clear, participants can plan more effectively and use their time or resources with less uncertainty. For example, a school or workplace could test the change on a limited scale and collect feedback from different groups. This would show whether the expected benefit occurs in practice rather than relying on assumptions.
+A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
 
 ## Evaluation if required
 
-This point supports the overall argument by linking the claim to a practical consequence. The example should be relevant to the exact question and explained clearly, rather than added as an unsupported assertion. Taken together, the evidence and reasoning indicate that the issue requires a considered response, not a simple generalisation.
+The most convincing approach is to compare outcomes against the same criteria: accessibility, effectiveness, cost, and long-term sustainability. A limited pilot can reveal trade-offs that are not obvious in theory. The results should be shared transparently, including drawbacks and uncertainty, so the decision can be revised if the evidence does not support the original expectation.
 
 ## Conclusion
 
-In conclusion, the strongest response to are electric buses a good investment? is a balanced, evidence-led one. The main benefits or causes should guide the decision, while realistic safeguards address the limitations. A focused trial and transparent evaluation would provide a sound basis for deciding what to retain or change.
+In conclusion, the issue should be addressed through a practical, evidence-led decision rather than an absolute rule. The main benefits are meaningful, but the costs and risks need safeguards. A carefully scoped trial, clear responsibilities, and a review of outcomes offer a sensible way to decide what should happen next.

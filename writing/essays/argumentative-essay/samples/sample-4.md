@@ -1,35 +1,35 @@
 # Should employers offer a four-day workweek?
 
-*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
+*IELTS-style practice response. Adapt the argument to the exact task wording.*
 
 ## Before writing
 
-This point supports the overall argument by linking the claim to a practical consequence. The example should be relevant to the exact question and explained clearly, rather than added as an unsupported assertion. Taken together, the evidence and reasoning indicate that the issue requires a considered response, not a simple generalisation.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
 
 ## Essay structure
 
-This point supports the overall argument by linking the claim to a practical consequence. The example should be relevant to the exact question and explained clearly, rather than added as an unsupported assertion. Taken together, the evidence and reasoning indicate that the issue requires a considered response, not a simple generalisation.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
 
 ## Introduction and thesis
 
-The question of should employers offer a four-day workweek? matters because it affects both individual choices and wider public outcomes. Although the issue has several dimensions, this essay argues that a carefully designed approach is preferable because it can address the main benefit while limiting the most significant drawback.
+Whether employers offer a four-day workweek is an important public question because it affects everyday choices, access, and the use of limited resources. This essay takes the position that a carefully planned approach is beneficial, provided that practical costs and the needs of different groups are considered.
 
 ## Main argument 1
 
-One important consideration is the practical benefit for the people directly affected. When access is reliable and expectations are clear, participants can plan more effectively and use their time or resources with less uncertainty. For example, a school or workplace could test the change on a limited scale and collect feedback from different groups. This would show whether the expected benefit occurs in practice rather than relying on assumptions.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
 
 ## Main argument 2
 
-One important consideration is the practical benefit for the people directly affected. When access is reliable and expectations are clear, participants can plan more effectively and use their time or resources with less uncertainty. For example, a school or workplace could test the change on a limited scale and collect feedback from different groups. This would show whether the expected benefit occurs in practice rather than relying on assumptions.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
 
 ## Counterargument and response
 
-One important consideration is the practical benefit for the people directly affected. When access is reliable and expectations are clear, participants can plan more effectively and use their time or resources with less uncertainty. For example, a school or workplace could test the change on a limited scale and collect feedback from different groups. This would show whether the expected benefit occurs in practice rather than relying on assumptions.
+A second consideration is the risk of unequal effects. Some people may face extra costs, have limited access to the required resources, or need additional support to adapt. This does not mean the proposal should automatically be rejected; it means that decision-makers should provide reasonable alternatives, phase in changes where necessary, and review whether the benefits reach the groups most likely to be excluded.
 
 ## Conclusion
 
-In conclusion, the strongest response to should employers offer a four-day workweek? is a balanced, evidence-led one. The main benefits or causes should guide the decision, while realistic safeguards address the limitations. A focused trial and transparent evaluation would provide a sound basis for deciding what to retain or change.
+In conclusion, the issue should be addressed through a practical, evidence-led decision rather than an absolute rule. The main benefits are meaningful, but the costs and risks need safeguards. A carefully scoped trial, clear responsibilities, and a review of outcomes offer a sensible way to decide what should happen next.
 
 ## Final IELTS checklist
 
-This point supports the overall argument by linking the claim to a practical consequence. The example should be relevant to the exact question and explained clearly, rather than added as an unsupported assertion. Taken together, the evidence and reasoning indicate that the issue requires a considered response, not a simple generalisation.
+The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
