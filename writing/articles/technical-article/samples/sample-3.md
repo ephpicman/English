@@ -5,17 +5,11 @@ Retries are important for transient failures, but they can repeat side effects w
 ## Scope and Prerequisites
 The reader should understand asynchronous jobs, database transactions, and HTTP service calls. The examples use a generic notification job and do not claim exactly-once delivery across external systems.
 ## Core Concepts
-
 A job is idempotent when processing the same logical request more than once does not create additional unintended effects. Queue systems may deliver a message again after a timeout or worker restart. A worker can fail after an external service accepts a request but before the worker records success, leaving the outcome ambiguous.
-
 An idempotency key identifies the logical operation rather than a single execution attempt. The key must be stable across retries and scoped to the operation. It should be stored with enough state to determine whether the effect has already been applied.
-
 ## Architecture or Workflow
-
 The idempotency key should be derived from the business operation, not from a timestamp generated anew for each retry. For example, a notification for one order event should reuse the same key across worker attempts. Store the key with an operation status and a bounded retention policy that is longer than the realistic retry window. If a legitimate new event occurs later, it needs a distinct key so it is not mistaken for a duplicate.
-
 A worker receives a job and checks its idempotency record. If the operation is already complete, it returns without repeating the side effect. Otherwise, it records or claims the operation, performs the work, and stores the result. The exact ordering and transaction boundaries matter: two workers must not both perform the same side effect concurrently.
-
 For an external API, use the provider’s idempotency mechanism if one exists. If it does not, design a reconciliation process for ambiguous outcomes rather than assuming a timeout means the request failed.
 
 ## Implementation Details
@@ -31,5 +25,9 @@ Concurrency is an important edge case. Two workers can receive the same message 
 Idempotency records need retention rules and can grow without limit. Some side effects cannot be made atomic with a local database transaction. An incorrect key can suppress legitimate work or allow duplicates. Test concurrency, retries after partial completion, timeouts after remote acceptance, and recovery after worker restart.
 
 ## Conclusion
+
+Concurrency and recovery need explicit tests. Start two workers against the same job key and verify that only one can claim the operation. Simulate a worker crash before the side effect, after the side effect, and before the completion record is saved. Each case may require a different recovery path. A stale in-progress record should not remain blocked forever, but automatically reclaiming it must not cause a second external action if the first attempt may have succeeded. Where the provider supports idempotency keys, verify the provider’s retention window and response semantics rather than assuming that a key is stored indefinitely.
+
+The job state model should be visible to operators. Record the number of attempts, the last failure category, and the next scheduled retry. Use bounded exponential backoff with jitter when appropriate, and stop retrying permanent validation failures. Exhausted jobs should move to a review queue with enough context to investigate safely. A runbook should explain how to reconcile an ambiguous result, how to resume a paused worker, and when manual intervention is required. These practices do not guarantee exactly-once effects across independent systems, but they make duplicate risk and recovery behaviour explicit and testable.
 
 Safe retries require a stable operation identity, concurrency control, explicit state transitions, and a plan for ambiguous external outcomes. Treat idempotency as a design property that must be tested, not a checkbox added after duplicate effects appear.

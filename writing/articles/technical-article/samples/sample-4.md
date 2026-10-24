@@ -5,17 +5,11 @@ CSV files look simple, but inconsistent headers, encoding, delimiters, missing v
 ## Scope and Prerequisites
 The intended reader builds a data pipeline that accepts CSV files from internal or external sources. The article assumes a tabular dataset with a known schema. It does not define rules for a specific domain, and sample field names are illustrative.
 ## Core Concepts
-
 Syntactic validation checks whether the file can be parsed: encoding, delimiter, quoting, row shape, and headers. Schema validation checks required columns and expected types. Business validation checks domain rules such as allowed status values or unique identifiers. Keeping these layers separate helps the user understand whether a file is malformed, structurally incompatible, or logically invalid.
-
 Validation should be explicit about missing values. An empty string, a missing column, and a null-like token are not necessarily equivalent. Similarly, a date that parses successfully may still fall outside the allowed reporting period.
-
 ## Architecture or Workflow
-
 Validation rules should be versioned alongside the schema that defines them. If a producer adds a new category, a strict validator may reject every file containing that value until the receiving system is updated. Conversely, silently accepting an unknown category may cause reports to omit it from totals. The data contract should describe how schema changes are announced and whether a transition period is supported.
-
 A safe pipeline preserves the source file, records its checksum or import ID, parses it using defined rules, and validates the parsed rows. It then produces a report of errors and warnings. Files with critical errors should not enter the target table; warning-only cases may be accepted if the policy allows them.
-
 The report should identify row and column where possible, describe the expected value, and avoid echoing sensitive data. Rejected files should have a clear correction and resubmission path.
 
 ## Implementation Details
@@ -31,5 +25,9 @@ Validation reports should be actionable. Group repeated failures where appropria
 Validation cannot establish that a source value is factually true; it can only check the rules provided. Strict rules may reject legitimate new categories, while permissive rules may allow bad data. Schema changes should be versioned and communicated to data producers.
 
 ## Conclusion
+
+Validation should be designed around the receiving system’s contract rather than a generic idea of a well-formed spreadsheet. Define required columns, accepted types, null behaviour, allowed values, and business rules with the data owner. If an identifier is unique only within a reporting period, the validation key should reflect that; checking global uniqueness would reject valid records. Date rules should specify timezone and whether boundary dates are inclusive. These choices need to be documented so the same file is evaluated consistently across runs and environments.
+
+For larger inputs, stream rows through the parser and collect a bounded set of representative errors while maintaining total counts. This prevents a malformed file from exhausting memory or producing a report too large to review. Keep validation and transformation separate: if values are normalised, record the rule and make the transformation reproducible. A failed import should leave the target dataset unchanged unless partial acceptance is an explicit, approved behaviour. Tests should cover valid files, malformed quoting, duplicate headers, empty files, unexpected columns, encoding problems, and schema changes. Finally, monitor rejection reasons over time; recurring failures may indicate that the producer needs clearer documentation rather than that the validator should simply become more permissive.
 
 Reliable CSV ingestion combines parse checks, schema rules, domain validation, and a clear failure report. Preserve the original, make transformations traceable, and test both valid files and representative error cases.

@@ -5,17 +5,11 @@ Cursor pagination lets a client retrieve an ordered set of records without relyi
 ## Scope and Prerequisites
 The intended reader understands HTTP APIs, SQL queries, and basic database indexing. The example assumes a feed ordered by creation time and a unique ID, with descending order. It does not cover arbitrary user-selected sorting or a production-specific authentication scheme.
 ## Core Concepts
-
 A page is a bounded slice of an ordered result set. Offset pagination skips a number of rows, which can become expensive for deep pages and can shift when new rows are inserted. A cursor instead identifies the boundary after which the next query should continue. The ordering must be stable: if timestamps can tie, include a unique tie-breaker such as the record ID.
-
 A cursor should be treated as opaque by clients. It can encode the boundary values and, where appropriate, be signed to prevent tampering. It should not contain secrets or expose data that the caller is not authorised to see.
-
 ## Architecture or Workflow
-
 Cursor pagination also needs a clear contract for filters. The server should apply the same authorisation and filter predicates to every page; otherwise, a cursor could accidentally cross a boundary between records the user may and may not see. If the filter changes, a cursor generated for the old query should either be rejected or be explicitly scoped to that filter. The response should explain whether cursors expire and what clients should do when the server returns an invalid-cursor error.
-
 For a descending feed, the server queries rows whose `(created_at, id)` tuple is earlier than the last row in the previous page. The server fetches `limit + 1` rows to determine whether another page exists, returns at most `limit`, and constructs the next cursor from the final returned row. Filtering and authorisation must be applied consistently on every page.
-
 A response might contain `items` and `next_cursor`. If there are no more results, `next_cursor` can be null. The API should document maximum page size, cursor expiry if any, and how clients should react when a cursor is invalid.
 
 ## Implementation Details
@@ -39,5 +33,9 @@ Testing should include timestamps that are identical, a record inserted between 
 Cursor pagination is well suited to sequential browsing but does not naturally provide “jump to page 12.” Updates to sort fields can also move records across boundaries. Define whether the feed represents a live view or a stable snapshot, and test equal timestamps, deleted records, invalid cursors, empty pages, and new inserts between requests.
 
 ## Conclusion
+
+Implementation should begin with a contract test that fixes the ordering and continuation behaviour. Seed a test database with records that share timestamps, records inserted between page requests, and records that are removed after the first page. Verify that the combined pages contain no unintended duplicates and that the cursor advances consistently. Test filters independently and in combination, because a cursor that works for the unfiltered feed may fail when a filter changes the set of eligible records. The service should also define what happens when a cursor is malformed, expired, or created for a different filter. Return a documented error and give the client a clear way to restart rather than silently returning an incorrect page.
+
+For operational monitoring, record page size, query duration, invalid cursor rate, and failures by endpoint. Avoid logging the full cursor if it contains encoded state that should not be exposed. Before rollout, test query plans using representative data and confirm that the index supports the required ordering. Performance depends on the actual database, filters, and data distribution, so do not assume that cursor pagination is always faster. Document the supported page-size range and whether clients can expect a stable snapshot or a live feed. These details help consumers implement retries and pagination without depending on undocumented behaviour.
 
 A reliable cursor API needs deterministic ordering, consistent filtering, an opaque cursor, and explicit edge-case behaviour. Test the contract with realistic data before relying on it for a high-volume feed.
