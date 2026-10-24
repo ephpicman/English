@@ -1,12 +1,31 @@
-# A new colleague
+# Thank-you for event support
 
-**Subject:** Enquiry about available options
+*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
 
-Dear Hiring Team,
+## Email structure
 
-I am considering a new colleague and would be grateful if you could clarify the available options, expected timeline and total cost. Please also let me know whether any prerequisites or supporting documents are required. This will help me assess whether it meets our needs.
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
 
-Yours faithfully,
-Alex Morgan
+## Subject line
 
----
+**Thank-you for event support**
+
+## Greeting and direct thanks
+
+Dear [Recipient], thank you for thank-you for event support. I appreciate the time and care you gave to this matter. Your help was useful because it clarified the next steps and made it easier to move forward with confidence.
+
+## Specific detail and impact
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## Follow-up or next step
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## Warm closing and sign-off
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## IELTS-oriented language practice
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.

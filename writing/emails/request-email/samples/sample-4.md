@@ -1,12 +1,35 @@
-# A university course
+# Request for a reference letter
 
-**Subject:** Meeting and next steps
+*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
 
-Hello everyone,
+## Email structure
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
 
-Best regards,
-Alex Morgan
+## Subject line
 
----
+**Request for a reference letter**
+
+## Greeting and direct request
+
+Dear [Recipient], I am writing to request request for a reference letter. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+
+## Context and rationale
+
+Dear [Recipient], I am writing to request request for a reference letter. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+
+## Specific details and constraints
+
+Dear [Recipient], I am writing to request request for a reference letter. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+
+## Deadline and flexibility
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## Thanks and sign-off
+
+Dear [Recipient], I am writing to request request for a reference letter. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+
+## IELTS-oriented language practice
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.

@@ -1,12 +1,31 @@
-# A workplace policy
+# Thank-you after a client meeting
 
-**Subject:** Thank you for your support
+*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
 
-Dear Jordan,
+## Email structure
 
-Thank you for your help with a workplace policy. Your prompt feedback made it easier to resolve the main questions and move forward with confidence. I particularly appreciated the clear explanation of the options. I will share the outcome with the wider team.
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
 
-Best regards,
-Alex Morgan
+## Subject line
 
----
+**Thank-you after a client meeting**
+
+## Greeting and direct thanks
+
+Dear [Recipient], thank you for thank-you after a client meeting. I appreciate the time and care you gave to this matter. Your help was useful because it clarified the next steps and made it easier to move forward with confidence.
+
+## Specific detail and impact
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## Follow-up or next step
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## Warm closing and sign-off
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## IELTS-oriented language practice
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.

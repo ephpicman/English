@@ -1,12 +1,31 @@
-# A missed project deadline
+# Thank-you for project feedback
 
-**Subject:** Following up on our discussion
+*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
 
-Hello Priya,
+## Email structure
 
-I wanted to follow up regarding a missed project deadline. I appreciate that you have several priorities, so please let me know whether you have had a chance to review the information. I can send a concise summary or arrange a short call if that would be easier.
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
 
-Best regards,
-Alex Morgan
+## Subject line
 
----
+**Thank-you for project feedback**
+
+## Greeting and direct thanks
+
+Dear [Recipient], thank you for thank-you for project feedback. I appreciate the time and care you gave to this matter. Your help was useful because it clarified the next steps and made it easier to move forward with confidence.
+
+## Specific detail and impact
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## Follow-up or next step
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## Warm closing and sign-off
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## IELTS-oriented language practice
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.

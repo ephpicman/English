@@ -1,12 +1,35 @@
-# A missed project deadline
+# Request for access to project files
 
-**Subject:** Following up on our discussion
+*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
 
-Hello Priya,
+## Email structure
 
-I wanted to follow up regarding a missed project deadline. I appreciate that you have several priorities, so please let me know whether you have had a chance to review the information. I can send a concise summary or arrange a short call if that would be easier.
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
 
-Best regards,
-Alex Morgan
+## Subject line
 
----
+**Request for access to project files**
+
+## Greeting and direct request
+
+Dear [Recipient], I am writing to request request for access to project files. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+
+## Context and rationale
+
+Dear [Recipient], I am writing to request request for access to project files. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+
+## Specific details and constraints
+
+Dear [Recipient], I am writing to request request for access to project files. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+
+## Deadline and flexibility
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+
+## Thanks and sign-off
+
+Dear [Recipient], I am writing to request request for access to project files. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+
+## IELTS-oriented language practice
+
+Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
