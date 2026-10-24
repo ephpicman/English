@@ -1,35 +1,31 @@
-# Urban green spaces: argumentative essay
+# School uniforms: argumentative essay
 
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+*Illustrative IELTS-style response; adapt it to the exact question and local school context.*
 
 ## Before writing
 
-The essay takes a clear position, develops two distinct reasons, and addresses a reasonable opposing view.
+Position: uniforms can be useful for identity and routine, but schools should keep policies affordable, comfortable, and flexible.
 
 ## Essay structure
 
-The argument moves from the claim to supporting reasoning and then to a qualified response.
+The essay presents practical benefits, recognises concerns about cost and self-expression, and argues for a proportionate policy.
 
 ## Introduction and thesis
 
-Debate about urban green spaces often centres on competing priorities. I largely agree that cities should protect and expand accessible green space, but planning should focus on equitable access and maintenance rather than maximising park area without considering other needs.
+School uniforms remain controversial because supporters see them as a way to create a shared identity, while critics view them as an unnecessary restriction. I believe uniforms can be beneficial when schools keep the rules simple and ensure that cost, comfort, and individual needs are taken seriously.
 
 ## Main argument 1
 
-Parks give residents places to walk, exercise, meet neighbours, and spend time outdoors. Trees and planted areas can also provide shade and improve the experience of streets, especially where public space is otherwise dominated by traffic and hard surfaces.
+A common dress code can reduce pressure to wear expensive or fashionable clothing. Students may feel less judged by brands, and staff can identify pupils more easily during trips or school events. Uniforms can also simplify morning routines for families who would otherwise spend time deciding what is suitable to wear. These benefits are modest rather than universal, but they can make school expectations clearer and reduce some visible differences in clothing.
 
 ## Main argument 2
 
-Urban land is limited, and cities also need housing, schools, transport, and commercial space. A poorly located or poorly maintained park may not serve the residents who need it most. This shows why the policy should be designed around actual circumstances rather than treated as a simple universal rule.
+The policy becomes less fair when uniforms are costly, uncomfortable, or difficult to obtain. A family may need several sets for different seasons, and a strict supplier rule can make replacement items expensive. Uniforms may also fail to accommodate religious clothing, sensory needs, disability, or different body types. Schools should consult students and families, choose durable low-cost items, and allow reasonable alternatives without treating difference as misconduct.
 
 ## Counterargument and response
 
-The need for housing is a serious objection, especially in areas with high rents. However, green space and housing are not always mutually exclusive: small parks, green corridors, and shared courtyards can be incorporated into denser development.
+Opponents argue that clothing is an important form of personal expression and that uniforms do little to improve behaviour or academic results. This is a valid warning: a uniform alone cannot create a positive learning environment. However, the purpose should be to establish a practical shared standard, not to claim that clothing solves deeper educational problems.
 
 ## Conclusion
 
-I largely agree that cities should protect and expand accessible green space, but planning should focus on equitable access and maintenance rather than maximising park area without considering other needs.
-
-## Final IELTS checklist
-
-Check that each paragraph advances the argument, examples support the point, and the conclusion follows from the discussion. Follow the exact prompt and word limit.
+Uniforms can support routine and a sense of belonging, but only if schools avoid unnecessary expense and rigid rules. A simple, inclusive policy is more reasonable than either an inflexible uniform system or an absence of clear expectations.

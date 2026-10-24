@@ -1,35 +1,31 @@
 # Public transport investment: argumentative essay
 
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+*Illustrative IELTS-style response; use it as a model for reasoning, not as a memorised answer.*
 
 ## Before writing
 
-The essay takes a clear position, develops two distinct reasons, and addresses a reasonable opposing view.
+Position: cities should prioritise reliable public transport while retaining practical options for people who cannot use it.
 
 ## Essay structure
 
-The argument moves from the claim to supporting reasoning and then to a qualified response.
+The essay develops environmental and access arguments, then considers the limits of a transport-first policy.
 
 ## Introduction and thesis
 
-Debate about public transport investment often centres on competing priorities. Public transport should receive priority where it can meet demonstrated travel needs, but road maintenance and essential vehicle access must remain part of a balanced plan.
+Cities face growing pressure to move people efficiently while limiting congestion and pollution. I believe public transport deserves greater investment than road expansion alone because it can move more people in less space and improve access to jobs and services, although it must be designed around local needs.
 
 ## Main argument 1
 
-Reliable buses and trains can move many people using less road space per passenger and give residents an alternative to driving. Better connections can also make employment, education, and essential services more accessible to people who do not own a car.
+A reliable bus, tram, or rail network can reduce dependence on private cars for everyday journeys. When services are frequent and predictable, commuters have a realistic alternative to driving, which can ease pressure on crowded roads. Public transport also uses street space more efficiently: a bus can carry many passengers who would otherwise occupy separate vehicles. The environmental benefit depends on factors such as vehicle technology, passenger numbers, and the local electricity supply, so investment should be paired with sensible route planning and clean fleets rather than treated as a guaranteed result.
 
 ## Main argument 2
 
-Roads remain necessary for emergency services, deliveries, and communities where public transport is infrequent. Poorly planned transit investments can be expensive and underused, particularly if routes do not match where people live and work. This shows why the policy should be designed around actual circumstances rather than treated as a simple universal rule.
+Transport is also an issue of fairness. People who cannot drive, including some older residents, teenagers, and people who cannot afford a car, depend on affordable routes to reach education, healthcare, and employment. If services stop early in the evening or fail to connect outer neighbourhoods, these residents may lose opportunities. Improving frequency, accessibility, and connections can therefore support participation in city life as well as reduce traffic.
 
 ## Counterargument and response
 
-Those who favour road expansion point out that congestion can impose real costs on workers and businesses. However, adding road capacity alone may not solve congestion if travel demand changes in response.
+Roads remain necessary for deliveries, emergency services, and areas where passenger demand is too dispersed for frequent transit. Some residents also need a car because of disability or shift patterns. However, this does not justify relying mainly on road expansion. Cities can maintain essential road access while improving buses, safe walking routes, cycling connections, and targeted services for underserved areas.
 
 ## Conclusion
 
-Public transport should receive priority where it can meet demonstrated travel needs, but road maintenance and essential vehicle access must remain part of a balanced plan.
-
-## Final IELTS checklist
-
-Check that each paragraph advances the argument, examples support the point, and the conclusion follows from the discussion. Follow the exact prompt and word limit.
+Public transport should be a central part of urban planning because it can improve mobility and access while using space more efficiently. The strongest policy combines reliable services with targeted alternatives for journeys that public transport cannot reasonably serve.

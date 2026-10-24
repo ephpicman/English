@@ -1,35 +1,31 @@
-# School uniforms: argumentative essay
+# Online learning: argumentative essay
 
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+*Illustrative IELTS-style response; use it to practise developing an argument rather than memorising wording.*
 
 ## Before writing
 
-The essay takes a clear position, develops two distinct reasons, and addresses a reasonable opposing view.
+Position: online learning expands access and flexibility, but it works best when learners have support and meaningful interaction.
 
 ## Essay structure
 
-The argument moves from the claim to supporting reasoning and then to a qualified response.
+The essay develops access and flexibility as benefits, then responds to concerns about isolation and unequal resources.
 
 ## Introduction and thesis
 
-Debate about school uniforms often centres on competing priorities. Schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.
+Online learning has become an important part of education, from short professional courses to full academic programmes. I believe it can make learning more accessible and flexible, but it should not be treated as a complete substitute for every classroom experience.
 
 ## Main argument 1
 
-Uniforms can reduce visible differences in everyday clothing and make the school dress code simpler to understand. They may also help students identify one another during school activities and reduce the time spent deciding what to wear.
+One major benefit is that learners can study without travelling to a particular campus. This can help people who live in remote areas, work irregular hours, or have caring responsibilities. Recorded explanations and digital resources also allow students to revisit difficult material at their own pace. For adults who need to update a skill while working, this flexibility may make further education possible when a fixed timetable would be unrealistic. The benefit depends on course design: materials must be organised clearly, and students need realistic deadlines rather than an endless stream of resources.
 
 ## Main argument 2
 
-Uniforms cost money, may be uncomfortable for some students, and do not remove deeper differences in income or social status. Strict rules can also create conflict when they fail to account for religion, disability, weather, or individual needs. This shows why the policy should be designed around actual circumstances rather than treated as a simple universal rule.
+Online courses can also connect learners with instructors and peers beyond their local area. Discussion boards, shared documents, and video sessions allow participants to compare ideas and ask questions. Written exchanges can give some students more time to formulate a response than a fast classroom discussion would. Teachers can monitor participation and identify topics that need further explanation, provided that the platform is accessible and the workload is manageable.
 
 ## Counterargument and response
 
-Supporters argue that a uniform creates a sense of belonging and reduces competition over fashion. These benefits may occur in some schools, but they are not guaranteed by clothing rules alone.
+Critics point out that students may feel isolated or struggle when they lack reliable internet, a suitable device, or a quiet place to work. Practical subjects may also require equipment or in-person supervision. These concerns are serious, but they suggest that providers should offer technical support, accessible materials, scheduled contact, and in-person options where needed.
 
 ## Conclusion
 
-Schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.
-
-## Final IELTS checklist
-
-Check that each paragraph advances the argument, examples support the point, and the conclusion follows from the discussion. Follow the exact prompt and word limit.
+Online learning is valuable because it broadens access and allows flexible study. Its success depends on thoughtful course design and support, so the best choice is the format that fits the learning goals and students’ circumstances.
