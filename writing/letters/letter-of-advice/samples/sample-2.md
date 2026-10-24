@@ -1,37 +1,40 @@
-# Letter of advice: responding to a difficult situation
+# Letter of advice: preparing for a job interview
 
-*Illustrative advice letter. Adapt it to the relationship and avoid presenting personal opinion as professional advice.*
+*Illustrative advice letter. Tailor the suggestions to the role and the recipient’s experience.*
 
 ## Plan first
 
-Acknowledge the concern, offer manageable options, and recognise the limits of the advice.
+Offer practical preparation steps while recognising that the reader may feel nervous.
 
 ## Letter structure
 
-Use an empathetic tone without minimising the problem or taking control away from the reader.
+Give specific advice rather than simply telling the person to be confident.
 
 ## Greeting and empathy
 
-Hi there,
+Hi Sam,
 
-I’m glad you told me what has been happening. I can understand why this feels difficult, and you do not need to make every decision at once.
+It’s completely normal to feel nervous before an interview, especially when the role matters to you. You have time to prepare without trying to memorise every possible answer.
 
 ## Restate the problem
 
-You mentioned that you have too many deadlines landing in the same week and don’t know where to begin. That can feel impossible when every task seems equally urgent.
+You mentioned that you’re worried about describing your experience clearly and responding when the interviewer asks an unexpected question.
 
 ## Advice with reasons
 
-Write down each deadline, estimate the time needed, and mark which tasks depend on someone else. Break the largest assignment into smaller steps and schedule the first step rather than waiting for a free afternoon. If two deadlines genuinely conflict, contact the instructors early and explain the situation clearly.
+Start by reading the job description and choosing two or three examples that show relevant skills. For each example, practise explaining the situation, what you did, and what happened as a result. This will help you answer different questions naturally instead of learning a script. It’s also worth preparing a short explanation of why the role interests you and a few questions about the team’s work.
 
 ## Options and cautions
 
-Try not to build a plan that assumes you can work late every night. Leave some time for unexpected tasks and ask for help if you cannot meet a requirement.
+Ask a friend to run a practice interview, but don’t judge yourself harshly if you pause or need a moment to think. If you do not know an answer, explain how you would find out rather than guessing.
 
 ## Encouraging close
 
-Start with a short list tonight and choose the first manageable action. You can do this one step at a time.
+You know more than you think. A little focused practice should help you feel more prepared. Let me know how it goes.
+
+Best,  
+Jordan
 
 ## Final review
 
-Check that the advice fits the situation, preserves the reader’s choice, and directs them to qualified support where the issue requires it.
+Keep advice realistic and avoid promising that preparation guarantees an offer.

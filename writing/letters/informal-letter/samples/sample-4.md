@@ -1,35 +1,40 @@
-# Informal letter: a personal update
+# Informal letter: apologising for missing a birthday
 
-*Illustrative personal letter. Adapt the details so they reflect your real relationship and experience.*
+*Illustrative personal letter. Adapt the relationship, reason, and proposed plan to the real situation.*
 
 ## Plan first
 
-The purpose is to share a personal update, respond warmly, and suggest a natural next step.
+Apologise directly, recognise the disappointment, and offer a thoughtful next step.
 
 ## Letter structure
 
-Keep the tone friendly and specific; avoid turning a personal note into a formal report.
+Keep the explanation brief and avoid making the recipient responsible for reassuring you.
 
 ## Friendly opening
 
-Hi Elena,
+Dear Leila,
+
+I hope you had a lovely birthday and got to spend time with the people you wanted to see.
 
 ## Reason for writing
 
-I wanted to share some good news: I’ve started volunteering at the community garden near my flat.
+I’m sorry I couldn’t make it to your birthday dinner, especially because I had said I would be there.
 
 ## Main details and personal response
 
-I was nervous on the first morning because I don’t know much about plants, but everyone was friendly and showed me what to do. So far I’ve helped prepare the beds, label seedlings, and water the new plants. It’s surprisingly relaxing to spend a few hours outside without checking my phone.
+My train was cancelled on the way back, and I did not get home until much later than expected. I should have sent you a message as soon as I knew I would miss the dinner. I realise that not hearing from me may have made the situation more frustrating.
 
 ## Suggestions, plans, or questions
 
-You mentioned wanting to meet more people in the area, so you might like to join us one Saturday. You don’t need any experience, and they lend you gloves and tools.
+I’d love to take you out for lunch next weekend if you’re free. You can choose the place, and I’ll make the booking. If next weekend is busy, let me know when you have time and we’ll arrange something that suits you.
 
 ## Warm closing and sign-off
 
-Let me know if you’d like the details. Hope to see you soon! Best, Jordan
+I’m sorry I missed the celebration, and I hope we can catch up soon.
+
+Love,  
+Mina
 
 ## Final review
 
-Check that the details sound natural for the relationship, the invitation or question is clear, and the closing matches the level of familiarity.
+Ensure the explanation is accurate and the proposed plan is realistic.

@@ -1,37 +1,40 @@
-# Letter of advice: responding to a difficult situation
+# Letter of advice: settling into a new city
 
-*Illustrative advice letter. Adapt it to the relationship and avoid presenting personal opinion as professional advice.*
+*Illustrative advice letter. Adapt the suggestions to the recipient’s location and circumstances.*
 
 ## Plan first
 
-Acknowledge the concern, offer manageable options, and recognise the limits of the advice.
+Offer practical first steps and recognise that settling in takes time.
 
 ## Letter structure
 
-Use an empathetic tone without minimising the problem or taking control away from the reader.
+Balance encouragement with specific suggestions the reader can act on.
 
 ## Greeting and empathy
 
-Hi there,
+Dear Chris,
 
-I’m glad you told me what has been happening. I can understand why this feels difficult, and you do not need to make every decision at once.
+Moving to a new city can feel exciting and lonely at the same time. It makes sense that you haven’t found your routine yet.
 
 ## Restate the problem
 
-You said you want to improve your English but feel embarrassed when you make mistakes in conversation. I can understand that, especially when you are trying to express a complicated idea.
+You said you know your way to work but haven’t met many people outside the office and are unsure how to explore the area.
 
 ## Advice with reasons
 
-Choose a low-pressure routine: have a short conversation with a language partner, note two expressions you wanted to use, and practise them before the next session. Listening to a short recording and summarising it aloud can also build fluency without requiring a long study session.
+I’d start with one or two regular activities rather than trying to see everything at once. A local class, library event, sports group, or volunteer activity can help you meet people with a shared interest. Choose somewhere easy to reach so that going again does not require too much planning. You could also ask a colleague for a recommendation about a neighbourhood café or walking route.
 
 ## Options and cautions
 
-Do not wait until every sentence is perfect before speaking. Correct recurring errors, but allow yourself to communicate and learn from the conversation.
+Give yourself time and don’t feel you need to accept every invitation. If the first group doesn’t feel right, try another. Keep normal safety precautions in mind when meeting new people or sharing personal details.
 
 ## Encouraging close
 
-Consistency matters more than one very long session. If you want, we can practise a short conversation together this week.
+You don’t have to feel at home immediately. Small familiar routines can make a new place feel more manageable. I’m here if you want to talk.
+
+Warm wishes,  
+Maya
 
 ## Final review
 
-Check that the advice fits the situation, preserves the reader’s choice, and directs them to qualified support where the issue requires it.
+Keep suggestions supportive and avoid assuming the recipient’s budget or social preferences.

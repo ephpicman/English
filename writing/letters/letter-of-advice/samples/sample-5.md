@@ -1,37 +1,40 @@
-# Letter of advice: responding to a difficult situation
+# Letter of advice: responding to a disagreement with a friend
 
-*Illustrative advice letter. Adapt it to the relationship and avoid presenting personal opinion as professional advice.*
+*Illustrative advice letter. Adapt it to the relationship and the actual disagreement.*
 
 ## Plan first
 
-Acknowledge the concern, offer manageable options, and recognise the limits of the advice.
+Acknowledge the hurt, suggest a calm next step, and avoid deciding who is right without hearing both sides.
 
 ## Letter structure
 
-Use an empathetic tone without minimising the problem or taking control away from the reader.
+Encourage honest communication while respecting the reader’s boundaries.
 
 ## Greeting and empathy
 
-Hi there,
+Hi Daniel,
 
-I’m glad you told me what has been happening. I can understand why this feels difficult, and you do not need to make every decision at once.
+I’m sorry the conversation with your friend ended so badly. It’s understandable that you’re hurt, especially because the friendship matters to you.
 
 ## Restate the problem
 
-It sounds as though you want to help your friend but are worried that giving advice might make the situation worse. That is a thoughtful concern.
+You said you both became defensive and now neither of you knows how to restart the conversation.
 
 ## Advice with reasons
 
-Start by listening and asking what kind of support your friend wants. You can offer practical help, such as accompanying them to an appointment or helping them compare options, without deciding for them. If the issue involves safety or professional advice, encourage them to contact an appropriate service.
+If you feel ready, give yourself a little time to settle and then send a short message saying you would like to talk when you are both calm. Focus on what you experienced and what you want to understand, rather than listing every mistake the other person made. Listening to their perspective does not mean you must agree with it; it simply gives you both a chance to explain what happened.
 
 ## Options and cautions
 
-You do not have to solve everything yourself, and it is okay to set boundaries if the situation becomes too much for you. Keep private details confidential unless someone is at risk and help is needed.
+If the conversation becomes insulting or makes you feel unsafe, it is reasonable to pause and set a boundary. You can care about the friendship without accepting hurtful behaviour.
 
 ## Encouraging close
 
-Being present and respectful can matter a great deal. I hope the conversation goes well.
+You don’t have to fix the whole disagreement in one message. Take the next step when you feel ready, and remember that I’m here to listen.
+
+Take care,  
+Alex
 
 ## Final review
 
-Check that the advice fits the situation, preserves the reader’s choice, and directs them to qualified support where the issue requires it.
+Keep the advice supportive and avoid promising that the friendship will be repaired.

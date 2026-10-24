@@ -1,35 +1,40 @@
-# Informal letter: a personal update
+# Informal letter: recommending a weekend activity
 
-*Illustrative personal letter. Adapt the details so they reflect your real relationship and experience.*
+*Illustrative personal letter. Adapt the recommendation to the recipient’s interests and local options.*
 
 ## Plan first
 
-The purpose is to share a personal update, respond warmly, and suggest a natural next step.
+Recommend a specific activity, explain why it may suit the friend, and invite their preference.
 
 ## Letter structure
 
-Keep the tone friendly and specific; avoid turning a personal note into a formal report.
+Keep the advice conversational and make clear that the suggestion is optional.
 
 ## Friendly opening
 
-Dear Amira,
+Hi Chris,
+
+How are you? I’ve been meaning to suggest something fun for us to do when you’re free.
 
 ## Reason for writing
 
-Thanks for inviting me to your exhibition opening. I’m sorry I can’t make the first evening, but I’d still love to see the work if you have another time available.
+I found a beginner-friendly pottery workshop near the old town and thought you might enjoy it.
 
 ## Main details and personal response
 
-I have a work commitment that I can’t move, but I’m free on Sunday afternoon. I’m especially interested in seeing the series you described about everyday city life. The way you connect small details with bigger themes sounds fascinating.
+The session lasts about two hours, and the instructor demonstrates the basic techniques before everyone tries making a small bowl or cup. I went to a similar class last year and liked that nobody needed previous experience. It was relaxing to make something with my hands instead of looking at a screen all afternoon.
 
 ## Suggestions, plans, or questions
 
-Would Sunday work, or is there another time when you’ll be there? If not, send me the opening hours and I’ll visit independently.
+Would you be interested in going together one Saturday? I can check the available dates, but if pottery isn’t your thing, we could choose a hike or visit the museum instead. Let me know what sounds best.
 
 ## Warm closing and sign-off
 
-I’m really pleased your work is being shown. Congratulations, and I hope the opening goes brilliantly. Love, Maya
+It would be nice to plan something rather than keep saying we should meet.
+
+Speak soon,  
+Taylor
 
 ## Final review
 
-Check that the details sound natural for the relationship, the invitation or question is clear, and the closing matches the level of familiarity.
+Check the workshop details and avoid implying that the recipient has already agreed.

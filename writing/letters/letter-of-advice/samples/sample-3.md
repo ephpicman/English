@@ -1,37 +1,40 @@
-# Letter of advice: responding to a difficult situation
+# Letter of advice: managing study time
 
-*Illustrative advice letter. Adapt it to the relationship and avoid presenting personal opinion as professional advice.*
+*Illustrative advice letter. Adapt the suggestions to the person’s schedule and responsibilities.*
 
 ## Plan first
 
-Acknowledge the concern, offer manageable options, and recognise the limits of the advice.
+Recognise the pressure and offer a manageable starting point rather than an unrealistic timetable.
 
 ## Letter structure
 
-Use an empathetic tone without minimising the problem or taking control away from the reader.
+Focus on prioritisation and realistic habits.
 
 ## Greeting and empathy
 
-Hi there,
+Hi Leila,
 
-I’m glad you told me what has been happening. I can understand why this feels difficult, and you do not need to make every decision at once.
+I’m sorry you’ve been feeling overwhelmed by your assignments. It’s difficult to focus when everything seems urgent at the same time.
 
 ## Restate the problem
 
-I understand why you’re unsure about accepting the new job. A higher salary is attractive, but the role also changes your commute and daily responsibilities.
+From what you said, you have several deadlines close together and are spending a lot of time deciding what to start with.
 
 ## Advice with reasons
 
-Compare the full picture: expected hours, travel time, development opportunities, manager expectations, and how the work fits your longer-term goals. If something is unclear, ask the employer before deciding. You could also speak with someone who knows the field but is not involved in either offer.
+Try writing every task and its due date on one page, then estimate the next small step for each one. Choose the task with the nearest deadline or the biggest dependency and work on it for a short, protected period. Breaking a large assignment into steps—such as reading, outlining, drafting, and checking—can make it easier to begin. Leave some space for unexpected tasks rather than planning every minute.
 
 ## Options and cautions
 
-Avoid deciding based only on the most appealing detail or assuming that an informal promise is guaranteed. Ask for important terms in writing and take enough time to review them.
+If the workload is genuinely too large, contact your tutor early to ask about priorities or available support. A timetable cannot solve a situation where the deadlines are unreasonable or you lack the resources to complete the work.
 
 ## Encouraging close
 
-There may not be a perfect choice, but a clear comparison should help you choose the option that fits your priorities.
+Start with a plan for tomorrow, not the whole semester. You can adjust it as you learn what works.
+
+Take care,  
+Nina
 
 ## Final review
 
-Check that the advice fits the situation, preserves the reader’s choice, and directs them to qualified support where the issue requires it.
+Avoid suggesting that time management alone resolves every cause of academic stress.

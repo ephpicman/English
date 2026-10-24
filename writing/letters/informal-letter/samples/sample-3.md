@@ -1,35 +1,40 @@
-# Informal letter: a personal update
+# Informal letter: sharing news about a course
 
-*Illustrative personal letter. Adapt the details so they reflect your real relationship and experience.*
+*Illustrative personal letter. Keep the course details and opinions true to the writer.*
 
 ## Plan first
 
-The purpose is to share a personal update, respond warmly, and suggest a natural next step.
+Share the news, describe what has been useful, and invite the friend to respond.
 
 ## Letter structure
 
-Keep the tone friendly and specific; avoid turning a personal note into a formal report.
+Give enough detail to make the update interesting without listing every class.
 
 ## Friendly opening
 
 Hey Daniel,
 
+How’s everything going? I hope you’ve had a chance to relax after your exams.
+
 ## Reason for writing
 
-I’m writing because I finally tried the recipe you sent me, and I have to admit it turned out better than I expected.
+I wanted to tell you that I’ve started an evening course in graphic design.
 
 ## Main details and personal response
 
-I didn’t have fresh basil, so I used parsley instead, and I added a little lemon at the end. It was easy to make and there was enough left for lunch the next day. The only problem was that I used a pan that was too small, so next time I’ll use the bigger one.
+The class meets twice a week, and we’re learning how to plan a layout before choosing colours and fonts. I expected the software to be the hardest part, but I’ve found that deciding what the reader should notice first is much more challenging. Our tutor gives us a small project each week, which makes it easier to practise between sessions.
 
 ## Suggestions, plans, or questions
 
-You should come over one evening and we can make it together. I can try your original version, and you can tell me whether my lemon idea is an improvement or a mistake!
+I remember you were interested in design for your club’s newsletter. If you want, I can show you the exercises I’ve been doing, and maybe we can work on a simple poster together. Are you still helping with the newsletter?
 
 ## Warm closing and sign-off
 
-Thanks again for the recipe. Speak soon, Priya
+I’ll send you a picture of my next project when it’s finished. Write back when you get a moment.
+
+Cheers,  
+Alex
 
 ## Final review
 
-Check that the details sound natural for the relationship, the invitation or question is clear, and the closing matches the level of familiarity.
+Check the course schedule and personal details before sending.

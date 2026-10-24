@@ -1,37 +1,40 @@
-# Letter of advice: responding to a difficult situation
+# Letter of advice: dealing with a difficult colleague
 
 *Illustrative advice letter. Adapt it to the relationship and avoid presenting personal opinion as professional advice.*
 
 ## Plan first
 
-Acknowledge the concern, offer manageable options, and recognise the limits of the advice.
+Acknowledge the concern, offer manageable options, and leave the decision with the reader.
 
 ## Letter structure
 
-Use an empathetic tone without minimising the problem or taking control away from the reader.
+Use empathy without minimising the problem or taking control away from the reader.
 
 ## Greeting and empathy
 
-Hi there,
+Hi Alex,
 
-I’m glad you told me what has been happening. I can understand why this feels difficult, and you do not need to make every decision at once.
+I’m glad you told me what has been happening. I can understand why the situation feels draining, especially when you still need to work together every day.
 
 ## Restate the problem
 
-I know you’re worried about starting at a new school where you don’t know anyone. It is normal to feel uncertain before a big change, especially when everything from the timetable to the social routines is unfamiliar.
+From what you described, the main difficulty is that your colleague changes agreed tasks without telling you, which leaves you responsible for explaining the delay to others.
 
 ## Advice with reasons
 
-Try choosing one small goal for the first week, such as learning two classmates’ names or asking a teacher one question. Joining a club related to something you already enjoy can also make conversations easier because you have an activity in common.
+I’d suggest starting with a calm conversation focused on the work rather than their personality. Explain one recent example, describe the effect, and ask how you can agree on changes in future. It may help to confirm shared decisions in a short message afterwards, so both of you have the same understanding.
 
 ## Options and cautions
 
-You do not need to become close friends with everyone immediately. Give yourself time, and if the anxiety starts affecting sleep or attendance, talk to a trusted adult or school support staff.
+If the pattern continues, keep factual notes and discuss the issue with your manager using the appropriate workplace process. Avoid sending an angry message when you are upset, and remember that you may not know every pressure your colleague is dealing with.
 
 ## Encouraging close
 
-I’m sure the first days will feel less overwhelming once you know your way around. Let me know how it goes.
+You do not have to solve everything in one conversation. Start with one clear request and see how they respond. I’m happy to talk it through with you.
+
+Take care,  
+Maya
 
 ## Final review
 
-Check that the advice fits the situation, preserves the reader’s choice, and directs them to qualified support where the issue requires it.
+Keep the advice proportionate and encourage appropriate support if the situation becomes serious.

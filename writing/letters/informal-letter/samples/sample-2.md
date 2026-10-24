@@ -1,35 +1,40 @@
-# Informal letter: a personal update
+# Informal letter: inviting a friend to visit
 
-*Illustrative personal letter. Adapt the details so they reflect your real relationship and experience.*
+*Illustrative personal letter. Change dates and arrangements to match your actual plans.*
 
 ## Plan first
 
-The purpose is to share a personal update, respond warmly, and suggest a natural next step.
+Invite the friend, explain the plan, and make it easy to suggest alternatives.
 
 ## Letter structure
 
-Keep the tone friendly and specific; avoid turning a personal note into a formal report.
+Use a warm tone and include the practical details the reader needs.
 
 ## Friendly opening
 
-Dear Sam,
+Hi Sam,
+
+It feels like ages since we last had a proper catch-up. I hope you’re doing well.
 
 ## Reason for writing
 
-Thanks for asking how my first week at the new course went. It has been busy, but in a good way, and I’m starting to get used to the timetable.
+I’m writing to invite you to spend a weekend with me in November if you have time.
 
 ## Main details and personal response
 
-The teachers explain the assignments clearly, although the reading list is longer than I expected. I’ve met two classmates who live nearby, and we’re planning to study together once a week. The library is much quieter than the one I used before, so I think I’ll get a lot done there.
+There’s a small food market near my flat on Saturday mornings, and I thought we could explore it before walking along the river. I’ve also found a little exhibition that looks interesting, although we can skip it if you’d rather have a quiet weekend. You can stay at my place, so there’s no need to book a hotel.
 
 ## Suggestions, plans, or questions
 
-If you have any advice for managing several deadlines at once, I’d love to hear it. Maybe we can have a call this weekend and I can tell you more.
+Would the weekend of 14 November work for you? If not, send me a couple of dates that suit you. Let me know if you have any food preferences and I’ll plan something easy for dinner.
 
 ## Warm closing and sign-off
 
-Hope everything is going well with you. Write back when you have time. Best, Noor
+It would be great to see you. Hope we can make it happen.
+
+All the best,  
+Nina
 
 ## Final review
 
-Check that the details sound natural for the relationship, the invitation or question is clear, and the closing matches the level of familiarity.
+Confirm availability and accommodation details before sending the invitation.
