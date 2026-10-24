@@ -1,23 +1,23 @@
-# Application response: Why are you a strong candidate for this role?
+# Application response: Why are you interested in this role?
 
-*Illustrative application response. Adapt the example to the applicant’s real experience and the employer’s exact word limit.*
+*Illustrative response; tailor it to the actual employer and avoid claims about the organisation that have not been checked.*
 
 ## Direct answer to prompt
 
-I am a strong candidate because my experience matches the role’s need for organised execution, clear communication, and careful attention to detail.
+I am interested in this project-support role because it combines practical coordination, clear communication, and the opportunity to help a team deliver work reliably.
 
 ## Relevant context
 
-The situation required me to balance practical constraints with the needs of colleagues who depended on accurate information. I clarified what success would look like before choosing an approach.
+I enjoy work where careful organisation helps other people focus on specialist tasks. The responsibilities described in the vacancy—maintaining project records, tracking actions, and preparing updates—match the kind of work I have found most useful in previous roles.
 
 ## Evidence of capability
 
-In project and volunteer work, I have coordinated tasks, maintained shared records, and prepared concise updates for people with different levels of context. I try to clarify the expected outcome early, record decisions, and flag risks before they become urgent. I am also receptive to review and can adjust my approach when feedback identifies a better method.
+In a recent team project, I maintained the action log, checked that each task had an owner, and followed up when a deadline or dependency was unclear. I also prepared concise meeting notes that separated decisions from discussion and listed the next steps. When colleagues found the tracker difficult to scan, I reorganised it around status and due date and asked the team to review the change. This helped me understand that coordination is not simply recording information; it is making the information usable for decisions.
 
 ## Outcome and relevance
 
-These habits help a team rely on my work and make it easier for colleagues to continue a task when responsibilities change. I would bring that reliability while learning the specific systems, standards, and priorities of your organisation.
+The experience strengthened my attention to detail and showed me the value of adapting a process to its users. I would bring reliable follow-through, a willingness to ask questions early, and respect for the expertise of colleagues. I am also keen to develop my understanding of the team’s specific systems and priorities.
 
 ## Closing if useful
 
-I would welcome the opportunity to discuss the role’s priorities and how I could contribute.
+I would welcome the opportunity to contribute these skills and learn more about the role’s day-to-day work.

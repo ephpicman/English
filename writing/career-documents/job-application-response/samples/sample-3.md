@@ -1,23 +1,23 @@
-# Application response: Give an example of communicating complex information clearly.
+# Application response: Describe a time you learned a new tool
 
-*Illustrative application response. Adapt the example to the applicant’s real experience and the employer’s exact word limit.*
+*Illustrative response; name only tools and skills the applicant has genuinely used.*
 
 ## Direct answer to prompt
 
-I once had to explain a multi-step registration process to people who were unfamiliar with the system and its terminology.
+I learned to use a spreadsheet’s filtering and validation features to make a recurring report more reliable and easier for colleagues to update.
 
 ## Relevant context
 
-The situation required me to balance practical constraints with the needs of colleagues who depended on accurate information. I clarified what success would look like before choosing an approach.
+The team maintained a list of service requests, but inconsistent category names made it difficult to group the records for a monthly summary. I had used spreadsheets for basic data entry but had not previously set up validation rules.
 
 ## Evidence of capability
 
-I reorganised the explanation around the order users would complete the tasks. I replaced internal jargon with plain-language labels, separated required actions from optional settings, and added a short note about what to do if a confirmation message did not arrive. I asked a colleague to follow the instructions without my help and revised the steps where they hesitated.
+I first reviewed the existing categories and asked the report owner which distinctions were important. I then worked through the software’s help materials and tested a controlled list of permitted values in a copy of the file. I checked how the change affected existing records, corrected inconsistent entries with the owner’s confirmation, and wrote a short note explaining how to add a new category through the agreed process. I asked a colleague to test the updated sheet before it was used for the next report.
 
 ## Outcome and relevance
 
-The revised guide was easier to follow in a peer review and reduced the need for verbal explanation during the next session. I learned to test instructions with the intended reader instead of judging clarity from the writer’s perspective.
+The category values became more consistent, and the monthly summary required less manual correction. The process also taught me to test changes on a copy, consult the people who own the data, and document a new procedure instead of assuming that a tool feature is self-explanatory. I would use the same learning approach when adopting new systems in this role.
 
 ## Closing if useful
 
-I would use the same reader-focused method when preparing customer or internal guidance.
+I am comfortable learning unfamiliar tools methodically and asking for review when accuracy matters.

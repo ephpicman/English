@@ -1,23 +1,23 @@
-# Application response: Describe how you respond to a mistake.
+# Application response: How would you respond to a dissatisfied customer?
 
-*Illustrative application response. Adapt the example to the applicant’s real experience and the employer’s exact word limit.*
+*Illustrative response; adapt to the employer’s service standards and escalation process.*
 
 ## Direct answer to prompt
 
-I believe a mistake should be acknowledged promptly, its impact understood, and the correction communicated to the people affected.
+I would listen without interrupting, clarify the problem, acknowledge the impact, and explain the next step without promising an outcome I cannot control.
 
 ## Relevant context
 
-The situation required me to balance practical constraints with the needs of colleagues who depended on accurate information. I clarified what success would look like before choosing an approach.
+A dissatisfied customer may be reacting to a delay, an incorrect result, or uncertainty about what happens next. The response should be calm and respectful while following the organisation’s policies and protecting confidential information.
 
 ## Evidence of capability
 
-In a shared report, I noticed that I had used an outdated version of one input table. I told the project lead, checked which conclusions depended on that table, and reran the affected calculations using the approved source. I marked the revised figures clearly and added a source-date check to my own review process.
+In a previous service role, a customer contacted us after receiving conflicting information about a delivery. I checked the case record, repeated the customer’s concern in my own words to confirm I understood it, and compared the messages already sent. I found that the estimated date had changed but the update had not been communicated clearly. I apologised for the confusing communication, contacted the delivery team for a current status, and told the customer when I would provide the next update. I recorded the follow-up so another colleague could see what had been promised.
 
 ## Outcome and relevance
 
-The team could distinguish the corrected figures from the earlier version and assess the impact without guessing. The experience reinforced that accountability means explaining both the correction and the steps taken to reduce recurrence.
+The customer received a consistent update and a clear point of contact, even though I could not immediately resolve the delivery delay. The experience reinforced that honesty and follow-through matter as much as tone. If a request involved a policy exception or a risk beyond my authority, I would explain the escalation route and involve the appropriate colleague.
 
 ## Closing if useful
 
-I would follow the same transparent approach if an error occurred in this position.
+I aim to make the next step clear while treating the customer fairly and respectfully.
