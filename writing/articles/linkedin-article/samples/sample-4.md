@@ -26,6 +26,8 @@ A simple process still needs ownership. Someone must define who can change categ
 
 Before rolling out a process change, write a short purpose statement, name the owner, and agree on a review date. Explain what should be updated and what should remain in the source system. After a few weeks, ask users which steps help and which create friction. Keep the parts that improve decisions and remove the rest. Avoid claiming success based only on adoption; look for whether the original problem has actually become less common.
 
+Accessibility is not limited to a compliance checklist. It also includes whether a reader can understand the document’s purpose, navigate its sections, and identify what action is required. A long file with meaningful headings can be easier to use than a short file whose structure is only visual. When publishing a PDF, check the exported version because some source-document structure may not transfer as expected. A practical review should test the final file, not only the authoring document.
+
 ## Conclusion and conversation prompt
 
 A process is useful when it solves a real problem and remains understandable after the launch. How does your team decide whether a new workflow is genuinely helping?

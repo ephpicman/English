@@ -26,6 +26,8 @@ Feedback should not become a list of every possible flaw. Too many comments can 
 
 A simple feedback structure is: describe the situation, name the observable action, explain its impact, and agree on a next step. Follow up after the person has had a chance to apply the advice. If the change works, acknowledge it. If it does not, revisit the expectation rather than repeating the same comment more loudly. Written feedback should be concise and private when the topic is sensitive.
 
+It is also important to distinguish a risk from a problem that has already occurred. A forecast may be uncertain because a dependency is still open; a missed deadline is a current issue that needs a response. Naming the difference helps managers choose the right action. A risk may need monitoring or a contingency, while an issue usually needs an owner and recovery plan. Teams can make this distinction without adding a complex reporting framework, as long as the terms are used consistently.
+
 ## Conclusion and conversation prompt
 
 The test of feedback is not whether the reviewer has spoken, but whether the recipient knows what to do differently and why. What kind of feedback has helped you make a concrete improvement?

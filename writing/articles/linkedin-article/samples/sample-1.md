@@ -26,6 +26,8 @@ A handover can still fail if it becomes a second project-management system. Copy
 
 Before handing work over, ask a colleague unfamiliar with the task to find three things: the next action, the responsible person, and the main risk. If they cannot find them quickly, improve the structure. Set a clear date for the next review and make sure links work for the intended reader. Finally, state what is not yet known. Honest uncertainty is safer than a polished document that gives a false sense of completion.
 
+A useful way to check whether a handover works is to run a short simulation before the person leaves. Ask a colleague who has not worked on the task to identify the next action and explain what would block it. If they need to ask several questions, the document is not ready. This test also helps teams distinguish information that belongs in the handover from detail that should remain in the project record. The aim is not to eliminate every question, but to make routine continuation possible and make genuine uncertainty visible.
+
 ## Conclusion and conversation prompt
 
 Good handovers are tools for action, not archives of activity. What one field or section has made the biggest difference to your team’s handovers?

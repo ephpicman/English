@@ -26,6 +26,8 @@ Not every meeting should be tightly controlled. Complex problems sometimes need 
 
 End each decision item by stating what was agreed, who owns the next action, and when it is due. Send notes promptly, using a format that separates decisions from discussion. At the next meeting, review only the actions that need attention rather than reading the previous notes aloud. Periodically ask participants which meetings are worth keeping and which could become written updates.
 
+For recurring meetings, it can help to keep a decision log alongside the notes. Record the decision, the person responsible for carrying it out, and the point at which it should be reviewed. This is especially useful when a decision depends on a later result or approval. A log should not become a second source of truth; link it to the relevant project record and correct it if the decision changes. Clear ownership matters more than a perfectly formatted document.
+
 ## Conclusion and conversation prompt
 
 Effective meetings are designed around outcomes, supported by preparation, and closed with clear ownership. What change has helped your team make meetings more useful?
