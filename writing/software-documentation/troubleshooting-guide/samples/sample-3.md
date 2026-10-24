@@ -1,38 +1,40 @@
-# Troubleshooting: export file is empty
+# Troubleshooting: application starts but shows a blank page
 
-*Illustrative troubleshooting guide. Confirm system-specific messages and recovery procedures before use.*
+*Illustrative troubleshooting guide. Use only diagnostics approved for the application and environment.*
 
 ## Scope and prerequisites
 
-Use this guide when a report export completes but contains no rows. You need permission to view the report and the filter settings used for the export.
+Use this guide when the application opens but displays a blank or incomplete page. Record the browser, application version, time, and any visible error. Do not collect private browsing data beyond what support needs.
 
 ## Symptoms and error identifiers
 
-- Downloaded CSV contains only a header row.
-- The interface shows zero matching records.
-- The preview and downloaded file appear to disagree.
+- The page shell loads but content is missing.
+- A spinner continues without finishing.
+- The browser console shows a failed request.
+- The issue occurs only for one account or environment.
 
 ## Quick checks
 
-1. Check the selected date range and filters.
-2. Confirm the intended columns and dataset.
-3. Compare the visible row count with the export preview.
-4. Check whether the report data has refreshed.
+1. Confirm the correct environment and address.
+2. Refresh once and check service status.
+3. Ask whether other users see the same issue.
+4. Record the failed request identifier or error message, if available.
 
 ## Diagnostic decision steps
 
-Clear optional filters one at a time to identify whether a filter removes all rows. Confirm the user has permission to view the expected records. If the preview shows rows but the file does not, capture the export ID and check whether generation completed successfully.
+If multiple users are affected, check service health and recent deployments before asking everyone to change local settings. If only one browser is affected, test in a supported browser or private session if policy permits. If the page fails after authentication, check the relevant application logs using the request identifier.
 
 ## Cause-specific fixes
 
-Correct the filter or date range if it was entered incorrectly. If the source data has not refreshed, follow the report owner’s refresh process. If preview and export differ under the same settings, do not repeatedly export sensitive data; escalate with the export ID.
+- **Service outage:** follow the incident notice and avoid repeated refreshes.
+- **Stale local assets:** use the approved cache-clearing steps, if available.
+- **Permission failure:** verify the account’s access through the normal process.
+- **Backend request error:** escalate with the failed request details rather than guessing at a fix.
 
 ## Verification and prevention
 
-Run the export again with the confirmed filters and compare its row count with the preview. Check a small number of non-sensitive records against the source report.
+Confirm the page displays the expected content and the user can complete the original task. If the issue followed a release, link the incident to the deployment record.
 
 ## Escalation details to collect
-Before closing the investigation, confirm that the report’s source data has refreshed and that the export is generated with the intended filters. If a defect is confirmed, record the affected report version and the validation result. This makes it easier to tell whether a later discrepancy is the same issue or a separate problem.
-If the export mismatch recurs, compare the report definition and data refresh timestamp before investigating individual records. A change in the source schema or filter logic may affect multiple exports. Keep the original file and a redacted example of the mismatch until the report owner confirms the cause. Avoid making manual corrections to the export without recording the transformation, because doing so can make later reconciliation difficult. Once the problem is fixed, rerun the validation and record which check confirms that the exported data is consistent.
 
-Provide report name, export ID, time, selected filters, preview row count, downloaded row count, and any error message. Redact data values and credentials.
+Provide time and time zone, browser and version, environment, request ID, affected route, and steps to reproduce. Redact tokens and personal data from screenshots.

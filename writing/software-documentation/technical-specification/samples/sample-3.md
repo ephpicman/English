@@ -1,43 +1,43 @@
-# Technical specification: secure file upload
+# Technical specification: notification preference API
 
-*Illustrative technical specification. Confirm schemas, security requirements, and acceptance criteria with the actual system owners before implementation.*
+*Illustrative specification. Align fields and behaviour with the actual product and privacy policy.*
 
 ## Purpose, scope, and terminology
 
-Define a server-side file upload flow for authenticated users. Scope includes validation, storage, metadata, access control, and deletion. It does not include content editing or public sharing.
+Define an API for reading and updating a user’s optional notification preferences. “Optional notification” refers to a category the user is permitted to control; mandatory service notices may follow separate rules.
 
 ## Background and goals
 
-Uploaded files must persist across application restarts and remain accessible only to authorised users. Local disk storage is not sufficient for a multi-instance deployment unless a shared persistent volume is deliberately designed.
+Preference settings are difficult to maintain when multiple interfaces use different names or defaults. The goal is a consistent contract that validates updates and returns the stored state clearly.
 
 ## Functional requirements
 
-FR-1: accept only documented file types and size limits. FR-2: validate the user’s permission before accepting an upload. FR-3: store metadata including owner, object key, size, type, and status. FR-4: provide an authorised download path. FR-5: support deletion according to retention rules.
+- Return the authenticated user’s current preferences.
+- Allow updates only to supported fields.
+- Reject unknown values with a documented validation error.
+- Prevent a user from changing another user’s settings without explicit authorisation.
+- Record preference changes according to the approved audit policy.
 
 ## Non-functional requirements
 
-Files must be private by default. Upload and download operations need timeouts, size limits, and monitoring. The service must not trust a client-supplied filename or MIME type as the sole validation signal.
+The API should be accessible, provide consistent errors, and meet agreed availability and response-time targets. Preference data should be protected according to the organisation’s privacy rules.
 
 ## Architecture and data flow
 
-The client requests an upload operation; the service authorises the user and issues a constrained upload route or accepts the file through the application. The file is stored in private object storage, while metadata is recorded in the database. Downloads require a fresh access check before a short-lived link is issued.
+The client sends an authenticated request. The service validates the requested fields, checks permissions, stores the change, and returns the resulting preference state. The client should not assume that a change succeeded until it receives a successful response.
 
 ## Interfaces, schemas, and dependencies
 
-Metadata schema includes file ID, owner ID, storage key, media type, byte size, creation time, and lifecycle state. Storage provider, allowed MIME types, maximum size, and malware scanning requirements must be confirmed for the deployment.
+Document supported fields, allowed values, default behaviour, and whether partial updates are permitted. Dependencies include identity, preference storage, and notification-delivery services.
 
 ## Failure modes, security, and observability
 
-Reject oversized or unsupported files, handle interrupted uploads, and clean up orphaned objects. Never log file contents or signed URLs. Audit permission failures and suspicious upload patterns according to the security policy.
+Handle missing authentication, forbidden updates, invalid fields, storage failure, and concurrent changes. Avoid placing personal settings in unnecessary diagnostic logs.
 
 ## Acceptance criteria and validation
 
-Unauthorised users cannot retrieve a file by guessing its ID; unsupported files are rejected; interrupted uploads do not appear as complete; and deletion removes access according to the retention policy.
-
-Upload handling should be split into explicit states so that a partially transferred file is never presented as complete. The service should validate size and declared type early, then apply server-side checks before the file becomes available for download. The client-supplied filename must not determine the storage path; generate an internal object key and retain the original filename only as display metadata if policy permits. For interrupted transfers, define whether the client can resume or must restart, and ensure incomplete objects are cleaned up. Metadata and object storage can fail independently, so the implementation needs a reconciliation task for orphaned files and records that point to missing objects.
-
-The acceptance test suite should include an unauthorised upload, an oversized file, an unsupported format, a duplicate submission, an interrupted transfer, and a download attempt by a different user. Verify deletion behaviour and confirm that temporary download links expire as expected. Operational monitoring should cover upload failures, storage growth, incomplete records, and repeated permission denials. The specification should name the team responsible for retention and explain how a user requests deletion or reports an incorrect file.
+Test reads, single-field updates, invalid fields, empty updates, and cross-user access. Verify that the response matches the persisted state and that unsupported fields are not silently treated as saved.
 
 ## Open questions and exclusions
 
-Confirm retention period, scanning requirements, data residency, and whether external users can upload. Public sharing and file conversion are excluded.
+Confirm the rules for mandatory messages, propagation delay, and audit retention. Notification delivery itself is outside this API specification.

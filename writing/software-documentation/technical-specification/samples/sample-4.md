@@ -1,43 +1,44 @@
-# Technical specification: notification delivery
+# Technical specification: scheduled report generation
 
-*Illustrative technical specification. Confirm schemas, security requirements, and acceptance criteria with the actual system owners before implementation.*
+*Illustrative specification. Confirm data definitions, scheduling requirements, and access policy before implementation.*
 
 ## Purpose, scope, and terminology
 
-Specify a notification workflow for sending an event-triggered email while avoiding duplicate sends and exposing delivery status. The scope covers event intake, queueing, delivery attempts, and operational review.
+Specify a service that generates a report for an agreed reporting period and makes the result available to authorised users. “Report period” is the data window being analysed; “generation time” is when the job runs.
 
 ## Background and goals
 
-Transient failures can cause a worker to retry after an external provider has accepted a message. Without idempotency, this may result in duplicate notifications. The system needs clear state and a recovery path for ambiguous outcomes.
+Manual report preparation can vary between operators and may use inconsistent date ranges. The goal is repeatable generation with traceable inputs and clear failure handling.
 
 ## Functional requirements
 
-FR-1: accept a notification event with a stable business key. FR-2: validate recipient and template inputs. FR-3: enqueue delivery work. FR-4: record attempt state and provider response category. FR-5: suppress duplicate processing for the same logical event where the provider or internal store supports it.
+- Accept or derive a defined reporting period.
+- Validate that required source data is available.
+- Generate output using the approved report definition.
+- Record job status, generation time, and source version where available.
+- Notify the designated owner of success or failure through an approved channel.
+- Prevent unauthorised users from accessing the generated report.
 
 ## Non-functional requirements
 
-Delivery should be observable without logging message bodies or secrets. Retry policy must be bounded and configurable. The system must support rate limits and safe operation during provider outages.
+Jobs should be observable, restartable where safe, and protected from duplicate execution. Runtime limits and service-level expectations must be set from the actual workload.
 
 ## Architecture and data flow
 
-An application event is validated and stored with an idempotency key. A worker claims the event, renders an approved template, and calls the provider. The worker records success or a classified failure. Ambiguous outcomes are reconciled rather than retried blindly.
+A scheduler starts the job. The worker validates the period and source availability, generates the report, stores the output in an approved location, and records the result. A failed job should leave enough information for diagnosis without exposing sensitive report contents.
 
 ## Interfaces, schemas, and dependencies
 
-Event fields include event ID, recipient reference, template ID, locale, and approved variables. Provider-specific request and response schemas must be documented separately. Credentials are retrieved from the approved secret store.
+Define the schedule, period format, output format, access rules, status model, and error contract. Dependencies include the source database, job scheduler, storage, and notification service.
 
 ## Failure modes, security, and observability
 
-Distinguish permanent validation failures, rate limiting, transient network errors, and unknown delivery outcomes. Use exponential backoff where appropriate and a review queue for exhausted retries. Redact recipients and provider tokens in logs.
+Handle missing data, query failures, storage errors, duplicate triggers, and permission changes. Logs should include safe job identifiers and status, not full sensitive rows.
 
 ## Acceptance criteria and validation
 
-Repeated delivery of the same event does not create duplicate sends under the supported idempotency model; retries stop at the configured limit; failures are observable; and secrets do not appear in logs.
-
-Notification events should be stored before a worker attempts delivery so that a temporary process restart does not lose the request. Each event needs a stable identifier and a clear state transition from queued to sending and then to delivered or failed. A timeout can leave the outcome uncertain, so the design should not treat every network error as proof that the provider did not receive the message. Use provider-supported idempotency where available and define a review path for cases that cannot be resolved automatically.
-
-Templates should be versioned and reviewed separately from the delivery mechanism. Required variables must be validated before a message is sent, and the system should record which template version was used without storing unnecessary message content. The delivery pipeline should respect rate limits, retry only appropriate failure categories, and stop after the configured limit. Monitoring should include backlog age, delivery failure categories, and repeated retries. The operations guide should explain how to pause delivery, inspect a failed event, and resume safely after the cause is understood.
+Test complete and incomplete periods, duplicate triggers, failed storage, and access restrictions. Compare output with a verified reference case before acceptance.
 
 ## Open questions and exclusions
 
-Confirm retention of delivery records, provider idempotency support, recipient preferences, and unsubscribe requirements. SMS and push notifications are out of scope.
+Confirm time zone, retention, and handling of late-arriving data. Interactive report editing is outside scope.

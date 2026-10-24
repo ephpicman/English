@@ -1,38 +1,42 @@
-# Troubleshooting: CSV import rejected
+# Troubleshooting: file upload fails
 
-*Illustrative troubleshooting guide. Confirm system-specific messages and recovery procedures before use.*
+*Illustrative troubleshooting guide. Verify the service’s actual file limits and accepted types.*
 
 ## Scope and prerequisites
 
-Use this guide when a CSV upload fails validation. Keep the original file unchanged and use a copy for testing. Do not share records containing personal or confidential data in a public support channel.
+Use this guide when a document upload fails in the application. Record the error, file size, file type, and approximate time. Do not ask users to email sensitive documents as a workaround.
 
 ## Symptoms and error identifiers
 
-- Import reports missing required columns.
-- Rows are rejected because values do not match expected types.
-- The parser reports inconsistent row lengths or invalid quoting.
+- The upload is rejected immediately.
+- The progress indicator stops before completion.
+- The interface reports that processing failed.
+- The file appears uploaded but remains unavailable.
+
+Capture the request ID or error code if shown.
 
 ## Quick checks
 
-1. Confirm that the file is in the documented format and encoding.
-2. Compare the header row with the current schema.
-3. Check whether the delimiter and quotation rules match the export settings.
-4. Review the validation report for row and column references.
+1. Confirm the file type is supported.
+2. Check the documented size limit.
+3. Confirm the user has permission to upload to the selected workspace.
+4. Retry only after checking whether the first upload completed.
 
 ## Diagnostic decision steps
 
-If a required column is missing, compare the header with the approved template. If dates or numbers are rejected, check the documented format and locale. If row lengths differ, inspect line breaks and quoting in the affected rows. Correct the source copy and rerun validation before importing.
+If the service rejects the file immediately, compare its type and size with the documented limits. If the upload stops mid-transfer, check network stability and service status. If the file uploads but remains pending, review the processing or scanning status rather than submitting duplicates.
 
 ## Cause-specific fixes
 
-Export a fresh file using the supported format where possible. Do not rename columns or convert values in bulk unless the expected mapping is clear. If the file appears valid but still fails, provide a minimal redacted sample that reproduces the issue.
+- **Unsupported type:** convert the file only if an approved format is available.
+- **File too large:** use the approved compression method or split the content if policy allows.
+- **Permission error:** verify workspace access through the normal account process.
+- **Pending scan:** wait for the documented processing period or escalate if it exceeds the service target.
 
 ## Verification and prevention
 
-Run validation on the corrected copy and confirm that the reported error is resolved. Compare row counts and key totals before proceeding with the import.
+Confirm the final status and make sure the file is visible only to authorised users. Avoid repeated retries if the outcome of the first attempt is unknown.
 
 ## Escalation details to collect
-If the same file fails more than once, compare it with the documented schema and check whether the source system has changed its output. A repeated rejection may indicate a producer-side issue or an outdated template. Keep the evidence minimal and redacted, and ask the data owner to confirm any proposed exception before changing validation rules.
-After correcting the file, keep a copy of the validation report with the import record if the organisation’s process requires it. If the same validation error appears repeatedly across different producers, consider whether the template or instructions need clarification. Do not weaken a validation rule simply to make one file pass; first confirm that the underlying value is legitimate and that the receiving system supports it. If the file is time-sensitive, communicate the expected review window and identify the person who can approve an exception.
 
-Include the importer version, error identifier, column and row number, file encoding if known, and a minimal redacted example. Never attach the full sensitive file unless the approved secure transfer process is used.
+Provide file type, approximate size, time, error text, request ID, and steps attempted. Do not include the document contents unless an approved secure process requires them.

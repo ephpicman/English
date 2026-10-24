@@ -1,38 +1,39 @@
-# Troubleshooting: background job appears stuck
+# Troubleshooting: API returns HTTP 401
 
-*Illustrative troubleshooting guide. Confirm system-specific messages and recovery procedures before use.*
+*Illustrative troubleshooting guide. Confirm the API’s authentication scheme and error contract.*
 
 ## Scope and prerequisites
 
-Use this guide for a queued job that has not completed within its normal window. Do not manually rerun a job with external side effects until its current state is understood.
+Use this guide when an API request returns HTTP 401. You need the endpoint, time, request ID if available, and a safe description of how authentication is configured. Never request a user’s token or secret.
 
 ## Symptoms and error identifiers
 
-- Job remains queued or in progress beyond its expected duration.
-- Retry count increases without completion.
-- Downstream status does not reflect the expected result.
+- The response indicates missing or invalid authentication.
+- A request that previously worked begins returning 401.
+- A client sends a token but the service still rejects the request.
 
 ## Quick checks
 
-1. Check the queue and worker health dashboards.
-2. Look for a known dependency incident.
-3. Identify the job ID and current state.
-4. Check whether the job may already have completed an external action.
+1. Confirm the request includes the documented authentication header.
+2. Check whether the token has expired.
+3. Verify that the client is using the correct environment.
+4. Confirm the server’s clock and token issuer settings only through approved diagnostics.
 
 ## Diagnostic decision steps
 
-Review worker logs using the job ID and correlate them with the downstream service’s records. Determine whether the job is waiting, failing, or has an ambiguous outcome after a timeout. Check retry limits and dead-letter handling before taking action.
+If no token is sent, correct the client configuration. If the token is expired, use the approved renewal flow. If the token is present and valid but rejected, check issuer, audience, signing-key rotation, and environment mismatch with the service owner. Do not disable validation as a workaround.
 
 ## Cause-specific fixes
 
-If the job is safely retryable and the cause is transient, use the documented retry mechanism. If an external side effect may already have occurred, follow the reconciliation procedure rather than launching a duplicate job. Escalate persistent failures to the job owner.
+- **Expired token:** obtain a new token through the documented flow.
+- **Wrong environment:** use credentials issued for the target environment.
+- **Configuration mismatch:** escalate to the identity or API owner with safe diagnostic details.
+- **Possible key rotation issue:** follow the approved incident procedure.
 
 ## Verification and prevention
 
-Confirm the job reaches a terminal state, the expected side effect occurs once under the supported idempotency model, and the queue returns to normal. Monitor the next scheduled run.
+Retry with a newly issued token in a test environment and confirm that an unauthorised request remains rejected. Review credential rotation and expiry guidance.
 
 ## Escalation details to collect
-Record the job’s final state and the reason it was retried or reconciled. If the same pattern appears again, ask the owner to review whether the retry limit, monitoring, or job design needs to change. A short incident note helps other operators avoid repeating the same investigation.
-Do not delete or requeue a stuck job until the current state is understood. Some jobs may have completed an external action even though the local status did not update. Check the documented reconciliation path and obtain approval from the job owner if the next step could create a duplicate effect. Once the job is resolved, review whether the alert threshold and retry policy are appropriate. Repeated failures may indicate that the job needs better observability or a clearer exception path, rather than a larger retry limit.
 
-Provide job ID, enqueue time, attempt count, state transitions, dependency status, relevant correlation IDs, and whether any external side effect may have occurred. Redact payloads containing sensitive data.
+Provide endpoint, time and time zone, status code, request ID, environment, and client version. Redact Authorization headers and all secrets.

@@ -1,43 +1,43 @@
 # Technical specification: ticket intake queue
 
-*Illustrative technical specification. Confirm schemas, security requirements, and acceptance criteria with the actual system owners before implementation.*
+*Illustrative specification. Confirm schemas, security requirements, and acceptance criteria with system owners before implementation.*
 
 ## Purpose, scope, and terminology
 
-Define a shared intake workflow for internal service requests. Scope covers creating a request, assigning ownership, changing status, and recording the next action. Terms: requester is the person submitting work; owner is accountable for the next action; status describes the workflow state.
+Define a shared intake workflow for internal service requests. Scope includes creating a request, assigning ownership, changing status, and recording the next action. The requester submits work; the owner is accountable for the next action; status describes the workflow state.
 
 ## Background and goals
 
-Requests currently arrive through several channels, making ownership and status difficult to track. The goal is a consistent record and auditable handoff, not immediate automation of every request.
+Requests currently arrive through several channels, making ownership and status difficult to track. The goal is one authorised record for each request, with clear responsibility and traceable changes.
 
 ## Functional requirements
 
-FR-1: create a request with a unique ID and timestamp. FR-2: require a category, requester reference, owner or unassigned state, status, and summary. FR-3: record status changes and the actor. FR-4: support filtering by status and owner. FR-5: allow authorised users to mark a request closed with a resolution note.
+- A requester can submit a request with a category and description.
+- Each active request has an owner, status, and next action.
+- Changes to status and ownership are recorded with timestamp and actor.
+- Users can view only requests permitted by their role.
+- Urgent safety incidents continue through the existing emergency route.
 
 ## Non-functional requirements
 
-The interface should remain usable with keyboard navigation. Access must follow team permissions. The system should retain a change history for the approved retention period. Performance targets and availability objectives must be set from actual usage requirements.
+The workflow should be usable on supported browsers, provide accessible form labels, and return clear validation errors. Performance targets, availability expectations, and retention periods must be set by the service owner rather than guessed.
 
 ## Architecture and data flow
 
-The client submits a validated request to the service layer. The service checks permissions and business rules, stores the request and audit event, and returns the current representation. A list view reads filtered records from the service. Notification behaviour is out of scope until its rules are approved.
+The client submits the request to an authenticated API. The service validates fields and permissions, stores the record, and returns a reference. Status changes are processed through the same service so that access checks and audit rules are applied consistently.
 
 ## Interfaces, schemas, and dependencies
 
-Required fields: `id`, `created_at`, `summary`, `category`, `status`, `owner_id`, `next_action`, `updated_at`. Allowed status values must be agreed by the process owner. The service depends on the organisation’s identity provider and approved data store; actual API paths and schema version remain to be confirmed.
+Required fields, status values, and error responses must be documented in the API contract. Dependencies include identity management, the approved database, and notification services if notifications are included in scope.
 
 ## Failure modes, security, and observability
 
-Reject invalid status transitions with a clear error. Handle duplicate submissions using a client request key if supported. Log request IDs and event types, but do not log sensitive descriptions unnecessarily. Apply access checks to every read and update.
+Handle invalid input, unavailable storage, duplicate submissions, and permission failures. Do not log secrets or unnecessary personal information. Record enough safe diagnostic context to investigate failures.
 
 ## Acceptance criteria and validation
 
-A user with permission can create and find a request; an unauthorised user cannot read restricted records; status changes are recorded; required fields are validated; and the workflow can be tested with representative duplicate and invalid requests.
-
-Detailed workflow: when a request is created, the service validates the required fields and checks the caller’s permission before persisting the record. The record and its initial audit event should be committed together so the history does not claim that a request was created when the record is absent. Updates should use a defined transition model and return the current state after a successful change. If two users update the same request at nearly the same time, the service should either detect the conflict or apply a documented ordering rule; it should not silently overwrite an important change. List queries should have stable sorting and bounded result sizes so the interface remains responsive as the queue grows.
-
-The pilot should begin with a limited set of request categories and a small number of users. This makes it easier to identify whether the required fields fit the actual workflow and whether urgent requests can be distinguished reliably. Before expanding, review sample records with team leads and confirm that the audit history is understandable to someone who did not make the change. Define the retention period and access rules for request descriptions, because users may include operational details that should not be visible to every employee. The service should support correction of mistakes without deleting the evidence needed to understand how a request changed.
+Test valid and invalid submissions, role-based access, status transitions, and audit records. Acceptance requires each active request to have an owner and next action and for unauthorised access to be denied.
 
 ## Open questions and exclusions
 
-Confirm retention period, urgent-request escalation, category ownership, and whether external requesters are in scope. Reporting dashboards and automated routing are explicitly excluded from the first pilot.
+Confirm notification behaviour, retention, and reporting needs. Automated assignment and integration with external service desks are excluded from the first version unless separately approved.
