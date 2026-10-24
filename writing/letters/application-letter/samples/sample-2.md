@@ -1,39 +1,41 @@
-# Application for a volunteer position
+# Application letter
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative application letter. Confirm the opportunity and keep only qualifications that accurately describe the applicant.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The purpose is to apply for a specific opportunity and connect relevant evidence to its requirements.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Organise the letter around motivation, qualifications, fit, and supporting information.
 
 ## Greeting and opportunity
 
-Dear [Recipient or Sir/Madam], I am writing regarding application for a volunteer position. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Admissions Committee,
+
+I am writing in response to the advertised opportunity.
 
 ## Purpose and motivation
 
-I would be grateful if you could consider application for a volunteer position. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+I am applying for the postgraduate certificate in data analytics because I want to develop the technical and critical skills needed to interpret data responsibly.
 
 ## Relevant qualifications and evidence
 
-I am interested in application for a volunteer position because it aligns with my relevant experience and goals. My preparation includes [verified qualification or experience], where I developed [relevant skill] through [specific task]. I would welcome the opportunity to explain how this background meets the stated criteria.
+My previous study has introduced me to statistics, spreadsheets, SQL, and data visualisation. In project work, I have cleaned inconsistent records, documented assumptions, and explained why incomplete data limits the conclusions that can be drawn.
 
 ## Organization- or programme-specific fit
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The programme’s combination of analytical methods and applied projects matches my goal of learning to produce results that are reproducible and understandable to non-specialists.
 
 ## Supporting information
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I am prepared to commit regular time to the coursework and to seek feedback when a method or interpretation needs improvement.
 
 ## Closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for reviewing my application. Yours sincerely, Amira Hassan
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter answers the application purpose directly and uses relevant examples. Before sending, check the recipient, opportunity title, evidence, and any required attachments.

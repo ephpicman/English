@@ -1,39 +1,41 @@
-# Application for a library assistant role
+# Application letter
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative application letter. Confirm the opportunity and keep only qualifications that accurately describe the applicant.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The purpose is to apply for a specific opportunity and connect relevant evidence to its requirements.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Organise the letter around motivation, qualifications, fit, and supporting information.
 
 ## Greeting and opportunity
 
-Dear [Recipient or Sir/Madam], I am writing regarding application for a library assistant role. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Recruitment Panel,
+
+I am writing in response to the advertised opportunity.
 
 ## Purpose and motivation
 
-I would be grateful if you could consider application for a library assistant role. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+I am writing to apply for the community programme assistant position advertised on your careers page. I am interested in work that combines reliable administration with practical support for people using local services.
 
 ## Relevant qualifications and evidence
 
-I am interested in application for a library assistant role because it aligns with my relevant experience and goals. My preparation includes [verified qualification or experience], where I developed [relevant skill] through [specific task]. I would welcome the opportunity to explain how this background meets the stated criteria.
+In volunteer and study projects, I have coordinated schedules, maintained shared records, and communicated changes to people with different needs. I work carefully with personal information and ask for clarification when a procedure is unclear.
 
 ## Organization- or programme-specific fit
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The role’s focus on accessible community programmes appeals to me because small details—clear joining instructions, accurate records, and timely replies—can affect whether people are able to participate.
 
 ## Supporting information
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I would bring organised follow-through, respectful communication, and a willingness to learn the organisation’s safeguarding and data-handling procedures.
 
 ## Closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for considering my application. I would welcome the opportunity to discuss my suitability. Yours faithfully, Jordan Lee
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter answers the application purpose directly and uses relevant examples. Before sending, check the recipient, opportunity title, evidence, and any required attachments.

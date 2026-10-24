@@ -1,35 +1,37 @@
-# Apology for cancelling an appointment
+# Letter of apology
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative formal letter. Replace names and circumstances with accurate details before use.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter acknowledges the mistake, explains the context without making excuses, recognises the impact, and describes a practical prevention step.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use a respectful tone and keep the corrective action specific.
 
 ## Greeting and clear apology
 
-Dear [Recipient or Sir/Madam], I am writing regarding apology for cancelling an appointment. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Sam,
+
+I am writing to offer a sincere apology for the mistake described below.
 
 ## Context and responsibility
 
-I am sorry for the inconvenience caused by apology for cancelling an appointment. I understand that my actions affected your plans, and I accept responsibility for the part that was within my control.
+I am writing to apologise for booking the meeting room for the wrong time. I copied the time from an earlier draft and did not check it against the final schedule.
 
 ## Impact and understanding
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I realise that this affected your preparation and may have created a conflict for the group.
 
 ## Corrective action and prevention
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I have corrected the booking and sent an updated invitation. Before making future reservations, I will verify the agreed time with the organiser and check that the calendar entry matches the confirmation.
 
 ## Closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+I am sorry for the inconvenience. Best wishes, Priya
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter uses a direct apology, relevant context, acknowledgement of impact, and a concrete corrective action. Check that the explanation does not sound like an excuse and that all details are accurate.

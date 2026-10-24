@@ -1,35 +1,37 @@
-# Apology for a mistake in a shared document
+# Letter of apology
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative formal letter. Replace names and circumstances with accurate details before use.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter acknowledges the mistake, explains the context without making excuses, recognises the impact, and describes a practical prevention step.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use a respectful tone and keep the corrective action specific.
 
 ## Greeting and clear apology
 
-Dear [Recipient or Sir/Madam], I am writing regarding apology for a mistake in a shared document. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Customer Support Manager,
+
+I am writing to offer a sincere apology for the mistake described below.
 
 ## Context and responsibility
 
-I am sorry for the inconvenience caused by apology for a mistake in a shared document. I understand that my actions affected your plans, and I accept responsibility for the part that was within my control.
+I apologise for giving you an incomplete update about the delivery delay. I shared an estimated arrival date before it had been confirmed by the carrier.
 
 ## Impact and understanding
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I understand that you may have planned around that estimate, and the uncertainty has caused avoidable frustration.
 
 ## Corrective action and prevention
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I have checked the latest tracking information and will provide another update only when the carrier confirms a reliable status. I will also distinguish estimates from confirmed dates in future messages.
 
 ## Closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+I am sorry for the confusion and appreciate the opportunity to correct it. Yours faithfully, Customer Service Team
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter uses a direct apology, relevant context, acknowledgement of impact, and a concrete corrective action. Check that the explanation does not sound like an excuse and that all details are accurate.

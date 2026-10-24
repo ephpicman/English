@@ -1,35 +1,37 @@
-# Apology for missing a family event
+# Letter of apology
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative formal letter. Replace names and circumstances with accurate details before use.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter acknowledges the mistake, explains the context without making excuses, recognises the impact, and describes a practical prevention step.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use a respectful tone and keep the corrective action specific.
 
 ## Greeting and clear apology
 
-Dear [Recipient or Sir/Madam], I am writing regarding apology for missing a family event. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Morgan,
+
+I am writing to offer a sincere apology for the mistake described below.
 
 ## Context and responsibility
 
-I am sorry for the inconvenience caused by apology for missing a family event. I understand that my actions affected your plans, and I accept responsibility for the part that was within my control.
+I am writing to apologise for sending the revised schedule after the agreed deadline. I should have warned you earlier that I was waiting for two confirmations.
 
 ## Impact and understanding
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I understand that the delay left you with less time to prepare the briefing and may have created extra work for the team.
 
 ## Corrective action and prevention
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I have now sent the verified schedule and marked the two items that remain open. In future, I will send a progress note before the deadline if a dependency is unresolved, rather than waiting until the full document is ready.
 
 ## Closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+I am sorry for the inconvenience and appreciate your patience. Yours sincerely, Alex
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter uses a direct apology, relevant context, acknowledgement of impact, and a concrete corrective action. Check that the explanation does not sound like an excuse and that all details are accurate.

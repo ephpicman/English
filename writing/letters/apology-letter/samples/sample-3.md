@@ -1,35 +1,37 @@
-# Apology to a neighbour for noise
+# Letter of apology
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative formal letter. Replace names and circumstances with accurate details before use.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter acknowledges the mistake, explains the context without making excuses, recognises the impact, and describes a practical prevention step.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Use a respectful tone and keep the corrective action specific.
 
 ## Greeting and clear apology
 
-Dear [Recipient or Sir/Madam], I am writing regarding apology to a neighbour for noise. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Professor Ellis,
+
+I am writing to offer a sincere apology for the mistake described below.
 
 ## Context and responsibility
 
-I am sorry for the inconvenience caused by apology to a neighbour for noise. I understand that my actions affected your plans, and I accept responsibility for the part that was within my control.
+I am sorry that I submitted the draft with the incorrect file attached. I selected an earlier version and did not check the filename before sending it.
 
 ## Impact and understanding
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I understand that this may have made the review confusing and wasted time comparing the wrong document.
 
 ## Corrective action and prevention
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I have attached the intended draft and labelled it with the correct version date. I will separate archived drafts from current files and check attachments before future submissions.
 
 ## Closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for your understanding. Yours sincerely, Noor
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter uses a direct apology, relevant context, acknowledgement of impact, and a concrete corrective action. Check that the explanation does not sound like an excuse and that all details are accurate.

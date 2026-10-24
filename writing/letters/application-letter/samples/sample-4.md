@@ -1,39 +1,41 @@
-# Application for an administrative role
+# Application letter
 
-*Illustrative letter. Replace bracketed details with accurate information and adapt the register to the recipient.*
+*Illustrative application letter. Confirm the opportunity and keep only qualifications that accurately describe the applicant.*
 
 ## Plan first
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The purpose is to apply for a specific opportunity and connect relevant evidence to its requirements.
 
 ## Letter structure
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Organise the letter around motivation, qualifications, fit, and supporting information.
 
 ## Greeting and opportunity
 
-Dear [Recipient or Sir/Madam], I am writing regarding application for an administrative role. I would like to explain the situation clearly and ask for an appropriate next step.
+Dear Hiring Manager,
+
+I am writing in response to the advertised opportunity.
 
 ## Purpose and motivation
 
-I would be grateful if you could consider application for an administrative role. The reason for this request is [brief, accurate explanation]. I understand that arrangements and policies may apply, and I am happy to provide further information or discuss a practical alternative.
+I am applying for the junior communications assistant role. I enjoy turning information from several contributors into clear messages that help readers understand what is happening and what they need to do.
 
 ## Relevant qualifications and evidence
 
-I am interested in application for an administrative role because it aligns with my relevant experience and goals. My preparation includes [verified qualification or experience], where I developed [relevant skill] through [specific task]. I would welcome the opportunity to explain how this background meets the stated criteria.
+My experience includes drafting event announcements, proofreading short copy, and checking details such as dates, names, access information, and links. I am comfortable responding to feedback and adjusting tone for different audiences.
 
 ## Organization- or programme-specific fit
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+Your role’s combination of writing and coordination suits my strengths. I am interested in communication that is welcoming without sacrificing accuracy, especially when people rely on the information to plan attendance.
 
 ## Supporting information
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+I would contribute careful editing, dependable follow-up, and an organised approach to collecting approvals before publication.
 
 ## Closing and sign-off
 
-Thank you for taking the time to consider this letter. I would appreciate a response when convenient and can provide any further details required. Yours sincerely, [Name]
+Thank you for your time and consideration. Yours sincerely, Priya Nair
 
 ## IELTS and language review
 
-I hope we can resolve this matter constructively. Please let me know the next steps and any information you need from me. I appreciate your attention and look forward to hearing from you.
+The letter answers the application purpose directly and uses relevant examples. Before sending, check the recipient, opportunity title, evidence, and any required attachments.
