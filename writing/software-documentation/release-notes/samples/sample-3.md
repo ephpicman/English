@@ -1,31 +1,34 @@
-# Release notes — 3.0.0
+# Release notes — 3.1.0
 
-*Illustrative release notes. Verify the version, date, merged changes, and security review before publication.*
+*Illustrative release notes. Confirm the version, date, and changes against the actual release.*
 
 ## Version, release date, and summary
 
-**Version:** 3.0.0  
-**Release date:** 12 December 2026
+**Version:** 3.1.0  
+**Release date:** 12 August 2026
 
-This major release changes the default configuration path and removes a legacy command-line alias. Users who rely on scripts or existing configuration locations must review the migration steps before upgrading.
+This example release adds a read-only processing-status endpoint and a configurable output directory.
 
 ## Highlights
 
-Configuration handling is more explicit, and diagnostic output uses stable field names. The default path change is intended to make per-user configuration easier to manage.
+The new status endpoint allows authorised clients to check processing state without repeating the original request. The output-directory option makes local runs easier to organise.
 
 ## New features and improvements
 
-- Added a command to display resolved non-secret configuration values.
-- Standardised names in diagnostic output.
+- Added a documented read-only processing-status operation.
+- Added an output-directory option to the command-line interface.
+- Clarified the response returned while a request remains in progress.
 
 ## Bug fixes and security changes
 
-- Normalised exit codes for invalid command-line arguments.
+- Improved the error message for missing required fields.
+- Corrected a sample configuration that used an unsupported value.
+- Verify any security-related changes with the reviewed security record before publication.
 
 ## Breaking changes / migration steps
 
-The legacy `--config-path` alias is removed in this illustrative release; use `--config` instead. Scripts that depend on the previous default path must be updated and tested. Back up the existing configuration before upgrading.
+No breaking change is stated in this example. Check the API compatibility report before finalising this section.
 
 ## Known issues and support
 
-The diagnostic command intentionally omits values marked as secrets, but review output before sharing it. Confirm actual secret-redaction behaviour in the released build.
+Confirm known issues from the release tracker. Include links only when the issue is public and safe to share.

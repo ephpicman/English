@@ -1,34 +1,38 @@
-# Installation guide: Static website deployment preview
+# Installation guide: Go command-line utility
 
-*Illustrative guide. Confirm project-specific commands, versions, and configuration before publishing or following these steps on a real system.*
+*Illustrative guide. Verify the module path, Go version, and release distribution method.*
 
 ## Purpose and supported environment
 
-This guide describes how to build and preview a static site locally before publishing it. Build commands vary by framework and must be confirmed in the project manifest.
+This guide describes common installation options for a Go-based command-line utility. The actual module and version requirements must come from the project metadata.
 
 ## Prerequisites
 
-Install the runtime and package manager supported by the site. Ensure the repository’s dependencies can be installed and identify the documented build and preview commands.
+Install a Go version supported by the project and confirm the compiler is available. For a source build, ensure the repository is trusted and the network can reach required module sources.
 
 ## Preparation and configuration
 
-Review the site’s environment configuration and distinguish public build-time settings from secrets. Static assets may be visible to every visitor, so never embed private API keys or credentials in client-side code.
+Read the README for build tags, operating-system constraints, and any required configuration. Choose whether to install a published release or build from source. Prefer a verified release artifact when the project provides checksums or signatures.
 
 ## Installation steps
 
-1. Retrieve the source from the trusted repository.
-2. Install dependencies using the package manager and lockfile.
-3. Run the project’s documented build script, such as `npm run build` only if defined.
-4. Serve the generated output using the framework’s preview command or a local static server.
+For a source checkout, change to the repository root and use the documented build command. A common Go project may support:
+
+```bash
+go test ./...
+go build ./...
+```
+
+These commands are illustrative; follow the actual project’s build instructions and output path. Do not assume the resulting binary name without checking the module.
 
 ## Verification
 
-Open the preview URL and check key routes, links, images, and responsive layouts. Inspect the browser console and network requests. If the site uses client-side routing, test a direct refresh on a nested route.
+Run the binary’s help command and, if supported, its version command. Test one documented read-only operation against sample input before using real files.
 
 ## Common installation issues
 
-A blank page may indicate an incorrect asset base path or a runtime error. Missing environment settings may affect build output. Check the framework’s deployment documentation before changing routing or public path configuration.
+A Go-version mismatch may cause compilation errors. Missing module access can indicate a network or proxy issue, while a binary that is not on the PATH may still run from the build directory. Read the build output before changing dependencies.
 
 ## Uninstall / rollback if applicable
 
-Remove generated build output if it is safe to regenerate, and revert only the local configuration changes made for the preview. Do not publish the build until required environment settings and route behaviour have been checked.
+Remove the locally built binary or uninstall the published package using the documented method. Keep source files and configuration separate from generated build output.

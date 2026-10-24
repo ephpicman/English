@@ -1,32 +1,35 @@
-# Release notes — 0.9.2
+# Release notes — 0.9.0
 
-*Illustrative release notes. Verify the version, date, merged changes, and security review before publication.*
+*Illustrative pre-release notes. Confirm version and release status before publication.*
 
 ## Version, release date, and summary
 
-**Version:** 0.9.2  
-**Release date:** 7 January 2027
+**Version:** 0.9.0  
+**Release date:** 15 July 2026  
+**Status:** Illustrative pre-release
 
-This pre-release improves handling of temporary connection failures and updates troubleshooting guidance. It is not a statement about a real product release.
+This pre-release introduces initial configuration validation and a sample development configuration. It is intended for evaluation, not as a claim of production readiness.
 
 ## Highlights
 
-The release clarifies how the client reports connection timeouts and provides a bounded retry option for transient failures.
+Required settings are checked at startup, and the setup instructions distinguish development from test environments.
 
 ## New features and improvements
 
-- Added a configurable retry option that is disabled by default.
-- Added guidance for distinguishing connection timeouts from authentication errors.
+- Added initial validation for required configuration fields.
+- Added a sample local-development configuration file.
+- Updated setup guidance for separate development and test environments.
 
 ## Bug fixes and security changes
 
-- Fixed a retry loop that could exceed the configured attempt limit.
-- Corrected a message that previously implied every connection error was caused by invalid credentials.
+- Fixed a path-handling issue in the setup example.
+- Corrected inconsistent naming between the configuration sample and guide.
+- Review dependency and configuration changes before making any security statement.
 
 ## Breaking changes / migration steps
 
-No breaking change is intended in this illustrative release. Review retry defaults and configuration before enabling retries in a production environment.
+Because this is a pre-release, configuration and command-line interfaces may change. Review the current migration notes before using it in an existing environment.
 
 ## Known issues and support
 
-Retries may increase load on a failing dependency. Use conservative limits and monitor error rates; no guarantee of recovery is implied.
+List verified pre-release limitations and the supported feedback route. Do not use this version for production workloads unless the project explicitly supports that use.

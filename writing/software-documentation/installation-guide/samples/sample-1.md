@@ -1,34 +1,39 @@
 # Installation guide: Python command-line tool
 
-*Illustrative guide. Confirm project-specific commands, versions, and configuration before publishing or following these steps on a real system.*
+*Illustrative guide. Confirm package name, supported versions, and commands against the actual project before publishing.*
 
 ## Purpose and supported environment
 
-This guide describes a generic installation flow for a Python CLI distributed as a package. Replace the package name and supported Python version with verified project metadata.
+This guide describes a generic installation flow for a Python command-line tool distributed as a package. It assumes the project supports a current Python 3 release; check the project metadata for the exact minimum and supported operating systems.
 
 ## Prerequisites
 
-Install a Python version supported by the project and confirm `python --version` reports it. Use a virtual environment to isolate dependencies. The commands below are a pattern, not a claim about a specific published package.
+Install the supported Python version and confirm it is available in the terminal. A virtual environment is recommended so dependencies do not interfere with other projects. Use a trusted package source or the repository’s documented installation method.
 
 ## Preparation and configuration
 
-Download or clone the trusted project source and review its README and dependency metadata. Do not install packages from an unknown source. Create an isolated environment before installing dependencies.
+Review the project README and dependency metadata. Choose a working directory and decide whether the tool will be installed for development or used as a packaged command. Do not install from an unverified archive.
 
 ## Installation steps
 
-1. Create an environment: `python -m venv .venv`.
-2. Activate it using the command for your operating system.
-3. Install the project using its documented method, such as `python -m pip install -e .` when the repository is a compatible local Python package.
-4. Run the documented help command to confirm the entry point is available.
+Create and activate an isolated environment:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+```
+
+Install the package using the project’s verified package name or install from the checked-out source as documented. Do not substitute a guessed package name.
 
 ## Verification
 
-Run the CLI’s help command and then a harmless check against a small test file. Confirm the expected exit status and output. If the project has automated tests, run the documented test command in the same environment.
+Run the command’s help option and a documented version check. If the project provides tests, run the smoke test described in its README. Confirm the command is available only in the intended environment.
 
 ## Common installation issues
 
-If the environment uses the wrong Python version, recreate it with the supported interpreter. If dependency installation fails, read the first dependency error and compare the installed version with the project’s constraints. Avoid bypassing package security checks as a workaround.
+If the command is not found, confirm that the virtual environment is active. If installation fails, check the supported Python version and dependency requirements. Avoid resolving dependency conflicts by upgrading unrelated packages blindly.
 
 ## Uninstall / rollback if applicable
 
-Deactivate and remove the virtual environment if the installation is isolated there. If you installed the tool globally, use the same package manager and environment to uninstall it. Preserve input data and configuration files unless the project’s uninstall instructions explicitly say otherwise.
+Deactivate the environment and remove the virtual environment directory if it is no longer needed. For a shared environment, use the package manager to uninstall the verified package name and follow the project’s cleanup guidance.

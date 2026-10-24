@@ -1,32 +1,34 @@
-# Release notes — 1.8.1
+# Release notes — 1.8.0
 
-*Illustrative release notes. Verify the version, date, merged changes, and security review before publication.*
+*Illustrative release notes. Replace these examples with changes confirmed for the actual release.*
 
 ## Version, release date, and summary
 
-**Version:** 1.8.1  
-**Release date:** 2 November 2026
+**Version:** 1.8.0  
+**Release date:** 30 September 2026
 
-A maintenance release focused on startup reliability and clearer configuration diagnostics. This sample is illustrative and should be matched to the actual release artefacts.
+This example release adds a report export option and clarifies configuration guidance. Verify all details against the release tag.
 
 ## Highlights
 
-The main improvement is clearer feedback when optional configuration is absent. The release does not introduce a new workflow or change the intended configuration format.
+The report view can export a filtered result, and the setup guide now separates required settings from optional overrides.
 
 ## New features and improvements
 
-No new user-facing features are described for this patch release.
+- Added export for the filtered report view.
+- Added a configuration example for local test data.
+- Updated the default report heading to include the selected period.
 
 ## Bug fixes and security changes
 
-- Fixed startup behaviour when an optional environment variable is unset.
-- Improved the error message shown when a required configuration value is missing.
-- Corrected the documented path for the local configuration file.
+- Fixed a missing optional field that previously stopped the summary step.
+- Corrected a validation message that referenced the wrong configuration key.
+- Confirm security changes with the release owner before making a public claim.
 
 ## Breaking changes / migration steps
 
-No breaking change is intended. Confirm compatibility with the supported runtime and configuration format before deploying.
+No breaking changes are claimed in this example. If configuration behaviour changes, provide a migration note and explain whether existing settings remain supported.
 
 ## Known issues and support
 
-If startup still fails, compare the local configuration with the current example file and remove secrets before sharing diagnostic output.
+Document any known limitations from the verified issue list. Users should include the tool version and a minimal example when reporting a problem.
