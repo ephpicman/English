@@ -1,37 +1,47 @@
-# ADR-003: Adopt structured application logs
+# ADR-003: Require structured logs for service errors
 
-*Illustrative architecture decision record. Validate the system context and implementation details before adopting this decision.*
+*Illustrative ADR; align it with logging, privacy, and retention policies.*
+
+## Before drafting
+
+Describe the operational problem and the intended benefit, not merely the preferred library.
+
+## Document structure
+
+This record captures drivers, alternatives, the decision, trade-offs, and review conditions.
 
 ## Title, status, date, owners
 
-- **Status:** Accepted for services that emit operational logs.
-- **Date:** 2026-05-21
-- **Owners:** Reliability group
+- **Status:** Proposed
+- **Date:** 24 October 2026
+- **Owners:** Service engineering team
 
 ## Context and problem
 
-Free-form log messages are difficult to search consistently across services. Troubleshooting often requires matching a request across components while avoiding accidental disclosure of personal or secret data.
+Error messages vary between components, making incidents difficult to investigate. Some messages lack a request identifier or consistent severity. The team needs searchable logs without collecting unnecessary sensitive information.
 
 ## Decision drivers
 
-Searchable fields; correlation across requests; consistent severity; redaction; compatibility with existing log collection.
+Consistent fields, correlation across components, readable messages, privacy, predictable volume, and compatibility with the existing platform.
 
 ## Options considered
 
-1. Free-form text: low migration cost but inconsistent fields. 2. Structured JSON logs: predictable keys and easier filtering, but requires conventions and tooling. 3. Direct tracing only: useful for request paths but does not replace event logs for background jobs and operational conditions.
+1. Continue free-text logging: minimal change but limited consistency.
+2. Structure all events: consistent but requires migration and conventions.
+3. Structure critical events first: lower initial effort but leaves some gaps.
 
 ## Decision
 
-Emit structured logs with timestamp, severity, service, environment, event name, and correlation ID. Add domain-specific fields only when useful. Do not log credentials, session tokens, full payment details, or unnecessary personal data.
+Adopt a documented structured format for error events first, then extend it to high-value operational events. Include timestamp, service, environment, severity, event name, and a safe request identifier where available.
 
 ## Consequences and trade-offs
 
-Teams must agree on field names and redaction rules. Existing text searches may need updates, and log volume should be monitored. Correlation IDs must be propagated across asynchronous boundaries where practical.
+The team must maintain field conventions and apply redaction to every error path. Structured logging improves search but does not replace metrics, traces, or a required audit log.
 
 ## Follow-up and review triggers
 
-Review after the first service migration and after any privacy incident or material change to the log pipeline. Add tests for sensitive-field redaction.
+Review sampled logs after the pilot. Revisit if cost, privacy risk, or searchability does not meet agreed operational needs.
 
 ## Final quality check
 
-Confirm that the status reflects an actual decision, alternatives were considered fairly, and the owner has approved the trade-offs. Record links to implementation issues and tests in the real repository.
+Confirm fields are supported and do not expose secrets or unnecessary personal data.

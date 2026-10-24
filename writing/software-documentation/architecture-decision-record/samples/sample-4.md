@@ -1,37 +1,47 @@
-# ADR-004: Keep background jobs idempotent
+# ADR-004: Keep API contracts in version control
 
-*Illustrative architecture decision record. Validate the system context and implementation details before adopting this decision.*
+*Illustrative ADR; confirm repository and release practices before adoption.*
+
+## Before drafting
+
+Explain how the decision supports compatibility and review, including maintenance costs.
+
+## Document structure
+
+The ADR documents the problem, criteria, alternatives, decision, consequences, and review triggers.
 
 ## Title, status, date, owners
 
-- **Status:** Accepted for retryable jobs.
-- **Date:** 2026-06-02
-- **Owners:** Backend team
+- **Status:** Proposed
+- **Date:** 24 October 2026
+- **Owners:** API platform team
 
 ## Context and problem
 
-Background workers can retry after a timeout even when the first attempt completed part of its work. Without safeguards, retries may send duplicate notifications, create duplicate records, or apply a change more than once.
+API behaviour is described in several places, making changes difficult to compare across releases. Client teams need to review changes to fields, status codes, and error behaviour before they reach a shared environment.
 
 ## Decision drivers
 
-Safe retries; clear job state; observable failures; compatibility with queue delivery semantics; minimal duplicate side effects.
+Reviewability, history, compatibility checks, clear ownership, and alignment between documentation and implementation.
 
 ## Options considered
 
-1. Disable retries: avoids some duplicates but loses transient failures. 2. Retry without deduplication: simple but unsafe for side effects. 3. Idempotency keys and state transitions: requires additional state but makes repeat execution safer. 4. Exactly-once processing claims: difficult to guarantee across external systems and should not be assumed without specific support.
+1. Shared document: easy to edit but weakly connected to code changes.
+2. Version-controlled contract: reviewable and traceable but requires maintenance.
+3. Fully generated contract: reduces duplication but may omit intended behaviour or produce unclear descriptions.
 
 ## Decision
 
-Design each retryable job so repeated execution with the same job or business key does not repeat completed side effects. Use unique constraints or idempotency records for internal writes, and use provider-supported idempotency mechanisms for external calls when available.
+Store the reviewed API contract in version control with changes reviewed alongside relevant code. Automation may validate the contract but should not silently rewrite it to match every implementation change.
 
 ## Consequences and trade-offs
 
-Job handlers need explicit states and retention rules for deduplication records. Some external effects cannot be made perfectly atomic; operators need a reconciliation path for ambiguous outcomes.
+The team must resolve conflicts between code and specification and assign an owner. Automated checks can detect mismatches but cannot decide whether a breaking change is acceptable.
 
 ## Follow-up and review triggers
 
-Review when a job gains a new external side effect, changes its idempotency key, or handles higher-value transactions. Test retries after partial completion and after network timeouts.
+Review after the first release using the contract in CI. Revisit if maintenance becomes excessive or the organisation adopts another source-of-truth process.
 
 ## Final quality check
 
-Confirm that the status reflects an actual decision, alternatives were considered fairly, and the owner has approved the trade-offs. Record links to implementation issues and tests in the real repository.
+Confirm format, ownership, and release review process before implementation.

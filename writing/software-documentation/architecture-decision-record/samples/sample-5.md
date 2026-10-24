@@ -1,37 +1,47 @@
-# ADR-005: Version public API changes explicitly
+# ADR-005: Use feature flags for staged rollout
 
-*Illustrative architecture decision record. Validate the system context and implementation details before adopting this decision.*
+*Illustrative ADR; validate deployment platform and risk profile before adoption.*
+
+## Before drafting
+
+Explain why staged rollout is needed and when a flag should be removed.
+
+## Document structure
+
+The record compares deployment options and states the decision, trade-offs, and review triggers.
 
 ## Title, status, date, owners
 
-- **Status:** Accepted for externally consumed APIs.
-- **Date:** 2026-07-17
-- **Owners:** API working group
+- **Status:** Proposed
+- **Date:** 24 October 2026
+- **Owners:** Release engineering team
 
 ## Context and problem
 
-External clients may upgrade on different schedules. A change that is harmless for the server can break clients if a field is renamed, a response type changes, or an existing behaviour disappears without notice.
+Some changes affect workflows that are difficult to validate fully before deployment. A staged rollout can limit exposure while the team observes errors and user impact, provided the flag is controlled and its failure behaviour is understood.
 
 ## Decision drivers
 
-Client compatibility; predictable deprecation; clear migration paths; manageable maintenance burden; accurate documentation.
+Ability to limit exposure, clear rollback, operational simplicity, flag ownership, and configuration safety.
 
 ## Options considered
 
-1. Change responses in place: simplest for the server but risks breaking clients. 2. Version every minor change: highly explicit but can create unnecessary versions. 3. Preserve compatible additions and version breaking changes: balances continuity with evolution but requires a policy for deprecation.
+1. Deploy to all users at once: simple but exposes everyone if a serious issue appears.
+2. Maintain long-lived branches: may delay integration and increase merge complexity.
+3. Use a controlled feature flag: supports gradual exposure but adds configuration and cleanup work.
 
 ## Decision
 
-Keep additive, backward-compatible changes within the current major API version. Introduce a new version for breaking contract changes, document the migration, and announce a retirement date only after it has been approved and communicated to affected consumers.
+Use a feature flag when a change has a clear staged-release need. Define the owner, default state, rollout criteria, monitoring, and removal date before enabling it.
 
 ## Consequences and trade-offs
 
-The team must test old-version behaviour while it remains supported and maintain clear version-specific documentation. Versioning does not remove the need to define compatibility and deprecation policies.
+Test both enabled and disabled paths and remove obsolete flags. A flag is not a substitute for access control; sensitive functionality still needs server-side authorisation.
 
 ## Follow-up and review triggers
 
-Review the policy when client usage, support costs, or security requirements change. Before retiring a version, verify usage telemetry and provide a migration route.
+Review the rollout after release and remove the flag when the change is fully adopted or cancelled. Revisit if flag complexity obscures system behaviour.
 
 ## Final quality check
 
-Confirm that the status reflects an actual decision, alternatives were considered fairly, and the owner has approved the trade-offs. Record links to implementation issues and tests in the real repository.
+Confirm flag defaults, permissions, monitoring, and rollback behaviour with the release owner.

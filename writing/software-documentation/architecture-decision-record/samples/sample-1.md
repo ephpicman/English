@@ -1,37 +1,47 @@
 # ADR-001: Store uploaded files in object storage
 
-*Illustrative architecture decision record. Validate the system context and implementation details before adopting this decision.*
+*Illustrative ADR; validate the actual system context before adopting.*
+
+## Before drafting
+
+Record why the decision is needed and what alternatives were considered.
+
+## Document structure
+
+This record captures context, drivers, options, decision, trade-offs, and review triggers.
 
 ## Title, status, date, owners
 
-- **Status:** Accepted for the illustrative service; review before implementation.
-- **Date:** 2026-03-12
+- **Status:** Proposed
+- **Date:** 24 October 2026
 - **Owners:** Platform team
 
 ## Context and problem
 
-The service accepts user-uploaded reports that must remain available after an application instance restarts. Keeping files on a local disk couples data to a particular host and complicates replacement of instances. The design needs durable storage, controlled access, and a clear retention policy.
+Uploaded reports must remain available when an application instance restarts. Local disk storage couples files to one host and complicates replacement of instances. The design needs durable storage, controlled access, and a clear retention policy.
 
 ## Decision drivers
 
-Durability across deployments; private-by-default access; predictable retrieval; manageable operating cost; support for lifecycle and deletion policies.
+Durability, private-by-default access, predictable retrieval, operating cost, and support for lifecycle and deletion policies.
 
 ## Options considered
 
-1. Local filesystem: simple, but difficult to share safely across instances and deployments. 2. Relational database blobs: transactional association is convenient, but large binary payloads increase database storage and backup pressure. 3. Object storage: separates file bytes from application compute and offers access controls and lifecycle policies, but requires careful permission and URL design.
+1. Local filesystem: simple but difficult to share safely across instances.
+2. Database blobs: transactional but may increase database and backup load.
+3. Object storage: separates files from application instances but adds a service dependency and access-policy work.
 
 ## Decision
 
-Use a private object-storage bucket for file bytes and keep only metadata, object keys, owner IDs, content type, size, and lifecycle state in the application database. Generate short-lived download links only after authorisation. The exact provider and retention settings must be chosen for the deployment environment.
+Use the organisation’s approved object-storage service for file content and keep metadata in the application database. Objects remain private by default and are accessed through the application’s authorisation flow.
 
 ## Consequences and trade-offs
 
-The application must handle failed uploads, orphaned objects, and deletion consistency. Monitoring should track upload failures and storage growth. Access must not depend on an unguessable object key alone; authorisation is checked before issuing a download link.
+The application must handle storage failures, permissions, retention, deletion, and recovery. This reduces coupling to local disks but does not remove the need for backups and access reviews.
 
 ## Follow-up and review triggers
 
-Review if file sizes, retention obligations, residency requirements, or provider costs materially change. Before release, test permission boundaries, deletion behaviour, and recovery from interrupted uploads.
+Confirm encryption, lifecycle rules, backup strategy, and deletion behaviour with platform and security owners. Review if access patterns, regulatory requirements, or cost change materially.
 
 ## Final quality check
 
-Confirm that the status reflects an actual decision, alternatives were considered fairly, and the owner has approved the trade-offs. Record links to implementation issues and tests in the real repository.
+Verify infrastructure and implementation details before treating this decision as accepted.

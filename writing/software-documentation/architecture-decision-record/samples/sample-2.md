@@ -1,37 +1,47 @@
-# ADR-002: Use cursor pagination for activity feeds
+# ADR-002: Use a relational database for transactional records
 
-*Illustrative architecture decision record. Validate the system context and implementation details before adopting this decision.*
+*Illustrative ADR; confirm workload and operational constraints before adoption.*
+
+## Before drafting
+
+Record the decision and its alternatives so future maintainers can understand the rationale.
+
+## Document structure
+
+The record states the problem, drivers, alternatives, decision, consequences, and review conditions.
 
 ## Title, status, date, owners
 
-- **Status:** Accepted for feeds ordered by creation time.
-- **Date:** 2026-04-08
-- **Owners:** Application team
+- **Status:** Proposed
+- **Date:** 24 October 2026
+- **Owners:** Application architecture group
 
 ## Context and problem
 
-The activity feed can grow continuously, and users may request older records while new records are being inserted. Offset pagination becomes more expensive at large offsets and can shift records between pages when new items arrive.
+The application stores related records that must remain consistent during updates. Orders, items, and processing states have relationships that need clear constraints and reliable transactions.
 
 ## Decision drivers
 
-Stable navigation during inserts; bounded query work; simple client continuation; deterministic ordering; support for an index-backed query.
+Transactional consistency, query flexibility, schema constraints, operational familiarity, backup, and recovery.
 
 ## Options considered
 
-1. Offset pagination: easy to understand and jump to a page, but deep offsets can be costly and inserts can shift page boundaries. 2. Cursor pagination: efficient for ordered traversal and more stable across inserts, but does not naturally support jumping to an arbitrary page. 3. Time-window queries: useful for reports but require clients to manage boundaries and ties.
+1. Relational database: supports relationships and transactions but requires schema management.
+2. Document database: flexible records but may require extra care for cross-record consistency.
+3. Flat files: simple for exports but unsuitable as a concurrent transactional source of truth.
 
 ## Decision
 
-Use an opaque cursor based on the last record's creation timestamp and unique ID, ordered by timestamp descending and ID descending. Encode or sign the cursor so clients cannot alter query state. Document that the feed supports next-page traversal rather than arbitrary page numbers.
+Use the organisation’s supported relational database for core transactional records. Confirm the engine, version, and schema through the implementation plan.
 
 ## Consequences and trade-offs
 
-The query needs a composite index matching the ordering. Clients must treat cursors as opaque and handle an empty next-page result. Records edited after publication may still appear in a later position only if the feed semantics explicitly allow that behaviour.
+The team must manage migrations, indexes, connection limits, and recovery tests. The model requires planning as fields change, but it offers explicit constraints and familiar transaction handling.
 
 ## Follow-up and review triggers
 
-Revisit if product requirements demand arbitrary page jumps, sorting by multiple user-selected fields, or a feed that reflects live edits in a different way. Test timestamp ties and inserts between page requests.
+Review if workload changes, write contention becomes a demonstrated bottleneck, or the data model no longer fits. Performance claims must come from representative benchmarks.
 
 ## Final quality check
 
-Confirm that the status reflects an actual decision, alternatives were considered fairly, and the owner has approved the trade-offs. Record links to implementation issues and tests in the real repository.
+Confirm the database is approved and operational ownership is assigned.
