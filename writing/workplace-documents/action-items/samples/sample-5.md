@@ -1,25 +1,23 @@
-# Actions after a project retrospective
-
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+# Action items: Community workshop venue
 
 ## Context / source meeting
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+**Date:** 21 November 2026  
+**Meeting:** Community workshop venue  
+**Purpose:** Confirm the venue and access arrangements before promoting the community workshop.
 
 ## Action-item table
 
 | Action | Owner | Due date | Status |
 |---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Validate the proposed change | [Name] | [Date] | Open |
-| Share the result with stakeholders | [Name] | [Date] | Open |
-
-Replace bracketed fields with decisions from the actual meeting record.
+| Confirm preferred venue | Priya Nair | 23 November | Open |
+| Verify backup access | facilities coordinator | 24 November | Open |
+| Publish final event details | outreach lead | 26 November | Open |
 
 ## Risks or dependencies if needed
 
-Document the requirement, alternatives considered, trade-offs, and operational consequences. Include security, privacy, failure handling, performance, and maintenance where relevant. Label assumptions clearly and record what evidence or test would change the decision.
+Publishing before logistics are confirmed could mislead participants. A backup venue is available, but it requires confirmation of capacity and travel information.
 
 ## Review date / escalation if needed
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Decision checkpoint: 25 November. Escalate overdue items to Priya Nair and update the owner and due date rather than leaving the action without a status.

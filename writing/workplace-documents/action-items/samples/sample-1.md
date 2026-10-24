@@ -1,25 +1,23 @@
-# Actions after a planning meeting
-
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+# Action items: Portal launch readiness
 
 ## Context / source meeting
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+**Date:** 12 November 2026  
+**Meeting:** Portal launch readiness  
+**Purpose:** Confirm whether the account portal is ready for the planned release window.
 
 ## Action-item table
 
 | Action | Owner | Due date | Status |
 |---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Validate the proposed change | [Name] | [Date] | Open |
-| Share the result with stakeholders | [Name] | [Date] | Open |
-
-Replace bracketed fields with decisions from the actual meeting record.
+| Authentication status | Morgan Chen | 5 November | Open |
+| Accessibility review | Priya Nair | 6 November | Open |
+| Release decision | Release lead | next readiness review | Open |
 
 ## Risks or dependencies if needed
 
-Document the requirement, alternatives considered, trade-offs, and operational consequences. Include security, privacy, failure handling, performance, and maintenance where relevant. Label assumptions clearly and record what evidence or test would change the decision.
+Proceeding before the dependency and accessibility checks pass could create avoidable user problems. Moving the date may affect the communications plan, but the risk is visible early enough to manage.
 
 ## Review date / escalation if needed
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Next readiness review: 7 November, or earlier if both dependencies close. Escalate overdue items to Morgan Chen and update the owner and due date rather than leaving the action without a status.

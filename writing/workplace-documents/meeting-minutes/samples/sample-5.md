@@ -1,33 +1,32 @@
-# Minutes: team retrospective
-
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+# Meeting minutes: Community workshop venue
 
 ## Meeting metadata and attendees
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Minutes: team retrospective. Confirm all metadata against the invitation or meeting record.
+- **Date:** 21 November 2026
+- **Facilitator:** Priya Nair
+- **Attendees:** Priya Nair, facilities coordinator, outreach lead
+- **Record type:** Illustrative minutes; verify against the actual meeting
 
 ## Purpose / agenda
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Decide whether to retain the preferred venue or activate the backup.
 
 ## Discussion summary by topic
 
-**Purpose:** Minutes: team retrospective. **Key message:** the team should make a decision based on verified needs, operational impact, and available capacity. **Decision required:** confirm the preferred option or identify the evidence still needed. This is an illustrative briefing, not a record of an actual decision.
+The team reviewed the outstanding access details and discussed the risks of changing venues late in the promotion cycle.
 
 ## Decisions made
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
-
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+A confirmation deadline was set; the backup venue will be used if required access information is not received.
 
 ## Action items with owner and due date
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Minutes: team retrospective. Confirm all metadata against the invitation or meeting record.
+- Confirm preferred venue — Priya Nair — 23 November
+- Verify backup access — facilities coordinator — 24 November
+- Publish final event details — outreach lead — 26 November
 
 ## Open issues and next meeting
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in minutes: team retrospective.
+Publishing before logistics are confirmed could mislead participants. A backup venue is available, but it requires confirmation of capacity and travel information.
+
+Decision checkpoint: 25 November.

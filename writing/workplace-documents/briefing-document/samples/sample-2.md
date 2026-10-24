@@ -1,41 +1,45 @@
-# Briefing: customer support backlog
+# Briefing document: New request intake process
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative internal briefing. Confirm current status and owners before circulation.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The reader needs a concise account of the issue, options, recommended decision, and immediate actions.
+
+## Document structure
+
+This briefing separates known context from the recommendation and identifies what remains unresolved.
 
 ## Document metadata
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+- **Date:** 4 November 2026
+- **Owner:** Jordan Lee
+- **Subject:** New request intake process
 
 ## Purpose and key message
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Agree a consistent way to receive and assign internal service requests. Pilot one intake queue for the facilities request category for four weeks.
 
 ## Background and current position
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in briefing: customer support backlog.
+Requests currently arrive through email and a shared spreadsheet. Duplicate entries and missing ownership make it difficult to see what needs attention.
 
 ## Options or analysis
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+A single queue with required owner, status, and next-action fields would improve visibility. Immediate automation is not recommended until categories and exception routes are stable.
 
 ## Recommendation and rationale
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+Pilot one intake queue for the facilities request category for four weeks.
 
 ## Actions, owners, and deadlines
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
+Jordan: configure fields by 6 November. Team leads: agree status definitions by 5 November. Operations manager: review the pilot after four weeks.
 
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+## Final quality check
+
+Verify that the recommendation follows from the stated facts, owners have agreed to the actions, and no provisional detail is presented as confirmed.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The briefing uses direct language and a decision-focused structure. In a real workplace document, follow the organisation’s approved format and keep the requested decision prominent.

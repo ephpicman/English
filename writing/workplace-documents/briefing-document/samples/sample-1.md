@@ -1,41 +1,45 @@
-# Briefing: proposed office-hours change
+# Briefing document: Portal launch readiness
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative internal briefing. Confirm current status and owners before circulation.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The reader needs a concise account of the issue, options, recommended decision, and immediate actions.
+
+## Document structure
+
+This briefing separates known context from the recommendation and identifies what remains unresolved.
 
 ## Document metadata
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+- **Date:** 12 November 2026
+- **Owner:** Morgan Chen
+- **Subject:** Portal launch readiness
 
 ## Purpose and key message
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Confirm whether the account portal is ready for the planned release window. Keep the release gated on the two open checks and confirm the decision at the next readiness review.
 
 ## Background and current position
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in briefing: proposed office-hours change.
+The navigation and content review are complete. Accessibility testing and one authentication dependency remain open, so the release date is not yet confirmed.
 
 ## Options or analysis
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+Proceeding before the dependency and accessibility checks pass could create avoidable user problems. Moving the date may affect the communications plan, but the risk is visible early enough to manage.
 
 ## Recommendation and rationale
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+Keep the release gated on the two open checks and confirm the decision at the next readiness review.
 
 ## Actions, owners, and deadlines
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
+Morgan: obtain authentication status by 5 November. Priya: complete accessibility review by 6 November. Release lead: update the schedule after both checks.
 
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+## Final quality check
+
+Verify that the recommendation follows from the stated facts, owners have agreed to the actions, and no provisional detail is presented as confirmed.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The briefing uses direct language and a decision-focused structure. In a real workplace document, follow the organisation’s approved format and keep the requested decision prominent.

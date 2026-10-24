@@ -1,35 +1,45 @@
-# Announcement: revised document templates
+# Internal announcement: Staff training schedule
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative internal announcement. Confirm dates and operational details before sending.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The message explains the change, who is affected, what action is required, and where to get help.
+
+## Document structure
+
+Lead with the main message and keep supporting context brief.
 
 ## Announcement metadata
 
-**What is changing:** [confirmed change]. **When:** [confirmed effective date]. **Who is affected:** [teams or roles]. **What you need to do:** follow [verified process or link]. If you need help or an adjustment, contact [responsible team]. Do not circulate until bracketed details are confirmed.
+- **Date:** 9 November 2026
+- **Contact:** Amira Hassan
+- **Audience:** Relevant project and operations teams
 
 ## Headline and key message
 
-**Purpose:** Announcement: revised document templates. **Key message:** the team should make a decision based on verified needs, operational impact, and available capacity. **Decision required:** confirm the preferred option or identify the evidence still needed. This is an illustrative briefing, not a record of an actual decision.
+**The training will be offered in two time slots rather than one.**
 
 ## What is changing and why
 
-**What is changing:** [confirmed change]. **When:** [confirmed effective date]. **Who is affected:** [teams or roles]. **What you need to do:** follow [verified process or link]. If you need help or an adjustment, contact [responsible team]. Do not circulate until bracketed details are confirmed.
+The initial training materials are drafted, but the proposed session times overlap with some operational shifts. Offer two live sessions and provide an approved written recap for staff unable to attend.
 
 ## Impact on employees and teams
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+Managers should identify staff who need an alternative session and confirm coverage before final registration.
 
 ## Actions, dates, and support
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Announcement: revised document templates. Confirm all metadata against the invitation or meeting record.
+Amira: propose two time slots by 11 November. Team managers: confirm coverage by 13 November. Learning lead: approve recap format by 16 November. The learning team will share the materials and answer questions after each session.
 
 ## Closing and contact
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+Please review the relevant project record and raise any blocker with Amira Hassan before the stated deadline.
+
+## Final quality check
+
+Confirm the audience, date, required action, and support route. Remove any internal detail that the audience does not need.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The announcement prioritises the key change and practical next steps. In a real announcement, clarity and accuracy are more important than lengthy background.

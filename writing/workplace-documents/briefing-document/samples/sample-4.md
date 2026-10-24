@@ -1,41 +1,45 @@
-# Briefing: improving document accessibility
+# Briefing document: Staff training schedule
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative internal briefing. Confirm current status and owners before circulation.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The reader needs a concise account of the issue, options, recommended decision, and immediate actions.
+
+## Document structure
+
+This briefing separates known context from the recommendation and identifies what remains unresolved.
 
 ## Document metadata
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+- **Date:** 9 November 2026
+- **Owner:** Amira Hassan
+- **Subject:** Staff training schedule
 
 ## Purpose and key message
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Confirm a training schedule that gives shift-based staff a fair opportunity to attend. Offer two live sessions and provide an approved written recap for staff unable to attend.
 
 ## Background and current position
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in briefing: improving document accessibility.
+The initial training materials are drafted, but the proposed session times overlap with some operational shifts.
 
 ## Options or analysis
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+Repeating the same session at different times may improve access, although it increases facilitator time. A recorded recap may help, subject to internal policy and accessibility requirements.
 
 ## Recommendation and rationale
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+Offer two live sessions and provide an approved written recap for staff unable to attend.
 
 ## Actions, owners, and deadlines
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
+Amira: propose two time slots by 11 November. Team managers: confirm coverage by 13 November. Learning lead: approve recap format by 16 November.
 
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+## Final quality check
+
+Verify that the recommendation follows from the stated facts, owners have agreed to the actions, and no provisional detail is presented as confirmed.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The briefing uses direct language and a decision-focused structure. In a real workplace document, follow the organisation’s approved format and keep the requested decision prominent.

@@ -1,33 +1,32 @@
-# Minutes: service review meeting
-
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+# Meeting minutes: New request intake process
 
 ## Meeting metadata and attendees
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Minutes: service review meeting. Confirm all metadata against the invitation or meeting record.
+- **Date:** 4 November 2026
+- **Facilitator:** Jordan Lee
+- **Attendees:** Jordan Lee, operations manager, two team leads
+- **Record type:** Illustrative minutes; verify against the actual meeting
 
 ## Purpose / agenda
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Choose the required fields and agree how the team will handle urgent requests.
 
 ## Discussion summary by topic
 
-**Purpose:** Minutes: service review meeting. **Key message:** the team should make a decision based on verified needs, operational impact, and available capacity. **Decision required:** confirm the preferred option or identify the evidence still needed. This is an illustrative briefing, not a record of an actual decision.
+The group reviewed common handoff failures and agreed that ownership and next action are the minimum required fields. Urgent requests need a separate escalation route.
 
 ## Decisions made
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
-
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+The team approved a four-week pilot for one request category; broader automation is deferred.
 
 ## Action items with owner and due date
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Minutes: service review meeting. Confirm all metadata against the invitation or meeting record.
+- Draft queue fields — Jordan Lee — 6 November
+- Define urgent route — team leads — 5 November
+- Review pilot outcomes — operations manager — 4 December
 
 ## Open issues and next meeting
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in minutes: service review meeting.
+A single queue with required owner, status, and next-action fields would improve visibility. Immediate automation is not recommended until categories and exception routes are stable.
+
+Review meeting: 4 December, after the pilot period.

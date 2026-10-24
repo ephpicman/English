@@ -1,35 +1,29 @@
-# Agenda: quarterly team retrospective
-
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+# Meeting agenda: Community workshop venue
 
 ## Meeting metadata
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Agenda: quarterly team retrospective. Confirm all metadata against the invitation or meeting record.
+- **Date:** 21 November 2026
+- **Chair / organiser:** Priya Nair
+- **Attendees:** Priya Nair, facilities coordinator, outreach lead
+- **Duration:** 30–45 minutes, to be confirmed
 
 ## Objective and desired outcomes
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Decide whether to retain the preferred venue or activate the backup.
 
 ## Agenda table
 
-| Item | Owner | Time | Desired outcome |
-|---|---|---:|---|
-| Review current status | [Name] | 10 min | Shared understanding |
-| Discuss key issue | [Name] | 10 min | Options identified |
-| Agree actions and owners | [Name] | 10 min | Decisions recorded |
-
-Adjust timing and owners to match the actual meeting.
+| Item | Purpose | Lead | Time |
+|---|---|---|---|
+| Review context and current status | Establish shared facts | Priya Nair | 5 min |
+| Discuss key issue | Compare evidence and options | Relevant owner | 15 min |
+| Confirm decisions | Record agreement or unresolved points | Chair | 10 min |
+| Assign actions | Name owners and due dates | All | 5 min |
 
 ## Pre-reading / preparation
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability. Please review the relevant project record and bring any correction or dependency that may affect the decision.
 
 ## Decisions required
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
-
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access. The meeting should close with an explicit decision, or with a named owner and date for any unresolved question.

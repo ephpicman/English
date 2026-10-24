@@ -1,25 +1,23 @@
-# Actions after a customer feedback session
-
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+# Action items: Monthly reporting definitions
 
 ## Context / source meeting
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+**Date:** 18 November 2026  
+**Meeting:** Monthly reporting definitions  
+**Purpose:** Resolve inconsistent definitions used in the monthly performance report.
 
 ## Action-item table
 
 | Action | Owner | Due date | Status |
 |---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Validate the proposed change | [Name] | [Date] | Open |
-| Share the result with stakeholders | [Name] | [Date] | Open |
-
-Replace bracketed fields with decisions from the actual meeting record.
+| Send sample records | Daniel Okafor | 20 November | Open |
+| Confirm definitions | source owners | 25 November | Open |
+| Update data dictionary | analytics lead | after approval | Open |
 
 ## Risks or dependencies if needed
 
-Document the requirement, alternatives considered, trade-offs, and operational consequences. Include security, privacy, failure handling, performance, and maintenance where relevant. Label assumptions clearly and record what evidence or test would change the decision.
+The team needs source owners to confirm definitions before merging values. Interim reports should show the fields separately and describe the limitation.
 
 ## Review date / escalation if needed
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Follow-up: 26 November, if definitions remain unresolved. Escalate overdue items to Daniel Okafor and update the owner and due date rather than leaving the action without a status.

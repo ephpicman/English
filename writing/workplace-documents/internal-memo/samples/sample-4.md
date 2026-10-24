@@ -1,47 +1,46 @@
-# Memo: document retention reminder
+# Internal memo: Staff training schedule
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative memo. Confirm the facts, approval status, and action owners before circulation.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The memo states the purpose and requested action, then gives enough context for a decision.
+
+## Document structure
+
+Keep the analysis proportionate to the decision being requested.
 
 ## Memo header
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+- **To:** Relevant team leads
+- **From:** Amira Hassan
+- **Date:** 9 November 2026
+- **Subject:** Staff training schedule
 
 ## Purpose and requested action
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Confirm a training schedule that gives shift-based staff a fair opportunity to attend. The requested action is to approve the recommendation below or identify what additional information is needed.
 
 ## Background and facts
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in memo: document retention reminder.
+The initial training materials are drafted, but the proposed session times overlap with some operational shifts.
 
 ## Analysis or key points
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+Repeating the same session at different times may improve access, although it increases facilitator time. A recorded recap may help, subject to internal policy and accessibility requirements.
 
 ## Recommendation or decision
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
-
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+Offer two live sessions and provide an approved written recap for staff unable to attend.
 
 ## Actions, owners, and timing
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
+Amira: propose two time slots by 11 November. Team managers: confirm coverage by 13 November. Learning lead: approve recap format by 16 November.
 
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+## Final quality check
+
+Check that the requested decision is explicit, all facts are current, and the memo distinguishes proposal from approved policy.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The memo uses a neutral, concise register and links evidence to a recommendation. Follow the recipient organisation’s conventions for headings and sign-off.

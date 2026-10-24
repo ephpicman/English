@@ -1,33 +1,32 @@
-# Minutes: risk review meeting
-
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+# Meeting minutes: Staff training schedule
 
 ## Meeting metadata and attendees
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Minutes: risk review meeting. Confirm all metadata against the invitation or meeting record.
+- **Date:** 9 November 2026
+- **Facilitator:** Amira Hassan
+- **Attendees:** Amira Hassan, team managers, learning lead
+- **Record type:** Illustrative minutes; verify against the actual meeting
 
 ## Purpose / agenda
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Agree session times, coverage arrangements, and the follow-up materials.
 
 ## Discussion summary by topic
 
-**Purpose:** Minutes: risk review meeting. **Key message:** the team should make a decision based on verified needs, operational impact, and available capacity. **Decision required:** confirm the preferred option or identify the evidence still needed. This is an illustrative briefing, not a record of an actual decision.
+Managers reported that a single session would exclude some shift workers. The team discussed repeat sessions and a written recap.
 
 ## Decisions made
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
-
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+Two live sessions were preferred, subject to facilitator availability.
 
 ## Action items with owner and due date
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Minutes: risk review meeting. Confirm all metadata against the invitation or meeting record.
+- Propose times — Amira Hassan — 11 November
+- Confirm staff coverage — team managers — 13 November
+- Approve recap — learning lead — 16 November
 
 ## Open issues and next meeting
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in minutes: risk review meeting.
+Repeating the same session at different times may improve access, although it increases facilitator time. A recorded recap may help, subject to internal policy and accessibility requirements.
+
+Schedule confirmation meeting: 17 November.

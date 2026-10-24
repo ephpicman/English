@@ -1,33 +1,32 @@
-# Minutes: design decision meeting
-
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+# Meeting minutes: Monthly reporting definitions
 
 ## Meeting metadata and attendees
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Minutes: design decision meeting. Confirm all metadata against the invitation or meeting record.
+- **Date:** 18 November 2026
+- **Facilitator:** Daniel Okafor
+- **Attendees:** Daniel Okafor, source system owners, analytics lead
+- **Record type:** Illustrative minutes; verify against the actual meeting
 
 ## Purpose / agenda
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Agree definitions for the category fields and identify who approves future changes.
 
 ## Discussion summary by topic
 
-**Purpose:** Minutes: design decision meeting. **Key message:** the team should make a decision based on verified needs, operational impact, and available capacity. **Decision required:** confirm the preferred option or identify the evidence still needed. This is an illustrative briefing, not a record of an actual decision.
+The group reviewed examples where identical labels represented different events. Participants agreed that the source owner must confirm meaning before the report combines them.
 
 ## Decisions made
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
-
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+The fields will remain separate in the next report pending written confirmation.
 
 ## Action items with owner and due date
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Minutes: design decision meeting. Confirm all metadata against the invitation or meeting record.
+- Send sample records — Daniel Okafor — 20 November
+- Confirm definitions — source owners — 25 November
+- Update data dictionary — analytics lead — after approval
 
 ## Open issues and next meeting
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in minutes: design decision meeting.
+The team needs source owners to confirm definitions before merging values. Interim reports should show the fields separately and describe the limitation.
+
+Follow-up: 26 November, if definitions remain unresolved.

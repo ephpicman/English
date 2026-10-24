@@ -1,41 +1,45 @@
-# Briefing: staff training options
+# Briefing document: Monthly reporting definitions
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative internal briefing. Confirm current status and owners before circulation.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The reader needs a concise account of the issue, options, recommended decision, and immediate actions.
+
+## Document structure
+
+This briefing separates known context from the recommendation and identifies what remains unresolved.
 
 ## Document metadata
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+- **Date:** 18 November 2026
+- **Owner:** Daniel Okafor
+- **Subject:** Monthly reporting definitions
 
 ## Purpose and key message
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Resolve inconsistent definitions used in the monthly performance report. Keep the fields separate until the source owners approve a shared definition.
 
 ## Background and current position
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in briefing: staff training options.
+Two source systems use different meanings for the same category label. Combining them without clarification could make the totals misleading.
 
 ## Options or analysis
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+The team needs source owners to confirm definitions before merging values. Interim reports should show the fields separately and describe the limitation.
 
 ## Recommendation and rationale
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+Keep the fields separate until the source owners approve a shared definition.
 
 ## Actions, owners, and deadlines
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
+Daniel: circulate examples by 20 November. Source owners: confirm definitions by 25 November. Analytics lead: update the data dictionary after approval.
 
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+## Final quality check
+
+Verify that the recommendation follows from the stated facts, owners have agreed to the actions, and no provisional detail is presented as confirmed.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The briefing uses direct language and a decision-focused structure. In a real workplace document, follow the organisation’s approved format and keep the requested decision prominent.

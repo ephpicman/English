@@ -1,35 +1,45 @@
-# Announcement: scheduled service maintenance
+# Internal announcement: Monthly reporting definitions
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative internal announcement. Confirm dates and operational details before sending.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The message explains the change, who is affected, what action is required, and where to get help.
+
+## Document structure
+
+Lead with the main message and keep supporting context brief.
 
 ## Announcement metadata
 
-**What is changing:** [confirmed change]. **When:** [confirmed effective date]. **Who is affected:** [teams or roles]. **What you need to do:** follow [verified process or link]. If you need help or an adjustment, contact [responsible team]. Do not circulate until bracketed details are confirmed.
+- **Date:** 18 November 2026
+- **Contact:** Daniel Okafor
+- **Audience:** Relevant project and operations teams
 
 ## Headline and key message
 
-**Purpose:** Announcement: scheduled service maintenance. **Key message:** the team should make a decision based on verified needs, operational impact, and available capacity. **Decision required:** confirm the preferred option or identify the evidence still needed. This is an illustrative briefing, not a record of an actual decision.
+**No data definition changes will be applied until the owners agree the intended meaning.**
 
 ## What is changing and why
 
-**What is changing:** [confirmed change]. **When:** [confirmed effective date]. **Who is affected:** [teams or roles]. **What you need to do:** follow [verified process or link]. If you need help or an adjustment, contact [responsible team]. Do not circulate until bracketed details are confirmed.
+Two source systems use different meanings for the same category label. Combining them without clarification could make the totals misleading. Keep the fields separate until the source owners approve a shared definition.
 
 ## Impact on employees and teams
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+Report readers should treat the affected totals as provisional and avoid comparing them directly with prior periods.
 
 ## Actions, dates, and support
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Announcement: scheduled service maintenance. Confirm all metadata against the invitation or meeting record.
+Daniel: circulate examples by 20 November. Source owners: confirm definitions by 25 November. Analytics lead: update the data dictionary after approval. The data dictionary and issue log are available in the reporting workspace.
 
 ## Closing and contact
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+Please review the relevant project record and raise any blocker with Daniel Okafor before the stated deadline.
+
+## Final quality check
+
+Confirm the audience, date, required action, and support route. Remove any internal detail that the audience does not need.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The announcement prioritises the key change and practical next steps. In a real announcement, clarity and accuracy are more important than lengthy background.

@@ -1,35 +1,45 @@
-# Announcement: new staff learning sessions
+# Internal announcement: New request intake process
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative internal announcement. Confirm dates and operational details before sending.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The message explains the change, who is affected, what action is required, and where to get help.
+
+## Document structure
+
+Lead with the main message and keep supporting context brief.
 
 ## Announcement metadata
 
-**What is changing:** [confirmed change]. **When:** [confirmed effective date]. **Who is affected:** [teams or roles]. **What you need to do:** follow [verified process or link]. If you need help or an adjustment, contact [responsible team]. Do not circulate until bracketed details are confirmed.
+- **Date:** 4 November 2026
+- **Contact:** Jordan Lee
+- **Audience:** Relevant project and operations teams
 
 ## Headline and key message
 
-**Purpose:** Announcement: new staff learning sessions. **Key message:** the team should make a decision based on verified needs, operational impact, and available capacity. **Decision required:** confirm the preferred option or identify the evidence still needed. This is an illustrative briefing, not a record of an actual decision.
+**Requests for the pilot category will be recorded in one shared queue instead of separate email lists.**
 
 ## What is changing and why
 
-**What is changing:** [confirmed change]. **When:** [confirmed effective date]. **Who is affected:** [teams or roles]. **What you need to do:** follow [verified process or link]. If you need help or an adjustment, contact [responsible team]. Do not circulate until bracketed details are confirmed.
+Requests currently arrive through email and a shared spreadsheet. Duplicate entries and missing ownership make it difficult to see what needs attention. Pilot one intake queue for the facilities request category for four weeks.
 
 ## Impact on employees and teams
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+Staff should record new requests in the queue and avoid creating duplicate entries in local trackers.
 
 ## Actions, dates, and support
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Announcement: new staff learning sessions. Confirm all metadata against the invitation or meeting record.
+Jordan: configure fields by 6 November. Team leads: agree status definitions by 5 November. Operations manager: review the pilot after four weeks. A one-page guide will be shared before the pilot begins. Questions can be raised in the operations channel.
 
 ## Closing and contact
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+Please review the relevant project record and raise any blocker with Jordan Lee before the stated deadline.
+
+## Final quality check
+
+Confirm the audience, date, required action, and support route. Remove any internal detail that the audience does not need.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The announcement prioritises the key change and practical next steps. In a real announcement, clarity and accuracy are more important than lengthy background.

@@ -1,35 +1,45 @@
-# Announcement: office access arrangements
+# Internal announcement: Community workshop venue
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative internal announcement. Confirm dates and operational details before sending.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The message explains the change, who is affected, what action is required, and where to get help.
+
+## Document structure
+
+Lead with the main message and keep supporting context brief.
 
 ## Announcement metadata
 
-**What is changing:** [confirmed change]. **When:** [confirmed effective date]. **Who is affected:** [teams or roles]. **What you need to do:** follow [verified process or link]. If you need help or an adjustment, contact [responsible team]. Do not circulate until bracketed details are confirmed.
+- **Date:** 21 November 2026
+- **Contact:** Priya Nair
+- **Audience:** Relevant project and operations teams
 
 ## Headline and key message
 
-**Purpose:** Announcement: office access arrangements. **Key message:** the team should make a decision based on verified needs, operational impact, and available capacity. **Decision required:** confirm the preferred option or identify the evidence still needed. This is an illustrative briefing, not a record of an actual decision.
+**Promotion will wait until the venue, time, and access details are verified.**
 
 ## What is changing and why
 
-**What is changing:** [confirmed change]. **When:** [confirmed effective date]. **Who is affected:** [teams or roles]. **What you need to do:** follow [verified process or link]. If you need help or an adjustment, contact [responsible team]. Do not circulate until bracketed details are confirmed.
+The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability. Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
 
 ## Impact on employees and teams
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The outreach team should hold scheduled posts and avoid distributing flyers with provisional details.
 
 ## Actions, dates, and support
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Announcement: office access arrangements. Confirm all metadata against the invitation or meeting record.
+Priya: contact preferred venue by 23 November. Facilities coordinator: verify backup access by 24 November. Outreach lead: publish final details by 26 November. The event record contains the draft copy and checklist. Contact Priya with questions.
 
 ## Closing and contact
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+Please review the relevant project record and raise any blocker with Priya Nair before the stated deadline.
+
+## Final quality check
+
+Confirm the audience, date, required action, and support route. Remove any internal detail that the audience does not need.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The announcement prioritises the key change and practical next steps. In a real announcement, clarity and accuracy are more important than lengthy background.

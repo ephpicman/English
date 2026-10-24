@@ -1,41 +1,45 @@
-# Briefing: project delivery risks
+# Briefing document: Community workshop venue
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative internal briefing. Confirm current status and owners before circulation.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The reader needs a concise account of the issue, options, recommended decision, and immediate actions.
+
+## Document structure
+
+This briefing separates known context from the recommendation and identifies what remains unresolved.
 
 ## Document metadata
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+- **Date:** 21 November 2026
+- **Owner:** Priya Nair
+- **Subject:** Community workshop venue
 
 ## Purpose and key message
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Confirm the venue and access arrangements before promoting the community workshop. Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
 
 ## Background and current position
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in briefing: project delivery risks.
+The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability.
 
 ## Options or analysis
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+Publishing before logistics are confirmed could mislead participants. A backup venue is available, but it requires confirmation of capacity and travel information.
 
 ## Recommendation and rationale
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
 
 ## Actions, owners, and deadlines
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
+Priya: contact preferred venue by 23 November. Facilities coordinator: verify backup access by 24 November. Outreach lead: publish final details by 26 November.
 
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+## Final quality check
+
+Verify that the recommendation follows from the stated facts, owners have agreed to the actions, and no provisional detail is presented as confirmed.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The briefing uses direct language and a decision-focused structure. In a real workplace document, follow the organisation’s approved format and keep the requested decision prominent.

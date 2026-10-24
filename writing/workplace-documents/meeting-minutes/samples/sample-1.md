@@ -1,33 +1,32 @@
-# Minutes: project planning meeting
-
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+# Meeting minutes: Portal launch readiness
 
 ## Meeting metadata and attendees
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Minutes: project planning meeting. Confirm all metadata against the invitation or meeting record.
+- **Date:** 12 November 2026
+- **Facilitator:** Morgan Chen
+- **Attendees:** Morgan Chen, Priya Nair, Jordan Lee, release lead
+- **Record type:** Illustrative minutes; verify against the actual meeting
 
 ## Purpose / agenda
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Review the open launch risks and agree owners for the remaining checks.
 
 ## Discussion summary by topic
 
-**Purpose:** Minutes: project planning meeting. **Key message:** the team should make a decision based on verified needs, operational impact, and available capacity. **Decision required:** confirm the preferred option or identify the evidence still needed. This is an illustrative briefing, not a record of an actual decision.
+The team confirmed that content review is complete. Authentication remains dependent on a separate team, and accessibility testing needs a final pass on keyboard navigation.
 
 ## Decisions made
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
-
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+The team agreed not to confirm the public release date until both checks pass.
 
 ## Action items with owner and due date
 
-**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Minutes: project planning meeting. Confirm all metadata against the invitation or meeting record.
+- Authentication status — Morgan Chen — 5 November
+- Accessibility review — Priya Nair — 6 November
+- Release decision — Release lead — next readiness review
 
 ## Open issues and next meeting
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in minutes: project planning meeting.
+Proceeding before the dependency and accessibility checks pass could create avoidable user problems. Moving the date may affect the communications plan, but the risk is visible early enough to manage.
+
+Next readiness review: 7 November, or earlier if both dependencies close.

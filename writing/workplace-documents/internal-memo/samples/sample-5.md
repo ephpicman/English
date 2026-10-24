@@ -1,47 +1,46 @@
-# Memo: customer escalation workflow
+# Internal memo: Community workshop venue
 
-*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
+*Illustrative memo. Confirm the facts, approval status, and action owners before circulation.*
 
 ## Plan first
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The memo states the purpose and requested action, then gives enough context for a decision.
+
+## Document structure
+
+Keep the analysis proportionate to the decision being requested.
 
 ## Memo header
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+- **To:** Relevant team leads
+- **From:** Priya Nair
+- **Date:** 21 November 2026
+- **Subject:** Community workshop venue
 
 ## Purpose and requested action
 
-The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+Confirm the venue and access arrangements before promoting the community workshop. The requested action is to approve the recommendation below or identify what additional information is needed.
 
 ## Background and facts
 
-The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in memo: customer escalation workflow.
+The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability.
 
 ## Analysis or key points
 
-A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+Publishing before logistics are confirmed could mislead participants. A backup venue is available, but it requires confirmation of capacity and travel information.
 
 ## Recommendation or decision
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
-
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
 
 ## Actions, owners, and timing
 
-| Action or decision | Owner | Due date | Status |
-|---|---|---|---|
-| Confirm the agreed requirement | [Name] | [Date] | Open |
-| Share the updated document | [Name] | [Date] | Open |
-| Review progress at next check-in | [Name] | [Date] | Open |
+Priya: contact preferred venue by 23 November. Facilities coordinator: verify backup access by 24 November. Outreach lead: publish final details by 26 November.
 
-Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+## Final quality check
+
+Check that the requested decision is explicit, all facts are current, and the memo distinguishes proposal from approved policy.
 
 ## IELTS-oriented language practice
 
-Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+The memo uses a neutral, concise register and links evidence to a recommendation. Follow the recipient organisation’s conventions for headings and sign-off.
