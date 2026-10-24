@@ -1,34 +1,47 @@
-# service-health-notes
+# log-sampler
 
-A documentation starter for tracking service health checks and operational response.
+A small utility for selecting representative application log entries for local review.
 
 ## Project name and one-line purpose
 
-**service-health-notes** — A documentation starter for tracking service health checks and operational response.
+**log-sampler** helps engineers inspect a bounded sample of log records without exporting an entire log archive.
 
 ## Overview and intended audience
 
-This repository contains examples of health-check definitions, incident notes, and operational checklists. It documents a workflow rather than providing a monitoring agent or guaranteeing service availability.
+This illustrative tool is intended for developers investigating recurring errors in a test or approved local dataset. It is not a log aggregation service, and it should not be used to bypass access controls or move restricted data into an unapproved environment.
 
 ## Key features
 
-- Separates liveness checks from dependency readiness.
-- Provides an incident timeline template.
-- Records owner, alert condition, and escalation route.
-- Includes a review checklist for false positives and missing signals.
+- Reads a supported local log format.
+- Filters records by a configured severity or event field.
+- Samples a bounded number of matching entries.
+- Reports skipped or malformed lines.
+- Can write a summary without including full message bodies, if configured.
 
 ## Prerequisites
 
-A service with an identified owner, an agreed monitoring system, and access to the team’s operational procedures. Replace all example alert names with real configured signals.
+Confirm the runtime and supported input formats in the project metadata. The user must have authorised access to the source logs and a destination approved for the output.
 
 ## Quick start
 
-Choose the checklist that matches the service, identify its critical dependencies, and confirm what each health signal actually tests. Test the alert route in a non-production environment before relying on it during an incident.
+Install using the project’s documented method and check the available flags:
+
+```bash
+log-sampler --help
+```
+
+Use a small synthetic log file to test the configuration first.
 
 ## Configuration / usage
 
-Keep thresholds and escalation routes in the service’s approved configuration. Do not put credentials, private endpoints, or sensitive incident details in a public repository.
+A representative command could be:
+
+```bash
+log-sampler ./sample.log --level warning --limit 50
+```
+
+Verify the exact options before use. Review output for tokens, email addresses, identifiers, and other sensitive fields before sharing it.
 
 ## Contribution, support, and licence
 
-Changes should explain the operational problem they address and include a review owner. Avoid documenting an alert as active until its configuration and notification path have been tested.
+Include tests for malformed records, empty input, and sample limits. Public issue reports must use synthetic logs. Add the actual licence, support route, and data-handling policy before publishing.

@@ -4,31 +4,47 @@ A small command-line utility for checking CSV files before they enter a data pip
 
 ## Project name and one-line purpose
 
-**csv-audit** — A small command-line utility for checking CSV files before they enter a data pipeline.
+**csv-audit** checks selected structural issues in a CSV file and produces a concise validation report.
 
 ## Overview and intended audience
 
-This illustrative Python project helps analysts inspect a CSV file for missing required columns, blank values, and duplicate rows. It is intended for local validation, not as a replacement for domain-specific data-quality rules.
+This illustrative Python project is intended for analysts and developers who need a repeatable first-pass check before importing tabular data. It does not replace domain-specific validation or guarantee that every value is correct.
 
 ## Key features
 
-- Reports whether required columns are present.
-- Counts blank values in selected columns.
-- Reports exact duplicate rows.
-- Exits with a non-zero status when configured checks fail.
+- Checks for required column names.
+- Reports blank values in configured columns.
+- Identifies exact duplicate rows.
+- Returns a non-zero exit status when a configured check fails.
+- Keeps the original input file unchanged.
 
 ## Prerequisites
 
-Python 3.11 or a compatible version supported by the project; a terminal; and a UTF-8 CSV file. Confirm the actual package metadata before publishing a real repository README.
+Use a supported Python version specified in the project metadata, a terminal, and a CSV file encoded in UTF-8. Confirm the actual supported version and dependency list before publishing this README.
 
 ## Quick start
 
-Create and activate a virtual environment, install the project’s declared dependencies, then run the command against a test file. For an installed CLI named `csv-audit`, an illustrative invocation is `csv-audit data.csv --required id,email`. The command name and flags must match the actual implementation.
+Install the package using the method documented by the repository. For a local source checkout, a typical development workflow is:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -e .
+csv-audit --help
+```
+
+On Windows, activate the virtual environment using the appropriate shell command.
 
 ## Configuration / usage
 
-Use a version-controlled configuration file for project-specific required fields. Do not place secrets in the file. Run the tool on a small sample first and review the report before adding it to an automated pipeline.
+A representative command might be:
+
+```bash
+csv-audit data/input.csv --required-columns id,email,created_at
+```
+
+Check the actual CLI help for supported options. Review the report and resolve errors in a working copy of the data; the tool should not be assumed to repair source files automatically.
 
 ## Contribution, support, and licence
 
-Contributions should include a focused change, tests for valid and invalid CSV input, and an update to user-facing documentation when behaviour changes. Choose a licence only after confirming the repository owner’s intended terms. Report bugs with a minimal sample that contains no sensitive data.
+Report reproducible issues with a small synthetic CSV that contains no personal data. Contributions should include tests for new validation rules and documentation updates. Add the repository’s actual licence and support contact before publication.

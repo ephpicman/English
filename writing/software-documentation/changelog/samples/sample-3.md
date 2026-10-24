@@ -1,34 +1,44 @@
-# Changelog — 3.0.0
+# Changelog — 3.1.0
 
-*Illustrative release entry. Version, date, and changes must be checked against the actual release before publication.*
+*Illustrative changelog. Replace these example entries with changes confirmed for the actual release.*
+
+## Before drafting
+
+Describe externally visible changes and avoid listing routine internal edits unless users need to know about them.
+
+## Document structure
+
+Separate new features, changed behaviour, fixes, removed functionality, and security notes.
 
 ## Version and date
 
-- **Version:** 3.0.0
-- **Date:** 2026-04-29
+- **Version:** 3.1.0
+- **Date:** 2026-08-12
+- **Release status:** Illustrative
 
 ## Added
 
-- Added a new configuration command that prints the resolved non-secret settings used by the application.
+- Added a read-only endpoint for retrieving the current processing status.
+- Added a command-line option to select the output directory.
 
 ## Changed
 
-- Changed the default configuration file location to the user-specific application directory.
-- Updated the command output to use stable field names for scripting.
+- Updated the default timeout description and documented how it can be overridden.
+- Clarified the response fields returned when a request is still processing.
 
 ## Fixed
 
-- Fixed inconsistent exit codes for invalid command-line arguments.
+- Fixed an error message that did not identify which required field was missing.
+- Corrected a sample configuration that used an unsupported value.
 
 ## Deprecated and removed
 
-- The legacy `--config-path` alias is removed in this illustrative major release. Use `--config` instead.
-- Scripts relying on the previous default path must be updated.
+- No removals are claimed in this example. If a feature is deprecated, state the replacement and expected removal timeline.
 
 ## Security
 
-- The diagnostic command omits values marked as secrets, but users should review the output before sharing it.
+- No security claim is made without a reviewed security record. Include advisory references only when verified and appropriate for public release.
 
 ## Final quality check
 
-Confirm every item against merged changes and approved release notes. Use user-facing language, distinguish breaking changes from fixes, and do not imply a security review or guarantee unless it has been completed.
+Check compatibility notes and ensure documentation reflects the shipped behaviour.

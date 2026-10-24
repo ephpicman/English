@@ -1,34 +1,47 @@
-# study-session-planner
+# url-checker
 
-A simple planner for distributing review sessions across a study week.
+A command-line tool for checking links in a set of local Markdown documents.
 
 ## Project name and one-line purpose
 
-**study-session-planner** — A simple planner for distributing review sessions across a study week.
+**url-checker** scans Markdown files and reports links that may need review.
 
 ## Overview and intended audience
 
-Study Session Planner is an illustrative planning template for listing topics, retrieval questions, review dates, and confidence after each session. It helps organise study; it does not predict grades or replace course guidance.
+This illustrative tool is intended for documentation maintainers who want to catch malformed links and identify URLs that fail a configured check. Network results can change, and a failed request does not always mean that a link is permanently broken.
 
 ## Key features
 
-- Tracks topics and planned review dates.
-- Records questions to answer from memory.
-- Marks items that need another review.
-- Offers a weekly view for balancing subjects.
+- Scans Markdown files in a selected directory.
+- Extracts common inline links.
+- Reports malformed or missing destinations.
+- Can produce a machine-readable summary if supported by the implementation.
+- Leaves source documents unchanged.
 
 ## Prerequisites
 
-A Markdown editor, spreadsheet, or compatible planning application. The basic template can be used without installing software.
+Check the repository metadata for the supported runtime and dependencies. Network checks require connectivity and must respect the target sites’ access rules and rate limits.
 
 ## Quick start
 
-Copy the weekly planner, add topics from your current course, and write one or two retrieval questions for each. After each session, record what was difficult and schedule the next review based on your needs.
+Install the tool from its documented release or source instructions and inspect its help:
+
+```bash
+url-checker --help
+```
+
+Start with a small documentation folder to understand how the tool handles redirects and timeouts.
 
 ## Configuration / usage
 
-Adjust the number of review columns to fit your timetable. Avoid scheduling more sessions than you can realistically complete, and keep personal academic information in a location appropriate to your privacy needs.
+A representative command might be:
+
+```bash
+url-checker ./docs
+```
+
+Confirm supported options, status handling, and output formats in the actual version. Review flagged links manually before deleting or changing them.
 
 ## Contribution, support, and licence
 
-Suggest changes that make the planner easier to use without adding complexity. Explain the learner need behind each new field and test the template with a real week of study before proposing a larger redesign.
+Contributions should test relative links, redirects, timeouts, and non-HTTP destinations where relevant. Bug reports should include a minimal document and tool version. Add the actual licence and support links before publication.

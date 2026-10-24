@@ -1,35 +1,44 @@
 # Changelog — 2.4.0
 
-*Illustrative release entry. Version, date, and changes must be checked against the actual release before publication.*
+*Illustrative release entry. Verify version, date, and changes against the actual release before publication.*
+
+## Before drafting
+
+List only changes that are included in this release and have been verified by the release owner.
+
+## Document structure
+
+The entry separates new functionality, behaviour changes, fixes, removals, and security notes.
 
 ## Version and date
 
 - **Version:** 2.4.0
-- **Date:** 2026-02-18
+- **Date:** 2026-10-20
+- **Release status:** Illustrative
 
 ## Added
 
-- Added an optional `status` filter to the activity-list endpoint.
-- Added a `request_id` field to error responses to help support teams trace a failed request.
+- Added an optional status filter to the activity-list endpoint.
+- Added a request identifier to error responses to support troubleshooting.
 
 ## Changed
 
-- Clarified that list results are ordered by creation time, newest first.
-- Updated the configuration guide to distinguish required settings from optional overrides.
+- Clarified the ordering of list results in the API documentation.
+- Updated configuration guidance to distinguish required settings from optional overrides.
 
 ## Fixed
 
-- Fixed a case where an empty search query was treated differently from an omitted query.
+- Fixed inconsistent handling of an empty search query.
 - Corrected an example that used an outdated response field name.
 
 ## Deprecated and removed
 
-- No features were deprecated or removed in this illustrative release.
+- No deprecation or removal is claimed in this illustrative entry.
 
 ## Security
 
-- No security change is claimed here. Check the release issue and security review before publishing real release notes.
+- No security change is claimed here. Confirm with the security owner whether the release includes security-relevant changes before publication.
 
 ## Final quality check
 
-Confirm every item against merged changes and approved release notes. Use user-facing language, distinguish breaking changes from fixes, and do not imply a security review or guarantee unless it has been completed.
+Verify each item against merged changes and the release tag. Do not include planned work that did not ship.

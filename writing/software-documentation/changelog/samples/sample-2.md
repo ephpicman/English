@@ -1,33 +1,44 @@
-# Changelog — 1.8.1
+# Changelog — 1.8.0
 
-*Illustrative release entry. Version, date, and changes must be checked against the actual release before publication.*
+*Illustrative changelog. Confirm all changes against the tagged release before publishing.*
+
+## Before drafting
+
+Use concise, user-facing descriptions and group changes by their effect.
+
+## Document structure
+
+The entry records added behaviour, changes, fixes, deprecations, and security information separately.
 
 ## Version and date
 
-- **Version:** 1.8.1
-- **Date:** 2026-03-05
+- **Version:** 1.8.0
+- **Date:** 2026-09-30
+- **Release status:** Illustrative
 
 ## Added
 
-- No new user-facing features in this patch release.
+- Added an export option for the filtered report view.
+- Added a configuration example for running the tool against a local test dataset.
 
 ## Changed
 
-- Improved diagnostic text for configuration validation failures.
+- Updated the default report heading to include the selected reporting period.
+- Clarified the meaning of the warning state in the user guide.
 
 ## Fixed
 
-- Fixed a startup failure when an optional environment variable was unset.
-- Fixed a documentation example that omitted the required configuration file path.
+- Fixed a case where a missing optional field caused the summary step to stop.
+- Corrected a validation message that pointed users to the wrong configuration key.
 
 ## Deprecated and removed
 
-- No deprecations or removals in this illustrative patch release.
+- No deprecations or removals are specified in this example. Add only items confirmed by the release notes.
 
 ## Security
 
-- No security fix is asserted. Confirm against the project’s approved security advisories before publication.
+- Review the release security record before stating whether security-related changes are included.
 
 ## Final quality check
 
-Confirm every item against merged changes and approved release notes. Use user-facing language, distinguish breaking changes from fixes, and do not imply a security review or guarantee unless it has been completed.
+Confirm the release version, date, and each change against the source-control history.

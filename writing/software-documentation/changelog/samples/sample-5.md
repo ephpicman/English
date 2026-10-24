@@ -1,33 +1,44 @@
-# Changelog — 5.1.0
+# Changelog — 2.0.0
 
-*Illustrative release entry. Version, date, and changes must be checked against the actual release before publication.*
+*Illustrative major-version changelog. Confirm the compatibility impact and migration instructions before release.*
+
+## Before drafting
+
+A major-version entry should make breaking changes clear and provide a route for users to adapt.
+
+## Document structure
+
+List added features, changed behaviour, fixes, removals, and security notes with emphasis on migration impact.
 
 ## Version and date
 
-- **Version:** 5.1.0
-- **Date:** 2026-06-30
+- **Version:** 2.0.0
+- **Date:** 2026-05-21
+- **Release status:** Illustrative
 
 ## Added
 
-- Added an export preview so users can inspect selected columns before generating a file.
-- Added a warning when the requested export contains no rows.
+- Added a new configuration file format with explicit section names.
+- Added validation that reports missing required settings before startup.
 
 ## Changed
 
-- Clarified the difference between filtering the visible table and filtering the exported dataset.
+- Configuration keys now use a consistent naming convention.
+- Error responses use a documented structure for machine-readable codes and human-readable messages.
 
 ## Fixed
 
-- Fixed a column-order mismatch between the preview and generated CSV in the described scenario.
+- Fixed validation that previously accepted an invalid empty setting.
+- Corrected the setup guide to match the supported installation command.
 
 ## Deprecated and removed
 
-- No deprecations or removals in this illustrative release.
+- Removed the legacy configuration format in this illustrative major release. Users must migrate settings to the new format before upgrading.
 
 ## Security
 
-- Export permissions continue to depend on the user’s existing access rights; verify this behaviour in the actual application before release.
+- Confirm any security implications of configuration validation with the security owner before publication.
 
 ## Final quality check
 
-Confirm every item against merged changes and approved release notes. Use user-facing language, distinguish breaking changes from fixes, and do not imply a security review or guarantee unless it has been completed.
+Include a migration guide, verify upgrade behaviour, and ensure the changelog matches the release tag.

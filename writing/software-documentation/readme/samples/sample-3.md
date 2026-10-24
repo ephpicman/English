@@ -1,34 +1,44 @@
-# image-metadata-checker
+# meeting-notes-cli
 
-A review tool for listing basic metadata from image files.
+A command-line tool for creating structured meeting notes from a local template.
 
 ## Project name and one-line purpose
 
-**image-metadata-checker** — A review tool for listing basic metadata from image files.
+**meeting-notes-cli** creates a consistent note file with meeting metadata, decisions, and action items.
 
 ## Overview and intended audience
 
-This illustrative project helps a user inspect image dimensions, file type, and selected metadata before publishing a batch of images. It is designed as a review aid; it does not determine whether an image is legally safe to publish.
+This illustrative utility is for teams that want a lightweight way to start meeting records without adopting a separate collaboration platform. It creates a template; it does not automatically know what was discussed or determine who accepted an action.
 
 ## Key features
 
-- Lists supported file types and image dimensions.
-- Flags files with missing or unexpected metadata.
-- Writes a review report without modifying originals by default.
-- Separates inspection from any optional metadata removal.
+- Generates a note file with date, attendees, and purpose fields.
+- Includes separate sections for decisions and action items.
+- Allows a project or meeting name to be supplied at creation.
+- Keeps generated files editable as plain text or Markdown.
 
 ## Prerequisites
 
-A supported Python runtime and the imaging library specified in the project dependency file. Use test images first and avoid uploading private images to an untrusted service.
+Use the runtime version documented by the repository and a terminal with write access to the destination directory. Review the project’s privacy guidance before storing confidential meeting content.
 
 ## Quick start
 
-Install dependencies in an isolated environment, then run the checker against a directory of test images. Review the report and confirm that the file list and metadata fields match the intended scope before using it on production assets.
+Install from the repository’s documented release or development instructions, then inspect available options:
+
+```bash
+meeting-notes --help
+```
 
 ## Configuration / usage
 
-Configure accepted file extensions and the metadata fields relevant to the workflow. Treat filenames and metadata as potentially sensitive; redact paths from reports before sharing them externally.
+A representative command might be:
+
+```bash
+meeting-notes create "Quarterly planning" --output ./notes
+```
+
+The resulting file should be reviewed and completed by the meeting owner. Confirm the actual command name and flags before relying on this example.
 
 ## Contribution, support, and licence
 
-Include tests for corrupt files, unsupported formats, and images with missing metadata. A change that deletes or rewrites metadata should be explicit, reversible where possible, and documented separately from read-only inspection.
+Contributions should preserve the simple structure and include tests for generated headings and file paths. Do not attach real confidential notes to public bug reports. Add the real licence, support route, and contribution rules before release.
