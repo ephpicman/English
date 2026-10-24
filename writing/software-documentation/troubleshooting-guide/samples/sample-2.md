@@ -32,6 +32,7 @@ Export a fresh file using the supported format where possible. Do not rename col
 Run validation on the corrected copy and confirm that the reported error is resolved. Compare row counts and key totals before proceeding with the import.
 
 ## Escalation details to collect
+If the same file fails more than once, compare it with the documented schema and check whether the source system has changed its output. A repeated rejection may indicate a producer-side issue or an outdated template. Keep the evidence minimal and redacted, and ask the data owner to confirm any proposed exception before changing validation rules.
 After correcting the file, keep a copy of the validation report with the import record if the organisation’s process requires it. If the same validation error appears repeatedly across different producers, consider whether the template or instructions need clarification. Do not weaken a validation rule simply to make one file pass; first confirm that the underlying value is legitimate and that the receiving system supports it. If the file is time-sensitive, communicate the expected review window and identify the person who can approve an exception.
 
 Include the importer version, error identifier, column and row number, file encoding if known, and a minimal redacted example. Never attach the full sensitive file unless the approved secure transfer process is used.

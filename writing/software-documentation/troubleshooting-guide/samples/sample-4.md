@@ -32,6 +32,7 @@ For a missing asset, check the configured base path and deployment output. For a
 Retest the affected route with a permitted account and confirm that related actions still work. Check that the fix does not expose data to a user who should not have access.
 
 ## Escalation details to collect
+After restoring the route, test the affected page and a related action with an authorised account. If the failure was caused by a deployment, record the release reference and the decision to roll back or proceed. This helps the team learn from the incident and prevents an informal workaround from becoming the permanent procedure.
 Before escalating, check whether the failure occurs on a direct route refresh as well as through in-app navigation. This can distinguish a client-side routing problem from a failed API request, although the result is only a clue. If the issue follows a recent deployment, follow the approved incident process rather than applying an unreviewed workaround. After a fix, test the original action and one related workflow so that the change has not simply moved the failure elsewhere. Keep the reproduction steps concise and avoid including user data that is not needed to diagnose the issue.
 
 Include application version, environment, route, timestamp, status code, correlation ID, browser version, and minimal reproduction steps. Remove secrets and personal data.
