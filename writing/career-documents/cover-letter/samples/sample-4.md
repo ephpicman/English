@@ -1,27 +1,30 @@
-# Application for Research Assistant in an environmental policy team
+# Application for Customer Support Specialist
 
-*Illustrative cover letter. Replace the role and organisation with a real opportunity and retain only claims that accurately describe the applicant.*
+*Illustrative cover letter. Keep all claims and service examples accurate to the applicant.*
 
 ## Opening and target role
 
-I am applying for the Research Assistant in an environmental policy team position. My experience in coordination, communication, and careful follow-through has prepared me to support a team that values reliable work and clear records.
+I am applying for the Customer Support Specialist role at BrightDesk Software. My experience answering customer questions, documenting recurring issues, and explaining technical steps in plain language would help me contribute to a responsive support team.
 
 ## Employer-specific motivation
 
-I am drawn to this research assistant opportunity because it combines careful evidence handling with questions that affect public decisions. I understand that useful research depends on transparent methods as much as on an interesting conclusion.
+I am interested in software support because a clear answer can resolve an immediate problem while also helping a customer understand how to avoid it next time. I value teams that use support patterns to improve product guidance.
 
 ## Relevant qualification
 
-My academic work has involved reviewing literature, organising references, summarising reports, and comparing policy options against stated criteria. I am attentive to source quality and careful not to treat correlation or a single case study as proof of a general effect.
+In my current service role, I respond to email and chat enquiries, record each case in a ticketing system, and escalate issues that require specialist access. I check that replies address the customer’s actual question and avoid promising a resolution before the technical team confirms it. I have also helped update internal notes when a procedure changes.
 
 ## Achievement evidence
 
-For a seminar paper, I built a source matrix to compare studies with different locations, methods, and definitions. This made disagreements between the findings visible and helped me identify which conclusions were supported consistently and which remained uncertain. I used the matrix to structure a balanced summary and keep the original references traceable.
+Several customers contacted us repeatedly because an account-reset guide omitted a step for users who had changed phones. I collected examples from the tickets, checked the correct process with the technical lead, and drafted a clearer instruction with a warning about the recovery code. After the guide was updated, colleagues used it to answer similar enquiries more consistently. The experience showed me that good support includes both individual problem-solving and accurate documentation that prevents repeated confusion.
 
 ## Fit and contribution
 
-I could support literature searches, evidence tables, meeting notes, and clear drafts while following the project’s research and data-handling procedures.
+I would bring patience, careful case notes, and a collaborative approach to escalation. I am comfortable explaining what is known, what remains uncertain, and when the customer can expect another update.
 
 ## Closing and next step
 
-I welcome the opportunity to discuss how my research skills could support your team’s current work.
+Thank you for considering my application. I would welcome the opportunity to discuss how I could support customers and contribute to clearer help resources.
+
+Kind regards,  
+Taylor Reed
