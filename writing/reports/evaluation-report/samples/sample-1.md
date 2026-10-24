@@ -2,6 +2,10 @@
 
 *Illustrative evaluation report. Replace example evidence with verified records before making operational decisions.*
 
+## Report structure
+
+This report states the evaluation questions and evidence base, reports results against criteria, explains limitations, and identifies follow-up actions.
+
 ## Title and document control
 
 Evaluator: Student support team | Period: One academic term | Status: Illustrative evaluation

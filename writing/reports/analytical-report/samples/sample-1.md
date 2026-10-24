@@ -2,6 +2,10 @@
 
 *Illustrative analytical report. Replace example evidence with verified records before making operational decisions.*
 
+## Report structure
+
+This report states the purpose and method, presents findings, analyses implications, compares options, and ends with a recommendation.
+
 ## Title and document control
 
 Owner: Operations team | Status: Illustrative analysis | Period reviewed: 1–30 September
