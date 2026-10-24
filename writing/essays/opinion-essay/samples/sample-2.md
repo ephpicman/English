@@ -1,21 +1,23 @@
 # Public transport investment: opinion essay
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+
+*Illustrative IELTS-style response; adapt it to the precise prompt.*
+
 ## Introduction
-The question of how society should approach public transport investment involves practical benefits as well as genuine concerns. Public transport should receive priority where it can meet demonstrated travel needs, but road maintenance and essential vehicle access must remain part of a balanced plan.
+
+In my view, cities should prioritise reliable public transport as part of their response to congestion and unequal access to services. Roads remain necessary, but expanding them alone does not address why so many journeys depend on private cars.
+
 ## Reason 1
 
-Public transport also supports people who cannot drive or do not have access to a car. When routes connect homes with employment, education, and essential services, residents gain more choices about where they can go. This benefit depends on frequency, affordability, and safe connections; a nominal service that rarely runs will not meet the same need.
-
-Reliable buses and trains can move many people using less road space per passenger and give residents an alternative to driving. Better connections can also make employment, education, and essential services more accessible to people who do not own a car.
+Public transport can move many people using less road space per passenger than individual cars. When buses and trains run frequently and connect residential areas with workplaces, commuters have a practical alternative to driving. This can reduce pressure on busy routes and make journey times more predictable. The environmental impact depends on passenger numbers and vehicle technology, so authorities should invest in clean fleets and well-planned routes rather than assume that every service automatically reduces emissions.
 
 ## Reason 2
 
-Roads remain necessary for emergency services, deliveries, and communities where public transport is infrequent. Poorly planned transit investments can be expensive and underused, particularly if routes do not match where people live and work. This is why implementation should include safeguards and respond to different circumstances.
+A strong transport network also supports fairness. People who cannot drive, cannot afford a car, or prefer not to drive need dependable ways to reach schools, hospitals, and jobs. If outer neighbourhoods have infrequent services or buses stop running before late shifts end, residents may lose opportunities that are available to people with private vehicles. Accessible stops, clear information, and connections between different routes can make the network useful to a wider range of people.
 
 ## Qualification or opposing view (optional)
 
-Those who favour road expansion point out that congestion can impose real costs on workers and businesses. However, adding road capacity alone may not solve congestion if travel demand changes in response.
+Some journeys are difficult to serve with frequent transit, particularly in sparsely populated areas or for people with specific mobility needs. Public transport investment should therefore complement, not eliminate, other options such as community transport and safe road access.
 
 ## Conclusion
 
-Public transport should receive priority where it can meet demonstrated travel needs, but road maintenance and essential vehicle access must remain part of a balanced plan.
+Cities should place public transport at the centre of urban mobility planning. Reliable services and accessible connections can reduce car dependence while improving residents’ ability to reach essential destinations.

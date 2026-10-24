@@ -1,21 +1,23 @@
 # Remote work: opinion essay
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+
+*Illustrative IELTS-style response; adapt the argument to the exact question.*
+
 ## Introduction
-The question of how society should approach remote work involves practical benefits as well as genuine concerns. On balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.
+
+I believe remote work should remain an option for jobs that can be performed effectively away from the office. It can improve flexibility and access to employment, although employers need to protect collaboration and make sure staff have suitable working conditions.
+
 ## Reason 1
 
-One reason is that flexibility can support people with different responsibilities and working styles. A parent or carer may be able to organise the day more effectively, while an employee doing focused analysis may benefit from fewer interruptions. These gains are most likely when managers set clear goals and provide a reliable way to collaborate.
-
-Remote work can reduce commuting time and give employees more control over their working environment. For tasks requiring concentration, fewer office interruptions may help people organise their day. It can also widen access to jobs for people who live far from a central office or need a more flexible routine.
+One important benefit is that remote work reduces the time and cost associated with commuting. Employees who spend less time travelling may have more opportunity for rest, family responsibilities, or professional development. It can also widen access to jobs for people who live far from major employment centres or have mobility needs that make daily travel difficult. For tasks requiring concentration, a suitable home environment may reduce interruptions. These benefits are not universal, because some workers share small homes or lack reliable internet, but employers can respond by offering equipment support and flexible arrangements.
 
 ## Reason 2
 
-However, remote work can make informal learning and collaboration harder, especially for new employees. People may also have unequal home working conditions, and blurred boundaries can lead to longer working hours. These disadvantages depend on how well the organisation supports remote staff. This is why implementation should include safeguards and respond to different circumstances.
+Remote work can also help organisations recruit people with skills that are not available nearby. It may allow a company to employ a specialist without requiring relocation, while workers can remain in their communities. In addition, shared documents and written project updates can create a useful record of decisions. This requires managers to define outcomes clearly and judge performance by work quality rather than by constant online visibility. Regular check-ins and mentoring can help new staff build relationships and understand expectations.
 
 ## Qualification or opposing view (optional)
 
-Critics are right that not every task can be done remotely and that some workers value direct contact. This argues for a role-sensitive approach rather than a universal rule.
+It is true that remote employees can miss informal learning and feel isolated. However, these risks can be reduced through planned team sessions, clear communication routines, and occasional in-person meetings where they genuinely add value.
 
 ## Conclusion
 
-On balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.
+Remote work should be available where the role and circumstances make it practical. With fair access to equipment and deliberate support for teamwork, its flexibility can benefit both employees and employers.

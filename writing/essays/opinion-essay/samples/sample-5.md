@@ -1,21 +1,23 @@
-# School uniforms: opinion essay
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+# Homework for school-age children: opinion essay
+
+*Illustrative IELTS-style response; adapt the position to the precise question and age group.*
+
 ## Introduction
-The question of how society should approach school uniforms involves practical benefits as well as genuine concerns. Schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.
+
+I believe homework can support learning when it is purposeful, manageable, and appropriate to a child’s age. Large amounts of repetitive work are less defensible because they can reduce time for rest, play, and family life without necessarily improving understanding.
+
 ## Reason 1
 
-A uniform may simplify expectations, but the policy should not become a measure of a student’s character. Schools can set clear standards for safety and learning while allowing religious, medical, and financial accommodations. This approach protects the practical purpose of a dress policy without imposing unnecessary restrictions.
-
-Uniforms can reduce visible differences in everyday clothing and make the school dress code simpler to understand. They may also help students identify one another during school activities and reduce the time spent deciding what to wear.
+A short task can help students practise a skill introduced in class. For example, solving a few carefully chosen maths problems may show whether a learner can apply a method independently. Reading at home can also build vocabulary and encourage curiosity beyond the classroom. Homework gives teachers information about which ideas students have understood and which require further explanation. Its value, however, depends on clear instructions and feedback; if children repeatedly practise a misunderstanding, the task may reinforce errors rather than correct them.
 
 ## Reason 2
 
-Uniforms cost money, may be uncomfortable for some students, and do not remove deeper differences in income or social status. Strict rules can also create conflict when they fail to account for religion, disability, weather, or individual needs. This is why implementation should include safeguards and respond to different circumstances.
+Homework should also account for unequal home circumstances. Some students have a quiet desk, reliable internet, and an adult available to help, while others share space, care for siblings, or have limited access to devices. If important learning depends on resources outside school, assignments may reward circumstance more than effort. Teachers can reduce this problem by setting tasks that use accessible materials, allowing time for independent completion, and providing support during the school day.
 
 ## Qualification or opposing view (optional)
 
-Supporters argue that a uniform creates a sense of belonging and reduces competition over fashion. These benefits may occur in some schools, but they are not guaranteed by clothing rules alone.
+Some argue that homework builds discipline and prepares older students for independent study. This can be true when tasks are realistic and teach planning, but excessive workload is not the only way to develop responsibility.
 
 ## Conclusion
 
-Schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.
+Homework should reinforce important learning rather than occupy every evening. Short, well-designed tasks with clear feedback offer more value than large quantities of repetitive work.

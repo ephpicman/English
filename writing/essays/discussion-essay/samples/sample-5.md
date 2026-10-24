@@ -1,33 +1,31 @@
-# School uniforms: discussion essay
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+# Homework: discussion essay
+
+*Illustrative IELTS-style response; adapt it to the question’s age group and scope.*
+
 ## Before writing
-Present both views fairly before giving a personal position only if the prompt asks for one.
+
+Present the case for independent practice and the concerns about workload and unequal home circumstances.
+
 ## Essay structure
 
-Each viewpoint is developed with reasoning, followed by a balanced conclusion.
+The response explains why homework may reinforce learning and why its amount and design matter.
 
 ## Introduction and issue framing
 
-There are differing views about school uniforms. The debate reflects different priorities, and both positions have arguments that deserve consideration.
+Homework is a familiar part of education, but there is disagreement about how much work students should complete outside school. Supporters view it as a way to practise independently, while critics argue that it can create unnecessary pressure and widen differences between students.
 
 ## Viewpoint 1 and reasoning
 
-Supporters of compulsory uniforms believe they can strengthen school identity and reduce visible clothing competition among students.
+Those who support homework argue that practice helps learners remember and apply what they have studied. A short set of maths questions, a reading assignment, or preparation for a discussion can reveal whether a student understands the material without immediate teacher help. Homework may also encourage older students to plan their time and take responsibility for longer projects. These benefits are strongest when the task has a clear purpose and teachers provide feedback that helps students correct mistakes.
 
 ## Viewpoint 2 and reasoning
 
-Schools can reduce the disadvantages of either policy by consulting families and offering affordable choices. A uniform can be practical when items are durable and easy to obtain, but strict rules can create hardship if students need replacements or adjustments. A dress code can address safety and respectful conduct without assuming that every student has the same needs or resources.
-
-Opponents argue that uniforms restrict choice, can be costly, and may not fit all cultural, religious, or physical needs.
+Opponents argue that excessive homework reduces time for sleep, exercise, hobbies, and family life. Students also have unequal conditions at home: some have quiet spaces and adult support, while others share rooms or have limited internet access. If assignments require resources that are not available to everyone, they may measure home circumstances as much as learning. Repetitive tasks can also frustrate students without deepening understanding.
 
 ## Your opinion (only if requested)
 
-I support a flexible school dress policy rather than a rigid uniform rule. Schools should focus on safety and respectful conduct while allowing reasonable accommodations.
+I favour limited, purposeful homework that reinforces essential skills. Teachers should coordinate major assignments and ensure students can complete required work with resources available to them.
 
 ## Conclusion
 
-Both sides identify real considerations. A reasonable approach should protect the benefits while addressing the practical risks and the needs of people affected.
-
-## Final IELTS checklist
-
-Check that both viewpoints receive adequate development and that your own opinion is included only when requested.
+Homework can be useful, but quantity alone does not guarantee learning. Clear goals, reasonable workload, and equitable access make independent practice more effective and fair.

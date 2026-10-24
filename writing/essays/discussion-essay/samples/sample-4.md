@@ -1,33 +1,31 @@
-# Urban green spaces: discussion essay
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+# Technology in education: discussion essay
+
+*Illustrative IELTS-style response; adapt it to the exact prompt and educational context.*
+
 ## Before writing
-Present both views fairly before giving a personal position only if the prompt asks for one.
+
+Discuss both the benefits of digital tools and the risks of unequal access or distraction.
+
 ## Essay structure
 
-Each viewpoint is developed with reasoning, followed by a balanced conclusion.
+The essay considers how technology can support learning and why it cannot replace sound teaching.
 
 ## Introduction and issue framing
 
-There are differing views about urban green spaces. The debate reflects different priorities, and both positions have arguments that deserve consideration.
+Digital technology has become part of many classrooms, but opinions differ about how much schools should rely on it. Supporters see opportunities for access and feedback, whereas critics worry about distraction, inequality, and reduced face-to-face interaction.
 
 ## Viewpoint 1 and reasoning
 
-Supporters argue that green spaces improve everyday quality of life and provide places for recreation and community activity.
+Advocates argue that digital tools can give students access to a wider range of resources. Interactive exercises provide immediate feedback, and assistive technologies can help learners engage with material in different formats. Online platforms also make it easier for teachers to share resources and track which topics students find difficult. When carefully selected, technology can support collaboration through shared documents and allow students to revise material outside lesson time.
 
 ## Viewpoint 2 and reasoning
 
-The debate becomes more productive when access and maintenance are considered together. A new park may be popular at first but lose value if paths, lighting, and facilities are not maintained. Housing is also a genuine need, particularly in cities where space is scarce. Planning should identify where smaller green spaces can be integrated into development and where larger sites provide unique community value.
-
-Opponents note that urban land is expensive and that parks require ongoing maintenance. They argue that housing and essential services may be more urgent priorities.
+Critics note that devices can distract students, and not every household has reliable internet or a suitable computer. If lessons depend on paid apps or constant connectivity, students may have unequal opportunities to participate. Screen-based activities may also be less suitable for some practical tasks, social learning, or students who benefit from direct teacher guidance. In addition, collecting student data creates responsibilities around privacy and security.
 
 ## Your opinion (only if requested)
 
-Cities should protect accessible green space as part of basic urban infrastructure, while ensuring that maintenance plans and housing needs are addressed together.
+I believe technology should be used when it clearly supports a learning objective. Teachers should choose accessible tools, provide alternatives where possible, and retain activities that depend on discussion, practical work, or personal feedback.
 
 ## Conclusion
 
-Both sides identify real considerations. A reasonable approach should protect the benefits while addressing the practical risks and the needs of people affected.
-
-## Final IELTS checklist
-
-Check that both viewpoints receive adequate development and that your own opinion is included only when requested.
+Digital tools can enrich education, but their value depends on how they are used. A balanced approach treats technology as a means of supporting teaching rather than a replacement for thoughtful instruction.

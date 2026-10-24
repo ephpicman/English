@@ -1,33 +1,31 @@
-# Online learning: discussion essay
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+# Public transport or private cars: discussion essay
+
+*Illustrative IELTS-style response; tailor it to the exact wording of the prompt.*
+
 ## Before writing
-Present both views fairly before giving a personal position only if the prompt asks for one.
+
+Discuss the convenience of private cars and the collective advantages of public transport without exaggerating either side.
+
 ## Essay structure
 
-Each viewpoint is developed with reasoning, followed by a balanced conclusion.
+The response explains why individuals value cars and why cities invest in shared transport.
 
 ## Introduction and issue framing
 
-There are differing views about online learning. The debate reflects different priorities, and both positions have arguments that deserve consideration.
+People disagree about whether urban travel should rely more on private cars or public transport. The choice involves convenience for individual journeys as well as the wider effects of traffic, cost, and access.
 
 ## Viewpoint 1 and reasoning
 
-Supporters say online learning increases flexibility and can widen access for people who cannot attend a campus regularly.
+Supporters of private cars point to flexibility. A car can be useful for families carrying children or equipment, workers travelling outside public transport hours, and people living in areas with limited services. It also allows direct journeys without transfers and can be essential for some people with mobility needs. These advantages are significant, especially where public transport is infrequent or does not reach the required destination.
 
 ## Viewpoint 2 and reasoning
 
-Course design changes the balance between these views. A well-run online course can include live discussion, peer feedback, and supervised practice, while a poorly organised classroom course can still leave students passive. However, online learners need reliable access and may require additional support to stay engaged. The format should be chosen around the learning outcome rather than novelty.
-
-Critics argue that online learners may feel isolated, struggle with motivation, or miss practical activities that are easier to supervise in person.
+Supporters of public transport argue that buses and trains can move many people using less road space per passenger. Reliable services can reduce the need for parking and make access to employment and education less dependent on car ownership. Public transport can also be more affordable for regular journeys, although the benefit disappears if routes are unreliable or fares are too high. For the system to work, services must connect neighbourhoods and operate at times when people actually travel.
 
 ## Your opinion (only if requested)
 
-I see online learning as a valuable option, but not a universal replacement for classroom teaching. Institutions should choose formats according to the subject and learners’ needs.
+I believe cities should improve public transport while preserving access for journeys it cannot reasonably serve. The aim should be to offer a practical alternative, not to assume every resident can stop using a car immediately.
 
 ## Conclusion
 
-Both sides identify real considerations. A reasonable approach should protect the benefits while addressing the practical risks and the needs of people affected.
-
-## Final IELTS checklist
-
-Check that both viewpoints receive adequate development and that your own opinion is included only when requested.
+Private cars provide flexibility, while public transport can improve efficiency and access across a city. Effective planning recognises both needs and invests in reliable shared services without ignoring people whose journeys require other options.

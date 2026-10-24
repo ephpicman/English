@@ -1,33 +1,31 @@
 # Remote work: discussion essay
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+
+*Illustrative IELTS-style response; adapt it to the exact prompt and state an opinion only if requested.*
+
 ## Before writing
-Present both views fairly before giving a personal position only if the prompt asks for one.
+
+Present the advantages and disadvantages fairly before reaching a conclusion.
+
 ## Essay structure
 
-Each viewpoint is developed with reasoning, followed by a balanced conclusion.
+The essay examines flexibility and access on one side, and collaboration and boundaries on the other.
 
 ## Introduction and issue framing
 
-There are differing views about remote work. The debate reflects different priorities, and both positions have arguments that deserve consideration.
+Remote work has become more common in many occupations, leading to debate about whether it is a better arrangement than working in an office. Supporters emphasise flexibility and reduced commuting, while critics worry about teamwork and isolation.
 
 ## Viewpoint 1 and reasoning
 
-Supporters argue that remote work expands flexibility, reduces commuting, and allows focused work. For some employees, it can make employment more accessible.
+Those who favour remote work argue that employees can organise their time more effectively and avoid daily travel. This can be particularly helpful for people with caring responsibilities or those who live far from employment centres. Remote work may also allow organisations to recruit people with specialised skills regardless of where they live. Shared documents and written updates can make decisions easier to track, provided that the team uses them consistently and does not create unnecessary meetings.
 
 ## Viewpoint 2 and reasoning
 
-An important distinction is between flexibility for the individual and coordination across a team. A policy that works well for experienced employees may leave new staff without the informal guidance they need. Organisations can respond by documenting decisions and creating planned mentoring time, but they should also recognise that some work benefits from direct collaboration.
-
-Opponents point to weaker informal learning, social isolation, and unequal home environments. They also note that collaborative work may require more coordination when colleagues are not together.
+Opponents point out that some kinds of collaboration depend on informal conversation and immediate feedback. New employees may find it harder to learn workplace routines when they cannot ask a nearby colleague a quick question. Working at home can also blur the boundary between work and personal life, especially when managers expect rapid replies outside normal hours. These concerns are stronger for people who lack a quiet workspace or reliable internet.
 
 ## Your opinion (only if requested)
 
-I believe hybrid or remote arrangements should be chosen according to the work and reviewed against clear outcomes, rather than treated as a universal benefit or problem.
+In my view, neither arrangement is best for every worker. A flexible policy based on the tasks involved, employee needs, and clear communication expectations is more sensible than requiring everyone to work remotely or in an office.
 
 ## Conclusion
 
-Both sides identify real considerations. A reasonable approach should protect the benefits while addressing the practical risks and the needs of people affected.
-
-## Final IELTS checklist
-
-Check that both viewpoints receive adequate development and that your own opinion is included only when requested.
+Remote work offers real benefits, but its success depends on deliberate support for collaboration and boundaries. A balanced policy can preserve flexibility while addressing the disadvantages that make remote work difficult for some people.
