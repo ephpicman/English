@@ -1,17 +1,41 @@
-# A university mentoring programme
+# Briefing: proposed office-hours change
 
-**To:** Project Team  
-**From:** Operations  
-**Date:** 24 October 2026  
-**Subject:** A university mentoring programme
+*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
 
-## Purpose
-This document summarises the current position and the action required from the team.
+## Plan first
 
-## Key points
-Work relating to a university mentoring programme remains on track overall, but ownership and timing must be confirmed for outstanding tasks. Use the shared tracker as the single source of truth and flag risks as soon as they become visible.
+Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
 
-## Required action
-Each owner should update their status and next milestone by Thursday at 15:00. The project lead will review exceptions at the weekly check-in.
+## Document metadata
 
----
+Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+
+## Purpose and key message
+
+The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+
+## Background and current position
+
+The current process has raised questions about clarity, consistency, and ownership. Before deciding, confirm the baseline, identify the groups affected, and separate documented facts from assumptions. Keep the scope limited to the issue described in briefing: proposed office-hours change.
+
+## Options or analysis
+
+A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+
+## Recommendation and rationale
+
+A proportionate option is to test the proposed change on a limited scale, name a responsible owner, and collect feedback from representative users. Consider workload, accessibility, privacy, and dependencies. Compare alternatives against agreed criteria and record any risks with a mitigation and review date.
+
+## Actions, owners, and deadlines
+
+| Action or decision | Owner | Due date | Status |
+|---|---|---|---|
+| Confirm the agreed requirement | [Name] | [Date] | Open |
+| Share the updated document | [Name] | [Date] | Open |
+| Review progress at next check-in | [Name] | [Date] | Open |
+
+Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
+
+## IELTS-oriented language practice
+
+Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.

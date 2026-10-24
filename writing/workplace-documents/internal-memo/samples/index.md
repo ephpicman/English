@@ -1,9 +1,7 @@
 # Internal Memo: Five Examples
 
-Each example is available as a separate Markdown file:
-
-- [sample-1](sample-1.md) — A university mentoring programme
-- [sample-2](sample-2.md) — A missed project deadline
-- [sample-3](sample-3.md) — A new colleague
-- [sample-4](sample-4.md) — A university course
-- [sample-5](sample-5.md) — A workplace policy
+- [sample-1.md](sample-1.md) — Memo: decision on meeting frequency
+- [sample-2.md](sample-2.md) — Memo: revised handover process
+- [sample-3.md](sample-3.md) — Memo: pilot for flexible scheduling
+- [sample-4.md](sample-4.md) — Memo: document retention reminder
+- [sample-5.md](sample-5.md) — Memo: customer escalation workflow

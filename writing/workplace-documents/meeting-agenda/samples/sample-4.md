@@ -1,13 +1,35 @@
-# A university course
+# Agenda: risk and dependency review
 
-**Date:** 29 October 2026 | **Time:** 10:00–10:45 | **Chair:** Riley Chen
+*Illustrative workplace document. Confirm names, dates, decisions, owners, and policies before circulation.*
 
-1. **Purpose and desired outcomes** — 5 min
-2. **Review of current status and metrics** — 10 min
-3. **Open risks and dependencies** — 10 min
-4. **Decisions required** — 10 min
-5. **Actions, owners and deadlines** — 10 min
+## Meeting metadata
 
-**Preparation:** Read the status summary and add agenda items by 16:00 on the previous day.
+**Date/time:** [confirm] · **Chair:** [name] · **Participants:** [names] · **Purpose:** Agenda: risk and dependency review. Confirm all metadata against the invitation or meeting record.
 
----
+## Objective and desired outcomes
+
+The meeting aims to clarify the current position, resolve the key open question, and agree the next actions. By the end, participants should know which decisions were made, who owns each follow-up, and when progress will be reviewed.
+
+## Agenda table
+
+| Item | Owner | Time | Desired outcome |
+|---|---|---:|---|
+| Review current status | [Name] | 10 min | Shared understanding |
+| Discuss key issue | [Name] | 10 min | Options identified |
+| Agree actions and owners | [Name] | 10 min | Decisions recorded |
+
+Adjust timing and owners to match the actual meeting.
+
+## Pre-reading / preparation
+
+Keep this section concise and decision-focused. State the verified facts, explain the practical implication for the intended audience, and identify the action or decision required. Mark unknown details for confirmation rather than inventing them.
+
+## Decisions required
+
+| Action or decision | Owner | Due date | Status |
+|---|---|---|---|
+| Confirm the agreed requirement | [Name] | [Date] | Open |
+| Share the updated document | [Name] | [Date] | Open |
+| Review progress at next check-in | [Name] | [Date] | Open |
+
+Replace placeholders with confirmed commitments; do not infer agreement from discussion alone.
