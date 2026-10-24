@@ -34,6 +34,10 @@ Distinguish permanent validation failures, rate limiting, transient network erro
 
 Repeated delivery of the same event does not create duplicate sends under the supported idempotency model; retries stop at the configured limit; failures are observable; and secrets do not appear in logs.
 
+Notification events should be stored before a worker attempts delivery so that a temporary process restart does not lose the request. Each event needs a stable identifier and a clear state transition from queued to sending and then to delivered or failed. A timeout can leave the outcome uncertain, so the design should not treat every network error as proof that the provider did not receive the message. Use provider-supported idempotency where available and define a review path for cases that cannot be resolved automatically.
+
+Templates should be versioned and reviewed separately from the delivery mechanism. Required variables must be validated before a message is sent, and the system should record which template version was used without storing unnecessary message content. The delivery pipeline should respect rate limits, retry only appropriate failure categories, and stop after the configured limit. Monitoring should include backlog age, delivery failure categories, and repeated retries. The operations guide should explain how to pause delivery, inspect a failed event, and resume safely after the cause is understood.
+
 ## Open questions and exclusions
 
 Confirm retention of delivery records, provider idempotency support, recipient preferences, and unsubscribe requirements. SMS and push notifications are out of scope.

@@ -34,6 +34,10 @@ Reject oversized or unsupported files, handle interrupted uploads, and clean up 
 
 Unauthorised users cannot retrieve a file by guessing its ID; unsupported files are rejected; interrupted uploads do not appear as complete; and deletion removes access according to the retention policy.
 
+Upload handling should be split into explicit states so that a partially transferred file is never presented as complete. The service should validate size and declared type early, then apply server-side checks before the file becomes available for download. The client-supplied filename must not determine the storage path; generate an internal object key and retain the original filename only as display metadata if policy permits. For interrupted transfers, define whether the client can resume or must restart, and ensure incomplete objects are cleaned up. Metadata and object storage can fail independently, so the implementation needs a reconciliation task for orphaned files and records that point to missing objects.
+
+The acceptance test suite should include an unauthorised upload, an oversized file, an unsupported format, a duplicate submission, an interrupted transfer, and a download attempt by a different user. Verify deletion behaviour and confirm that temporary download links expire as expected. Operational monitoring should cover upload failures, storage growth, incomplete records, and repeated permission denials. The specification should name the team responsible for retention and explain how a user requests deletion or reports an incorrect file.
+
 ## Open questions and exclusions
 
 Confirm retention period, scanning requirements, data residency, and whether external users can upload. Public sharing and file conversion are excluded.

@@ -34,6 +34,10 @@ Reject missing, expired, or invalid credentials; deny access when role lookup fa
 
 Tests demonstrate that each role can perform only permitted actions, revoked access stops working within the approved window, and direct API calls cannot bypass interface restrictions.
 
+Role changes should take effect according to a documented revocation window. If roles are cached, the system must define how cache invalidation works and what happens when the identity provider cannot be reached. Sensitive operations should fail closed when the required permission cannot be established. The specification should also distinguish authentication, which establishes who the caller is, from authorisation, which decides what the caller may do. Hiding a button in the interface is not a substitute for enforcing the same permission on the API.
+
+Test the role matrix with both permitted and denied operations, including direct API calls and access after a role has been removed. Administrative actions should record the actor, target account, time, and change made, while avoiding token contents or unnecessary personal details. Define who approves new roles and how often access is reviewed. For emergency access, document the approval path and ensure the event is auditable. These requirements help prevent permissions from becoming broader over time simply because temporary access was never removed.
+
 ## Open questions and exclusions
 
 Confirm emergency access procedure, periodic access review, role ownership, and audit retention. External identity federation is out of scope unless separately approved.
