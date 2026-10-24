@@ -1,27 +1,27 @@
-# Application for customer support specialist
+# Application for Junior Data Analyst at Cedar Analytics
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative cover letter. Replace the role and organisation with a real opportunity and retain only claims that accurately describe the applicant.*
 
 ## Opening and target role
 
-Application for customer support specialist raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified.
+I am applying for the Junior Data Analyst at Cedar Analytics position. My experience in coordination, communication, and careful follow-through has prepared me to support a team that values reliable work and clear records.
 
 ## Employer-specific motivation
 
-This section makes application for customer support specialist clear and useful to its intended reader. Identify the relevant facts, explain why they matter, and connect them to the requested outcome instead of repeating the same point. A strong example names the action, explains the reasoning, and states what would count as success. Confirm organisation-specific details before publication rather than filling gaps with invented information.
+I am interested in Cedar Analytics because the role connects data preparation with decisions that non-technical colleagues need to make. I value analysis that is reproducible, clearly explained, and honest about the limits of the available data.
 
 ## Relevant qualification
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan.
+I have practised cleaning tabular data, checking missing values, writing SQL queries, and presenting findings in concise charts. I document assumptions and distinguish observed patterns from explanations that would require further investigation.
 
 ## Achievement evidence
 
-A relevant illustrative example is a bounded task in which the writer clarified the goal, organised the work, and checked the result with the people affected. The value lies in the actions and learning, not in an unsupported claim of exceptional performance. For real use, replace this scenario with a verifiable example, your specific contribution, the constraints you faced, and an outcome you can substantiate. Do not invent metrics or credentials.
+For a course project, I combined two inconsistent spreadsheets and found that date formats and duplicate customer IDs were distorting the summary. I standardised the dates, checked duplicates against the source records, and recorded each cleaning rule. I then produced a short report showing the main pattern and the limitations caused by incomplete entries.
 
 ## Fit and contribution
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable.
+I could contribute methodical data preparation, clear documentation, and an eagerness to learn the team’s tools and review standards.
 
 ## Closing and next step
 
-Overall, application for customer support specialist is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose.
+I would appreciate the chance to discuss the role and the skills most important to your current projects.

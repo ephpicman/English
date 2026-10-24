@@ -1,23 +1,23 @@
-# Explain how you prioritise competing tasks
+# Application response: How do you handle competing deadlines?
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative application response. Adapt the example to the applicant’s real experience and the employer’s exact word limit.*
 
 ## Direct answer to prompt
 
-This section makes explain how you prioritise competing tasks clear and useful to its intended reader. Identify the relevant facts, explain why they matter, and connect them to the requested outcome instead of repeating the same point. A strong example names the action, explains the reasoning, and states what would count as success. Confirm organisation-specific details before publication rather than filling gaps with invented information.
+When several tasks are due close together, I first separate fixed deadlines from flexible work and identify dependencies that could delay other people.
 
 ## Relevant context
 
-For this example, the scope is limited to explain how you prioritise competing tasks in a small team or learning environment. Define terms consistently and state assumptions about resources, timing, and audience before drawing conclusions. A narrow scope makes comparisons more meaningful and prevents one case from being presented as proof of a universal rule. Broader claims require additional evidence.
+The situation required me to balance practical constraints with the needs of colleagues who depended on accurate information. I clarified what success would look like before choosing an approach.
 
 ## Evidence of capability
 
-A relevant illustrative example is a bounded task in which the writer clarified the goal, organised the work, and checked the result with the people affected. The value lies in the actions and learning, not in an unsupported claim of exceptional performance. For real use, replace this scenario with a verifiable example, your specific contribution, the constraints you faced, and an outcome you can substantiate. Do not invent metrics or credentials.
+During a busy course period, I had a group presentation, a research summary, and routine volunteer duties in the same week. I listed the deliverables, estimated the time required, and broke the presentation into milestones. I told the group early which section I would deliver and asked for clarification on an ambiguous requirement before spending time on the wrong work.
 
 ## Outcome and relevance
 
-This section makes explain how you prioritise competing tasks clear and useful to its intended reader. Identify the relevant facts, explain why they matter, and connect them to the requested outcome instead of repeating the same point. A strong example names the action, explains the reasoning, and states what would count as success. Confirm organisation-specific details before publication rather than filling gaps with invented information.
+This approach helped me complete the agreed tasks without leaving the group uncertain about progress. It demonstrates that prioritisation includes communication and early risk identification, not simply working faster.
 
 ## Closing if useful
 
-Overall, explain how you prioritise competing tasks is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose.
+I would use a visible task list and raise any genuine capacity risk as early as possible.
