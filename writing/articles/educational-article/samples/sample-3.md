@@ -1,6 +1,6 @@
 # Teaching digital literacy responsibly
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative educational article; adapt examples to learners’ ages, curriculum, and local policies.*
 
 ## Title
 
@@ -8,28 +8,28 @@
 
 ## Opening and reader relevance
 
-Teaching digital literacy responsibly raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Students use digital tools to research, communicate, create, and learn, but access to a device does not automatically mean they can judge online information well. A convincing webpage may contain outdated claims, a polished video may omit context, and an AI-generated answer may sound certain while being wrong. Digital literacy should therefore involve judgment as well as technical skill.
 
 ## Core explanation
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Responsible digital literacy helps learners ask who created a resource, what evidence supports it, when it was published, and what purpose it serves. It also includes privacy, copyright, respectful communication, and the limits of automated tools. These skills are best taught through real tasks rather than a single lecture about online safety.
 
 ## Main point 1: explanation and evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Source evaluation can be practised by comparing two accounts of the same event. Students can trace a quotation to its original source, check the publication date, and look for independent confirmation. Teachers should model how to revise a conclusion when evidence changes. This makes evaluation a repeatable process rather than a vague instruction to “use reliable websites.”
 
 ## Main point 2: explanation and evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Privacy and authorship deserve equal attention. Before sharing a class project, learners should consider whether it includes identifying information or images of people who have not agreed to publication. When using material created by others, they should credit the source and check the applicable licence. If an AI tool contributes ideas or wording, students should follow course rules and verify its claims instead of assuming generated text is trustworthy.
 
 ## Practical application
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A useful lesson might ask groups to assess three sources on one topic using a checklist: author, date, evidence, purpose, and corroboration. Students can explain which source they would rely on and what remains uncertain. A follow-up task can ask them to improve privacy settings or rewrite a paragraph with proper attribution.
 
 ## Limitations and nuance
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Online platforms change quickly, and no checklist can guarantee that a source is accurate. Learners may also have unequal access to devices, stable internet, or quiet study space. Teaching should avoid blaming students for these differences and provide offline alternatives where needed. Teachers must keep examples current and explain that critical judgment involves uncertainty.
 
 ## Conclusion and takeaway
 
-Overall, teaching digital literacy responsibly is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Digital literacy is not just knowing which buttons to press. It is the habit of checking claims, protecting people’s information, crediting others, and acknowledging uncertainty. When students practise these habits on meaningful tasks, they are better prepared to use digital resources thoughtfully in and beyond the classroom.

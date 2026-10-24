@@ -1,6 +1,6 @@
 # Building confidence through peer mentoring
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative educational article; verify programme details and outcomes before publication.*
 
 ## Title
 
@@ -8,28 +8,28 @@
 
 ## Opening and reader relevance
 
-Building confidence through peer mentoring raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A new student may hesitate to ask a lecturer a basic question or admit that university routines feel confusing. A peer mentor can offer a less formal first point of contact: someone who has recently navigated similar tasks and can explain practical steps without pretending to have every answer. The value lies in guided support, not in replacing professional advice.
 
 ## Core explanation
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A peer-mentoring programme pairs trained students with newcomers for regular, purposeful conversations. Mentors might discuss planning a study week, finding library resources, preparing for seminars, or locating the correct support service. Clear boundaries matter: mentors share experience and signpost resources, while academic, financial, medical, or safeguarding concerns are referred to qualified staff.
 
 ## Main point 1: explanation and evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Good matching and realistic expectations help relationships develop. A programme should explain how often pairs meet, how long the arrangement lasts, and what information should remain private. Mentors need training in listening, inclusive communication, and referral procedures. Without these foundations, well-intentioned mentors may give inaccurate advice or feel responsible for problems beyond their role.
 
 ## Main point 2: explanation and evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The programme should measure more than attendance. Short feedback questions can explore whether mentees know where to find help, feel more comfortable asking questions, or understand university routines better. Such feedback does not prove that mentoring caused every change, but it can identify useful elements and areas needing adjustment. Mentors should also be able to report workload concerns and request supervision.
 
 ## Practical application
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A small pilot could begin with a clearly defined group of first-year students and volunteer mentors who receive basic training. Provide a short meeting guide with prompts about current challenges, next steps, and referrals. Review the pilot after a term using participant feedback and practical records, then revise the matching process and training before expanding.
 
 ## Limitations and nuance
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Peer mentoring cannot remove structural problems such as inaccessible services, financial pressure, or insufficient teaching support. Participation may also be uneven, and some students prefer independent routes to help. The programme should be voluntary, accessible, and connected to wider institutional services rather than presented as a universal solution.
 
 ## Conclusion and takeaway
 
-Overall, building confidence through peer mentoring is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Peer mentoring can make unfamiliar routines easier to navigate when it is well supported and has clear boundaries. Training, realistic expectations, and feedback protect both mentors and mentees. The strongest programme helps students build confidence while making it straightforward to reach specialist support when needed.

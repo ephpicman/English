@@ -1,6 +1,6 @@
 # Making feedback useful to learners
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative educational article; adapt the approach to subject, age group, and assessment policy.*
 
 ## Title
 
@@ -8,28 +8,28 @@
 
 ## Opening and reader relevance
 
-Making feedback useful to learners raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A page covered in corrections can leave a student unsure what to do next. Feedback becomes useful when it explains the gap between current work and the learning goal, then gives the learner a manageable next step. The purpose is not merely to identify errors; it is to help the student improve the next attempt.
 
 ## Core explanation
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Effective feedback is specific, connected to clear criteria, and delivered while the learner still has an opportunity to act on it. “Be clearer” offers little guidance. “State your claim in the first sentence, then use one piece of evidence to support it” identifies an observable change. Students also need time to interpret comments and apply them, rather than receiving feedback only after the task is finished.
 
 ## Main point 1: explanation and evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Comments should focus on a small number of high-value priorities. If a draft has a weak argument and several minor punctuation errors, addressing the argument first may produce greater improvement. A rubric can explain expectations, but comments should point to a specific passage and describe why it does or does not meet the criterion. This makes the judgment easier to understand and use.
 
 ## Main point 2: explanation and evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Learner response is part of the process. A teacher might ask students to choose one comment, revise the relevant section, and briefly explain what they changed. This reveals whether feedback was understood and gives students practice evaluating their own work. It also helps teachers notice when comments are ambiguous or when a learner needs a short conversation rather than more written notes.
 
 ## Practical application
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Before returning an assignment, identify the learning objective and select two or three changes that would most improve the work. Phrase each comment as an observation plus a next step. In the following lesson, reserve time for revision and invite questions. Review a later piece of work to see whether the targeted skill has improved.
 
 ## Limitations and nuance
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Feedback takes time, and a single approach will not suit every learner or task. Excessive comments can overwhelm students, while vague praise may encourage without showing how to progress. Teachers should consider accessibility, language needs, and the emotional context of assessment, while keeping expectations fair and consistent.
 
 ## Conclusion and takeaway
 
-Overall, making feedback useful to learners is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Feedback is most valuable when it leads to action. Clear criteria, focused comments, and planned revision help learners understand what to keep and what to change. A simple test is whether a student could use the feedback to make a specific improvement without guessing what the teacher meant.

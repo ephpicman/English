@@ -1,6 +1,6 @@
 # How spaced practice improves learning
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative educational article; adapt the advice to the course and learner.*
 
 ## Title
 
@@ -8,28 +8,28 @@
 
 ## Opening and reader relevance
 
-How spaced practice improves learning raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Rereading a chapter can make its ideas feel familiar, but familiarity is not the same as being able to recall them later. Students often discover the difference during an exam or when they must apply a concept without their notes. Spaced practice offers a practical alternative: revisit material over several short sessions instead of concentrating all revision into one long evening.
 
 ## Core explanation
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+In spaced practice, a learner returns to the same idea after a gap. The gap creates an opportunity to retrieve information rather than simply recognise it on the page. After a biology lesson, for example, a student might answer a few questions that evening, try them again two days later, and review difficult items the following week. The schedule can change when a topic remains challenging.
 
 ## Main point 1: explanation and evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The key activity is retrieval. Before looking at the answer, the student tries to explain the concept, solve the problem, or write down the main steps from memory. Checking the answer afterwards matters because it corrects misunderstandings before they become habits. Short quizzes, flashcards, and blank-page summaries can all help when they test understanding rather than isolated trivia.
 
 ## Main point 2: explanation and evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Spacing also makes revision easier to plan. A student with three subjects can distribute brief review sessions across the week instead of leaving every topic until the night before a test. Difficult material can appear more often, while familiar material can be reviewed less frequently. Spacing does not replace practice problems or feedback; it helps learners decide when to return to what they have studied.
 
 ## Practical application
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+After each lesson, write three questions about its central ideas. Try answering them the next day without notes, check the answers, and mark uncertain responses. Revisit those questions several days later. Keep sessions short enough to fit a realistic timetable, and use errors to decide what needs more attention.
 
 ## Limitations and nuance
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Spacing is not a magic formula. A demanding schedule may be abandoned, and memorising definitions alone will not prepare someone to apply a skill in a new situation. Learners should combine recall with explanation, worked examples, and feedback. The best interval depends on the material, current knowledge, and when the knowledge will be needed.
 
 ## Conclusion and takeaway
 
-Overall, how spaced practice improves learning is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Effective revision is not simply a matter of spending more hours with a book open. Returning to ideas over time, trying to retrieve them, and correcting mistakes can make study more purposeful. Start with one topic this week, schedule two brief reviews, and adjust the plan according to what you can recall and use.
