@@ -1,39 +1,43 @@
-# Evaluation of a training workshop
+# Evaluation of a new onboarding guide
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative evaluation report. Replace example evidence with verified records before making operational decisions.*
 
 ## Title and document control
 
-**Evaluation of a training workshop**
+Evaluator: People operations | Period: Six-week trial | Status: Illustrative evaluation
 
 ## Executive summary
 
-**Purpose:** Evaluation of a training workshop. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+This evaluation reviews a revised onboarding guide against findability, task completion, accuracy, and maintenance effort. Initial walkthrough feedback indicates that task-based headings and earlier prerequisite information can help new readers navigate the guide. However, a small usability test does not establish that every new employee will use it successfully. The next step is to maintain a named content owner and evaluate the guide across several onboarding cycles.
 
 ## Purpose, questions, and criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+The evaluation asks whether new employees can find the relevant instruction, complete selected routine tasks, and identify where to ask for help. Criteria include clarity, accuracy, accessibility, and the effort required to keep the content current.
 
 ## Method and evidence base
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+The illustrative method combines walkthroughs with a small group of readers unfamiliar with the guide, a review of correction requests, and a checklist against approved procedures. A real report should state participant numbers, task selection, and how completion was defined.
 
 ## Results against criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+Readers located account setup and first-week information more easily when the page titles matched their tasks. They still paused where the guide assumed an approval had already been granted. One link led to an older policy page and required correction.
 
 ## Interpretation and limitations
 
-Resource requirements, dependencies, and risks must be confirmed with the responsible team. Consider staff time, maintenance, accessibility, privacy, and the cost of interruption. Record each material risk with a likelihood, impact, mitigation, and owner rather than presenting estimates as approved figures.
+The results support improving task labels and prerequisites, but they also show that content quality depends on linked pages and access permissions. Faster completion in a short test should not be reported as a general productivity gain without broader evidence.
 
 ## Overall judgment
 
-This section should support a clear decision about evaluation of a training workshop. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The revised structure is a useful improvement, but ongoing ownership and link checks are necessary for reliability.
 
 ## Recommendations and follow-up
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Assign an owner to each high-use guide, add a quarterly link review, and test the guide with new readers after the next onboarding cycle. Track the type of help requested, not only completion time.
+
+## Final quality check
+
+Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
 
 ## IELTS-oriented language practice
 
-This section should support a clear decision about evaluation of a training workshop. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.

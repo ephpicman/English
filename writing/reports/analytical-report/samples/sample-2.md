@@ -1,39 +1,43 @@
-# Analysis of library service usage
+# Options for improving onboarding documentation
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative analytical report. Replace example evidence with verified records before making operational decisions.*
 
 ## Title and document control
 
-**Analysis of library service usage**
+Owner: Enablement team | Status: Illustrative analysis | Review date: 15 October
 
 ## Executive summary
 
-**Purpose:** Analysis of library service usage. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+This report compares ways to make onboarding instructions easier for new colleagues to use. The main issue is not necessarily a lack of documentation, but whether the right instructions can be found and followed at the moment of need. A task-based guide, clearer ownership, and a simple feedback route are recommended for a limited pilot. The proposal should be evaluated through task completion, common questions, and reader feedback rather than page views alone.
 
 ## Purpose, scope, and method
 
-The current process presents a clearly defined opportunity to improve consistency and user experience. The brief should describe the observed problem, who is affected, what evidence supports the diagnosis, and what falls outside scope. Separate confirmed facts from assumptions; do not imply that illustrative details are measured results.
+The report considers internal onboarding for routine account setup and first-week tasks. It excludes role-specific training and access decisions that require manager approval. The illustrative method combines a review of existing pages with a walkthrough by a colleague unfamiliar with the process.
 
 ## Findings
 
-Present the evidence by source and date, then explain what it does and does not establish. Compare the available information against the agreed criteria and note gaps, possible bias, and alternative explanations. Do not invent counts or percentages; use verified records or label the section as a plan for collecting evidence.
+The review finds duplicated instructions across several pages, prerequisites mentioned after the steps that depend on them, and no clear owner for reporting an outdated instruction. New readers can complete some steps, but need help when the screen differs from the example.
 
 ## Analysis and implications
 
-Present the evidence by source and date, then explain what it does and does not establish. Compare the available information against the agreed criteria and note gaps, possible bias, and alternative explanations. Do not invent counts or percentages; use verified records or label the section as a plan for collecting evidence.
+Duplication creates a risk that one page is updated while another remains stale. Moving prerequisites to the beginning and identifying the source of truth should reduce ambiguity. However, not every task should be collapsed into one guide; troubleshooting and policy exceptions may require separate pages with clear links.
 
 ## Options and criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+Option A: rewrite all documentation at once; comprehensive but resource-intensive and difficult to validate. Option B: improve the five most-used task guides and add ownership metadata; manageable and testable. Option C: purchase a new documentation platform; may improve navigation but will not automatically fix content quality.
 
 ## Conclusion
 
-The recommended next step is to approve the scoped planning work, confirm ownership, and agree how results will be reviewed. Proceed only when the required resources, risks, and success criteria are explicit. Revisit the recommendation if evidence changes.
+A focused content improvement is preferable to a platform change before the underlying reader problems are understood.
 
 ## Recommendations and next steps
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Select five high-use guides, assign a content owner, move prerequisites before procedures, and run usability walkthroughs with two or three new readers. Review questions and correction requests after the pilot before expanding.
+
+## Final quality check
+
+Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
 
 ## IELTS-oriented language practice
 
-This section should support a clear decision about analysis of library service usage. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.

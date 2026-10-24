@@ -1,39 +1,43 @@
-# Analysis of public transport feedback
+# Reducing avoidable repeat contacts in customer support
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative analytical report. Replace example evidence with verified records before making operational decisions.*
 
 ## Title and document control
 
-**Analysis of public transport feedback**
+Owner: Support operations | Status: Illustrative analysis | Review period: Four-week sample
 
 ## Executive summary
 
-**Purpose:** Analysis of public transport feedback. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+This report examines why customers may contact support more than once about the same issue. It focuses on clarity of initial responses, status visibility, and how unresolved cases are handed between agents. A useful improvement is likely to combine clearer next-step communication with better case notes, rather than simply asking agents to close cases faster. Actual case data is required to quantify the size of the problem and determine whether the proposed changes help.
 
 ## Purpose, scope, and method
 
-The current process presents a clearly defined opportunity to improve consistency and user experience. The brief should describe the observed problem, who is affected, what evidence supports the diagnosis, and what falls outside scope. Separate confirmed facts from assumptions; do not imply that illustrative details are measured results.
+The hypothetical review covers a sample of support cases that received a second contact within seven days. It excludes cases where customers raise a genuinely new issue. In a real analysis, the team would need a consistent rule for identifying repeat contacts and would protect customer data during review.
 
 ## Findings
 
-Present the evidence by source and date, then explain what it does and does not establish. Compare the available information against the agreed criteria and note gaps, possible bias, and alternative explanations. Do not invent counts or percentages; use verified records or label the section as a plan for collecting evidence.
+The illustrative sample shows three possible contributors: customers do not know when to expect an update; the first response explains a workaround but not the next step; and handover notes omit what has already been tested.
 
 ## Analysis and implications
 
-Present the evidence by source and date, then explain what it does and does not establish. Compare the available information against the agreed criteria and note gaps, possible bias, and alternative explanations. Do not invent counts or percentages; use verified records or label the section as a plan for collecting evidence.
+Repeat contact is not always a failure; customers may need to add information or report a changed symptom. Measures should distinguish avoidable clarification from legitimate follow-up. Clear next-update commitments and structured case notes may help, but should not encourage staff to make promises they cannot keep.
 
 ## Options and criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+Option A: add a standard next-step field to replies; low effort but needs appropriate wording. Option B: improve handover fields for issue, tests, and pending action; supports continuity but requires agent discipline. Option C: automate status notifications; useful for predictable milestones but risks sending irrelevant messages if case states are inaccurate.
 
 ## Conclusion
 
-The recommended next step is to approve the scoped planning work, confirm ownership, and agree how results will be reviewed. Proceed only when the required resources, risks, and success criteria are explicit. Revisit the recommendation if evidence changes.
+Improve response clarity and handover quality first, then consider automation after case states are reliable.
 
 ## Recommendations and next steps
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Test a short reply checklist and a structured handover note for one case category. Review repeat-contact reasons and customer feedback after a defined period, using anonymised records.
+
+## Final quality check
+
+Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
 
 ## IELTS-oriented language practice
 
-This section should support a clear decision about analysis of public transport feedback. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.

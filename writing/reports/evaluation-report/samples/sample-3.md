@@ -1,39 +1,43 @@
-# Evaluation of a new booking process
+# Evaluation of a community information campaign
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative evaluation report. Replace example evidence with verified records before making operational decisions.*
 
 ## Title and document control
 
-**Evaluation of a new booking process**
+Evaluator: Outreach team | Period: Six-week campaign | Status: Illustrative evaluation
 
 ## Executive summary
 
-**Purpose:** Evaluation of a new booking process. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+This evaluation considers whether a community information campaign made event details easier to find and understand. The example indicates that a consistent event page and clearer access information may reduce repeated questions, but reach metrics alone cannot show whether residents were able to participate. Further evaluation should examine registrations, attendance, reasons for non-attendance, and feedback from people who face access barriers.
 
 ## Purpose, questions, and criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+The evaluation asks whether the campaign communicated essential event details, reached the intended audience, and supported informed registration. Criteria include accuracy, accessibility, clarity, and evidence of useful engagement.
 
 ## Method and evidence base
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+The illustrative evidence consists of a content audit, anonymised enquiry themes, and participant feedback after events. In a real report, channel analytics and survey response rates should be included, along with any limitations in comparing different event types.
 
 ## Results against criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+The updated notices consistently included date, duration, location, cost, access information, and a contact route. Staff received fewer questions about what participants should bring, but some residents still asked about transport and language support.
 
 ## Interpretation and limitations
 
-Resource requirements, dependencies, and risks must be confirmed with the responsible team. Consider staff time, maintenance, accessibility, privacy, and the cost of interruption. Record each material risk with a likelihood, impact, mitigation, and owner rather than presenting estimates as approved figures.
+The change appears to have improved completeness of information, though the sample cannot establish that it increased attendance. Remaining questions suggest that event details and wider participation barriers should be treated separately.
 
 ## Overall judgment
 
-This section should support a clear decision about evaluation of a new booking process. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The content checklist is worth retaining, while the campaign’s effect on participation remains uncertain.
 
 ## Recommendations and follow-up
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Continue the checklist and collect optional feedback on access barriers. Compare similar events where possible and avoid treating clicks or impressions as evidence of meaningful participation.
+
+## Final quality check
+
+Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
 
 ## IELTS-oriented language practice
 
-This section should support a clear decision about evaluation of a new booking process. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.

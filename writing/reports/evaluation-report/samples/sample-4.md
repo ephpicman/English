@@ -1,39 +1,43 @@
-# Evaluation of a customer support change
+# Evaluation of a new meeting-minutes format
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative evaluation report. Replace example evidence with verified records before making operational decisions.*
 
 ## Title and document control
 
-**Evaluation of a customer support change**
+Evaluator: Project office | Period: Two monthly cycles | Status: Illustrative evaluation
 
 ## Executive summary
 
-**Purpose:** Evaluation of a customer support change. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+This evaluation assesses a revised meeting-minutes format designed to make decisions, owners, and next actions easier to locate. Reader walkthroughs suggest that separating decisions from discussion improves scanability. The format still depends on accurate note-taking and a routine for reviewing open actions. The recommendation is to keep the new structure and test whether action closure and reader understanding improve over a longer period.
 
 ## Purpose, questions, and criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+The evaluation examines readability, completeness of decisions, action ownership, and usefulness to colleagues who did not attend the meeting.
 
 ## Method and evidence base
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+The illustrative method compares old and new minutes using a checklist and asks several readers to identify the decisions and next actions. A real evaluation should document the number and type of meetings reviewed and whether complexity differed between formats.
 
 ## Results against criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+Readers found the decision section quickly and could identify owners for most listed actions. Items described as “to be discussed” were still difficult to interpret because no next review date was included.
 
 ## Interpretation and limitations
 
-Resource requirements, dependencies, and risks must be confirmed with the responsible team. Consider staff time, maintenance, accessibility, privacy, and the cost of interruption. Record each material risk with a likelihood, impact, mitigation, and owner rather than presenting estimates as approved figures.
+The format appears to improve information hierarchy, but the sample is small and the quality of the underlying notes varies. Action closure rates should be measured over time before claiming that the format improved delivery.
 
 ## Overall judgment
 
-This section should support a clear decision about evaluation of a customer support change. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The revised format is a practical improvement, with a remaining need to make unresolved items actionable.
 
 ## Recommendations and follow-up
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Add a next-review date for unresolved decisions, brief minute-takers on the standard fields, and review action records after two more cycles. Keep the template concise so the process does not create unnecessary administrative work.
+
+## Final quality check
+
+Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
 
 ## IELTS-oriented language practice
 
-This section should support a clear decision about evaluation of a customer support change. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.

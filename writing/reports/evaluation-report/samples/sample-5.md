@@ -1,39 +1,43 @@
-# Evaluation of a community outreach programme
+# Evaluation of a digital skills workshop
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative evaluation report. Replace example evidence with verified records before making operational decisions.*
 
 ## Title and document control
 
-**Evaluation of a community outreach programme**
+Evaluator: Learning team | Period: One workshop series | Status: Illustrative evaluation
 
 ## Executive summary
 
-**Purpose:** Evaluation of a community outreach programme. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+This evaluation reviews a hypothetical digital skills workshop against relevance, participant understanding, accessibility, and transfer to practical tasks. Participants reported that demonstrations were useful, while the evidence of sustained skill use is limited to immediate exercises. The workshop should be retained with improvements to pacing and follow-up practice, and future evaluation should check whether participants can complete the target tasks independently after the session.
 
 ## Purpose, questions, and criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+The evaluation asks whether participants understood the target tasks, could practise them during the session, and had accessible materials for later use. Criteria include relevance, clarity, inclusion, and practical transfer.
 
 ## Method and evidence base
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+The illustrative evidence includes an entry question, a guided exercise, an exit task, and optional participant feedback. A real evaluation should report attendance, accessibility adjustments, task scoring criteria, and follow-up response rates.
 
 ## Results against criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+Most participants completed the guided exercise with support. Several needed additional time for the final independent task, and feedback requested a short reference guide with screenshots or step-by-step instructions.
 
 ## Interpretation and limitations
 
-Resource requirements, dependencies, and risks must be confirmed with the responsible team. Consider staff time, maintenance, accessibility, privacy, and the cost of interruption. Record each material risk with a likelihood, impact, mitigation, and owner rather than presenting estimates as approved figures.
+Immediate exercise completion shows that the session supported initial practice but does not prove that participants will retain the skill. Differences in prior knowledge and device access may also affect results.
 
 ## Overall judgment
 
-This section should support a clear decision about evaluation of a community outreach programme. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The workshop provides a useful introduction, but follow-up resources and a later practice opportunity are needed to assess transfer.
 
 ## Recommendations and follow-up
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Add a concise take-away guide, slow the demonstration at the most difficult step, and offer an optional follow-up clinic. Use a later independent task to check whether learning has transferred.
+
+## Final quality check
+
+Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
 
 ## IELTS-oriented language practice
 
-This section should support a clear decision about evaluation of a community outreach programme. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.

@@ -1,39 +1,43 @@
-# Analysis of staff onboarding feedback
+# Choosing a format for monthly performance updates
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative analytical report. Replace example evidence with verified records before making operational decisions.*
 
 ## Title and document control
 
-**Analysis of staff onboarding feedback**
+Owner: Programme office | Status: Illustrative analysis | Review date: 30 September
 
 ## Executive summary
 
-**Purpose:** Analysis of staff onboarding feedback. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+This report considers how to make monthly performance updates useful to decision-makers without creating unnecessary reporting work. The key choice is between a long narrative report, a dashboard alone, or a concise summary that links indicators to decisions and risks. The preferred approach is a short narrative supported by a stable set of measures and clear notes on data limitations. The format should be tested with its intended readers before being standardised.
 
 ## Purpose, scope, and method
 
-The current process presents a clearly defined opportunity to improve consistency and user experience. The brief should describe the observed problem, who is affected, what evidence supports the diagnosis, and what falls outside scope. Separate confirmed facts from assumptions; do not imply that illustrative details are measured results.
+The review covers internal monthly updates for a multi-team programme. It considers readability, traceability, and the time needed to prepare the report. It does not evaluate whether the programme is meeting its goals because the underlying performance data is not provided in this illustrative example.
 
 ## Findings
 
-Present the evidence by source and date, then explain what it does and does not establish. Compare the available information against the agreed criteria and note gaps, possible bias, and alternative explanations. Do not invent counts or percentages; use verified records or label the section as a plan for collecting evidence.
+Readers need to identify the overall status, the change since the last period, the main risk, and any decision required. Existing updates sometimes repeat background information while leaving the action request implicit. Indicator definitions are also not always included alongside charts.
 
 ## Analysis and implications
 
-Present the evidence by source and date, then explain what it does and does not establish. Compare the available information against the agreed criteria and note gaps, possible bias, and alternative explanations. Do not invent counts or percentages; use verified records or label the section as a plan for collecting evidence.
+A dashboard can support exploration but may not explain why a decision is needed. A long narrative can provide context but makes comparison between periods harder. A concise summary with links to definitions and underlying records balances scanning and traceability, provided the selected measures are stable and relevant.
 
 ## Options and criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+Option A: narrative report only; flexible but hard to compare. Option B: dashboard only; quick to scan but may omit context. Option C: one-page decision summary with linked detail; balances readability and evidence but requires disciplined editing.
 
 ## Conclusion
 
-The recommended next step is to approve the scoped planning work, confirm ownership, and agree how results will be reviewed. Proceed only when the required resources, risks, and success criteria are explicit. Revisit the recommendation if evidence changes.
+A concise decision-focused summary supported by traceable detail is the strongest option to pilot.
 
 ## Recommendations and next steps
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Draft the format for one reporting cycle. Ask three representative readers to identify status, risk, and requested decision, then revise the structure based on where they hesitate.
+
+## Final quality check
+
+Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
 
 ## IELTS-oriented language practice
 
-This section should support a clear decision about analysis of staff onboarding feedback. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.

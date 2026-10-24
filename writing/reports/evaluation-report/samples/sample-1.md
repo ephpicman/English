@@ -1,39 +1,43 @@
-# Evaluation of a mentoring pilot
+# Evaluation of a peer-mentoring pilot
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative evaluation report. Replace example evidence with verified records before making operational decisions.*
 
 ## Title and document control
 
-**Evaluation of a mentoring pilot**
+Evaluator: Student support team | Period: One academic term | Status: Illustrative evaluation
 
 ## Executive summary
 
-**Purpose:** Evaluation of a mentoring pilot. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+This report evaluates a hypothetical peer-mentoring pilot against accessibility, participant experience, role clarity, and operational feasibility. The model appears promising as a way to help newcomers navigate routine questions, but attendance alone is insufficient evidence of impact. A stronger evaluation would combine participant feedback, referral patterns, mentor supervision notes, and a clear comparison with the programme’s stated objectives. Expansion should depend on capacity and safe referral arrangements.
 
 ## Purpose, questions, and criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+The evaluation asks whether the pilot was accessible, whether participants understood the mentor role, and whether the programme could be delivered consistently. Criteria were agreed before reviewing the illustrative evidence: access, usefulness, role boundaries, and sustainability.
 
 ## Method and evidence base
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+The example uses a post-programme questionnaire, short interviews with mentees and mentors, and a review of session attendance. In a real evaluation, the response rate, question wording, participant characteristics, and limits of self-reported feedback should be reported.
 
 ## Results against criteria
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+Participants who completed feedback forms valued practical guidance about timetables and finding support services. Some were unsure whether mentors could advise on personal or academic difficulties. Mentors reported that a referral guide would help them respond consistently.
 
 ## Interpretation and limitations
 
-Resource requirements, dependencies, and risks must be confirmed with the responsible team. Consider staff time, maintenance, accessibility, privacy, and the cost of interruption. Record each material risk with a likelihood, impact, mitigation, and owner rather than presenting estimates as approved figures.
+Feedback suggests that practical signposting is valued, but the evidence cannot establish that mentoring caused changes in retention or academic performance. People who responded may differ from those who did not, and attendance records do not explain the quality of each interaction.
 
 ## Overall judgment
 
-This section should support a clear decision about evaluation of a mentoring pilot. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The pilot is useful as a supported navigation service, provided the mentor role remains clear and specialist support is easy to reach. The evidence is not strong enough to justify claims about long-term outcomes.
 
 ## Recommendations and follow-up
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Revise mentor training to include referral scenarios, provide a simple resource map, and repeat the evaluation with improved response tracking. Before expanding, confirm supervision capacity and make participation accessible to students with different schedules.
+
+## Final quality check
+
+Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
 
 ## IELTS-oriented language practice
 
-This section should support a clear decision about evaluation of a mentoring pilot. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.
