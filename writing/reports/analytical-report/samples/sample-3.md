@@ -1,47 +1,55 @@
-# Improving access to community workshop information
+# Analysis of support-ticket categories
 
-*Illustrative analytical report. Replace example evidence with verified records before making operational decisions.*
+*Illustrative analytical report. Verify the underlying ticket data and category definitions before using the findings.*
+
+## Before drafting
+
+Confirm the period, ticket population, and category definitions. The example describes a review approach rather than asserting real operational results.
 
 ## Report structure
 
-This report states the purpose and method, presents findings, analyses implications, compares options, and ends with a recommendation.
+The report defines the analysis, summarises patterns, explains their implications, and compares improvement options.
 
 ## Title and document control
 
-Owner: Community programmes team | Status: Illustrative analysis | Period: Autumn planning cycle
+- **Owner:** Customer support operations
+- **Scope:** Ticket categorisation and reporting
+- **Status:** Illustrative analysis
+- **Audience:** Support manager
 
 ## Executive summary
 
-This report reviews how residents find and use information about community workshops. It focuses on clarity of event details, accessibility information, and registration steps. The illustrative findings point to inconsistent information across channels and uncertainty about what participants should expect. A single source of event details, reused across promotional channels, is recommended for testing. The report does not assume that communication alone can remove barriers to participation.
+Inconsistent category use can make support reports less useful for identifying recurring problems. The recommended response is to simplify the category set, document definitions, and review ambiguous cases before using category totals to prioritise product work.
 
 ## Purpose, scope, and method
 
-The review covers the path from discovering an event to registering and arriving. It considers event pages, flyers, and confirmation messages. It does not assess the quality of workshop delivery or estimate community demand without attendance and survey data.
+The analysis examines whether the current categories describe the reasons customers contact support consistently. It assumes that the team can review a sample of tickets and compare each label with the case notes. Any reported frequency or trend must be calculated from the verified ticket export and the same reporting period.
 
 ## Findings
 
-Some event notices show the time but omit the expected duration; access details are not always easy to locate; and a registration confirmation does not consistently explain what participants should bring. Staff sometimes update one channel without updating the others.
+- Similar issues may be assigned different category labels.
+- Some categories describe the customer’s goal, while others describe the technical symptom.
+- Free-text notes sometimes contain the information needed to classify a case but are not reflected in the category.
+- New categories are added without a clear review process.
 
 ## Analysis and implications
 
-Inconsistent details can reduce confidence and increase avoidable enquiries. A shared event record can improve consistency, but only if someone owns the record and the publication process includes a final check. Participation may also depend on transport, language, cost, and scheduling, which need separate attention.
+If categories mix different concepts, totals become difficult to interpret. A rise in one category may reflect a change in labelling rather than a change in the underlying problem. Too many categories can also make selection harder for agents. A consistent taxonomy should use clear definitions and distinguish the main reason for contact from any secondary technical cause when both are needed.
 
 ## Options and criteria
 
-Option A: add more promotional posts; increases reach but may repeat inconsistent details. Option B: establish a single event record and checklist; moderate effort and directly addresses consistency. Option C: redesign the registration system; potentially useful but premature without evidence that the system itself is the main barrier.
+**Option A: Provide examples for existing categories.** Quick to implement, but ambiguous labels remain.
+
+**Option B: Simplify categories and define each one with inclusion and exclusion examples.** Requires review and training but improves consistency.
+
+**Option C: Automate categorisation immediately.** May reduce manual effort, but poor labels and definitions could be reproduced at scale.
+
+Option B is the recommended first step. Automation should be considered only after the team can classify a representative sample consistently.
 
 ## Conclusion
 
-Standardising the source information and publication check is a proportionate first intervention.
+Category quality is a measurement issue, not just a reporting-format issue. Reliable analysis depends on consistent definitions before totals are compared.
 
 ## Recommendations and next steps
 
-Create a single event-details form with time, duration, location, access, cost, registration, and contact fields. Test it on three events and review correction requests and participant questions before adopting it for the full programme.
-
-## Final quality check
-
-Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
-
-## IELTS-oriented language practice
-
-The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.
+Review a sample of recent tickets with agents, agree the category definitions, and test them on a second sample. Document changes and recheck reporting comparability when the taxonomy is updated.

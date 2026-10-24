@@ -1,47 +1,49 @@
-# Evaluation of a digital skills workshop
+# Evaluation of a new internal request tracker
 
-*Illustrative evaluation report. Replace example evidence with verified records before making operational decisions.*
+*Illustrative evaluation report. Verify actual workflow records and user feedback before deciding whether to expand the change.*
+
+## Before drafting
+
+The evaluation compares the new tracker with the problem it was intended to solve: unclear ownership and missed follow-up.
 
 ## Report structure
 
-This report states the evaluation questions and evidence base, reports results against criteria, explains limitations, and identifies follow-up actions.
+The report defines success criteria, describes the evidence, interprets the results cautiously, and recommends a next step.
 
 ## Title and document control
 
-Evaluator: Learning team | Period: One workshop series | Status: Illustrative evaluation
+- **Evaluator:** Operations team
+- **Period:** Four-week pilot
+- **Status:** Illustrative evaluation
+- **Audience:** Operations manager
 
 ## Executive summary
 
-This evaluation reviews a hypothetical digital skills workshop against relevance, participant understanding, accessibility, and transfer to practical tasks. Participants reported that demonstrations were useful, while the evidence of sustained skill use is limited to immediate exercises. The workshop should be retained with improvements to pacing and follow-up practice, and future evaluation should check whether participants can complete the target tasks independently after the session.
+The tracker should be retained only if it improves visibility of ownership and next actions without creating disproportionate administrative work. The evaluation should check both the quality of handovers and whether users can maintain the record consistently.
 
 ## Purpose, questions, and criteria
 
-The evaluation asks whether participants understood the target tasks, could practise them during the session, and had accessible materials for later use. Criteria include relevance, clarity, inclusion, and practical transfer.
+The evaluation asks whether requests have a clear owner, whether overdue actions are easier to identify, and whether the tracker is practical to update. Criteria include completeness of key fields, user understanding, visibility of dependencies, and the time required to maintain the record.
 
 ## Method and evidence base
 
-The illustrative evidence includes an entry question, a guided exercise, an exit task, and optional participant feedback. A real evaluation should report attendance, accessibility adjustments, task scoring criteria, and follow-up response rates.
+Review a sample of requests from the pilot period, ask users to demonstrate how they update the tracker, and collect feedback about confusing fields. Compare the same type of request before and during the pilot where records allow a fair comparison. State the sample and any missing data before drawing conclusions.
 
 ## Results against criteria
 
-Most participants completed the guided exercise with support. Several needed additional time for the final independent task, and feedback requested a short reference guide with screenshots or step-by-step instructions.
+- **Ownership:** Check whether each active request has a named responsible role or person.
+- **Next action:** Review whether open requests state a specific next step.
+- **Usability:** Record fields that users leave blank or interpret inconsistently.
+- **Administrative burden:** Ask whether updates duplicate information already held elsewhere.
 
 ## Interpretation and limitations
 
-Immediate exercise completion shows that the session supported initial practice but does not prove that participants will retain the skill. Differences in prior knowledge and device access may also affect results.
+A more complete tracker does not necessarily prove that requests are resolved faster. The team should examine whether the information leads to earlier decisions and fewer avoidable handovers. A short pilot may also be too small to reveal seasonal or rare issues.
 
 ## Overall judgment
 
-The workshop provides a useful introduction, but follow-up resources and a later practice opportunity are needed to assess transfer.
+Continue the tracker if users can maintain it and the records help the team act on overdue items. Simplify fields that do not support decisions and address any gaps in ownership rules.
 
 ## Recommendations and follow-up
 
-Add a concise take-away guide, slow the demonstration at the most difficult step, and offer an optional follow-up clinic. Use a later independent task to check whether learning has transferred.
-
-## Final quality check
-
-Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
-
-## IELTS-oriented language practice
-
-The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.
+Agree definitions and a process owner, revise the form based on user feedback, and review the same criteria after another cycle before wider adoption.

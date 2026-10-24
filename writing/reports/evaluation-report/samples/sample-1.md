@@ -1,47 +1,49 @@
 # Evaluation of a peer-mentoring pilot
 
-*Illustrative evaluation report. Replace example evidence with verified records before making operational decisions.*
+*Illustrative evaluation report. Replace the example context and findings with verified programme records.*
+
+## Before drafting
+
+Define the evaluation questions and criteria before interpreting feedback. This example makes no claim about a real institution or measured impact.
 
 ## Report structure
 
-This report states the evaluation questions and evidence base, reports results against criteria, explains limitations, and identifies follow-up actions.
+The report describes the programme, evidence base, results against criteria, limitations, and recommended follow-up.
 
 ## Title and document control
 
-Evaluator: Student support team | Period: One academic term | Status: Illustrative evaluation
+- **Evaluator:** Student support team
+- **Period:** One academic term
+- **Status:** Illustrative evaluation
+- **Audience:** Student services manager
 
 ## Executive summary
 
-This report evaluates a hypothetical peer-mentoring pilot against accessibility, participant experience, role clarity, and operational feasibility. The model appears promising as a way to help newcomers navigate routine questions, but attendance alone is insufficient evidence of impact. A stronger evaluation would combine participant feedback, referral patterns, mentor supervision notes, and a clear comparison with the programme’s stated objectives. Expansion should depend on capacity and safe referral arrangements.
+The pilot appears promising as a way to help new students understand university routines, but its effectiveness should not be judged by attendance alone. The evaluation should consider whether participants know where to find support, understand the mentor’s role, and feel able to ask questions. A larger programme should depend on verified feedback and a clear plan for mentor training and supervision.
 
 ## Purpose, questions, and criteria
 
-The evaluation asks whether the pilot was accessible, whether participants understood the mentor role, and whether the programme could be delivered consistently. Criteria were agreed before reviewing the illustrative evidence: access, usefulness, role boundaries, and sustainability.
+The evaluation asks whether the pilot was accessible, useful to participants, and manageable for mentors. Criteria include clarity of programme information, ease of arranging meetings, perceived usefulness, and appropriate referral when a concern falls outside the mentor’s role.
 
 ## Method and evidence base
 
-The example uses a post-programme questionnaire, short interviews with mentees and mentors, and a review of session attendance. In a real evaluation, the response rate, question wording, participant characteristics, and limits of self-reported feedback should be reported.
+Evidence should include participation records, feedback from mentees and mentors, and a review of training and referral procedures. Feedback should be voluntary and handled according to the institution’s privacy rules. The sample size and response rate must be reported from actual records before conclusions are drawn.
 
 ## Results against criteria
 
-Participants who completed feedback forms valued practical guidance about timetables and finding support services. Some were unsure whether mentors could advise on personal or academic difficulties. Mentors reported that a referral guide would help them respond consistently.
+- **Accessibility:** Review whether participants could understand how to join and arrange meetings.
+- **Usefulness:** Examine examples of routines or support routes that mentees say became clearer.
+- **Role clarity:** Check whether mentors understand when to refer a concern to staff.
+- **Manageability:** Ask mentors whether training, supervision, and workload were adequate.
 
 ## Interpretation and limitations
 
-Feedback suggests that practical signposting is valued, but the evidence cannot establish that mentoring caused changes in retention or academic performance. People who responded may differ from those who did not, and attendance records do not explain the quality of each interaction.
+Positive feedback would indicate perceived value, but it would not prove that mentoring alone caused improvements in retention or academic performance. Participants who choose to respond may differ from those who do not. The evaluation should therefore avoid broad causal claims and identify where more evidence is needed.
 
 ## Overall judgment
 
-The pilot is useful as a supported navigation service, provided the mentor role remains clear and specialist support is easy to reach. The evidence is not strong enough to justify claims about long-term outcomes.
+A carefully bounded pilot can justify a revised second phase if the evidence shows that the programme is understandable, safe, and useful to participants. Expansion should wait if role boundaries or supervision are unclear.
 
 ## Recommendations and follow-up
 
-Revise mentor training to include referral scenarios, provide a simple resource map, and repeat the evaluation with improved response tracking. Before expanding, confirm supervision capacity and make participation accessible to students with different schedules.
-
-## Final quality check
-
-Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
-
-## IELTS-oriented language practice
-
-The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.
+Improve the joining guide, reinforce referral training, and collect feedback at a consistent point in the term. Review the next cohort using the same criteria before expanding the programme.

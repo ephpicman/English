@@ -1,47 +1,55 @@
-# Options for improving onboarding documentation
+# Analysis of options for improving library room bookings
 
-*Illustrative analytical report. Replace example evidence with verified records before making operational decisions.*
+*Illustrative analytical report. Confirm local booking records and user feedback before adopting a recommendation.*
+
+## Before drafting
+
+The analysis compares options against ease of use, fairness, administrative effort, and accessibility. No quantitative claims are made without verified local evidence.
 
 ## Report structure
 
-This report states the purpose and method, presents findings, analyses implications, compares options, and ends with a recommendation.
+The report defines the question, presents observed issues, compares options, and recommends a trial.
 
 ## Title and document control
 
-Owner: Enablement team | Status: Illustrative analysis | Review date: 15 October
+- **Owner:** Library operations
+- **Scope:** Study-room booking process
+- **Status:** Illustrative analysis
+- **Audience:** Library manager
 
 ## Executive summary
 
-This report compares ways to make onboarding instructions easier for new colleagues to use. The main issue is not necessarily a lack of documentation, but whether the right instructions can be found and followed at the moment of need. A task-based guide, clearer ownership, and a simple feedback route are recommended for a limited pilot. The proposal should be evaluated through task completion, common questions, and reader feedback rather than page views alone.
+The current booking process is difficult for some users to understand because availability, cancellation rules, and room requirements are displayed in different places. The analysis recommends improving the information and cancellation flow before purchasing a new booking platform. A short usability test can establish whether these changes address the main confusion.
 
 ## Purpose, scope, and method
 
-The report considers internal onboarding for routine account setup and first-week tasks. It excludes role-specific training and access decisions that require manager approval. The illustrative method combines a review of existing pages with a walkthrough by a colleague unfamiliar with the process.
+The review considers how users find a room, reserve a time, change a booking, and understand the rules. The example assumes that staff have reviewed user questions and the current booking interface. Actual adoption or complaint rates should be checked before a final business case is prepared.
 
 ## Findings
 
-The review finds duplicated instructions across several pages, prerequisites mentioned after the steps that depend on them, and no clear owner for reporting an outdated instruction. New readers can complete some steps, but need help when the screen differs from the example.
+- Room capacity and equipment are not visible in the same view as availability.
+- Cancellation rules are described on a separate information page.
+- Users sometimes ask staff to confirm whether a booking has been recorded.
+- Staff need a clear process for resolving duplicate or overlapping reservations.
 
 ## Analysis and implications
 
-Duplication creates a risk that one page is updated while another remains stale. Moving prerequisites to the beginning and identifying the source of truth should reduce ambiguity. However, not every task should be collapsed into one guide; troubleshooting and policy exceptions may require separate pages with clear links.
+The main problem appears to be uncertainty at the point of booking. Replacing the platform might improve the interface, but it would also require procurement, migration, and staff training. If the rules and information architecture remain unclear, the same confusion may persist in a new system. A lower-cost improvement can test whether clearer room details and a visible confirmation reduce unnecessary questions.
 
 ## Options and criteria
 
-Option A: rewrite all documentation at once; comprehensive but resource-intensive and difficult to validate. Option B: improve the five most-used task guides and add ownership metadata; manageable and testable. Option C: purchase a new documentation platform; may improve navigation but will not automatically fix content quality.
+**Option A: Rewrite the booking guidance and place key rules beside the booking form.** Low cost and easy to test, but it may not solve interface limitations.
+
+**Option B: Adjust the existing form to show capacity, equipment, and confirmation status.** Moderate effort and directly addresses the booking journey.
+
+**Option C: Procure a new platform.** Potentially more flexible but involves cost, migration, and implementation risk.
+
+Option B is the strongest first step if the current platform supports it. If not, test Option A while assessing the requirements for a future replacement.
 
 ## Conclusion
 
-A focused content improvement is preferable to a platform change before the underlying reader problems are understood.
+The current evidence suggests that users need clearer information and confirmation more than a wholesale system change.
 
 ## Recommendations and next steps
 
-Select five high-use guides, assign a content owner, move prerequisites before procedures, and run usability walkthroughs with two or three new readers. Review questions and correction requests after the pilot before expanding.
-
-## Final quality check
-
-Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
-
-## IELTS-oriented language practice
-
-The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.
+Test a revised booking journey with users who have not used the process before. Record where they hesitate, update the guidance, and decide whether a platform change is justified by the remaining issues.

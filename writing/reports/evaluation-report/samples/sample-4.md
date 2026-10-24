@@ -1,47 +1,49 @@
-# Evaluation of a new meeting-minutes format
+# Evaluation of a community information event
 
-*Illustrative evaluation report. Replace example evidence with verified records before making operational decisions.*
+*Illustrative evaluation report. Use actual attendance records and participant feedback before publication.*
+
+## Before drafting
+
+Set evaluation criteria before reviewing feedback, and distinguish attendance from outcomes such as understanding or access to services.
 
 ## Report structure
 
-This report states the evaluation questions and evidence base, reports results against criteria, explains limitations, and identifies follow-up actions.
+The report considers reach, accessibility, usefulness, and delivery, then identifies realistic improvements.
 
 ## Title and document control
 
-Evaluator: Project office | Period: Two monthly cycles | Status: Illustrative evaluation
+- **Evaluator:** Event coordination team
+- **Event:** Community information day
+- **Status:** Illustrative evaluation
+- **Audience:** Organising committee
 
 ## Executive summary
 
-This evaluation assesses a revised meeting-minutes format designed to make decisions, owners, and next actions easier to locate. Reader walkthroughs suggest that separating decisions from discussion improves scanability. The format still depends on accurate note-taking and a routine for reviewing open actions. The recommendation is to keep the new structure and test whether action closure and reader understanding improve over a longer period.
+The event’s value should be assessed through more than the number of people who attended. Feedback can help determine whether visitors found the sessions relevant, could navigate the venue, and knew where to obtain further information. Any conclusion about longer-term service access requires additional evidence.
 
 ## Purpose, questions, and criteria
 
-The evaluation examines readability, completeness of decisions, action ownership, and usefulness to colleagues who did not attend the meeting.
+The evaluation asks whether the event reached its intended audience, provided accessible information, and helped visitors identify relevant next steps. Criteria include clarity of the schedule, suitability of the venue, usefulness of sessions, and the quality of follow-up information.
 
 ## Method and evidence base
 
-The illustrative method compares old and new minutes using a checklist and asks several readers to identify the decisions and next actions. A real evaluation should document the number and type of meetings reviewed and whether complexity differed between formats.
+Use the attendance record, voluntary feedback forms, organiser notes, and reports of access issues. State how many people responded and whether responses may overrepresent visitors with strong views. Do not include identifiable comments without appropriate permission.
 
 ## Results against criteria
 
-Readers found the decision section quickly and could identify owners for most listed actions. Items described as “to be discussed” were still difficult to interpret because no next review date was included.
+- **Reach:** Compare attendance with the event’s stated audience and outreach channels.
+- **Accessibility:** Review venue access, signs, seating, and any reported barriers.
+- **Usefulness:** Summarise which sessions visitors found relevant and what information they still needed.
+- **Follow-up:** Check whether contact details and service information were available and accurate.
 
 ## Interpretation and limitations
 
-The format appears to improve information hierarchy, but the sample is small and the quality of the underlying notes varies. Action closure rates should be measured over time before claiming that the format improved delivery.
+Feedback collected on the day may reflect immediate impressions rather than whether visitors later accessed a service. Attendance alone does not show that the event changed outcomes. The evaluation should identify these limits and avoid claiming impact that the evidence cannot establish.
 
 ## Overall judgment
 
-The revised format is a practical improvement, with a remaining need to make unresolved items actionable.
+The event can be considered useful if it met its immediate information goals and identified practical improvements for future sessions. A stronger judgment depends on the actual feedback and records.
 
 ## Recommendations and follow-up
 
-Add a next-review date for unresolved decisions, brief minute-takers on the standard fields, and review action records after two more cycles. Keep the template concise so the process does not create unnecessary administrative work.
-
-## Final quality check
-
-Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
-
-## IELTS-oriented language practice
-
-The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.
+Improve signs and the session guide where needed, verify service contacts before the next event, and consider a voluntary follow-up question about whether visitors found the next step they needed.

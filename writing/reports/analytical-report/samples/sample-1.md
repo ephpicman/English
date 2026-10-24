@@ -1,47 +1,55 @@
-# Reducing delays in internal service requests
+# Analysis of delays in internal service requests
 
 *Illustrative analytical report. Replace example evidence with verified records before making operational decisions.*
 
+## Before drafting
+
+Define the reporting period, the meaning of “open request,” and the source records before comparing options. This example uses qualitative findings rather than invented performance figures.
+
 ## Report structure
 
-This report states the purpose and method, presents findings, analyses implications, compares options, and ends with a recommendation.
+The report states the purpose and method, presents findings, analyses implications, compares options, and recommends a proportionate next step.
 
 ## Title and document control
 
-Owner: Operations team | Status: Illustrative analysis | Period reviewed: 1–30 September
+- **Owner:** Operations team
+- **Period reviewed:** September 2026
+- **Status:** Illustrative analysis
+- **Audience:** Service manager
 
 ## Executive summary
 
-This report examines why internal service requests remain open longer than expected and compares practical options for reducing avoidable delay. The illustrative review focuses on request intake, ownership, and handoffs rather than assuming that staff are working too slowly. A shared status definition and clearer escalation route appear to be low-complexity starting points. Any implementation should be tested against real request records and reviewed for unintended effects on service quality.
+Requests appear to remain open for several different reasons: missing information at intake, unclear ownership after handover, and delayed decisions when a specialist team is needed. A new tracking tool alone is unlikely to address all three. The recommended first step is to standardise the intake fields and make ownership and escalation visible, then review whether the main delay pattern changes.
 
 ## Purpose, scope, and method
 
-The purpose is to identify process-level causes of delay in a hypothetical internal support team. The scope covers intake through closure, using a sample of anonymised request records and short staff interviews. It does not assess individual performance or compare the team with an external benchmark. In a real report, the sample period, extraction rules, and interview method must be documented.
+The purpose is to identify practical causes of delay in internal service requests. The review covers the request record, handover notes, and the team’s weekly review process. It does not assess individual performance or establish a causal relationship from a controlled study. Findings should be checked against the actual ticket history before implementation.
 
 ## Findings
 
-The illustrative review identifies three recurring patterns: requests arrive through more than one channel; ownership is not always recorded at handoff; and some requests remain marked “in progress” without a next action or review date. Staff also report that the same clarification is sometimes requested more than once because context is not carried forward.
+- Some requests enter the queue without enough detail to assign them.
+- Status labels do not consistently show who must act next.
+- Specialist dependencies are recorded in comments but are not always visible in the main tracker.
+- The weekly review identifies overdue items, but actions are not always assigned a due date.
 
 ## Analysis and implications
 
-These patterns suggest that visibility and handoff quality may be contributing to delay. The evidence does not establish that every long-running request is avoidable: some depend on external approvals or specialist work. A single average completion time would hide these differences, so future analysis should separate request types and record waiting time as well as active handling time.
+These findings suggest that delays occur at different points in the workflow. Missing intake details create rework before assignment; unclear ownership creates waiting after assignment; and hidden dependencies make it difficult for managers to intervene. A new platform might improve visibility, but it would not automatically define required information or decision rights. The process needs clearer rules as well as a suitable record.
 
 ## Options and criteria
 
-Option A: retain the current process and provide reminders; low implementation effort but does not address unclear ownership. Option B: use one intake queue with required owner and next-action fields; moderate change effort and better visibility. Option C: automate routing immediately; potentially faster at scale but depends on stable categories and reliable rules.
+**Option A: Add a required intake checklist.** Low implementation effort, but it addresses only incomplete requests.
+
+**Option B: Standardise ownership, next action, and escalation fields in the existing tracker.** Moderate change, with potential to improve visibility across handovers.
+
+**Option C: Replace the tracking system.** Highest effort and migration risk; benefits are uncertain until process issues are understood.
+
+The preferred initial option is B, combined with a short intake checklist, because it addresses several observed handover problems without requiring a system replacement.
 
 ## Conclusion
 
-A shared queue and consistent status definitions are the most proportionate first step for a pilot. Automation should follow only if the team can demonstrate that categories and routing rules are sufficiently stable.
+The evidence points to process clarity as a more immediate issue than tool capability. A limited change can test whether visible ownership and complete intake information reduce avoidable waiting.
 
 ## Recommendations and next steps
 
-Pilot a single intake view for one request category. Define owner, status, next action, and dependency fields; compare waiting time and reopened requests with a baseline; review staff feedback after four weeks. Do not publish performance claims until the real data has been analysed.
-
-## Final quality check
-
-Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
-
-## IELTS-oriented language practice
-
-The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.
+Pilot the revised tracker with one team, assign a process owner, and review open requests after an agreed period. Compare the same definitions before and after the change, and revise the approach if the main delays remain.

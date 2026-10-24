@@ -1,47 +1,49 @@
-# Evaluation of a community information campaign
+# Evaluation of a customer-support knowledge base
 
-*Illustrative evaluation report. Replace example evidence with verified records before making operational decisions.*
+*Illustrative evaluation report. Replace example criteria and results with verified support data.*
+
+## Before drafting
+
+Define what the knowledge base is expected to improve and avoid assuming that fewer article views always indicate success.
 
 ## Report structure
 
-This report states the evaluation questions and evidence base, reports results against criteria, explains limitations, and identifies follow-up actions.
+The report evaluates findability, accuracy, usefulness, and maintenance rather than counting published articles alone.
 
 ## Title and document control
 
-Evaluator: Outreach team | Period: Six-week campaign | Status: Illustrative evaluation
+- **Evaluator:** Customer support operations
+- **Scope:** Internal troubleshooting articles
+- **Status:** Illustrative evaluation
+- **Audience:** Support manager
 
 ## Executive summary
 
-This evaluation considers whether a community information campaign made event details easier to find and understand. The example indicates that a consistent event page and clearer access information may reduce repeated questions, but reach metrics alone cannot show whether residents were able to participate. Further evaluation should examine registrations, attendance, reasons for non-attendance, and feedback from people who face access barriers.
+A knowledge base is useful when staff can find accurate instructions and apply them safely. The evaluation should combine content review with user testing and case patterns. Publication volume alone is not a reliable measure of quality.
 
 ## Purpose, questions, and criteria
 
-The evaluation asks whether the campaign communicated essential event details, reached the intended audience, and supported informed registration. Criteria include accuracy, accessibility, clarity, and evidence of useful engagement.
+The evaluation asks whether the right article can be found quickly, whether the steps match the current product, and whether the guidance helps resolve common cases. It also considers ownership, review dates, and clear escalation instructions for situations that require specialist judgment.
 
 ## Method and evidence base
 
-The illustrative evidence consists of a content audit, anonymised enquiry themes, and participant feedback after events. In a real report, channel analytics and survey response rates should be included, along with any limitations in comparing different event types.
+Review a sample of frequently used articles, compare each with the current product workflow, and ask support staff to find guidance for representative cases. Use ticket data only after confirming categories and reporting periods. Record the sample selection and any limitations, especially if rarely used but high-risk articles are excluded.
 
 ## Results against criteria
 
-The updated notices consistently included date, duration, location, cost, access information, and a contact route. Staff received fewer questions about what participants should bring, but some residents still asked about transport and language support.
+- **Findability:** Record searches that return irrelevant or outdated guidance.
+- **Accuracy:** Identify steps that no longer match the product.
+- **Usefulness:** Check whether a reader can follow the instructions without additional explanation.
+- **Maintenance:** Confirm that each article has an owner and review trigger.
 
 ## Interpretation and limitations
 
-The change appears to have improved completeness of information, though the sample cannot establish that it increased attendance. Remaining questions suggest that event details and wider participation barriers should be treated separately.
+Search success and ticket patterns can suggest where improvements are needed, but neither measure proves that an article caused a case to be resolved. Some cases require judgment beyond a written guide. Results should be interpreted with staff feedback and the risk level of the issue.
 
 ## Overall judgment
 
-The content checklist is worth retaining, while the campaign’s effect on participation remains uncertain.
+The knowledge base should be improved where guidance is inaccurate, difficult to find, or unclear about escalation. A broad rewrite is not necessary if a targeted update addresses the main barriers.
 
 ## Recommendations and follow-up
 
-Continue the checklist and collect optional feedback on access barriers. Compare similar events where possible and avoid treating clicks or impressions as evidence of meaningful participation.
-
-## Final quality check
-
-Confirm that the scope and method are explicit, observations are separated from interpretations, limitations are visible, and each recommendation has a responsible owner and review point. Do not treat illustrative findings as real measurements.
-
-## IELTS-oriented language practice
-
-The report uses formal headings, neutral language, and a clear distinction between evidence and recommendation. For an assessed task, follow the exact prompt and required format rather than adding sections that are not requested.
+Prioritise articles linked to common or high-impact issues, assign owners, and retest the revised content with staff. Review the same criteria after updates to see whether the changes are useful.
