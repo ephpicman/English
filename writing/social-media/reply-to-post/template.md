@@ -1,50 +1,27 @@
 # Reply To Post Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- TEMPLATE RULES: Replace placeholders; no sample prose. Respond to the actual prompt or post, keep a respectful tone, and contribute something beyond repetition. -->
+<!-- TOTAL LENGTH: 40–120 words. Treat ranges as guidance and follow platform limits. -->
+<!-- BRIEF: Prompt/post = [PLACEHOLDER: identify]; audience = [PLACEHOLDER: define]; purpose = [PLACEHOLDER: state]. -->
 
-<!-- WORD COUNT STANDARD: Target total = 25–250. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+<!-- SECTION GUIDE: Point being answered. Identify the specific claim or question being answered. Target length: 5–18 words. -->
+## Point being answered
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Reply To Post. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Hook or point of connection. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 5–20. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Hook or point of connection
+<!-- SECTION GUIDE: Response and reasoning. Make agreement or disagreement clear and explain why. Target length: 15–40 words. -->
+## Response and reasoning
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Main point / response / update. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 20–50. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Main point / response / update
+<!-- SECTION GUIDE: Added value. Contribute information, nuance, or a constructive question. Target length: 10–35 words. -->
+## Added value
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Supporting detail, insight, or evidence. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 15–80. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Supporting detail, insight, or evidence
+<!-- SECTION GUIDE: Optional close. Close only if natural. Target length: 0–10 words. -->
+## Optional close
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Practical takeaway or added value. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 10–40. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Practical takeaway or added value
-
-[PLACEHOLDER: write this section according to the instructions above]
-
-<!-- SECTION INSTRUCTIONS: Question, call to action, or closing. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 5–20. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Question, call to action, or closing
-
-[PLACEHOLDER: write this section according to the instructions above]
-
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+<!-- FINAL CHECK: Verify relevance, accuracy, tone, and brevity. Remove all placeholders before publishing. -->
