@@ -5,19 +5,15 @@ I am applying for further study in data analytics because I want to understand h
 ## Relevant preparation
 My preparation includes coursework in statistics and practical exercises using spreadsheets, SQL, and data visualisation. These activities taught me that data quality often determines the usefulness of a result. Missing values, inconsistent categories, and duplicate records can distort an apparently precise summary if they are not investigated before analysis begins.
 ## Skills and learning evidence
-
 In one project, I combined two tables with inconsistent date formats and repeated identifiers. I checked the source records, documented the cleaning rules, and compared the summary before and after resolving the duplicates. I then wrote a short explanation of what the results showed and what remained uncertain because some entries were incomplete. This work taught me to make the analytical process reproducible rather than relying on an unexplained final number.
-
 ## Fit with opportunity
-
 I am looking for a programme that develops both technical competence and critical judgment. I want to strengthen my statistical reasoning, learn more systematic modelling methods, and practise explaining findings to audiences who may not share a technical background. I would bring patience with detailed work and a willingness to revise an approach when the evidence requires it.
-
 ## Goals and contribution
-
 I would contribute to group projects by documenting decisions, sharing reproducible steps, and asking for review when assumptions are uncertain. I also recognise that responsible analysis requires attention to privacy and fairness, particularly when data represents people rather than abstract measurements. I hope to develop the judgment to identify these issues early and to explain them clearly to colleagues and stakeholders.
-
 My goal is to begin in an analyst role where I can support operational or policy decisions, then develop expertise in a domain where data quality and responsible interpretation matter. I hope to become someone colleagues trust not because every answer is certain, but because the reasoning and assumptions are visible.
 
 ## Conclusion
+
+I want to strengthen both my technical foundations and my ability to explain the choices behind an analysis. It is not enough to produce a chart that appears convincing; I need to understand the assumptions, test whether the result changes under reasonable alternatives, and explain the limitations in plain language. I would like to learn from projects where the data is imperfect and the decision has real consequences. This will require patience with detailed work, openness to review, and the discipline to document decisions as I go. I also recognise the importance of privacy and responsible data use. I would bring these concerns into group discussions and seek guidance whenever a proposed analysis raises questions about appropriate access or interpretation.
 
 This opportunity would help me turn practical curiosity into disciplined analytical practice. I am prepared to work carefully, seek feedback, and keep the limits of the data in view.

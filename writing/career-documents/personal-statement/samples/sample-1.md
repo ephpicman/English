@@ -5,19 +5,15 @@ I want to study environmental policy because many public decisions require balan
 ## Relevant preparation
 My interest developed through coursework on urban development and climate adaptation. I found that reports on the same policy sometimes reached different conclusions because they used different baselines, time periods, or definitions of success. Comparing those assumptions taught me to ask not only what a source concludes, but how it reached that conclusion and which groups may be affected.
 ## Skills and learning evidence
-
 For a seminar project, I organised a set of policy reports into a comparison table covering research question, method, location, and limitations. This helped my group distinguish evidence that was broadly consistent from findings that depended on local conditions. I also presented the summary to classmates, explaining technical terms in plain language and noting questions the available sources could not answer. The experience strengthened my ability to synthesise information without overstating certainty.
-
 ## Fit with opportunity
-
 The programme appeals to me because it combines analytical study with the practical challenges of policy design. I am ready to develop stronger skills in evaluation, quantitative reasoning, and stakeholder analysis. I would contribute careful preparation, openness to feedback, and a willingness to test my initial assumptions against evidence.
-
 ## Goals and contribution
-
 I would use the programme’s feedback and supervised work to strengthen these habits. I am especially interested in learning how to choose a method that fits a research question, communicate limitations without weakening a well-supported finding, and collaborate with people whose expertise differs from my own. These are skills I will need whether I work in research, programme delivery, or policy evaluation.
-
 In the near term, I want to learn to assess policy options systematically and communicate trade-offs clearly. Over time, I hope to support research or programme evaluation for organisations working on sustainable urban development. I understand that these goals may evolve as I gain experience, but they give me a clear reason to build a rigorous foundation now.
 
 ## Conclusion
+
+I also want to develop the ability to evaluate evidence in a more systematic way. When sources disagree, I try to identify whether they use different definitions, methods, or contexts before deciding that one must be wrong. This is important because complex questions rarely have a single explanation. I would welcome the opportunity to practise structured research, receive detailed feedback, and learn how experienced practitioners make decisions when evidence is incomplete. I am prepared to revise my initial view when a stronger explanation emerges and to explain why I have changed it. In group work, I would aim to contribute reliably, share the reasoning behind my conclusions, and listen carefully when other people identify a gap I have missed. These habits should help me make the most of the programme and continue developing after formal study ends.
 
 I would approach the opportunity with curiosity, discipline, and respect for the people affected by policy decisions. I hope to develop the methods needed to turn complex evidence into practical, accountable recommendations.
