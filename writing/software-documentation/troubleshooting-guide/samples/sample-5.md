@@ -32,5 +32,6 @@ If the job is safely retryable and the cause is transient, use the documented re
 Confirm the job reaches a terminal state, the expected side effect occurs once under the supported idempotency model, and the queue returns to normal. Monitor the next scheduled run.
 
 ## Escalation details to collect
+Do not delete or requeue a stuck job until the current state is understood. Some jobs may have completed an external action even though the local status did not update. Check the documented reconciliation path and obtain approval from the job owner if the next step could create a duplicate effect. Once the job is resolved, review whether the alert threshold and retry policy are appropriate. Repeated failures may indicate that the job needs better observability or a clearer exception path, rather than a larger retry limit.
 
 Provide job ID, enqueue time, attempt count, state transitions, dependency status, relevant correlation IDs, and whether any external side effect may have occurred. Redact payloads containing sensitive data.

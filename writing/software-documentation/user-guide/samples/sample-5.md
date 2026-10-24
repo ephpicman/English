@@ -32,5 +32,6 @@ The page should display the saved preference values. If confirmation is provided
 If the options are unavailable, your account type or organisation policy may control them. If messages continue, check whether they are required service notices or were queued before the change, then contact support with the message type and time.
 
 ## Related tasks / next steps
+Notification settings may differ between web and mobile applications, and some changes can take a short time to take effect. If you continue receiving a message, first identify its category and compare it with the preference you changed. A security alert, account recovery message, or required service notice may not be controlled by the optional notification setting. Do not forward a sensitive alert to a public channel; use the official support route if you suspect the message is incorrect. If the setting does not persist, note the application version and the steps you followed, then report the issue without including session tokens or other secret values. Revisit the settings after an application update if the available options change.
 
 Review account security settings separately if you need to update sign-in protections. Do not disable essential security alerts to reduce routine notifications.

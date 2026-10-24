@@ -32,5 +32,6 @@ Correct the filter or date range if it was entered incorrectly. If the source da
 Run the export again with the confirmed filters and compare its row count with the preview. Check a small number of non-sensitive records against the source report.
 
 ## Escalation details to collect
+If the export mismatch recurs, compare the report definition and data refresh timestamp before investigating individual records. A change in the source schema or filter logic may affect multiple exports. Keep the original file and a redacted example of the mismatch until the report owner confirms the cause. Avoid making manual corrections to the export without recording the transformation, because doing so can make later reconciliation difficult. Once the problem is fixed, rerun the validation and record which check confirms that the exported data is consistent.
 
 Provide report name, export ID, time, selected filters, preview row count, downloaded row count, and any error message. Redact data values and credentials.

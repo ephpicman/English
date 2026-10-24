@@ -32,5 +32,6 @@ The downloaded CSV should contain the selected columns and records matching the 
 If the file is empty, review filters and data refresh status. If the preview and file differ, record the export ID and contact the report owner. Do not share the export in an unapproved location.
 
 ## Related tasks / next steps
+Before generating an export for wider use, confirm that each selected column is necessary for the intended task. A file may contain more information than the reader needs, and downloaded data can be harder to control than data viewed inside the application. Store the file only in an approved location and follow the organisation’s retention rules. If the report includes sensitive or personal information, confirm that the recipient is authorised to receive it. For repeat exports, record the report version and filter settings so another analyst can reproduce the result. If totals differ from the source, stop and investigate the discrepancy rather than editing the CSV to make it appear consistent.
 
 For repeat reporting, document the filter settings and source version. For validation failures, use the CSV import troubleshooting guide.

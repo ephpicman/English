@@ -32,5 +32,6 @@ The ticket should show the saved note and updated status. If the save fails, ref
 If the ticket is not visible, check your permissions and search reference. If the status transition is rejected, review the allowed workflow transitions. Never copy a customer’s credentials into a note.
 
 ## Related tasks / next steps
+When adding a comment, write for the next person who will read the ticket. State what was observed, which step was tried, and what should happen next. Avoid vague notes such as “still broken” when a more specific symptom is available. If the message is internal, check visibility before saving and do not assume that a field marked “note” is private without verifying the interface. When closing a ticket, ensure that the resolution is clear and that any required customer communication has been sent. If a problem remains unresolved, leave the ticket in the appropriate status and identify the next owner rather than closing it simply to clear the queue.
 
 Review the handover guide for unresolved tickets and the support escalation policy for security, privacy, or service-critical issues.
