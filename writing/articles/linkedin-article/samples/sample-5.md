@@ -1,41 +1,31 @@
-# Give feedback people can act on
+# Make project risks easier to discuss
 
-*Illustrative LinkedIn article. Adapt the advice to your own professional context and experience.*
+*Illustrative LinkedIn article; adapt the approach to the risk process and decision authority in your organisation.*
 
 ## Title
 
-**Give feedback people can act on**
+**Make project risks easier to discuss**
 
 ## Opening hook and relevance
 
-“Be more strategic” sounds important, but it does not tell someone what to do differently tomorrow.
+A risk register can contain dozens of entries and still fail to help a team make decisions. If the wording is vague, the owner is missing, or the next review date is unclear, the document becomes a record of worry rather than a tool for action.
 
 ## Context and central argument
 
-Useful feedback connects an observable behaviour to its effect and offers a practical next step. It focuses on work that can change rather than making broad claims about a person’s character.
+Risk management works best when the team treats it as a regular conversation about uncertainty. The purpose is not to predict every problem or make a project appear perfectly controlled. It is to identify what could affect the outcome, understand the likely consequence, and decide what action is proportionate. A good record helps the team distinguish a current issue from a possible future event and shows who is responsible for responding.
 
 ## Key insight 1 with evidence
 
-For example, instead of saying “your updates are confusing,” identify the missing information: “In the last status note, the risk had no owner or review date. Add both fields so the team can see who is handling it and when it will be revisited.” The second version gives the recipient something testable.
+Write each risk as a cause, uncertain event, and consequence. “Supplier delay” is hard to assess. “If the supplier does not confirm the delivery date by Friday, equipment testing may slip into the following week” gives the team something to monitor. It identifies a trigger and a consequence, allowing the owner to agree on a response. Where the probability is uncertain, say so and identify what information would reduce the uncertainty rather than assigning a precise score without a basis.
 
 ## Key insight 2 or counterpoint
 
-Feedback also works better as a conversation. Ask what context you may be missing, agree on the next action, and follow up after there has been a chance to try it. Specific praise matters too: explain which action helped and why, so the person can repeat it.
+Not every risk needs an elaborate mitigation plan. Some can be accepted with monitoring; others need a contingency, a decision from a sponsor, or immediate action. Overly detailed registers can hide the few risks that require attention. The team should focus on changes in exposure, decisions that are overdue, and dependencies that could affect delivery. It should also make it safe to raise concerns early, since people may otherwise delay reporting a problem until there are fewer options.
 
 ## Practical implications
-When communicating uncertainty, separate what is known, what remains open, and when the next update is expected. This structure gives readers enough information to plan without turning a tentative estimate into a promise. It also makes it easier for colleagues to correct an assumption before it spreads across several updates. If the uncertainty affects a decision, state what evidence is needed and who is responsible for obtaining it. The aim is not to make every message cautious or lengthy; it is to be precise about the confidence that the evidence supports. Clear uncertainty is a form of useful information, especially when other people need to make plans based on the update.
 
-Before giving feedback, write down the behaviour you observed, its impact, and one achievable next step. Remove assumptions about intent unless you have discussed them directly.
+Review the most important risks at a predictable cadence. For each one, record an owner, trigger or review date, planned response, and escalation route. Close an entry only when the risk is no longer relevant or has become an issue tracked elsewhere. Keep the wording specific enough that someone who was not in the meeting can understand what needs to happen next.
 
 ## Conclusion and conversation prompt
-A clear update can include a confidence level when the audience needs to make a decision, but the label should have a shared meaning. For example, “confirmed” should mean the responsible source has verified the information, while “estimated” should identify the assumption behind the estimate. Consistent wording prevents readers from interpreting tone as evidence. It also helps teams communicate early without creating commitments they cannot yet support.
 
-What kind of feedback has helped you make a meaningful improvement?
-
-## Language and quality review
-
-The article uses a specific workplace situation, practical steps, and a question that invites relevant discussion. Before posting, remove any claim that cannot be supported by personal experience or a reliable source, and ensure the advice fits the audience you intend to reach.
-
-## IELTS-oriented practice note
-
-For language practice, notice how the text moves from a concrete hook to explanation and actionable advice. In a real LinkedIn article, reader value and professional credibility take priority over displaying complicated vocabulary.
+A useful risk register makes uncertainty actionable without pretending to eliminate it. What helps your team raise risks early enough to respond?

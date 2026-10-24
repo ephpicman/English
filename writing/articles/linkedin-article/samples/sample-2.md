@@ -1,41 +1,31 @@
-# Use retrospectives to change one thing
+# A better way to run project meetings
 
-*Illustrative LinkedIn article. Adapt the advice to your own professional context and experience.*
+*Illustrative LinkedIn article; adapt the suggestions to the meeting culture and responsibilities of your team.*
 
 ## Title
 
-**Use retrospectives to change one thing**
+**A better way to run project meetings**
 
 ## Opening hook and relevance
 
-A retrospective that produces ten action items can feel productive—and still change nothing the following week.
+A meeting can end with everyone feeling busy and nobody knowing what happens next. The problem is rarely the number of minutes alone; it is whether the group makes a decision, shares essential information, or resolves a dependency. A small amount of preparation can make the meeting useful before anyone joins the call.
 
 ## Context and central argument
 
-Teams need space to discuss what helped, what slowed the work, and what they want to improve. The value comes from turning that discussion into a small experiment with a clear owner, not from creating the longest possible list.
+Teams often use meetings to compensate for unclear documentation. People attend to find out the latest status, then discover that the agenda contains several unrelated topics and no decision owner. A meeting should have a defined purpose: decide, plan, solve, or inform. If the purpose is only to share information, an update in a shared channel may be enough. Keeping that distinction clear protects time for discussion that genuinely benefits from being synchronous.
 
 ## Key insight 1 with evidence
 
-Start with a concrete observation. Instead of saying “communication was poor,” identify a point where information arrived late or two people worked from different versions. Specific observations make it easier to discuss causes without turning the meeting into a judgment about personalities.
+A useful agenda names the outcome, not just the topic. “Discuss launch” is broad; “choose between the two proposed launch dates” tells participants what preparation is needed. For each item, include the decision or question, the person leading it, and the time available. Send background materials early enough for people to read them. If a decision depends on a figure or approval that is still missing, state that before the meeting so participants can decide whether to proceed or reschedule the item.
 
 ## Key insight 2 or counterpoint
 
-Choose one change that the team can test during the next cycle. Define who will do it and what signal would show whether it helped—for example, fewer duplicated reviews or fewer unresolved questions at handoff. Review the result at the next retrospective and keep, adjust, or abandon the experiment.
+Not every meeting should be tightly controlled. Complex problems sometimes need exploratory conversation, and people may discover important issues that were not on the original agenda. The answer is not to suppress that discussion but to record it separately and decide whether it needs a follow-up. A facilitator can ask whether the group is still working toward the intended outcome. This keeps flexibility without allowing every topic to consume the available time.
 
 ## Practical implications
-Documentation quality can be measured through practical use. Ask someone unfamiliar with the task to follow the guide and note where they pause, misinterpret a term, or need information from another page. Compare those observations with support questions and known failure points. This helps the author prioritise changes that reduce confusion rather than simply making the page longer. The review should also check that screenshots, commands, and interface labels still match the supported version. When a step can affect data or permissions, include a clear warning and a safe way to verify the result. A useful guide is one a reader can follow safely, not one that merely looks comprehensive.
 
-Try ending your next retrospective with one action, one owner, and one review date. If the team cannot explain how it will know whether the change worked, the action may be too vague.
+End each decision item by stating what was agreed, who owns the next action, and when it is due. Send notes promptly, using a format that separates decisions from discussion. At the next meeting, review only the actions that need attention rather than reading the previous notes aloud. Periodically ask participants which meetings are worth keeping and which could become written updates.
 
 ## Conclusion and conversation prompt
-Version information is especially important when a guide includes commands or screenshots. A step that worked in one release may not be valid in another, and readers need a way to identify the environment the instructions support. Add a review owner and a simple route for reporting outdated content. These details help a guide remain trustworthy after the original author has moved on.
 
-What makes a retrospective useful in your team: the discussion, the follow-through, or both?
-
-## Language and quality review
-
-The article uses a specific workplace situation, practical steps, and a question that invites relevant discussion. Before posting, remove any claim that cannot be supported by personal experience or a reliable source, and ensure the advice fits the audience you intend to reach.
-
-## IELTS-oriented practice note
-
-For language practice, notice how the text moves from a concrete hook to explanation and actionable advice. In a real LinkedIn article, reader value and professional credibility take priority over displaying complicated vocabulary.
+Effective meetings are designed around outcomes, supported by preparation, and closed with clear ownership. What change has helped your team make meetings more useful?

@@ -1,6 +1,6 @@
 # Make project handovers easier to use
 
-*Illustrative LinkedIn article. Adapt the advice to your own professional context and experience.*
+*Illustrative LinkedIn article; adapt the advice to your own professional context and experience.*
 
 ## Title
 
@@ -8,34 +8,24 @@
 
 ## Opening hook and relevance
 
-A handover document is not successful because it is long. It is successful when the next person can make the next decision without having to reconstruct the whole project.
+A handover document is not successful because it is long. It is successful when the next person can make the next decision without reconstructing the whole project. Anyone who has taken over work during a colleague’s leave knows the difference between a useful update and a history of every meeting.
 
 ## Context and central argument
 
-Teams often document history but leave the immediate operational questions unanswered: what is still open, who owns it, what is blocked, and what happens next. A concise handover should make those points visible before it explains background.
+Teams often document what happened but leave the immediate operational questions unanswered: what remains open, who owns it, what is blocked, and what happens next? A practical handover should make these points visible before it explains background. The goal is not to remove context; it is to help the reader find the context that matters to the next action. A clear structure also reduces the risk that different people maintain competing versions of the same status.
 
 ## Key insight 1 with evidence
 
-I use a simple order: current status, decisions already made, unresolved risks, named owners, deadlines, and links to the source of truth. Each open item should describe the next action rather than merely say “in progress.” If an assumption has not been verified, label it as an assumption instead of presenting it as a fact.
+I find it useful to put the current status first, followed by decisions already made, unresolved risks, named owners, deadlines, and links to the source of truth. Each open item should describe the next action rather than use a vague label such as “in progress.” For example, “confirm the supplier’s revised delivery date by Thursday” is more useful than “supplier update.” It gives the next person something they can verify and complete. This structure also makes uncertainty visible: if the date has not been confirmed, say so instead of implying that a plan is settled.
 
 ## Key insight 2 or counterpoint
 
-The handover should also be tested with the person receiving it. Ask them to locate the latest decision and identify the next owner. If they cannot do that quickly, the document may need a clearer structure or better links. This small review often reveals missing context that the author no longer notices.
+A handover can still fail if it becomes a second project-management system. Copying every detail into a separate document creates more maintenance and increases the chance that the handover conflicts with the actual tracker. Keep the handover short and link to the authoritative record. It should explain how to interpret the record, not duplicate every line. The amount of detail should depend on the risk of the work: a routine task may need one sentence, while a safety-critical dependency may require explicit context and escalation instructions.
 
 ## Practical implications
-A useful way to test the handover is to ask the recipient to find one open decision, identify its owner, and explain what happens next. If they need a verbal explanation, the record may be missing context or burying the key action. This is not a test of the recipient; it is a quick test of the document. The author can then remove unnecessary history, clarify ambiguous status labels, and link to the current source of truth. Over time, the team can keep a short checklist of common omissions and use it before each handover. The goal is not to make every handover identical, but to ensure that essential information travels with the work.
 
-Before your next handover, remove repeated history, make unresolved decisions explicit, and confirm that links and owners are current. Keep the detailed record where it belongs; use the handover to guide the reader through it.
+Before handing work over, ask a colleague unfamiliar with the task to find three things: the next action, the responsible person, and the main risk. If they cannot find them quickly, improve the structure. Set a clear date for the next review and make sure links work for the intended reader. Finally, state what is not yet known. Honest uncertainty is safer than a polished document that gives a false sense of completion.
 
 ## Conclusion and conversation prompt
-Once the recipient has followed the document, revise the parts that caused uncertainty and repeat the test after the next meaningful change. Keep a record of common omissions, but avoid adding fields simply because one unusual situation occurred. The checklist should remain short enough that people can use it under normal working conditions. Over time, this creates a shared standard without turning every handover into a lengthy report.
 
-What is one detail you always wish had been included when a project was handed to you?
-
-## Language and quality review
-
-The article uses a specific workplace situation, practical steps, and a question that invites relevant discussion. Before posting, remove any claim that cannot be supported by personal experience or a reliable source, and ensure the advice fits the audience you intend to reach.
-
-## IELTS-oriented practice note
-
-For language practice, notice how the text moves from a concrete hook to explanation and actionable advice. In a real LinkedIn article, reader value and professional credibility take priority over displaying complicated vocabulary.
+Good handovers are tools for action, not archives of activity. What one field or section has made the biggest difference to your team’s handovers?
