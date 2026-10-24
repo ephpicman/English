@@ -23,6 +23,7 @@ First, libraries help people navigate information. Librarians can guide visitors
 Second, a library is a shared place that does not require a purchase. Students can study, jobseekers can use computers, and residents can attend language or community sessions. Such access does not solve poverty or the digital divide on its own, but it gives people a practical resource they can use without paying for a seat or a drink.
 
 ## Counterargument and response
+Schools can make media literacy practical by embedding it in subjects that already require evidence. In science, students might check the source of a health claim; in history, they might compare accounts written at different times. This approach shows that evaluating information is not an isolated internet skill but a habit of reasoning. Teachers need suitable examples and time to discuss how evidence supports a conclusion. Without those resources, the requirement may become another checklist that students complete mechanically. The goal should be to help learners explain why a source is useful for a particular question and what remains uncertain.
 
 Critics may argue that online collections make physical branches expensive and outdated. Digital services are important, but they do not replace quiet public space, accessible devices, personal guidance, or the social value of a shared institution. The sensible response is to review local needs and combine in-person services with digital collections, not assume that one format serves everyone.
 

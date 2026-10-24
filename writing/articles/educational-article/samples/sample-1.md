@@ -23,6 +23,7 @@ The key activity is retrieval. Before looking at the answer, the student tries t
 Spacing also makes revision easier to plan. A student with three subjects can distribute brief review sessions across the week instead of leaving every topic until the night before a test. Difficult material can appear more often, while familiar material can be reviewed less frequently. Spacing does not replace practice problems or feedback; it helps learners decide when to return to what they have studied.
 
 ## Practical application
+Teachers can make this approach easier to sustain by connecting it to the normal lesson sequence. At the end of a class, students can write one question they expect to be able to answer later. At the next lesson, they try the question before reviewing their notes, then compare their answer with the course material. This creates a simple record of what is remembered and what needs attention. It also helps the teacher identify concepts that may need another explanation. The purpose is not to turn every lesson into a test; it is to make retrieval and feedback part of ordinary learning. Students should be able to correct mistakes without treating them as evidence that they are incapable of learning the subject.
 
 After each lesson, write three questions about its central ideas. Try answering them the next day without notes, check the answers, and mark uncertain responses. Revisit those questions several days later. Keep sessions short enough to fit a realistic timetable, and use errors to decide what needs more attention.
 

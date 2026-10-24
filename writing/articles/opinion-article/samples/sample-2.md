@@ -23,6 +23,7 @@ Learners can practise checking who produced a message, when it was published, wh
 The lessons should also cover persuasive design. A post may be optimised for attention rather than accuracy, while a sponsored message may resemble ordinary advice. Students can identify emotional language, distinguish fact from opinion, and discuss how algorithms may repeatedly show material similar to what they already engage with.
 
 ## Counterargument and response
+A policy should be assessed not only by whether a library building remains open, but by whether residents can use the services it offers. Opening hours, accessible facilities, trained staff, and up-to-date resources all influence the practical value of a branch. Digital services can extend access, but they should not be used to justify removing in-person support where residents depend on it. Local authorities should consult users and review who is not being reached, including people who may be unable to attend public meetings or complete online surveys. This makes the decision more evidence-based and avoids assuming that the needs of the most vocal users represent the whole community.
 
 Some teachers worry that the curriculum is already crowded. Media literacy need not become a separate full subject in every school: a science lesson can evaluate a health claim, while a history lesson can compare primary sources. Teachers need practical resources and training, however, or the responsibility risks becoming an extra task without support.
 

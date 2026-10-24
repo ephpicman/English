@@ -23,6 +23,7 @@ For example, instead of saying “your updates are confusing,” identify the mi
 Feedback also works better as a conversation. Ask what context you may be missing, agree on the next action, and follow up after there has been a chance to try it. Specific praise matters too: explain which action helped and why, so the person can repeat it.
 
 ## Practical implications
+When communicating uncertainty, separate what is known, what remains open, and when the next update is expected. This structure gives readers enough information to plan without turning a tentative estimate into a promise. It also makes it easier for colleagues to correct an assumption before it spreads across several updates. If the uncertainty affects a decision, state what evidence is needed and who is responsible for obtaining it. The aim is not to make every message cautious or lengthy; it is to be precise about the confidence that the evidence supports. Clear uncertainty is a form of useful information, especially when other people need to make plans based on the update.
 
 Before giving feedback, write down the behaviour you observed, its impact, and one achievable next step. Remove assumptions about intent unless you have discussed them directly.
 

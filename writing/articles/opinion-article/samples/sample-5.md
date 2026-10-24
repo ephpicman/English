@@ -23,6 +23,7 @@ Short learning sessions linked to real tasks can help employees adopt a new syst
 A visible learning pathway can also make internal progression clearer. Employees who understand the skills required for the next role can prepare for opportunities without relying entirely on external recruitment. The organisation benefits when knowledge is shared across teams and staff can adapt as responsibilities change.
 
 ## Counterargument and response
+Schools should consider the full cost of a uniform, including shoes, seasonal items, and replacement as children grow. If the policy requires specific brands or a limited supplier, families may have little flexibility when an item is unavailable. A school can reduce these burdens by choosing durable, widely available clothing and supporting second-hand exchanges. It should also explain how students can request adjustments for medical, cultural, or religious reasons. These practical measures make the policy more equitable and help keep attention on learning and respectful conduct rather than treating clothing compliance as an end in itself.
 
 Training costs money and takes time away from immediate work. Poorly chosen courses can become box-ticking exercises, so investment should start with a specific performance need and include evaluation. Some skills also require formal qualifications or supervised practice; a short online module is not a substitute for those requirements.
 

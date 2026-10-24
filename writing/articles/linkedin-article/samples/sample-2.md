@@ -23,6 +23,7 @@ Start with a concrete observation. Instead of saying “communication was poor,�
 Choose one change that the team can test during the next cycle. Define who will do it and what signal would show whether it helped—for example, fewer duplicated reviews or fewer unresolved questions at handoff. Review the result at the next retrospective and keep, adjust, or abandon the experiment.
 
 ## Practical implications
+Documentation quality can be measured through practical use. Ask someone unfamiliar with the task to follow the guide and note where they pause, misinterpret a term, or need information from another page. Compare those observations with support questions and known failure points. This helps the author prioritise changes that reduce confusion rather than simply making the page longer. The review should also check that screenshots, commands, and interface labels still match the supported version. When a step can affect data or permissions, include a clear warning and a safe way to verify the result. A useful guide is one a reader can follow safely, not one that merely looks comprehensive.
 
 Try ending your next retrospective with one action, one owner, and one review date. If the team cannot explain how it will know whether the change worked, the action may be too vague.
 

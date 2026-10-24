@@ -23,6 +23,7 @@ Continuous pavements, safe crossings, lower speeds near schools, and accessible 
 Walking and public transport can also reduce the number of short car trips when alternatives are convenient. This will not remove the need for vehicles, deliveries, or emergency access, and outcomes depend on local geography. However, planning for several modes gives residents more options than a street designed primarily to move cars quickly.
 
 ## Counterargument and response
+Cities should assess changes to streets through the experience of people using them, not only by measuring vehicle speed. A route that moves cars quickly may still be difficult for a child to cross or for a wheelchair user to navigate. Temporary trials can help residents and businesses identify practical problems before a permanent design is chosen. However, consultation should be paired with safety evidence and a clear explanation of the decision, because not every preference can be accommodated simultaneously. The objective is a transport network that supports safe access and necessary movement, rather than a simplistic contest between drivers and pedestrians.
 
 Some drivers argue that road changes make journeys slower or remove parking near shops. Those effects should be measured rather than dismissed. Cities can consult businesses, track loading access, and test designs temporarily before making permanent changes. The goal is to balance access, safety, and movement—not to punish a particular group of travellers.
 

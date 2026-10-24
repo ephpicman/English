@@ -23,6 +23,7 @@ I use a simple order: current status, decisions already made, unresolved risks, 
 The handover should also be tested with the person receiving it. Ask them to locate the latest decision and identify the next owner. If they cannot do that quickly, the document may need a clearer structure or better links. This small review often reveals missing context that the author no longer notices.
 
 ## Practical implications
+A useful way to test the handover is to ask the recipient to find one open decision, identify its owner, and explain what happens next. If they need a verbal explanation, the record may be missing context or burying the key action. This is not a test of the recipient; it is a quick test of the document. The author can then remove unnecessary history, clarify ambiguous status labels, and link to the current source of truth. Over time, the team can keep a short checklist of common omissions and use it before each handover. The goal is not to make every handover identical, but to ensure that essential information travels with the work.
 
 Before your next handover, remove repeated history, make unresolved decisions explicit, and confirm that links and owners are current. Keep the detailed record where it belongs; use the handover to guide the reader through it.
 

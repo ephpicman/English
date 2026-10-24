@@ -23,6 +23,7 @@ Use headings that match the reader’s question, and put prerequisites before co
 Documentation also needs ownership. Version-specific instructions can become dangerous when a product changes, so identify the supported version and make it easy to report an outdated page. A short, accurate guide is more useful than a comprehensive page whose examples no longer run.
 
 ## Practical implications
+A decision log can be short and still be valuable. For each decision, record what was agreed, why it was chosen, who owns implementation, and which condition might cause the team to revisit it. This prevents a provisional idea from becoming an assumed commitment and helps people who missed the meeting understand the reasoning. Keep discussion notes separately if they are useful, but make the decision easy to find. The habit is particularly helpful when a project spans several teams or runs for months, because context otherwise disappears as people move between tasks. A brief review at the start of the next meeting can close completed actions and surface anything that needs a new decision.
 
 Choose one frequently used guide and ask a colleague unfamiliar with the task to follow it. Watch where they hesitate, then revise those points instead of assuming the instructions are self-explanatory.
 

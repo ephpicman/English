@@ -23,6 +23,7 @@ A well-planned trial can expose low-value meetings, repeated approvals, and uncl
 A trial also gives managers a chance to discover where the model does not fit. A hospital ward, retail counter, or customer-support team still needs coverage at particular times. In those settings, a shorter week may require additional staffing, staggered schedules, or a different policy rather than the same arrangement used by an office team.
 
 ## Counterargument and response
+Employers should also distinguish genuine productivity improvement from work simply being compressed into fewer days. If employees respond to messages late at night or skip breaks to meet unchanged targets, the arrangement may be transferring pressure rather than reducing waste. A trial should therefore measure workload, quality, absence, and staff feedback alongside output. The criteria should be agreed before the trial begins so that the organisation does not select only the results that support its preferred conclusion. A careful review may show that a shorter week works well for some teams but needs a different design elsewhere.
 
 Opponents reasonably note that compressed schedules can intensify work and make employees feel obliged to be available after hours. This risk is real if targets remain unchanged while the time available shrinks. The answer is to set boundaries, monitor workload, and stop or redesign the trial when service quality or staff health worsens.
 

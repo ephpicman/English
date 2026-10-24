@@ -23,6 +23,7 @@ For each decision, record the outcome, the accountable owner, and any condition 
 Keep actions specific and review them at the next meeting. “Investigate onboarding” is difficult to close; “compare the current onboarding steps with the approved checklist and report gaps” gives the owner a defined task. Link supporting documents rather than copying large blocks of background into the minutes.
 
 ## Practical implications
+Learning transfer needs an opportunity to practise after the course. A manager can agree on one task where the new skill will be used, set aside time to try it, and arrange feedback from someone who can review the result. The task should be small enough to complete but realistic enough to reveal practical difficulties. If the skill is safety-critical or requires formal qualification, the practice must follow the appropriate supervision and approval process. A course can be a useful starting point, but the workplace should not assume that watching a lesson is the same as demonstrating competence. Planning the practice step in advance makes learning more likely to become part of daily work.
 
 At the end of your next meeting, read back the decisions and action owners before everyone leaves. Correct misunderstandings while the participants are still present.
 
