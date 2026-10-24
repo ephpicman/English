@@ -41,6 +41,14 @@ Idempotency keys require a retention policy. If a key expires too early, a late 
 
 Monitor retry counts, job age, dead-letter volume, and operation outcomes. Alerts should distinguish a single transient retry from a growing backlog. Sensitive job payloads should not be copied into logs or dead-letter records without access controls and retention rules.
 
+### Failure testing and recovery design
+
+The most valuable tests stop the worker at different points in the workflow. Simulate a crash before the external call, after the external service accepts the operation but before the response is received, and after the response arrives but before local state is committed. Each case should have an expected recovery path. If the external service supports idempotency, verify that the same key returns the original outcome; if it does not, verify the reconciliation procedure.
+
+Retries should be bounded and classified. Network timeouts and temporary service unavailability may be retriable, while invalid input or a permanent permission failure usually needs correction rather than repeated attempts. Exponential backoff with jitter can reduce synchronised retry bursts, but the schedule should fit the operation’s deadline and provider limits. A dead-letter queue should preserve enough safe metadata to diagnose the job and provide a controlled replay process.
+
+Operational dashboards should show queue age, retry counts, processing duration, and the number of jobs awaiting manual review. These signals reveal a growing backlog before users report missing outcomes. Keep job payloads protected, and avoid copying sensitive fields into error messages. Safe retry design is a combination of application logic, provider behaviour, and operational response—not a queue setting alone.
+
 ## Conclusion
 
 Safe retries require more than adding a loop around a failed operation. Define job identity, state transitions, external idempotency, and recovery for ambiguous outcomes. Test crashes at each boundary so that the system can explain whether an operation completed, needs retry, or requires manual reconciliation.

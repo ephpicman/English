@@ -44,6 +44,14 @@ Test equal timestamps, deleted records, records inserted between requests, inval
 
 Monitor query duration, page size, invalid-cursor rates, and endpoint failures. Avoid logging the full cursor if it encodes internal state. Performance should be measured using representative data rather than assumed from the pagination method alone.
 
+### A practical validation checklist
+
+Before releasing a cursor-based endpoint, review the contract from the perspective of a client author. Confirm the default and maximum page sizes, the ordering direction, the meaning of an empty result, and the response field used for continuation. Decide whether a cursor is valid only for one filter set and whether it expires. If the cursor is malformed, return a stable documented error rather than silently starting at the first page, because a silent restart can cause clients to repeat work.
+
+The query plan should be inspected with representative data. An index that matches the ordering may help, but additional filters can change which index is effective. Test with a dataset large enough to reveal deep-page behaviour and include skewed distributions, not only evenly distributed synthetic rows. Avoid publishing a performance claim unless it comes from a reproducible benchmark with the environment and query shape recorded.
+
+Finally, define client behaviour when a request fails halfway through pagination. A client should keep the last confirmed cursor and retry according to the documented error policy. It should not advance its local cursor until it has successfully processed the returned page. This coordination between server contract and client logic is essential to avoid missing records.
+
 ## Conclusion
 
 A reliable cursor API needs deterministic ordering, consistent filters, opaque cursor handling, and explicit edge-case behaviour. Test the contract from both server and client perspectives, document how to restart after an invalid cursor, and treat changes to cursor semantics as an API compatibility concern.

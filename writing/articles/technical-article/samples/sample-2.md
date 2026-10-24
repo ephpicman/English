@@ -47,6 +47,14 @@ More logs are not automatically better. Excessive event volume increases cost an
 
 Logs should not be the sole source of audit evidence when stronger integrity guarantees are required. They also cannot replace metrics for aggregate service health or traces for detailed cross-service timing.
 
+### Schema governance and useful alerts
+
+The schema should be small enough that developers can remember its conventions and stable enough that dashboards do not break with every code change. Define which fields are required for every event and which are specific to one event type. Use consistent severity levels and avoid using severity as a substitute for business importance. A validation test can catch a missing correlation identifier before the service is deployed.
+
+Alerts should be based on a signal that requires action, not simply on the presence of an error event. For example, a sustained rise in dependency timeouts may justify an alert, while one isolated validation error may be expected. Pair log queries with service metrics such as request rate, latency, and error proportion. This makes it easier to distinguish a local exception from a wider service degradation.
+
+During rollout, compare the new structured events with existing operational dashboards and verify that the fields arrive with the expected types. If a field changes, review downstream queries and retention implications before deploying the change. A documented schema version may help where several service versions emit events during a gradual deployment, but the team should introduce it only if it solves a real compatibility problem.
+
 ## Conclusion
 
 A useful logging system combines a stable schema, safe context, and a clear review process. Define which operational question each field answers, verify redaction, and test dashboards after schema changes. This keeps logs actionable without allowing sensitive data or unnecessary fields to accumulate.

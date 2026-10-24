@@ -41,6 +41,14 @@ Secret stores can become dependencies at startup or during rotation, so the serv
 
 A secret-management service does not compensate for excessive permissions on the credential itself. Prefer short-lived or workload-bound credentials when supported and appropriate. Review permissions periodically and remove unused keys.
 
+### Rotation, revocation, and incident response
+
+Credential rotation is a lifecycle, not a single update. The owner should know where a credential is used, how a replacement is issued, how services pick it up, and how the old credential is revoked. For systems that support overlapping credentials, the rollout can create the new secret, deploy consumers, verify successful calls, and then revoke the old value. Where overlap is not supported, plan the change carefully and communicate the possible interruption.
+
+If a secret is exposed, first follow the incident process to assess scope and revoke or rotate the credential. Review logs and access records for suspicious use, but avoid copying the exposed value into tickets or chat. Remove the secret from the source location and prevent future commits with scanning or pre-commit checks. Remember that deleting a line from the latest version does not remove the value from repository history or any copies already made.
+
+Test the rotation procedure in a non-production environment and document the expected failure mode if the secret store is unavailable. Short-lived credentials can reduce the exposure window where the platform supports them, but they still require monitoring and a reliable renewal mechanism. Review permissions periodically and remove credentials that no longer have an owner or active use. These operational steps make the storage design effective beyond its initial implementation.
+
 ## Conclusion
 
 Credential safety depends on storage, access, rotation, logging, and incident response working together. Use the approved secret store, minimise permissions, test rotation, and treat accidental exposure as a credential incident rather than a simple file-cleanup task.

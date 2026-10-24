@@ -41,6 +41,14 @@ A file can pass structural checks while still containing incorrect business info
 
 Track validation failures by rule and source, not just the total number of rejected files. This helps identify whether the problem comes from a producer change, a data-entry issue, or an overly strict rule.
 
+### Validation reports and pipeline integration
+
+A validation report should help the producer correct the source file. Group errors by rule and column, include a safe row reference, and show a limited number of examples. If every row is invalid, the pipeline should not emit an enormous error log; summarise the scale of the problem and save detailed records only in an approved location. Where a file contains personal information, access to the quarantine area and its retention period need explicit controls.
+
+Integrate validation before any irreversible transformation or downstream publication. A pipeline may allow a warning for an optional field but should stop when a required identifier is missing or the schema is incompatible. These severity rules should be documented with the data owner. If the source contract changes, version the schema and update tests so that the change is deliberate and reviewable.
+
+Monitor validation failures over time by source and rule. A sudden increase can indicate a producer-side change, a broken export, or a rule that no longer reflects valid business cases. Do not automatically loosen a rule just to make the pipeline green; investigate whether the input changed legitimately and obtain approval for any contract update. This keeps validation useful as both a quality gate and a diagnostic signal.
+
 ## Conclusion
 
 Reliable ingestion begins with an explicit data contract and a validation stage that explains failures. Preserve source data, separate structural from domain checks, and treat schema changes as reviewed changes rather than assumptions. This makes pipeline behaviour more predictable and errors easier to resolve.
