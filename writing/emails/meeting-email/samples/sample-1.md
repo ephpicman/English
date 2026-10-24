@@ -1,23 +1,27 @@
-# Request for a project planning meeting
+# Planning meeting: autumn launch checklist
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative meeting email. Confirm date, time, location, and links before sending.*
 
 ## Subject
 
-**Request for a project planning meeting**
+Planning meeting: autumn launch checklist
 
 ## Purpose and outcome
 
-Hello [Recipient], could we arrange a short meeting about request for a project planning meeting? I suggest [two possible times], but I can adapt to your availability. The intended outcome is to agree the next steps and assign responsibilities.
+The aim is to confirm which launch tasks are complete, identify open dependencies, and agree owners for the remaining work.
 
 ## Logistics
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Tuesday, 3 November, 10:00–10:45 a.m. Room Cedar / video link in the calendar invitation. Please tell me if you need an accessible format or remote attendance.
 
 ## Agenda and preparation
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+1. Review current readiness status (10 minutes)
+2. Resolve the outstanding content and support questions (15 minutes)
+3. Confirm owners and target dates (15 minutes)
+4. Recap decisions and risks (5 minutes)
+Please review the shared checklist and add any blocker before the meeting.
 
 ## Confirmation and sign-off
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Please accept or decline the calendar invitation so we can confirm attendance. Best, Morgan

@@ -1,35 +1,45 @@
-# Request for approval to attend training
+# Request for flexible start time next Tuesday
 
-*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
+*Illustrative request email. Confirm names, costs, deadlines, and permissions before sending.*
+
+## Plan before drafting
+
+The request is specific, includes relevant context, and states a realistic response date without assuming approval.
 
 ## Email structure
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Use the subject and short sections below to make the action easy to identify.
 
 ## Subject line
 
-**Request for approval to attend training**
+Request for flexible start time next Tuesday
 
 ## Greeting and direct request
 
-Dear [Recipient], I am writing to request request for approval to attend training. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+Hello,
+
+Could I start at 10 a.m. next Tuesday and work my usual hours later in the day?
 
 ## Context and rationale
 
-Dear [Recipient], I am writing to request request for approval to attend training. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+I have an appointment early that morning and will not be able to arrive at the usual start time.
 
 ## Specific details and constraints
 
-Dear [Recipient], I am writing to request request for approval to attend training. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+I can attend the scheduled afternoon review and will complete the morning handover notes before the end of Monday. Please let me know if the team needs me to arrange coverage for any specific task.
 
 ## Deadline and flexibility
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+I am asking in advance so the schedule can be adjusted if approved.
 
 ## Thanks and sign-off
 
-Dear [Recipient], I am writing to request request for approval to attend training. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+Thank you for considering this. Kind regards, Priya
+
+## Final checklist
+
+Before sending, verify the recipient, deadline, relevant attachments, and any cost or access details. Keep the request proportional and do not imply approval has already been granted.
 
 ## IELTS-oriented language practice
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Notice the direct request, concise explanation, and polite flexibility. In a real workplace email, clarity and accurate details matter more than elaborate wording.

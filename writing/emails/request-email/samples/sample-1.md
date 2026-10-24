@@ -1,35 +1,45 @@
-# Request for a deadline extension
+# Request for approval to attend a training course
 
-*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
+*Illustrative request email. Confirm names, costs, deadlines, and permissions before sending.*
+
+## Plan before drafting
+
+The request is specific, includes relevant context, and states a realistic response date without assuming approval.
 
 ## Email structure
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Use the subject and short sections below to make the action easy to identify.
 
 ## Subject line
 
-**Request for a deadline extension**
+Request for approval to attend a training course
 
 ## Greeting and direct request
 
-Dear [Recipient], I am writing to request request for a deadline extension. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+Hello,
+
+I would like approval to attend the one-day course on accessible document design on 19 November.
 
 ## Context and rationale
 
-Dear [Recipient], I am writing to request request for a deadline extension. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+The course covers practical checks for headings, document structure, and screen-reader navigation. These topics are relevant to the guidance documents I help prepare.
 
 ## Specific details and constraints
 
-Dear [Recipient], I am writing to request request for a deadline extension. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+The fee is listed as €180, excluding travel. I have checked the team calendar and can complete the scheduled review work before the course. I will share the key learning points with the team afterwards.
 
 ## Deadline and flexibility
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Could you let me know by 6 November so I can reserve a place? If the budget is not available this month, I would be happy to discuss a later session.
 
 ## Thanks and sign-off
 
-Dear [Recipient], I am writing to request request for a deadline extension. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+Thank you for considering the request. Best regards, Jamie
+
+## Final checklist
+
+Before sending, verify the recipient, deadline, relevant attachments, and any cost or access details. Keep the request proportional and do not imply approval has already been granted.
 
 ## IELTS-oriented language practice
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Notice the direct request, concise explanation, and polite flexibility. In a real workplace email, clarity and accurate details matter more than elaborate wording.

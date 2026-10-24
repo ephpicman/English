@@ -1,35 +1,45 @@
-# Request for a schedule adjustment
+# Request to move a project check-in
 
-*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
+*Illustrative request email. Confirm names, costs, deadlines, and permissions before sending.*
+
+## Plan before drafting
+
+The request is specific, includes relevant context, and states a realistic response date without assuming approval.
 
 ## Email structure
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Use the subject and short sections below to make the action easy to identify.
 
 ## Subject line
 
-**Request for a schedule adjustment**
+Request to move a project check-in
 
 ## Greeting and direct request
 
-Dear [Recipient], I am writing to request request for a schedule adjustment. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+Hello,
+
+Would it be possible to move our Friday project check-in from 3 p.m. to either 11 a.m. Friday or 2 p.m. Monday?
 
 ## Context and rationale
 
-Dear [Recipient], I am writing to request request for a schedule adjustment. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+A client review has been scheduled over the original slot, and I need to attend that discussion.
 
 ## Specific details and constraints
 
-Dear [Recipient], I am writing to request request for a schedule adjustment. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+I can send the status update and risk list before the meeting, so moving the call should not delay the team’s decisions. If neither alternative suits everyone, I can ask a colleague to present my section.
 
 ## Deadline and flexibility
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Please let me know which option works by Thursday noon so I can update the calendar invitation.
 
 ## Thanks and sign-off
 
-Dear [Recipient], I am writing to request request for a schedule adjustment. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+Thanks for considering the change. Best, Amira
+
+## Final checklist
+
+Before sending, verify the recipient, deadline, relevant attachments, and any cost or access details. Keep the request proportional and do not imply approval has already been granted.
 
 ## IELTS-oriented language practice
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Notice the direct request, concise explanation, and polite flexibility. In a real workplace email, clarity and accurate details matter more than elaborate wording.

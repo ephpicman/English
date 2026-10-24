@@ -1,23 +1,23 @@
-# Rescheduling a team meeting
+# Interview panel preparation
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative meeting email. Confirm date, time, location, and links before sending.*
 
 ## Subject
 
-**Rescheduling a team meeting**
+Interview panel preparation
 
 ## Purpose and outcome
 
-Hello [Recipient], could we arrange a short meeting about rescheduling a team meeting? I suggest [two possible times], but I can adapt to your availability. The intended outcome is to agree the next steps and assign responsibilities.
+The meeting will align the panel on role criteria, interview timing, and a consistent process for recording evidence.
 
 ## Logistics
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Monday, 16 November, 9:30–10:00 a.m. Meeting room 2, with a video option for remote panel members.
 
 ## Agenda and preparation
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Please read the approved role description before joining. We will confirm the question order, allocate note-taking, review accessibility arrangements, and agree how to handle candidate questions. We will not discuss assumptions about candidates that are unrelated to the published criteria.
 
 ## Confirmation and sign-off
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Please confirm attendance and flag any conflict with the proposed time. Thank you, Elena

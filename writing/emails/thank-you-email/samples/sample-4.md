@@ -1,31 +1,41 @@
-# Thank-you to a helpful colleague
+# Thank you for the workshop feedback
 
-*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
+*Illustrative thank-you email. Keep the details specific to the help actually received.*
+
+## Plan before drafting
+
+Name the contribution, explain its effect, and include a next step only if it is useful.
 
 ## Email structure
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+A brief, specific message is more meaningful than generic praise.
 
 ## Subject line
 
-**Thank-you to a helpful colleague**
+Thank you for the workshop feedback
 
 ## Greeting and direct thanks
 
-Dear [Recipient], thank you for thank-you to a helpful colleague. I appreciate the time and care you gave to this matter. Your help was useful because it clarified the next steps and made it easier to move forward with confidence.
+Hello,
+
+Thank you for reviewing the workshop plan and suggesting a shorter opening activity.
 
 ## Specific detail and impact
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Your feedback helped me see that the original introduction left too little time for participants to practise the main task. I have revised the schedule and added a clear transition between the demonstration and group exercise.
 
 ## Follow-up or next step
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+I will share the updated version with the facilitators before the final planning check.
 
 ## Warm closing and sign-off
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Thanks again for helping improve the session. Best, Sam
+
+## Final checklist
+
+Confirm the recipient’s name and the event or contribution being acknowledged. Do not exaggerate the impact or promise follow-up that you cannot deliver.
 
 ## IELTS-oriented language practice
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+The message uses a direct expression of thanks, a concrete detail, and a natural close. For real correspondence, sincerity and specificity are more important than formal-sounding phrases.

@@ -1,23 +1,23 @@
-# Meeting invitation for a design review
+# Weekly support review — recurring issues
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative meeting email. Confirm date, time, location, and links before sending.*
 
 ## Subject
 
-**Meeting invitation for a design review**
+Weekly support review — recurring issues
 
 ## Purpose and outcome
 
-Hello [Recipient], could we arrange a short meeting about meeting invitation for a design review? I suggest [two possible times], but I can adapt to your availability. The intended outcome is to agree the next steps and assign responsibilities.
+We will review the most common support issues from the past week and decide which need documentation changes or escalation.
 
 ## Logistics
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Thursday, 12 November, 2:00–2:30 p.m. Online meeting; link is in the calendar event.
 
 ## Agenda and preparation
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Please bring one example of a recurring question, with personal or customer-identifying details removed. Proposed agenda: review patterns, confirm priority, assign a documentation owner, and agree how we will check whether the change helped.
 
 ## Confirmation and sign-off
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+If you cannot attend, please send your example and any suggested action by Wednesday afternoon. Regards, Priya

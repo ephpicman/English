@@ -1,23 +1,23 @@
-# Request for a short decision meeting
+# Workshop planning: participant experience
 
-*Illustrative example. Replace all bracketed details with verified information before real use.*
+*Illustrative meeting email. Confirm date, time, location, and links before sending.*
 
 ## Subject
 
-**Request for a short decision meeting**
+Workshop planning: participant experience
 
 ## Purpose and outcome
 
-Hello [Recipient], could we arrange a short meeting about request for a short decision meeting? I suggest [two possible times], but I can adapt to your availability. The intended outcome is to agree the next steps and assign responsibilities.
+This meeting will finalise the workshop flow and identify anything that could prevent participants from taking part fully.
 
 ## Logistics
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Friday, 20 November, 1:00–1:45 p.m. Studio room, ground floor; step-free access is available.
 
 ## Agenda and preparation
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Please review the draft schedule and materials. We will check timing, room layout, technology, breaks, and the instructions participants will receive in advance. Bring any accessibility or facilitation concern so it can be addressed before the event.
 
 ## Confirmation and sign-off
 
-Use a concise, courteous tone and include only verified details. Check recipient, subject, dates, reference numbers, and the requested outcome before sending.
+Please reply by Wednesday if you need materials in another format. Kind regards, Sam

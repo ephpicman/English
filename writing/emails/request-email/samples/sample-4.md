@@ -1,35 +1,45 @@
-# Request for a reference letter
+# Request for feedback on draft report
 
-*Practice example. Essay prompts are illustrative; adapt the response to the exact task wording.*
+*Illustrative request email. Confirm names, costs, deadlines, and permissions before sending.*
+
+## Plan before drafting
+
+The request is specific, includes relevant context, and states a realistic response date without assuming approval.
 
 ## Email structure
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Use the subject and short sections below to make the action easy to identify.
 
 ## Subject line
 
-**Request for a reference letter**
+Request for feedback on draft report
 
 ## Greeting and direct request
 
-Dear [Recipient], I am writing to request request for a reference letter. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+Hello,
+
+Could you review the attached draft report, focusing on whether the recommendations follow clearly from the findings?
 
 ## Context and rationale
 
-Dear [Recipient], I am writing to request request for a reference letter. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+I have checked the references and completed the first edit, but I would value a reader’s view on the logic between the evidence and the proposed actions.
 
 ## Specific details and constraints
 
-Dear [Recipient], I am writing to request request for a reference letter. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+The most useful feedback would be on the executive summary and recommendation section. Comments in the document are fine; you do not need to proofread every sentence at this stage.
 
 ## Deadline and flexibility
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+If you can send comments by 24 November, I can incorporate them before the planned review meeting. If that timing is difficult, please suggest a more realistic date.
 
 ## Thanks and sign-off
 
-Dear [Recipient], I am writing to request request for a reference letter. The reason is [brief, accurate context], and I have considered the effect on the team's plans. Would it be possible to [specific request] by [confirmed date]? I can provide further details if needed.
+Thank you for your time. Regards, Daniel
+
+## Final checklist
+
+Before sending, verify the recipient, deadline, relevant attachments, and any cost or access details. Keep the request proportional and do not imply approval has already been granted.
 
 ## IELTS-oriented language practice
 
-Thank you for considering this. Please let me know if you need any additional information. I appreciate your time and look forward to hearing from you.
+Notice the direct request, concise explanation, and polite flexibility. In a real workplace email, clarity and accurate details matter more than elaborate wording.
