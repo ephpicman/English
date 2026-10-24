@@ -1,19 +1,18 @@
-# Reply to a professional post: You argue that feedback should always be direct and blunt.
+# Reply to a post about measuring employee productivity
 
-*Illustrative reply. Use only when it accurately responds to the original post.*
+*Illustrative reply; adapt it to the role and workplace context.*
 
 ## Point being answered
 
-You argue that feedback should always be direct and blunt.
+You suggest that response speed is a good measure of productivity.
 
 ## Response and reasoning
 
-Directness is useful, but feedback is most effective when it is specific and respectful.
+It can matter in roles with defined service targets, but it is not a fair measure for every kind of work.
 
 ## Added value
 
-Describe the observed behaviour, explain its effect, and agree on a next step. That keeps the conversation honest without turning it into a judgment about someone’s character.
+For complex tasks, quality, completion, and the ability to prevent rework may be more useful indicators than how quickly someone replies to a message.
 
 ## Optional close
 
-How do you keep feedback clear without making it personal?

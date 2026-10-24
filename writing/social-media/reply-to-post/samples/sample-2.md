@@ -1,19 +1,18 @@
-# Reply to a professional post: You suggest that documentation should include every possible detail.
+# Reply to a post about returning to the office
 
-*Illustrative reply. Use only when it accurately responds to the original post.*
+*Illustrative reply; tailor it to the original claim and avoid assuming every role is the same.*
 
 ## Point being answered
 
-You suggest that documentation should include every possible detail.
+You argue that office work is always more collaborative.
 
 ## Response and reasoning
 
-Completeness matters, but the reader’s task should determine how the information is organised.
+Being in the same room can help with informal discussion, but it does not automatically mean decisions are shared or recorded clearly.
 
 ## Added value
 
-A quick-start path can help new users begin, while reference details and troubleshooting steps remain available in separate sections. That keeps critical steps visible without losing depth.
+Teams may get more from in-person time when it is planned for mentoring, workshops, or decisions that benefit from live discussion.
 
 ## Optional close
 
-How do you decide what belongs in the main path?

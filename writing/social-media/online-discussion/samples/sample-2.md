@@ -1,23 +1,23 @@
-# Online discussion: Is remote work always more productive?
+# Online discussion: Is remote work better than office work?
 
-*Illustrative response to a discussion prompt. Adjust it to the actual context and other participants’ contributions.*
+*Illustrative response; respond to the specific points raised in the discussion.*
 
 ## Direct response
 
-Remote work is not automatically more or less productive; the result depends on the task, team norms, and working conditions.
+I do not think one arrangement is best for every role; the decision should depend on the work and the people doing it.
 
 ## Reasoning and support
 
-Focused individual work may benefit from fewer interruptions, while onboarding, sensitive conversations, and rapid collaboration may need more deliberate coordination. Productivity should be judged by outcomes and quality rather than online presence alone.
+Remote work can reduce commuting and give employees more control over focused tasks. Office work can make informal learning and quick coordination easier, particularly for new colleagues or work that depends on shared equipment. The quality of management and communication matters in either setting.
 
 ## Example or qualification
 
-A team could agree on response windows, document decisions, and use in-person time for work that genuinely benefits from being together. It should also consider home working conditions and access needs.
+A team writing a technical report may work effectively remotely if decisions are documented. A group training new staff may benefit from scheduled in-person sessions, especially during the early weeks.
 
 ## Engage another view
 
-Some people value the spontaneous learning that happens in an office, and that is a legitimate concern. Teams can create mentoring and collaboration opportunities without assuming that every task needs the same location.
+People who prefer a fully remote policy are right to value flexibility, but flexibility is not useful if some employees lack suitable workspace or feel disconnected from the team. Those constraints need to be addressed directly.
 
 ## Synthesis or question
 
-Rather than debating a universal rule, organisations should test arrangements against the work they need to deliver and review the results with staff.
+A clear hybrid policy may work well when attendance has a purpose rather than being required by default.

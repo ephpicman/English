@@ -1,19 +1,18 @@
-# Reply to a professional post: You claim that more metrics always improve decisions.
+# Reply to a post about public speaking confidence
 
-*Illustrative reply. Use only when it accurately responds to the original post.*
+*Illustrative reply; tailor the response to the specific advice being discussed.*
 
 ## Point being answered
 
-You claim that more metrics always improve decisions.
+You recommend practising a presentation repeatedly before delivering it.
 
 ## Response and reasoning
 
-Metrics help when they represent the outcome the team actually cares about; adding more measures can also create noise.
+I agree that rehearsal helps, especially when it reveals awkward transitions or unclear explanations.
 
 ## Added value
 
-I would start with a decision to be made, choose a small set of relevant indicators, and note what each metric cannot tell us. Qualitative feedback may reveal context the dashboard misses.
+It can also help to practise once with someone who has not seen the material; their questions may reveal assumptions that are obvious only to the presenter.
 
 ## Optional close
 
-Which metric has changed a decision for you recently?

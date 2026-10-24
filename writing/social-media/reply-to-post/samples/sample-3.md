@@ -1,19 +1,18 @@
-# Reply to a professional post: You say remote teams cannot build trust.
+# Reply to a post about using AI for research
 
-*Illustrative reply. Use only when it accurately responds to the original post.*
+*Illustrative reply; follow the relevant academic or workplace rules.*
 
 ## Point being answered
 
-You say remote teams cannot build trust.
+You recommend using AI tools to speed up research.
 
 ## Response and reasoning
 
-I think trust is possible remotely, although it usually requires intentional habits rather than relying on informal office contact.
+They can help generate search terms or organise early questions, but the output still needs verification against reliable sources.
 
 ## Added value
 
-Clear commitments, visible decisions, dependable follow-through, and time for informal conversation can all help. The right mix will vary by team and the kind of work involved.
+I would treat generated references and factual claims as unconfirmed until I can locate the original source and check that it supports the point.
 
 ## Optional close
 
-What practice has helped your remote team connect?

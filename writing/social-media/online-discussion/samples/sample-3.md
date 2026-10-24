@@ -1,23 +1,23 @@
-# Online discussion: Should teams prioritise speed or quality?
+# Online discussion: Should schools limit smartphone use?
 
-*Illustrative response to a discussion prompt. Adjust it to the actual context and other participants’ contributions.*
+*Illustrative response; adapt the view to the age group and school policy being discussed.*
 
 ## Direct response
 
-Teams should define the acceptable quality threshold first, then optimise speed within that boundary.
+Schools should set clear limits on smartphone use during learning time, while allowing exceptions for accessibility, safety, and approved educational activities.
 
 ## Reasoning and support
 
-The right balance depends on the cost of an error. A draft for internal discussion can tolerate different risks from a payment change, medical instruction, or security-sensitive release.
+Notifications and social applications can interrupt concentration, and unclear rules can lead to arguments between students and teachers. A consistent policy helps students understand when devices should be put away and when they are permitted for a learning task.
 
 ## Example or qualification
 
-A team might release a small feature behind a flag while keeping automated checks and a rollback path. That creates a faster feedback loop without pretending that testing is unnecessary.
+A teacher might ask students to keep phones in their bags during explanation and discussion, then invite them to use a device for a planned research activity. The policy should also provide an alternative for students who rely on a phone for a documented access need.
 
 ## Engage another view
 
-It is true that excessive review can delay useful work. The answer is to make reviews proportional to risk, not to remove them indiscriminately.
+Some argue that students need to learn self-control rather than follow a ban. That is a fair point, but teaching responsible use works better when expectations are clear and applied consistently.
 
 ## Synthesis or question
 
-Speed and quality are not always opposites; clear scope, small changes, and proportionate safeguards can support both.
+The goal should be focused learning and responsible habits, not punishment for owning a device.
