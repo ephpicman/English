@@ -5,17 +5,11 @@ Identify the intended professional reader, the decision or practice the article 
 ## Draft structure
 The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
 ## Title
-
 **Building a practical data governance routine**
-
 ## Executive opening
-
 Data governance is often treated as a large policy project, but many teams need a repeatable way to decide what a field means, who may change it, and how a correction is recorded. A lightweight routine can improve consistency without creating unnecessary approval layers. The key is to make ownership, definitions, and change history visible while applying stronger controls to higher-risk data.
-
 ## Context, definitions, and scope
-
 This article focuses on operational data used across teams. It does not replace legal, privacy, security, or sector-specific obligations. Organisations should align any proposed routine with their approved governance framework and data classification rules.
-
 ## Professional insight 1
 
 Start with a data dictionary for the fields that influence important reports or workflows. Record a plain-language definition, allowed values, source system, owner, and known caveats. When two systems use the same label differently, keep the values separate until the owners agree on a mapping. A shared name is not proof of shared meaning.
@@ -35,6 +29,8 @@ Choose a small group of high-impact fields, assign owners, and hold a short mont
 A dictionary can become stale if no one owns it, and excessive approval steps can delay harmless corrections. Use risk-based review and distinguish wording changes from changes that alter meaning or downstream results.
 
 ## Conclusion
+
+Governance should be treated as a service to people who use data, not only as a control imposed on them. The process needs a straightforward route for asking a question, proposing a definition change, and resolving disagreement. A short decision record can capture the final meaning, the evidence considered, and any affected reports. Periodically reviewing these records helps identify repeated ambiguity and shows where the data model itself may need to change. The goal is to make responsible use easier, while ensuring that sensitive information remains protected and important decisions can be traced.
 
 Effective governance is a working habit, not a document that sits unused. Clear ownership and traceable definitions help teams make consistent decisions while keeping the process proportionate to the data’s importance.
 

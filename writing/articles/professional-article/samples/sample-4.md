@@ -5,17 +5,11 @@ Identify the intended professional reader, the decision or practice the article 
 ## Draft structure
 The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
 ## Title
-
 **Making cross-functional projects easier to govern**
-
 ## Executive opening
-
 Cross-functional projects can lose momentum when teams use different definitions of progress, dependencies are hidden, or decisions are recorded only in meeting conversations. Good governance provides a shared view of goals, risks, owners, and decision rights without turning every task into a committee process. The right structure is the lightest one that makes important trade-offs visible and allows the project to respond to change.
-
 ## Context, definitions, and scope
-
 This article addresses internal projects involving several teams and a shared delivery goal. It is not a substitute for formal governance required by regulated or high-risk work. The examples are illustrative and should be adapted to the organisation’s approval structure.
-
 ## Professional insight 1
 
 A concise project record should identify the intended outcome, scope, milestones, accountable owner, and measures of success. Teams should distinguish a completed activity from an achieved outcome: holding a workshop is an activity, while a decision made from the workshop may be an outcome. This distinction keeps reporting connected to purpose.
@@ -35,6 +29,8 @@ Agree a small set of shared status definitions, review dependencies weekly, and 
 Too much reporting can consume the time needed to deliver the work. Too little can leave teams surprised by a dependency. Review the governance routine with participants and remove fields that do not support decisions.
 
 ## Conclusion
+
+Governance can be improved by making decision rights explicit at the start of a project. The team should know which choices the project owner can make, which require sponsor approval, and which need specialist review. This prevents decisions from being delayed because participants assume someone else has authority. It also protects the team from making a change that exceeds its remit. A concise decision log should record the choice, rationale, owner, and any condition that would trigger reconsideration. This is particularly valuable when team membership changes during a long project.
 
 Good governance is not paperwork for its own sake. It helps teams understand the same priorities, act on risks early, and preserve the reasoning behind important decisions.
 

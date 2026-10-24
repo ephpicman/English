@@ -5,17 +5,11 @@ Identify the intended professional reader, the decision or practice the article 
 ## Draft structure
 The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
 ## Title
-
 **Planning a responsible pilot for process automation**
-
 ## Executive opening
-
 Automation can make a stable process faster and more consistent, but it can also reproduce unclear rules at greater speed. A responsible pilot starts by mapping the process, identifying exceptions, and defining how a human can intervene when the system behaves unexpectedly. The purpose of a pilot is to learn whether automation is suitable, not to prove that the initial idea must be adopted.
-
 ## Context, definitions, and scope
-
 This article is intended for operational teams considering automation of a repeatable administrative task. It does not assume a particular tool or integration. Technical, privacy, and security reviews may be necessary depending on the data and actions involved.
-
 ## Professional insight 1
 
 Document the current process before selecting a tool. Identify inputs, decisions, exception cases, approvals, and the consequences of an incorrect action. If two staff members follow different rules for the same case, automation requires a policy decision before it requires code.
@@ -35,6 +29,8 @@ Select one low-risk workflow, establish a baseline, and agree acceptance criteri
 Automation may expose personal data to an unapproved service or perform actions that are difficult to reverse. Confirm access permissions, retention, monitoring, and rollback before using real records.
 
 ## Conclusion
+
+Automation should be evaluated as an ongoing service with a lifecycle, not as a one-time build. The team needs an owner for the rules, a process for reviewing failures, and a way to pause the automation when inputs change unexpectedly. Monitor both successful processing and exceptions, since a high success rate can conceal a small number of costly failures. Before expanding, confirm that staff know how to handle cases outside the automated path and that the manual fallback remains usable. These operating responsibilities should be included in the cost and benefit assessment from the beginning.
 
 Responsible automation begins with a clear process and a testable problem. A limited pilot with explicit safeguards helps a team decide whether automation improves the work without hiding new risks.
 
