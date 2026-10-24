@@ -1,39 +1,53 @@
-# Proposal to reduce meeting overload
+# Proposal to improve onboarding guidance
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative improvement proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+
+## Before you draft
+
+The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
 
 ## Draft structure
 
-This section should support a clear decision about proposal to reduce meeting overload. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The sections below distinguish the current problem, the recommended approach, and the decision being requested.
 
 ## Title and metadata
 
-**Proposal to reduce meeting overload**
+Proposal to improve onboarding guidance
+Owner: Process improvement lead | Status: Proposal
 
 ## Executive summary
 
-**Purpose:** Proposal to reduce meeting overload. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+Consolidate the five most-used onboarding tasks into task-based guides, name a content owner for each, and add a quarterly link review. A limited pilot will test whether the change addresses the observed problem before wider adoption.
 
 ## Current process and evidence of the problem
 
-The current process presents a clearly defined opportunity to improve consistency and user experience. The brief should describe the observed problem, who is affected, what evidence supports the diagnosis, and what falls outside scope. Separate confirmed facts from assumptions; do not imply that illustrative details are measured results.
+New colleagues receive the same setup instructions in several places, and some pages list prerequisites after the steps that depend on them.
 
 ## Root causes and constraints
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+Clear task headings and current links should make instructions easier to locate. A platform replacement is not proposed until content and ownership issues have been addressed. Constraints include staff time, existing tools, and the need to keep current responsibilities clear.
 
 ## Recommended improvement
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Consolidate the five most-used onboarding tasks into task-based guides, name a content owner for each, and add a quarterly link review.
 
 ## Implementation and change management
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Select guides in week 1; revise drafts in weeks 2–3; test with new readers in week 4; revise and publish in week 5. People operations coordinates; page owners validate procedures.
 
 ## Benefits, costs, and risks
 
-Resource requirements, dependencies, and risks must be confirmed with the responsible team. Consider staff time, maintenance, accessibility, privacy, and the cost of interruption. Record each material risk with a likelihood, impact, mitigation, and owner rather than presenting estimates as approved figures.
+The main investment is staff editing and review time. Any tooling cost is excluded unless the pilot identifies a specific requirement. Success should be measured by reader task completion, correction requests, and feedback.
+A guide may become stale if ownership is unclear or linked policies change. Assign owners and include a review date; do not duplicate policy text that is maintained elsewhere.
 
 ## Measures, review, and approval
 
-The recommended next step is to approve the scoped planning work, confirm ownership, and agree how results will be reviewed. Proceed only when the required resources, risks, and success criteria are explicit. Revisit the recommendation if evidence changes.
+Approve a five-guide pilot. Expand only if readers can locate the correct steps and content owners can maintain the pages within the agreed effort.
+
+## Language and quality review
+
+Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+
+## IELTS-oriented practice note
+
+The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.

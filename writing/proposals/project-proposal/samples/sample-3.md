@@ -1,43 +1,57 @@
-# Proposal for a student mentoring pilot
+# Proposal for accessible community workshop registration
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative project proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+
+## Before you draft
+
+The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
 
 ## Draft structure
 
-This section should support a clear decision about proposal for a student mentoring pilot. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The sections below distinguish the current problem, the recommended approach, and the decision being requested.
 
 ## Title and project metadata
 
-**Proposal for a student mentoring pilot**
+Proposal for accessible community workshop registration
+Sponsor: Operations manager | Project owner: Process lead | Status: Proposed
 
 ## Executive summary
 
-**Purpose:** Proposal for a student mentoring pilot. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+Create a standard event record containing date, duration, venue, access information, cost, registration steps, and a contact route. Reuse it across promotional channels. The project aims to test feasibility, usability, and maintenance effort before expansion.
 
 ## Problem, opportunity, and objectives
 
-The current process presents a clearly defined opportunity to improve consistency and user experience. The brief should describe the observed problem, who is affected, what evidence supports the diagnosis, and what falls outside scope. Separate confirmed facts from assumptions; do not imply that illustrative details are measured results.
+Event notices sometimes omit access details and the registration confirmation does not consistently explain what participants should expect.
+Objective: improve clarity and traceability without adding disproportionate administrative work.
 
 ## Scope, deliverables, and exclusions
 
-The current process presents a clearly defined opportunity to improve consistency and user experience. The brief should describe the observed problem, who is affected, what evidence supports the diagnosis, and what falls outside scope. Separate confirmed facts from assumptions; do not imply that illustrative details are measured results.
+Deliverables: a documented process, a short user guide, pilot feedback, and a review recommendation. Exclusions: new enterprise software and changes to unrelated workflows.
 
 ## Approach and work packages
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Draft the fields with outreach staff in week 1; test on two events in weeks 2–3; gather participant questions; revise before wider use. The outreach lead owns the record and the event organiser approves final details.
 
 ## Timeline, roles, and governance
 
-Use staged milestones: confirm the brief and baseline, prepare the pilot, test with a small group, review the evidence, and decide whether to expand. Add actual dates and accountable owners only after agreement; dependencies and approval steps should be visible.
+The project owner coordinates delivery; team leads validate the workflow; the sponsor resolves cross-team dependencies. Review progress weekly and record decisions.
 
 ## Resources, budget, and procurement
 
-Resource requirements, dependencies, and risks must be confirmed with the responsible team. Consider staff time, maintenance, accessibility, privacy, and the cost of interruption. Record each material risk with a likelihood, impact, mitigation, and owner rather than presenting estimates as approved figures.
+Costs are primarily staff time and any required accessible-format preparation. Venue and translation costs must be estimated from the actual event plan rather than assumed.
 
 ## Risks, assumptions, and mitigations
 
-Resource requirements, dependencies, and risks must be confirmed with the responsible team. Consider staff time, maintenance, accessibility, privacy, and the cost of interruption. Record each material risk with a likelihood, impact, mitigation, and owner rather than presenting estimates as approved figures.
+The process may add work if the form is too long. Keep fields limited to information participants need and assign one person to approve publication.
 
 ## Success criteria and decision
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+Approve a two-event pilot. Review correction requests, repeated enquiries, and optional participant feedback before standardising the form.
+
+## Language and quality review
+
+Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+
+## IELTS-oriented practice note
+
+The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.

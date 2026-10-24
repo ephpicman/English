@@ -1,43 +1,59 @@
-# Proposal to introduce automated testing
+# Proposal to introduce a shared service-request queue
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative technical proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+
+## Before you draft
+
+The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
 
 ## Draft structure
 
-This section should support a clear decision about proposal to introduce automated testing. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The sections below distinguish the current problem, the recommended approach, and the decision being requested.
 
 ## Title, version, and technical context
 
-**Proposal to introduce automated testing**
+Proposal to introduce a shared service-request queue
+Version: Draft 0.1 | Context: Internal workflow tooling | Date: 24 October 2026
 
 ## Executive summary
 
-**Purpose:** Proposal to introduce automated testing. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+Pilot one shared queue for facilities requests with required fields for owner, status, next action, and due date. Keep urgent safety issues on the existing escalation route. This is a design proposal, not a claim that the change has been implemented or tested.
 
 ## Problem statement and requirements
 
-The current process presents a clearly defined opportunity to improve consistency and user experience. The brief should describe the observed problem, who is affected, what evidence supports the diagnosis, and what falls outside scope. Separate confirmed facts from assumptions; do not imply that illustrative details are measured results.
+Internal requests currently arrive through email and spreadsheets, making ownership and priority difficult to track.
+Requirements: clear ownership, traceable status changes, access control, and a reversible pilot.
 
 ## Current architecture and constraints
 
-This section should support a clear decision about proposal to introduce automated testing. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The current process relies on existing collaboration tools and manual handoffs. Any integration, API, retention rule, and permission model must be confirmed against the actual platform before implementation.
 
 ## Proposed design and rationale
 
-This section should support a clear decision about proposal to introduce automated testing. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+Pilot one shared queue for facilities requests with required fields for owner, status, next action, and due date. Keep urgent safety issues on the existing escalation route.
 
 ## Alternatives and trade-offs
 
-This section should support a clear decision about proposal to introduce automated testing. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+Alternative 1: retain the current process with reminders—low setup effort but leaves ownership ambiguity. Alternative 2: introduce a shared structured workflow—moderate change effort and clearer state. Alternative 3: automate routing immediately—deferred until categories and exception handling are stable.
 
 ## Implementation, testing, and migration
 
-Recommend a limited pilot with a named owner, a documented workflow, and clear escalation steps. Begin with the highest-priority need, test the process with representative users, record problems, and adjust before wider rollout. Include training and an accessible alternative where appropriate.
+Week 1: agree categories and permissions. Week 2: configure and test with sample requests. Weeks 3–6: run the pilot and gather feedback. Operations manager owns the review; team leads own status definitions.
+Test required fields, permission boundaries, duplicate handling, and export or recovery behaviour before rollout. Document the migration and rollback path.
 
 ## Security, reliability, and operational risks
 
-Resource requirements, dependencies, and risks must be confirmed with the responsible team. Consider staff time, maintenance, accessibility, privacy, and the cost of interruption. Record each material risk with a likelihood, impact, mitigation, and owner rather than presenting estimates as approved figures.
+Risks include duplicate entry during transition and inconsistent use. Mitigate with a clear start date, short guide, and weekly review. Do not migrate sensitive records without confirming permissions.
 
 ## Acceptance criteria and decision
 
-The objective is to improve the identified process without creating disproportionate cost or burden. Success should be assessed using agreed measures such as completion time, error frequency, accessibility, and user feedback. Set a baseline first and define a review date before implementation.
+Approve a four-week pilot for one request category. Review whether requests have a named owner and next action, and decide whether to expand based on evidence.
+Acceptance requires a successful pilot, validated permissions, agreed ownership, and no unresolved critical workflow defect.
+
+## Language and quality review
+
+Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+
+## IELTS-oriented practice note
+
+The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
