@@ -26,6 +26,8 @@ Constant monitoring can damage trust and create incentives to optimise the wrong
 
 Some roles require immediate availability, such as live customer support or operational monitoring. In these settings, response time and coverage are legitimate performance measures. The argument is not that every job should be judged identically; it is that measures should match the actual responsibility. A role requiring a scheduled response window should make that expectation explicit rather than applying the same rule to every employee.
 
+Outcome-based assessment also requires agreement about what counts as a good result. Some work has measurable outputs, such as a completed report or resolved support case; other work depends on quality, risk reduction, or collaboration over time. Managers should set expectations with employees and review them when priorities change. This is more demanding than monitoring online status because it requires judgment and communication, but it gives both sides a clearer basis for discussing performance. It also makes it easier to identify when a missed outcome reflects an unclear goal or an obstacle that management can remove.
+
 ## Conclusion and implication
 
 Workplaces should replace vague visibility tests with clear outcomes, appropriate service measures, and regular conversations about quality. This approach supports accountability while making room for different working styles and the concentration needed to do good work.

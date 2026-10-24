@@ -26,6 +26,8 @@ Libraries also provide shared space that is difficult to replace with a website.
 
 Critics may argue that online resources are cheaper and that fewer people borrow printed books than in the past. Digital services are undoubtedly important, and libraries should not preserve every practice simply because it is familiar. However, closing physical spaces can make online access harder for the very people who need help most. The better response is to evaluate what each branch is used for, update services, and cooperate with other local organisations where appropriate.
 
+A practical way to protect this role is to ask what residents actually need from a branch before making budget decisions. A usage review can include visits, digital-support requests, study-space demand, and feedback from people who rarely attend. It should also examine whether opening hours and location work for people with jobs, caring responsibilities, or limited mobility. These questions help distinguish a service that needs to change from one that is simply being measured too narrowly. Libraries should be accountable for public value, but that value needs to be assessed across the range of services they provide.
+
 ## Conclusion and implication
 
 Libraries should be modernised as accessible public services, not judged solely as book-lending facilities. Local authorities should ask residents which resources they use, identify gaps in access, and invest in services that help people learn, connect, and navigate information safely.

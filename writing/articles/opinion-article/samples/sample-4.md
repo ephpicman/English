@@ -26,6 +26,8 @@ Media literacy also includes privacy and responsible sharing. Students should co
 
 Some argue that the curriculum is already crowded and that digital skills are best learned at home. However, students do not all have equal access to guidance, and online platforms are closely connected to schoolwork and civic life. Media literacy can be integrated into existing lessons through short, subject-relevant tasks rather than added as a separate course in every year group.
 
+Media literacy should be assessed through the reasoning students show, not through whether they reach a teacher’s preferred conclusion. A student may reasonably disagree with an interpretation while still demonstrating careful source checking and a fair account of the evidence. Teachers can ask learners to identify what would change their mind, which sources are independent, and which claims remain uncertain. This approach encourages intellectual humility without treating all claims as equally credible. It also makes room for discussion of how images, headlines, and recommendation systems shape what people notice.
+
 ## Conclusion and implication
 
 Schools should make critical evaluation a normal part of learning. By practising source checks, privacy decisions, and transparent reasoning, students can become more confident users of information without confusing confidence with certainty.

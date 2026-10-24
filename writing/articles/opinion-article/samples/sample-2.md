@@ -26,6 +26,8 @@ Better walking and cycling conditions can also improve neighbourhood life. When 
 
 Some residents argue that road space is limited and that cycling infrastructure can slow traffic or remove parking. These concerns deserve attention, especially where businesses depend on deliveries or public transport is weak. However, the answer is to assess each corridor, consult affected groups, and measure how the street functions after changes. Maintaining the current layout also has costs when it makes short journeys unsafe or forces everyone into a car.
 
+The design process should include people who are least likely to be comfortable speaking at a formal consultation. A short trial route, a walk-through with local residents, and a way to report maintenance problems can reveal barriers that a planning map misses. Authorities should also check how new infrastructure connects to existing bus stops and local destinations. A route that looks impressive on a map but ends at a dangerous junction is not a complete journey. Maintenance matters too: faded markings, blocked pavements, and broken lighting can undo the benefit of an initial investment.
+
 ## Conclusion and implication
 
 Walking and cycling should be treated as transport options that need reliable infrastructure. Cities should prioritise continuous routes, safe junctions, accessible pavements, and maintenance, then use local feedback to improve the design rather than rely on awareness campaigns alone.
