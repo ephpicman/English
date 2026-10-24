@@ -1,50 +1,22 @@
-# LinkedIn Comment Template
+# Linkedin Comment Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- TEMPLATE RULES: Replace all placeholders; no sample post text. Make one clear contribution, use only accurate claims, respect confidentiality, and match the platform's professional tone. -->
+<!-- TOTAL LENGTH: 25–80 words. Ranges are editorial targets; obey platform limits where applicable. -->
+<!-- BRIEF: Audience = [PLACEHOLDER: define]; intended value = [PLACEHOLDER: state]; context/original post = [PLACEHOLDER: identify if applicable]. -->
 
-<!-- WORD COUNT STANDARD: Target total = 25–250. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+<!-- SECTION GUIDE: Point of connection. Refer to a specific idea in the original post rather than generic praise. Target length: 5–15 words. -->
+## Point of connection
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for LinkedIn Comment. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Hook or point of connection. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 5–20. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Hook or point of connection
+<!-- SECTION GUIDE: Added insight or question. Add a useful observation, nuance, or focused question. Target length: 15–45 words. -->
+## Added insight or question
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Main point / response / update. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 20–50. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Main point / response / update
+<!-- SECTION GUIDE: Optional close. Close naturally; do not force engagement. Target length: 0–12 words. -->
+## Optional close
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Supporting detail, insight, or evidence. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 15–80. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Supporting detail, insight, or evidence
-
-[PLACEHOLDER: write this section according to the instructions above]
-
-<!-- SECTION INSTRUCTIONS: Practical takeaway or added value. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 10–40. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Practical takeaway or added value
-
-[PLACEHOLDER: write this section according to the instructions above]
-
-<!-- SECTION INSTRUCTIONS: Question, call to action, or closing. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 5–20. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Question, call to action, or closing
-
-[PLACEHOLDER: write this section according to the instructions above]
-
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+<!-- FINAL CHECK: Ensure the opening is honest, the contribution is specific, facts are accurate, and wording is concise. Remove all placeholders before publishing. -->
