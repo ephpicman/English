@@ -1,39 +1,36 @@
-# User guide: manage notification preferences
+# User guide: review an item in the project tracker
 
-*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
+*Illustrative guide. Confirm the actual tracker fields and workflow rules before publication.*
 
 ## Purpose and audience
 
-This guide explains how a user can review available notification settings and change optional preferences without disabling essential security messages.
+This guide helps project contributors find an assigned item, update its status, and record the next action.
 
 ## Prerequisites and access
 
-You need to sign in to the account that owns the preferences. The exact options depend on the product and account type; follow the settings shown in the deployed interface.
+Sign in with the account used by the project team. You need permission to view the project and edit the assigned fields. Follow the team’s rules for changing scope or due dates.
 
 ## Concepts / interface overview
 
-Required service or security notifications may not be optional. Marketing or activity notifications may have separate controls. A preference change affects future messages and may not cancel messages already queued.
+Each item should have a title, owner, status, due date, and next action. Status describes the current workflow state; it does not replace a note explaining a dependency or decision. The tracker is the source of truth only if the team has agreed to maintain it.
 
 ## Task-based procedure
 
-1. Open account settings from the application menu.
-2. Select Notifications or the equivalent section.
-3. Review each category and its description.
-4. Change only the preferences you want to update.
-5. Save the changes if the interface requires it.
-6. Reopen the settings page to confirm the new values.
+1. Open the correct project and find your assigned item.
+2. Read the description, current status, and dependencies before changing anything.
+3. Update the status only when the defined transition has occurred.
+4. Add a concise note describing completed work or the next action.
+5. If a date or scope change is needed, discuss it with the responsible lead before editing the baseline.
+6. Save the item and verify that the update appears in the project view.
 
 ## Expected results and verification
 
-The page should display the saved preference values. If confirmation is provided, keep it until you have verified that the settings persist after sign-out and sign-in.
+The record should show the current status and a clear next action. Check that the owner and due date remain correct and that any blocker is visible to the team.
 
 ## Troubleshooting and limitations
 
-If the options are unavailable, your account type or organisation policy may control them. If messages continue, check whether they are required service notices or were queued before the change, then contact support with the message type and time.
+If you cannot edit the item, confirm project permissions. If the status options do not match the work, ask the project owner rather than choosing a misleading status. Do not enter confidential credentials or unnecessary personal data in task notes.
 
 ## Related tasks / next steps
-If a notification setting is unavailable, check whether it is controlled by an organisation policy or account role. Do not try to bypass the restriction. Ask the administrator or support team to explain which options are available and why.
-Notification preferences should be reviewed after changing account roles or joining a new workspace, because available categories may differ. If the application provides a confirmation or settings summary, check it after saving. For a persistent problem, note the message category and approximate time and report it through the approved support channel. Do not send a screenshot that exposes account identifiers or private message content unless it is required and shared securely.
-Notification settings may differ between web and mobile applications, and some changes can take a short time to take effect. If you continue receiving a message, first identify its category and compare it with the preference you changed. A security alert, account recovery message, or required service notice may not be controlled by the optional notification setting. Do not forward a sensitive alert to a public channel; use the official support route if you suspect the message is incorrect. If the setting does not persist, note the application version and the steps you followed, then report the issue without including session tokens or other secret values. Revisit the settings after an application update if the available options change.
 
-Review account security settings separately if you need to update sign-in protections. Do not disable essential security alerts to reduce routine notifications.
+Review open dependencies at the team’s agreed cadence. If an item is blocked, record the reason and raise it through the project’s escalation process.

@@ -1,39 +1,37 @@
-# User guide: join a scheduled online workshop
+# User guide: update notification preferences
 
-*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
+*Illustrative guide. Confirm the actual settings and privacy rules before publication.*
 
 ## Purpose and audience
 
-This guide helps registered participants prepare for and join an online workshop. It covers the joining link, basic setup, and what to do if access fails.
+This guide explains how a user can review and update optional notification preferences in an account settings page.
 
 ## Prerequisites and access
 
-Use the joining link from the latest confirmation message. Check whether the event requires a supported browser, application, or sign-in. Join from a quiet location if possible and use headphones if available.
+Sign in to the account whose preferences you want to change. Some messages may be required for account security or service operation and may not be optional.
 
 ## Concepts / interface overview
 
-The meeting link opens the event room; the waiting room may hold participants until the organiser admits them. A display name helps the facilitator identify attendees. Follow the event’s privacy and recording notice.
+Preference controls determine which optional updates are sent through supported channels. The page should distinguish optional messages from required service notices. The exact categories depend on the product configuration.
 
 ## Task-based procedure
 
-1. Open the latest confirmation message and check the event date and time zone.
-2. Test your internet connection and audio before the session.
-3. Open the joining link a few minutes early.
-4. Enter the requested display name and wait for admission if needed.
-5. Use the chat or raise-hand feature to ask a question.
-6. Follow the facilitator’s instructions for shared materials.
+1. Open account settings and select notification preferences.
+2. Review each available category and its description.
+3. Change only the settings you intend to update.
+4. Select Save or the equivalent confirmation control.
+5. Reopen the page or review the confirmation message to check that the changes were stored.
+
+If the page explains that a category cannot be disabled, read the accompanying policy information before continuing.
 
 ## Expected results and verification
 
-You should see the event room or waiting screen and be able to hear the facilitator once admitted. If the session uses a separate workbook, open the approved link shared by the organiser.
+A successful update should show a confirmation or display the saved preference state. Do not assume a change has been stored if the page returns an error. The time taken for preferences to affect future messages depends on the service.
 
 ## Troubleshooting and limitations
 
-If the link fails, check the date, time zone, and latest confirmation. Try the supported browser or contact the organiser using the official contact route. Do not post private meeting links publicly.
+If settings revert after saving, refresh the page and check the current state. If the problem continues, contact support with the time, browser, and safe error details. Never send a password or authentication code to support.
 
 ## Related tasks / next steps
-If you need a follow-up after the workshop, use the organiser’s official contact route and state the session date and the question you have. Avoid forwarding private joining links or participant details to people who were not registered for the event.
-If you have trouble joining, tell the organiser whether the link fails to open, the room is waiting for admission, or audio is unavailable. These are different issues and may need different fixes. Use the official contact details in the confirmation message, and avoid posting private access links in an open channel. The organiser can then provide the appropriate alternative.
-Prepare the workshop environment early enough to resolve basic problems before the session begins. Check that your display name is recognisable, your microphone is muted when you are not speaking, and the materials can be opened on your device. If you need to leave early or cannot attend, contact the organiser instead of assuming the session will be recorded. Recording and sharing rules vary, so do not make your own recording without permission. During the workshop, use the agreed question method and avoid sharing private information in the group chat. Afterward, save any materials in the approved location and follow the organiser’s instructions for feedback or follow-up activities.
 
-After the workshop, use the provided materials and feedback form. Contact the organiser if you need an accessible format or missed the session.
+Review the privacy notice for more information about how account preferences are used. If you receive an optional message after changing a setting, check the saved state and contact support with the message date and category.

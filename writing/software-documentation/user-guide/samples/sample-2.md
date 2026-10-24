@@ -1,39 +1,37 @@
-# User guide: prepare a monthly CSV export
+# User guide: book a shared meeting room
 
-*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
+*Illustrative guide. Confirm the current calendar, room list, and booking policy before publication.*
 
 ## Purpose and audience
 
-This guide explains how an authorised analyst can prepare a CSV export from a reporting table and verify that the file matches the selected filters.
+This guide explains how staff reserve a shared meeting room and update a booking when plans change.
 
 ## Prerequisites and access
 
-You need permission to view the report and export its data. Confirm that the data may be stored and shared in the intended location before downloading it.
+Sign in with the work account that has access to the shared booking calendar. Check the room list and any local rules for accessible arrangements or specialist equipment.
 
 ## Concepts / interface overview
 
-Filters determine which records are included; selected columns determine which fields appear in the file. A preview may show the expected result before generation. Export permissions may differ from view permissions, depending on the system.
+The booking calendar is the source of truth for the rooms included in the process. A booking should show the time, organiser, expected attendance, and equipment needs. Availability may change until the booking is confirmed.
 
 ## Task-based procedure
 
-1. Open the report and confirm the reporting period.
-2. Apply the required filters and inspect the result count.
-3. Select only the columns needed for the task.
-4. Review the preview and start the export.
-5. Download the generated file from the approved location.
-6. Compare the row count and key totals with the report before using the data.
+1. Open the shared calendar and select the date and room.
+2. Check the room’s capacity, equipment, and access information.
+3. Create a booking with the meeting title, start and end time, and organiser.
+4. Add equipment requirements in the approved field.
+5. Save the booking and confirm that it appears in the calendar.
+
+If you need to change the time, edit the existing event instead of creating a second entry. Cancel the booking if the meeting no longer needs the room so others can use it.
 
 ## Expected results and verification
 
-The downloaded CSV should contain the selected columns and records matching the filters. Check the header row, encoding, and date format before importing the file into another tool.
+The booking should appear in the calendar for the selected room and time. Reopen the event to verify the details. If a confirmation message is provided, check it for conflicts or missing information.
 
 ## Troubleshooting and limitations
 
-If the file is empty, review filters and data refresh status. If the preview and file differ, record the export ID and contact the report owner. Do not share the export in an unapproved location.
+If the room appears unavailable, choose another room or time rather than creating an overlapping booking. If you cannot edit an event you created, check whether you are using the correct account and contact workplace services.
 
 ## Related tasks / next steps
-Before sharing an exported file, confirm the recipient, the storage location, and whether the file should be deleted after use. Follow the approved retention rules and do not send the file through a personal account or an unapproved channel.
-When reviewing an export, distinguish formatting differences from data differences. A spreadsheet may display a date or number differently even when the underlying value is the same. If a discrepancy affects totals or included records, compare the filters and source data rather than adjusting the display. Document the result so another analyst can reproduce the export.
-Before generating an export for wider use, confirm that each selected column is necessary for the intended task. A file may contain more information than the reader needs, and downloaded data can be harder to control than data viewed inside the application. Store the file only in an approved location and follow the organisation’s retention rules. If the report includes sensitive or personal information, confirm that the recipient is authorised to receive it. For repeat exports, record the report version and filter settings so another analyst can reproduce the result. If totals differ from the source, stop and investigate the discrepancy rather than editing the CSV to make it appear consistent.
 
-For repeat reporting, document the filter settings and source version. For validation failures, use the CSV import troubleshooting guide.
+For accessibility requirements or specialist equipment, follow the separate request process and wait for confirmation. Report recurring calendar errors to workplace services with the room, date, and error details.

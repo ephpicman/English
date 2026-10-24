@@ -1,39 +1,37 @@
-# User guide: submit an internal service request
+# User guide: create and track a service request
 
-*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
+*Illustrative guide. Confirm the actual interface labels, access rules, and status values before publication.*
 
 ## Purpose and audience
 
-This guide helps staff submit a routine internal service request and track its status. It is intended for employees who have access to the organisation’s request queue.
+This guide helps staff submit a request and follow its progress in an internal service queue. It is intended for requesters who need to describe a problem clearly and check the next step.
 
 ## Prerequisites and access
 
-You need an active organisation account and permission to submit requests. Do not include passwords, authentication codes, or unnecessary personal information in the request description.
+Sign in using the approved work account. You need permission to submit requests in the relevant category. Urgent safety or security incidents must use the designated emergency process instead of the routine queue.
 
 ## Concepts / interface overview
 
-A request has a unique ID, a status, an owner, and a next action. “Open” means it is awaiting work; “in progress” means an owner is handling it; “closed” means the work has been completed or the request has been resolved under the team’s policy. Use the status definitions shown in the actual interface.
+A request record contains a reference number, category, description, owner, status, and next action. The owner is responsible for progressing the request; the requester can use the reference to follow up. Status labels should be interpreted according to the definitions shown in the system.
 
 ## Task-based procedure
 
-1. Open the approved internal request page.
-2. Choose the closest category.
-3. Enter a short, descriptive summary and the information needed to understand the issue.
-4. Attach only files permitted by policy.
-5. Submit the request and save the reference ID.
-6. Use the request page to check status or add relevant information.
+1. Open the service-request page and choose the closest matching category.
+2. Enter a short title and describe the problem, including what you expected and what happened.
+3. Add only the information needed to investigate. Do not include passwords or unnecessary personal data.
+4. Submit the request and save the reference number.
+5. Return to the request list to check the status or add relevant information if the system allows it.
+
+If the category is uncertain, choose the general category provided by the service and explain the issue rather than submitting duplicate requests.
 
 ## Expected results and verification
 
-The request page should display a reference ID and current status. If no confirmation appears, check the request list before submitting again to avoid creating a duplicate.
+A successful submission should show a confirmation and reference number. Open the record to confirm the title and description are correct. If no confirmation appears, check the request list before retrying to avoid duplicates.
 
 ## Troubleshooting and limitations
 
-If you cannot see the request page, confirm that you are signed in with the correct account and have the required permission. If the request is urgent or safety-related, use the documented escalation route rather than relying on the normal queue.
+If access is denied, confirm you are signed in with the correct account and contact the service desk if the problem continues. If the request is urgent, use the approved escalation route; the queue may not provide immediate response.
 
 ## Related tasks / next steps
-Keep a brief record of the steps that worked if the issue required support. Share that note through the approved documentation feedback route so the next reader can benefit. Do not store credentials or private account details in the note.
-After completing the task, keep a note of any step that was unclear and share it through the documented feedback route. This helps the product owner improve the guide for the next user. Do not create a separate workaround or store account information in a personal note if the organisation provides an approved record. If the interface changes, check the current guide and release information before following older instructions.
-Before submitting, review the information as if you were the person who must act on it. A useful summary includes the effect of the problem, the steps already taken, and the outcome needed; it should not include credentials or unrelated personal details. If the request is urgent, use the organisation’s published escalation route instead of assuming that the normal queue is monitored continuously. Save the reference ID in the approved work record so you can find the request later. When an owner asks for clarification, reply in the same request thread where possible so the context remains together. If the issue is resolved, confirm the result and follow the service’s closure process rather than creating a new request for the same work.
 
-You can update the request with new information, review the status definitions, or contact the service owner if the request remains blocked beyond the published service window.
+Use the reference number when following up. If the issue is resolved, follow the system’s closure process or reply to the owner with any remaining concerns.

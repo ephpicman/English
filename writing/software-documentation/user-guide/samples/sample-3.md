@@ -1,39 +1,37 @@
-# User guide: review and update a support ticket
+# User guide: export a filtered report
 
-*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
+*Illustrative guide. Confirm interface labels, permissions, and supported export formats before publication.*
 
 ## Purpose and audience
 
-This guide explains how authorised support staff review a ticket, add a note, and update its status.
+This guide helps authorised users filter a report and export the results for analysis or sharing.
 
 ## Prerequisites and access
 
-You need an active account and permission to view and update the ticket. Confirm whether your role permits internal notes or customer-visible comments before posting.
+Sign in with an account permitted to view the report. Make sure you are working in the correct environment and reporting period. Follow organisational rules for storing or sharing exported data.
 
 ## Concepts / interface overview
 
-A ticket records the issue, current status, owner, and communication history. Internal notes are not intended for the customer; public replies may be visible externally. Use the visibility control carefully and follow the organisation’s communication policy.
+Filters narrow the displayed records; the reporting period determines which dates are included. An export may contain only the visible filtered results, depending on the system. Check the interface description before assuming that filters are retained in the downloaded file.
 
 ## Task-based procedure
 
-1. Search for the ticket using its reference ID.
-2. Confirm the subject and requester before making changes.
-3. Read the existing notes and check what has already been tried.
-4. Add a concise update with the relevant finding or next action.
-5. Select the correct visibility and verify it before saving.
-6. Change the status only when the workflow criteria are met.
+1. Open the report and select the required reporting period.
+2. Apply the available filters, such as status or category.
+3. Review the displayed results and confirm the filters match the question you need to answer.
+4. Select the export option and choose a supported format.
+5. Save the file to an approved location and use a clear filename that includes the period.
+
+Before sharing the file, check whether it contains personal, confidential, or otherwise restricted information.
 
 ## Expected results and verification
 
-The ticket should show the saved note and updated status. If the save fails, refresh the record and confirm whether the update was applied before trying again.
+Open the exported file and confirm that the period, columns, and row content match the report view. If the report includes a summary total, compare it with the displayed total where possible.
 
 ## Troubleshooting and limitations
 
-If the ticket is not visible, check your permissions and search reference. If the status transition is rejected, review the allowed workflow transitions. Never copy a customer’s credentials into a note.
+If export is disabled, check your permissions or whether the selected view supports exporting. If the file appears incomplete, confirm that filters and date ranges were applied as intended. A report export should not be treated as a source of truth if the underlying data is still being updated.
 
 ## Related tasks / next steps
-If another team takes ownership, make sure the ticket records the reason for transfer, the next action, and any relevant deadline. This reduces repeated questions and helps the receiving team continue the work without reconstructing the entire history.
-If you need to transfer a ticket to another team, include the reason for the transfer and the exact next action expected. Confirm that the receiving team has the required permission and context. A transfer without ownership can leave the request waiting even when the status appears active. Follow the team’s escalation rules if the customer is waiting on a time-sensitive response.
-When adding a comment, write for the next person who will read the ticket. State what was observed, which step was tried, and what should happen next. Avoid vague notes such as “still broken” when a more specific symptom is available. If the message is internal, check visibility before saving and do not assume that a field marked “note” is private without verifying the interface. When closing a ticket, ensure that the resolution is clear and that any required customer communication has been sent. If a problem remains unresolved, leave the ticket in the appropriate status and identify the next owner rather than closing it simply to clear the queue.
 
-Review the handover guide for unresolved tickets and the support escalation policy for security, privacy, or service-critical issues.
+For recurring reports, document the filter choices and period so another authorised user can reproduce the result. Store the export according to the organisation’s data-retention policy.
