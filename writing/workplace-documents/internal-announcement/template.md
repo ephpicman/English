@@ -1,50 +1,60 @@
 # Internal Announcement Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- PURPOSE: Reusable, genre-specific scaffold. Replace placeholders and remove drafting notes before sharing. -->
+<!-- BRIEF: Audience = [PLACEHOLDER: identify]; purpose = [PLACEHOLDER: state]; required details = [PLACEHOLDER: list]; source of truth = [PLACEHOLDER: verify]. -->
+<!-- LENGTH: Follow the organization's format and the document's purpose. Do not add filler to meet a word target. -->
+<!-- ACCURACY: Never invent names, dates, decisions, results, qualifications, commitments, or metrics. Resolve [TO CONFIRM: ...] notes before sharing. -->
 
-<!-- WORD COUNT STANDARD: Target total = 80–900 depending on document and structured fields. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+## Plan first
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+1. Identify the reader and the decision, action, or information they need.
+2. Put the most important message first; use headings, bullets, or tables where they improve scanning.
+3. Keep each paragraph or bullet focused on one point and use concrete nouns and active verbs.
+4. Make dates, responsibilities, dependencies, and next steps explicit when relevant.
+5. Use a consistent, professional register and avoid jargon the audience may not understand.
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Internal Announcement. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Document metadata. Purpose: Make responsibilities, decisions, dates, and next actions unambiguous. Length: 5–30. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Document metadata
+## Document structure
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Record sender/team, date, audience, channel, and any embargo or confidentiality requirement. -->
+## Announcement metadata
 
-<!-- SECTION INSTRUCTIONS: Purpose, objective, or key message. Purpose: Make responsibilities, decisions, dates, and next actions unambiguous. Length: 20–70. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Purpose, objective, or key message
+[PLACEHOLDER: complete this section according to the guide]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: State the change, event, or news clearly in the headline or opening. -->
+## Headline and key message
 
-<!-- SECTION INSTRUCTIONS: Context, status, or discussion points. Purpose: Make responsibilities, decisions, dates, and next actions unambiguous. Length: 40–150. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Context, status, or discussion points
+[PLACEHOLDER: complete this section according to the guide]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Explain the confirmed facts, rationale, effective date, and who is affected. -->
+## What is changing and why
 
-<!-- SECTION INSTRUCTIONS: Decisions, analysis, or required actions. Purpose: Make responsibilities, decisions, dates, and next actions unambiguous. Length: 40–180. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Decisions, analysis, or required actions
+[PLACEHOLDER: complete this section according to the guide]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Describe practical implications and what recipients should do differently. -->
+## Impact on employees and teams
 
-<!-- SECTION INSTRUCTIONS: Owner, deadline, next steps, or follow-up. Purpose: Make responsibilities, decisions, dates, and next actions unambiguous. Length: 20–100. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Owner, deadline, next steps, or follow-up
+[PLACEHOLDER: complete this section according to the guide]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Give concrete next steps, deadlines, links or contacts that have been verified. -->
+## Actions, dates, and support
 
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+[PLACEHOLDER: complete this section according to the guide]
+
+<!-- SECTION GUIDE: End with the most relevant next step or support route; avoid promotional filler. -->
+## Closing and contact
+
+[PLACEHOLDER: complete this section according to the guide]
+
+## Final quality check
+
+- Is the main purpose or message immediately clear?
+- Are all required facts present and verified?
+- Are actions, owners, deadlines, and decisions unambiguous?
+- Is the information ordered by reader need rather than drafting order?
+- Is wording concise, neutral, inclusive, and grammatically correct?
+- Have unnecessary details, repeated points, and unsupported claims been removed?
+- Are placeholders and drafting notes removed?
+
+## IELTS-oriented language practice
+
+Practise precise vocabulary, logical paragraphing, clear topic sentences, and accurate sentence variety. IELTS criteria are a language-development lens only; workplace documents must follow their own conventions and internal requirements.

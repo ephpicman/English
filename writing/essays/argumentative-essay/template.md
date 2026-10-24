@@ -1,50 +1,53 @@
 # Argumentative Essay Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- PURPOSE: IELTS Writing Task 2 practice scaffold. Replace every placeholder and remove drafting notes before submitting. -->
+<!-- TASK: Exact prompt = [PLACEHOLDER: paste full prompt]; instruction words = [PLACEHOLDER: identify]; planned answer/position = [PLACEHOLDER: state]. -->
+<!-- WORD COUNT: Aim for 250–320 words; Task 2 requires at least 250 words. Section ranges are flexible. -->
+<!-- ASSESSMENT: Task Response, Coherence and Cohesion, Lexical Resource, Grammatical Range and Accuracy. No template guarantees a band score. -->
 
-<!-- WORD COUNT STANDARD: Target total = 250–320 words (IELTS Task 2 practice). Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+## Before writing
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+1. Identify every part of the exact question; do not answer a familiar question type instead.
+2. Plan two developed main ideas rather than many undeveloped points.
+3. For each body paragraph, use: **claim → explanation → relevant example/consequence → link to the question**.
+4. Use plausible examples; do not invent statistics or quotations.
+5. Use natural cohesive devices and precise vocabulary. Avoid memorized introductions and forced “advanced” words.
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Argumentative Essay. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Introduction and clear thesis. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 40–55. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Introduction and clear thesis
+## Essay structure
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Paraphrase the issue and state a clear position that answers the exact question. -->
+## Introduction and thesis
 
-<!-- SECTION INSTRUCTIONS: Argument 1 with explanation and support. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 65–85. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Argument 1 with explanation and support
+[PLACEHOLDER: draft this section using the guide above]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Develop one reason with a clear claim, explanation, and relevant example or consequence. -->
+## Main argument 1
 
-<!-- SECTION INSTRUCTIONS: Argument 2 with explanation and support. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 65–85. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Argument 2 with explanation and support
+[PLACEHOLDER: draft this section using the guide above]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Develop a distinct reason; deepen the argument rather than repeating the first point. -->
+## Main argument 2
 
-<!-- SECTION INSTRUCTIONS: Counterargument and rebuttal. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 45–65. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Counterargument and rebuttal
+[PLACEHOLDER: draft this section using the guide above]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Present an opposing view fairly, then explain why your position remains stronger. Include only if useful. -->
+## Counterargument and response
 
-<!-- SECTION INSTRUCTIONS: Conclusion. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 25–40. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+[PLACEHOLDER: draft this section using the guide above]
+
+<!-- SECTION GUIDE: Answer the prompt directly, summarize the reasoning, and add no new major claim. -->
 ## Conclusion
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: draft this section using the guide above]
 
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+## Final IELTS checklist
+
+- I answered every part of the exact prompt and used the right essay logic.
+- My position is clear and consistent when required.
+- Each body paragraph develops one main idea with explanation and support.
+- Examples are relevant and explained.
+- Paragraphing is logical and linking expressions are natural, not repetitive.
+- Vocabulary is precise and collocations sound natural.
+- Sentence structures vary without sacrificing accuracy.
+- I checked grammar, punctuation, spelling, and word count (at least 250 words).
+- All placeholders and drafting notes are removed.

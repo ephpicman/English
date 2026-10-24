@@ -1,60 +1,70 @@
 # Progress Report Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- PURPOSE: Reusable, genre-specific scaffold. Replace all placeholders and remove drafting notes before publication. -->
+<!-- BRIEF: Audience = [PLACEHOLDER: identify]; reporting period/scope = [PLACEHOLDER: define]; question or objective = [PLACEHOLDER: state]; evidence = [PLACEHOLDER: list verified sources]. -->
+<!-- LENGTH: Follow the commissioning brief. Planning ranges are flexible; accuracy and decision usefulness take priority over word count. -->
+<!-- INTEGRITY: Never invent data, dates, events, causes, quotations, or conclusions. Label estimates and assumptions; distinguish confirmed facts from hypotheses. -->
 
-<!-- WORD COUNT STANDARD: Target total = 400–1,400. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+## Before drafting
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+1. Confirm the report's purpose, audience, scope, reporting date, and decision it should support.
+2. Define terms, measures, and status labels so readers interpret them consistently.
+3. Gather evidence and preserve traceability to source records.
+4. Separate facts, analysis, assumptions, and recommendations.
+5. Put the most decision-relevant information first; use tables for dense data only when they improve comparison.
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Progress Report. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Title, date, owner, and audience. Purpose: Separate verified findings from interpretation; show evidence, implications, and action. Length: 5–25. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Title, date, owner, and audience
+## Report structure
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Record project, period, owner, date, audience, version, and status using agreed definitions. -->
+## Title and reporting metadata
 
-<!-- SECTION INSTRUCTIONS: Executive summary / incident summary / status. Purpose: Separate verified findings from interpretation; show evidence, implications, and action. Length: 40–130. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Executive summary / incident summary / status
+[PLACEHOLDER: write this section using verified information]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Summarize progress against plan, major changes, forecast, and decisions or help needed. -->
+## Executive status summary
 
-<!-- SECTION INSTRUCTIONS: Purpose, scope, and method. Purpose: Separate verified findings from interpretation; show evidence, implications, and action. Length: 50–130. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Purpose, scope, and method
+[PLACEHOLDER: write this section using verified information]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Restate current objectives, milestones, and scope baseline. -->
+## Objectives and scope
 
-<!-- SECTION INSTRUCTIONS: Findings, events, or progress. Purpose: Separate verified findings from interpretation; show evidence, implications, and action. Length: 100–300. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Findings, events, or progress
+[PLACEHOLDER: write this section using verified information]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: List deliverables and outcomes with evidence or acceptance status, not activity alone. -->
+## Work completed
 
-<!-- SECTION INSTRUCTIONS: Analysis, impact, and limitations. Purpose: Separate verified findings from interpretation; show evidence, implications, and action. Length: 80–200. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Analysis, impact, and limitations
+[PLACEHOLDER: write this section using verified information]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Compare baseline with actual and forecast dates/costs; explain variances and state the data date. -->
+## Milestones, schedule, and budget
 
-<!-- SECTION INSTRUCTIONS: Conclusion or overall assessment. Purpose: Separate verified findings from interpretation; show evidence, implications, and action. Length: 30–90. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Conclusion or overall assessment
+[PLACEHOLDER: write this section using verified information]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Separate risks from current issues; include impact, owner, mitigation, and escalation need. -->
+## Risks, issues, and dependencies
 
-<!-- SECTION INSTRUCTIONS: Recommendations / actions / next steps. Purpose: Separate verified findings from interpretation; show evidence, implications, and action. Length: 40–130. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Recommendations / actions / next steps
+[PLACEHOLDER: write this section using verified information]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: State upcoming deliverables, owners, due dates, and dependencies. -->
+## Next-period plan
 
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+[PLACEHOLDER: write this section using verified information]
+
+<!-- SECTION GUIDE: Ask for specific decisions or resources, name the decision owner, and state the deadline. -->
+## Decisions and support required
+
+[PLACEHOLDER: write this section using verified information]
+
+## Final quality check
+
+- Does the report answer its stated question and cover the agreed scope?
+- Can important facts, figures, dates, and conclusions be traced to evidence?
+- Are limitations, uncertainty, and alternative explanations disclosed?
+- Are findings separated from interpretation and recommendations?
+- Are recommendations feasible, prioritized, and linked to findings?
+- Is the writing concise, neutral, logically ordered, and grammatically accurate?
+- Have all placeholders and unresolved [TO CONFIRM: ...] notes been removed?
+
+## IELTS-oriented language practice
+
+Use clear topic sentences, precise vocabulary, logical progression, and accurate complex sentences. These are transferable language skills, not a substitute for report-specific conventions or the organization's required format.

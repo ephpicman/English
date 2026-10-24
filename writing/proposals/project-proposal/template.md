@@ -1,65 +1,76 @@
 # Project Proposal Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- PURPOSE: A reusable, genre-specific scaffold. Replace every [PLACEHOLDER: ...] and remove drafting notes before publication. -->
+<!-- BRIEF: Audience = [PLACEHOLDER: identify]; purpose = [PLACEHOLDER: state]; prompt / requirements = [PLACEHOLDER: record exact requirements]; tone = [PLACEHOLDER: choose]; evidence = [PLACEHOLDER: list verified sources or records]. -->
+<!-- LENGTH: Length: follow the sponsor's brief; planning target 800–1,500 words. Section ranges are planning aids, not quotas. Follow any stricter publisher, client, employer, or platform limit. -->
+<!-- ACCURACY: Never invent facts, statistics, credentials, quotations, sources, commitments, or outcomes. Mark unresolved facts [TO CONFIRM: ...] during drafting and resolve them before publication. -->
 
-<!-- WORD COUNT STANDARD: Target total = 700–1,500. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+## Before you draft
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+1. Identify the reader and the one outcome this piece should achieve.
+2. Turn the prompt or brief into a checklist; make sure every required point has a place in the structure.
+3. Gather evidence before making factual claims. Prefer primary or authoritative sources and record dates for changing information.
+4. Plan one main function per paragraph. Use a topic sentence, explanation, relevant support, and a link to the purpose where appropriate.
+5. Use precise vocabulary naturally. Do not replace familiar words with obscure synonyms merely to sound advanced.
+6. Use linking expressions to show real relationships (cause, contrast, sequence, concession); avoid repetitive formulaic transitions.
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Project Proposal. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Title and metadata. Purpose: Support a decision with a defined need, feasible plan, evidence, costs, risks, and outcomes. Length: 10–30. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Title and metadata
+## Draft structure
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Purpose = Record sponsor, owner, version, date, proposed start, and decision deadline where known. Planning length = Concise. Write only content that serves this section; avoid repeating material used elsewhere. -->
+## Title and project metadata
 
-<!-- SECTION INSTRUCTIONS: Executive summary. Purpose: Support a decision with a defined need, feasible plan, evidence, costs, risks, and outcomes. Length: 70–150. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+[PLACEHOLDER: write this section following the guide above]
+
+<!-- SECTION GUIDE: Purpose = State the objective, deliverable, intended value, time frame, resource need, and approval requested. Planning length = 100–160 words. Write only content that serves this section; avoid repeating material used elsewhere. -->
 ## Executive summary
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: write this section following the guide above]
 
-<!-- SECTION INSTRUCTIONS: Background, need, or problem. Purpose: Support a decision with a defined need, feasible plan, evidence, costs, risks, and outcomes. Length: 100–180. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Background, need, or problem
+<!-- SECTION GUIDE: Purpose = Explain the need and define specific, measurable objectives; distinguish outcomes from deliverables. Planning length = 120–200 words. Write only content that serves this section; avoid repeating material used elsewhere. -->
+## Problem, opportunity, and objectives
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: write this section following the guide above]
 
-<!-- SECTION INSTRUCTIONS: Proposed solution, scope, or method. Purpose: Support a decision with a defined need, feasible plan, evidence, costs, risks, and outcomes. Length: 120–250. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Proposed solution, scope, or method
+<!-- SECTION GUIDE: Purpose = Specify what is in scope, what is out of scope, acceptance expectations, and key assumptions. Planning length = 100–180 words. Write only content that serves this section; avoid repeating material used elsewhere. -->
+## Scope, deliverables, and exclusions
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: write this section following the guide above]
 
-<!-- SECTION INSTRUCTIONS: Implementation, roles, and milestones. Purpose: Support a decision with a defined need, feasible plan, evidence, costs, risks, and outcomes. Length: 100–180. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Implementation, roles, and milestones
+<!-- SECTION GUIDE: Purpose = Break the work into phases or work packages with dependencies and a rationale for the chosen method. Planning length = 150–230 words. Write only content that serves this section; avoid repeating material used elsewhere. -->
+## Approach and work packages
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: write this section following the guide above]
 
-<!-- SECTION INSTRUCTIONS: Benefits, budget, and resources. Purpose: Support a decision with a defined need, feasible plan, evidence, costs, risks, and outcomes. Length: 80–180. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Benefits, budget, and resources
+<!-- SECTION GUIDE: Purpose = Identify milestones, owners, decision rights, reporting cadence, and external dependencies. Planning length = 120–200 words. Write only content that serves this section; avoid repeating material used elsewhere. -->
+## Timeline, roles, and governance
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: write this section following the guide above]
 
-<!-- SECTION INSTRUCTIONS: Risks, assumptions, and mitigations. Purpose: Support a decision with a defined need, feasible plan, evidence, costs, risks, and outcomes. Length: 60–130. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+<!-- SECTION GUIDE: Purpose = Estimate staffing, tools, costs, and contingencies; show the basis for estimates. Planning length = 100–170 words. Write only content that serves this section; avoid repeating material used elsewhere. -->
+## Resources, budget, and procurement
+
+[PLACEHOLDER: write this section following the guide above]
+
+<!-- SECTION GUIDE: Purpose = Record material risks and assumptions with likelihood, impact, response, and owner. Planning length = 80–140 words. Write only content that serves this section; avoid repeating material used elsewhere. -->
 ## Risks, assumptions, and mitigations
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: write this section following the guide above]
 
-<!-- SECTION INSTRUCTIONS: Success measures and decision requested. Purpose: Support a decision with a defined need, feasible plan, evidence, costs, risks, and outcomes. Length: 40–90. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Success measures and decision requested
+<!-- SECTION GUIDE: Purpose = Define acceptance tests, outcome measures, review dates, and the decision required to proceed. Planning length = 50–100 words. Write only content that serves this section; avoid repeating material used elsewhere. -->
+## Success criteria and decision
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: write this section following the guide above]
 
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+## Language and quality review
+
+- **Task fulfilment:** Have you answered the exact brief and covered every required point?
+- **Coherence and cohesion:** Does the order make sense? Does each paragraph have one clear purpose? Are references and transitions easy to follow?
+- **Lexical resource:** Is the vocabulary accurate, appropriately varied, and natural for this audience and genre?
+- **Grammar and punctuation:** Check sentence boundaries, articles, agreement, tense consistency, clause structure, punctuation, and spelling.
+- **Evidence and integrity:** Verify facts, figures, quotations, dates, sources, technical claims, and any promises. Label assumptions and uncertainty.
+- **Conciseness:** Remove repetition, vague claims, filler, clichés, and unsupported superlatives.
+- **Finalization:** Replace all placeholders, resolve every [TO CONFIRM: ...] note, check formatting and word limits, and remove drafting comments if the publication format requires a clean copy.
+
+## IELTS-oriented practice note
+
+For IELTS practice, treat the four assessment dimensions as a language-development checklist: answer the task fully, organize ideas logically, use vocabulary precisely, and demonstrate a controlled range of accurate sentence structures. IELTS scoring is relevant only where the task is an IELTS response; for this real-world genre, the reader's needs and the genre's professional conventions take priority.
