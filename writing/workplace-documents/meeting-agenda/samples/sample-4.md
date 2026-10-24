@@ -1,13 +1,32 @@
-# A university course
+# Meeting agenda: Quarterly budget planning
 
-**Date:** 29 October 2026 | **Time:** 10:00–10:45 | **Chair:** Riley Chen
+## Meeting metadata
 
-1. **Purpose and desired outcomes** — 5 min
-2. **Review of current status and metrics** — 10 min
-3. **Open risks and dependencies** — 10 min
-4. **Decisions required** — 10 min
-5. **Actions, owners and deadlines** — 10 min
+- **Date:** 10 November 2026
+- **Chair / organiser:** Elena Ruiz
+- **Attendees:** Department manager, finance partner, project leads
+- **Duration:** 50 minutes
 
-**Preparation:** Read the status summary and add agenda items by 16:00 on the previous day.
+## Objective and desired outcomes
 
----
+Review proposed spending for the next quarter, clarify assumptions, and agree which items require further approval before the budget is finalised.
+
+## Agenda table
+
+| Item | Purpose | Lead | Time |
+|---|---|---|---|
+| Confirm planning assumptions | Align on period and constraints | Elena Ruiz | 5 min |
+| Review committed costs | Check existing obligations | Finance partner | 10 min |
+| Discuss new requests | Compare need, timing, and alternatives | Project leads | 15 min |
+| Identify gaps and risks | Record uncertain estimates | Finance partner | 10 min |
+| Confirm decisions and owners | Assign follow-up work | Elena Ruiz | 10 min |
+
+## Pre-reading / preparation
+
+Project leads should submit requests with a rationale and estimated timing by 6 November. Label estimates separately from confirmed quotes and include any dependencies.
+
+## Decisions required
+
+- Which requests can be approved within the current allocation?
+- Which items need a revised estimate or additional justification?
+- Who will prepare the final draft and when will it be reviewed?

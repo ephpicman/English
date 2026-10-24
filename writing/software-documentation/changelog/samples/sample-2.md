@@ -1,18 +1,44 @@
-# A missed project deadline
+# Changelog — 1.8.0
 
-## [1.4.0] — 2026-10-20
+*Illustrative changelog. Confirm all changes against the tagged release before publishing.*
 
-### Added
-- Added improved support for a missed project deadline.
-- Added clearer status feedback for users.
+## Before drafting
 
-### Changed
-- Improved validation messages and loading states.
+Use concise, user-facing descriptions and group changes by their effect.
 
-### Fixed
-- Fixed a pagination issue that could repeat the final item.
+## Document structure
 
-### Upgrade notes
-No migration is required. If the previous interface remains visible, refresh the browser after deployment.
+The entry records added behaviour, changes, fixes, deprecations, and security information separately.
 
----
+## Version and date
+
+- **Version:** 1.8.0
+- **Date:** 2026-09-30
+- **Release status:** Illustrative
+
+## Added
+
+- Added an export option for the filtered report view.
+- Added a configuration example for running the tool against a local test dataset.
+
+## Changed
+
+- Updated the default report heading to include the selected reporting period.
+- Clarified the meaning of the warning state in the user guide.
+
+## Fixed
+
+- Fixed a case where a missing optional field caused the summary step to stop.
+- Corrected a validation message that pointed users to the wrong configuration key.
+
+## Deprecated and removed
+
+- No deprecations or removals are specified in this example. Add only items confirmed by the release notes.
+
+## Security
+
+- Review the release security record before stating whether security-related changes are included.
+
+## Final quality check
+
+Confirm the release version, date, and each change against the source-control history.

@@ -1,7 +1,19 @@
-# A university mentoring programme
+# Short professional post: project handovers
 
-**Context:** Publish a concise professional update about a university mentoring programme.
+*Illustrative post; adapt it to a real workplace experience.*
 
-A practical lesson from a university mentoring programme: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook or Announcement
 
----
+A useful handover should make the next action obvious.
+
+## Essential Information
+
+For each open item, record the current status, owner, next action, due date, and any dependency. Link to the source record instead of copying the entire project history.
+
+## Relevance or Takeaway
+
+This helps the next person act without having to reconstruct decisions from old messages.
+
+## Call to Action or Close
+
+What makes a handover easier for your team?

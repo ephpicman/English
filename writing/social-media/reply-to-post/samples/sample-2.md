@@ -1,7 +1,18 @@
-# A missed project deadline
+# Reply to a post about returning to the office
 
-**Context:** Reply to a discussion about a missed project deadline.
+*Illustrative reply; tailor it to the original claim and avoid assuming every role is the same.*
 
-A useful point. I’d add that a missed project deadline works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point being answered
 
----
+You argue that office work is always more collaborative.
+
+## Response and reasoning
+
+Being in the same room can help with informal discussion, but it does not automatically mean decisions are shared or recorded clearly.
+
+## Added value
+
+Teams may get more from in-person time when it is planned for mentoring, workshops, or decisions that benefit from live discussion.
+
+## Optional close
+

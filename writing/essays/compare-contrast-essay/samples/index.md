@@ -1,9 +1,7 @@
 # Compare Contrast Essay: Five Examples
 
-Each example is available as a separate Markdown file:
-
-- [sample-1](sample-1.md) — A university mentoring programme
-- [sample-2](sample-2.md) — A missed project deadline
-- [sample-3](sample-3.md) — A new colleague
-- [sample-4](sample-4.md) — A university course
-- [sample-5](sample-5.md) — A workplace policy
+- [sample-1.md](sample-1.md) — Compare online and classroom learning
+- [sample-2.md](sample-2.md) — Compare public transport and private cars
+- [sample-3.md](sample-3.md) — Compare renting and buying a home
+- [sample-4.md](sample-4.md) — Compare team projects and individual assignments
+- [sample-5.md](sample-5.md) — Compare digital and printed books

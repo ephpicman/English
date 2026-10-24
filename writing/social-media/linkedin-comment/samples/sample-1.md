@@ -1,7 +1,15 @@
-# A university mentoring programme
+# Professional LinkedIn comment 1
 
-**Context:** Reply to a discussion about a university mentoring programme.
+*Illustrative comment; use only when it genuinely responds to the original discussion.*
 
-A useful point. I’d add that a university mentoring programme works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point of connection
 
----
+I agree that handovers should make the next action clear.
+
+## Added insight or question
+
+One useful test is whether someone who was not in the meeting can identify the owner, deadline, and main dependency without asking for a separate explanation. What keeps your checklist lightweight enough that people actually maintain it?
+
+## Optional close
+
+Thanks for sharing a practical point.

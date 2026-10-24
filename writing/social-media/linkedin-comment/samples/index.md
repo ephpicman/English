@@ -1,9 +1,7 @@
 # Linkedin Comment: Five Examples
 
-Each example is available as a separate Markdown file:
-
-- [sample-1](sample-1.md) — A university mentoring programme
-- [sample-2](sample-2.md) — A missed project deadline
-- [sample-3](sample-3.md) — A new colleague
-- [sample-4](sample-4.md) — A university course
-- [sample-5](sample-5.md) — A workplace policy
+- [sample-1.md](sample-1.md) — Comment on a post about mentoring
+- [sample-2.md](sample-2.md) — Comment on a post about documentation
+- [sample-3.md](sample-3.md) — Comment on a post about inclusive design
+- [sample-4.md](sample-4.md) — Comment on a post about team learning
+- [sample-5.md](sample-5.md) — Comment on a post about customer feedback

@@ -1,12 +1,28 @@
-# A new colleague
+# Apology for sending an incorrect attachment
 
-**Subject:** Enquiry about available options
+*Illustrative email; ensure the replacement file is correct and safe to share.*
 
-Dear Hiring Team,
+## Subject
 
-I am considering a new colleague and would be grateful if you could clarify the available options, expected timeline and total cost. Please also let me know whether any prerequisites or supporting documents are required. This will help me assess whether it meets our needs.
+**Corrected attachment — apologies**
 
-Yours faithfully,
-Alex Morgan
+## Greeting and apology
 
----
+Hello Jordan,
+
+I’m sorry I sent the wrong attachment with my earlier email. I can see how this could have caused confusion while you were reviewing the proposal.
+
+## Responsibility and context
+
+I selected an outdated draft from the same folder and failed to check the filename before sending it. I should have verified the document first.
+
+## Corrective action
+
+Please use the file attached to this message, named **Project-Proposal-Review.docx**, and disregard the earlier version. I have checked that this is the intended draft. I will archive superseded files separately to reduce the chance of repeating the mistake.
+
+## Close
+
+Thank you for your understanding. I’m happy to clarify any differences between the versions.
+
+Best,  
+Sam

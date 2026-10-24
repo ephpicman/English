@@ -1,12 +1,34 @@
-# A university mentoring programme
+# Planning meeting: customer portal readiness
 
-**Subject:** Request to resolve a service issue
+*Illustrative meeting email. Confirm the time, location, and calendar link before sending.*
 
-Dear Customer Support Team,
+## Subject
 
-I am writing about a university mentoring programme. The service did not match the arrangements confirmed earlier, and my attempts to resolve the issue have not been successful. Please investigate and let me know whether a correction or refund is appropriate. I would appreciate an update within five working days.
+Customer portal readiness review — 2 November
 
-Kind regards,
-Alex Morgan
+## Purpose and outcome
 
----
+The aim is to review the remaining release dependencies and decide whether the evidence supports moving to the next readiness stage.
+
+## Logistics
+
+**Date:** Monday, 2 November 2026  
+**Time:** 10:00–10:45 a.m.  
+**Location:** Room Cedar / video link in the calendar invitation  
+**Organiser:** Morgan Chen
+
+## Agenda and preparation
+
+1. Confirm current status and completed checks — 5 minutes
+2. Review authentication configuration — 10 minutes
+3. Review accessibility findings — 10 minutes
+4. Decide next steps and assign actions — 15 minutes
+
+Please update the shared readiness checklist by 30 October and link to evidence for any item marked complete. Identify unresolved dependencies rather than changing their status based on a forecast.
+
+## Confirmation and sign-off
+
+Please accept or decline the calendar invitation. If you need remote attendance or an accessible format, let me know in advance.
+
+Thanks,  
+Morgan

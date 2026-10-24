@@ -1,24 +1,63 @@
-# A missed project deadline
+# Resume — Aisha Rahman
 
-**Alex Morgan**  
-Project Coordinator | alex.morgan@example.com | Berlin, Germany
+*Illustrative resume. All details are fictional and must be replaced with accurate information.*
 
-## Profile
-Project coordinator with four years of experience improving workflows, communicating with stakeholders and tracking delivery risks.
+## Plan first
 
-## Experience
-**Project Coordinator — Northstar Services | 2023–Present**
-- Coordinated six concurrent projects across multiple teams.
-- Introduced a shared tracker that reduced overdue actions by 25%.
-- Prepared concise weekly reports for senior stakeholders.
+Target role: Junior Data Analyst. Emphasise data preparation, analytical reasoning, and communication.
 
-**Operations Assistant — Brightline | 2021–2023**
-- Maintained records and supported customer escalations.
+## Document structure
+
+List relevant technical skills and provide examples that can be discussed in an interview.
+
+## Contact information and target role
+
+Aisha Rahman | aisha.rahman@example.test | Berlin, Germany  
+**Target role:** Junior Data Analyst
+
+## Professional summary
+
+Early-career analyst with academic project experience in data cleaning, descriptive analysis, and visualisation. Careful about documenting assumptions and explaining limitations to non-technical audiences.
 
 ## Skills
-Project planning, stakeholder communication, Excel, risk tracking and process improvement.
 
-## Education
-BA Business Management, City University, 2021
+- SQL: filtering, grouping, joins, and aggregation
+- Spreadsheet cleaning and validation
+- Descriptive statistics and chart selection
+- Data documentation and quality checks
+- Written reporting and presentation
 
----
+## Professional experience
+
+**Reporting Assistant — Sample Retail Cooperative | Berlin | 2025–2026**
+- Checked monthly spreadsheet inputs for duplicate identifiers, missing values, and inconsistent date formats.
+- Prepared recurring summary tables for sales and stock review meetings.
+- Documented changes made during data cleaning so colleagues could trace the source of revised values.
+- Raised discrepancies with data owners instead of silently replacing uncertain entries.
+
+**Student Research Assistant — Example City University | 2024–2025**
+- Organised survey responses for a course research project and maintained a codebook for variable definitions.
+- Produced charts and short written explanations for a presentation to classmates.
+- Compared alternative groupings and noted where small sample sizes limited interpretation.
+
+## Education and qualifications
+
+**BSc, Business Analytics — Example City University | 2022–2025**  
+Relevant study: statistics, database fundamentals, research methods, and data visualisation.
+
+## Projects, certifications, or additional experience
+
+**Monthly sales analysis:** Used SQL and spreadsheets to summarise a sample transaction dataset, checked for an incomplete reporting period, and labelled the limitation in the final chart.
+
+## Optional sections
+
+Tools: SQL, Excel, Google Sheets, and introductory Python.  
+Portfolio: Add a verified link to a public project repository if available.
+
+## Final quality check
+
+Verify proficiency levels and ensure any portfolio link works before submission.
+
+## Resume-specific checks
+
+The resume avoids claiming advanced programming experience that the examples do not support.

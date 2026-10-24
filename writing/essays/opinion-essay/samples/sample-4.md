@@ -1,10 +1,23 @@
-# A university course
+# Online learning: opinion essay
 
-**Prompt:** What problems arise, and how could they be solved?
+*Illustrative IELTS-style response; adapt it to the question and the learners involved.*
 
-Improving a university course requires coordinated action rather than a single quick fix. Public bodies should set standards and provide essential infrastructure, organisations should monitor results, and individuals should have accessible ways to contribute.
- A small pilot would help decision-makers identify who benefits, where costs arise and what needs to change before expansion. The findings should be published and used to refine the approach.
+## Introduction
 
-In conclusion, a university course can deliver meaningful value, but success depends on realistic funding, fair access and ongoing assessment. A balanced strategy should preserve what works and address weaknesses directly.
+I believe online learning should be treated as a valuable option rather than a universal replacement for face-to-face education. It can broaden access and offer flexibility, but its effectiveness depends on course design, technology, and the kind of learning being taught.
 
----
+## Reason 1
+
+The strongest advantage is that students can learn without travelling to a specific campus at a fixed time. This may help people who live far from educational institutions, work irregular hours, or have caring responsibilities. Recorded lessons and digital materials also allow learners to revisit difficult explanations at their own pace. For adults updating professional skills, this flexibility can make study possible alongside employment. However, providers need to organise materials clearly and set realistic expectations; simply uploading many resources does not create a well-designed course.
+
+## Reason 2
+
+Online learning can also give students access to instructors and classmates beyond their local area. Discussion boards, shared documents, and scheduled video sessions allow people to exchange ideas and receive feedback. Some learners appreciate having time to formulate written questions before responding. Teachers can use participation and assignment patterns to identify concepts that require further explanation, as long as they do not confuse time spent online with genuine understanding.
+
+## Qualification or opposing view (optional)
+
+A lack of reliable internet, devices, quiet study space, or practical equipment can make online study difficult. These barriers are real, so institutions should offer technical support, accessible materials, and in-person alternatives where appropriate.
+
+## Conclusion
+
+Online learning is most effective when it matches the course objectives and students’ circumstances. Flexible delivery should expand educational choice, not force every learner into the same format.

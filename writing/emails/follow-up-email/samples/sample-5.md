@@ -1,12 +1,26 @@
-# A workplace policy
+# Follow-up on workshop registration
 
-**Subject:** Thank you for your support
+*Illustrative event email; confirm registration status before making travel arrangements.*
 
-Dear Jordan,
+## Subject/thread reference
 
-Thank you for your help with a workplace policy. Your prompt feedback made it easier to resolve the main questions and move forward with confidence. I particularly appreciated the clear explanation of the options. I will share the outcome with the wider team.
+Follow-up on registration for the November workshop
 
-Best regards,
-Alex Morgan
+## Prior contact
 
----
+I submitted the registration form for the Accessible Design Workshop on 4 October and received an automated acknowledgement.
+
+## Reason for follow-up
+
+I have not yet received a confirmation or payment instructions, so I would like to check whether my registration is complete.
+
+## Update or question
+
+Could you confirm whether my place has been reserved and whether any further information is required? If the event is full, please let me know whether a waiting list is available.
+
+## Next step and close
+
+I would appreciate a brief update before I finalise my travel plans. Thank you for your help.
+
+Kind regards,  
+Sofia

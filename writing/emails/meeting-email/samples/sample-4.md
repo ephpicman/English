@@ -1,12 +1,34 @@
-# A university course
+# Meeting invitation: monthly reporting quality review
 
-**Subject:** Meeting and next steps
+*Illustrative meeting email. Confirm the meeting link and reporting period before sending.*
 
-Hello everyone,
+## Subject
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+Review of monthly reporting checks
 
-Best regards,
-Alex Morgan
+## Purpose and outcome
 
----
+The purpose is to agree a short pre-publication checklist that improves consistency without duplicating mandatory financial controls.
+
+## Logistics
+
+**Date:** Tuesday, 3 November 2026  
+**Time:** 9:30–10:15 a.m.  
+**Location:** Online meeting  
+**Organiser:** Reporting team lead
+
+## Agenda and preparation
+
+1. Review recent correction types — 10 minutes
+2. Compare current author checks — 10 minutes
+3. Review proposed checklist — 15 minutes
+4. Agree pilot scope and review date — 10 minutes
+
+Please bring one example of a recent correction and note which check would have detected it. Do not include confidential financial information in the meeting notes beyond what attendees are authorised to see.
+
+## Confirmation and sign-off
+
+Please accept the calendar invitation and send any examples to the organiser before the meeting.
+
+Regards,  
+Reporting team lead

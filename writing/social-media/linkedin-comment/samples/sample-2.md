@@ -1,7 +1,15 @@
-# A missed project deadline
+# Professional LinkedIn comment 2
 
-**Context:** Reply to a discussion about a missed project deadline.
+*Illustrative comment; tailor it to the original post.*
 
-A useful point. I’d add that a missed project deadline works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point of connection
 
----
+Your point about measuring outcomes rather than activity is important.
+
+## Added insight or question
+
+I would add that the measures need to match the role. Response time may be essential in a live support team, while uninterrupted focus may matter more for analytical work. How do you agree on measures that are both fair and useful?
+
+## Optional close
+
+A helpful distinction for managers to make.

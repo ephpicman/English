@@ -1,12 +1,28 @@
-# A university course
+# Apology for a delayed delivery
 
-**Subject:** Meeting and next steps
+*Illustrative customer-service email; only promise a date confirmed by the delivery team.*
 
-Hello everyone,
+## Subject
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+**Update and apology for your delayed delivery**
 
-Best regards,
-Alex Morgan
+## Greeting and apology
 
----
+Dear Ms Patel,
+
+I’m sorry your order has not arrived within the delivery window we provided. I understand this is frustrating, particularly when you have planned around an expected arrival.
+
+## Responsibility and context
+
+The latest tracking update does not yet confirm a delivery date. We should have communicated the delay as soon as the status changed, and I apologise that we did not do so.
+
+## Corrective action
+
+I have asked the delivery team to confirm the parcel’s current status and will update you as soon as we receive a reliable estimate. If the parcel cannot be located, I will explain the available replacement or refund options under our delivery policy rather than give you an unverified date.
+
+## Close
+
+Thank you for your patience. I will follow up with a clear update.
+
+Kind regards,  
+Customer Support

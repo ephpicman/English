@@ -1,24 +1,63 @@
-# A workplace policy
+# Resume — Robin Ellis
 
-**Alex Morgan**  
-Project Coordinator | alex.morgan@example.com | Berlin, Germany
+*Illustrative resume. All names, dates, and experience are fictional and should be replaced with accurate details.*
 
-## Profile
-Project coordinator with four years of experience improving workflows, communicating with stakeholders and tracking delivery risks.
+## Plan first
 
-## Experience
-**Project Coordinator — Northstar Services | 2023–Present**
-- Coordinated six concurrent projects across multiple teams.
-- Introduced a shared tracker that reduced overdue actions by 25%.
-- Prepared concise weekly reports for senior stakeholders.
+Target role: Sustainability Project Assistant. Emphasise project support, record accuracy, and environmental interest.
 
-**Operations Assistant — Brightline | 2021–2023**
-- Maintained records and supported customer escalations.
+## Document structure
+
+Highlight relevant coordination and reporting experience without overstating technical expertise.
+
+## Contact information and target role
+
+Robin Ellis | robin.ellis@example.test | Bristol, UK  
+**Target role:** Sustainability Project Assistant
+
+## Professional summary
+
+Project support assistant with experience organising activities, maintaining records, and preparing concise progress summaries. Interested in resource efficiency and transparent reporting that distinguishes measured results from estimates.
 
 ## Skills
-Project planning, stakeholder communication, Excel, risk tracking and process improvement.
 
-## Education
-BA Business Management, City University, 2021
+- Project scheduling and action tracking
+- Spreadsheet records and quality checks
+- Stakeholder communication
+- Event and volunteer coordination
+- Progress reporting and documentation
 
----
+## Professional experience
+
+**Project Support Assistant — Greenway Facilities (illustrative) | Bristol | 2025–2026**
+- Updated project schedules and recorded owners for outstanding actions.
+- Collected information from facilities teams and followed up when figures or dates were unclear.
+- Prepared brief status notes for weekly coordination meetings.
+- Maintained a file of source documents so reported values could be checked later.
+
+**Volunteer — Community Reuse Event | Bristol | 2023–2025**
+- Helped coordinate item collection, sorting, and distribution.
+- Recorded counts and noted when quantities were estimates rather than direct measurements.
+- Assisted with event setup and shared participant feedback with organisers.
+
+## Education and qualifications
+
+**BSc, Environmental Studies — Example West College | 2021–2024**  
+Relevant study: resource management, environmental policy, and project evaluation.
+
+## Projects, certifications, or additional experience
+
+**Reuse-event reporting:** Helped revise the collection sheet to distinguish measured quantities from estimates and make future comparisons more reliable.
+
+## Optional sections
+
+Interests: repair cafés, cycling, and reuse initiatives.  
+Add relevant software or environmental training only if the applicant can verify their experience.
+
+## Final quality check
+
+Confirm the institution, degree title, dates, and employer details before use.
+
+## Resume-specific checks
+
+Do not invent environmental certifications or quantified impact figures.

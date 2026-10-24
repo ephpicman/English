@@ -1,12 +1,28 @@
-# A missed project deadline
+# Apology for a missed meeting
 
-**Subject:** Following up on our discussion
+*Illustrative email; replace the names and details with the actual circumstances.*
 
-Hello Priya,
+## Subject
 
-I wanted to follow up regarding a missed project deadline. I appreciate that you have several priorities, so please let me know whether you have had a chance to review the information. I can send a concise summary or arrange a short call if that would be easier.
+**Apology for missing our meeting**
 
-Best regards,
-Alex Morgan
+## Greeting and apology
 
----
+Dear Daniel,
+
+I’m sorry I missed our 10 a.m. meeting today. I know you set aside time to discuss the handover, and I should have notified you as soon as I realised I could not attend.
+
+## Responsibility and context
+
+I misread the calendar entry and did not check the invitation carefully enough. That was my mistake, and I understand that it may have delayed the decisions you needed to make.
+
+## Corrective action
+
+I have reviewed the calendar and added a reminder for future meetings. If you are available, I can meet tomorrow afternoon or send my handover notes today so that you can continue without waiting for me.
+
+## Close
+
+Please let me know which option works best for you.
+
+Kind regards,  
+Priya

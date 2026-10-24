@@ -1,13 +1,32 @@
-# A workplace policy
+# Meeting agenda: Research study progress check
 
-**Date:** 29 October 2026 | **Time:** 10:00–10:45 | **Chair:** Riley Chen
+## Meeting metadata
 
-1. **Purpose and desired outcomes** — 5 min
-2. **Review of current status and metrics** — 10 min
-3. **Open risks and dependencies** — 10 min
-4. **Decisions required** — 10 min
-5. **Actions, owners and deadlines** — 10 min
+- **Date:** 6 November 2026
+- **Chair / organiser:** Dr. Maya Chen
+- **Attendees:** Research lead, data manager, recruitment coordinator, student representative
+- **Duration:** 45 minutes
 
-**Preparation:** Read the status summary and add agenda items by 16:00 on the previous day.
+## Objective and desired outcomes
 
----
+Review recruitment and data-handling progress, identify any protocol questions, and agree the next steps before the next scheduled study review.
+
+## Agenda table
+
+| Item | Purpose | Lead | Time |
+|---|---|---|---|
+| Review prior actions | Confirm progress and unresolved items | Maya Chen | 5 min |
+| Recruitment status | Compare current progress with the plan | Recruitment coordinator | 10 min |
+| Data quality and access | Review checks and permissions | Data manager | 10 min |
+| Participant feedback | Identify practical barriers | Student representative | 10 min |
+| Agree next actions | Assign owners and review dates | All | 10 min |
+
+## Pre-reading / preparation
+
+Use the approved study tracker and avoid including identifiable participant information in meeting materials. Submit updates by 5 November.
+
+## Decisions required
+
+- Does recruitment need a revised approach?
+- Are any data-quality issues blocking analysis?
+- Which protocol questions require formal review before action?

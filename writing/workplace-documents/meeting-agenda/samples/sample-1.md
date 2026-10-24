@@ -1,13 +1,32 @@
-# A university mentoring programme
+# Meeting agenda: Customer portal launch readiness
 
-**Date:** 29 October 2026 | **Time:** 10:00–10:45 | **Chair:** Riley Chen
+## Meeting metadata
 
-1. **Purpose and desired outcomes** — 5 min
-2. **Review of current status and metrics** — 10 min
-3. **Open risks and dependencies** — 10 min
-4. **Decisions required** — 10 min
-5. **Actions, owners and deadlines** — 10 min
+- **Date:** 12 November 2026
+- **Chair / organiser:** Morgan Chen
+- **Attendees:** Release lead, product owner, accessibility lead, identity-team representative
+- **Duration:** 45 minutes
 
-**Preparation:** Read the status summary and add agenda items by 16:00 on the previous day.
+## Objective and desired outcomes
 
----
+Review the remaining release dependencies and decide whether the portal is ready for the planned launch window or needs a revised date.
+
+## Agenda table
+
+| Item | Purpose | Lead | Time |
+|---|---|---|---|
+| Confirm current release status | Separate completed checks from open work | Morgan Chen | 5 min |
+| Review authentication dependency | Confirm test environment and owner | Identity representative | 10 min |
+| Review accessibility findings | Identify any release-blocking issues | Accessibility lead | 10 min |
+| Decide launch readiness | Record decision and conditions | Release lead | 10 min |
+| Confirm actions and communication | Assign owners and due dates | All | 10 min |
+
+## Pre-reading / preparation
+
+Update the shared readiness checklist by 10 November. Bring evidence for any item marked complete and identify unresolved risks rather than changing a status without a record.
+
+## Decisions required
+
+- Is the authentication configuration confirmed for release?
+- Are any accessibility findings release-blocking?
+- If a condition remains open, who owns it and when will the launch decision be revisited?

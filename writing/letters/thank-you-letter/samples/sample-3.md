@@ -1,14 +1,32 @@
-# A new colleague
+# Thank-you letter to a teacher
 
-Dear Jamie,
+*Illustrative letter; include only feedback or support that the student actually received.*
 
-I am writing regarding a new colleague.
+## Plan first
 
-I wanted to thank you for your generous support. Your time and kindness made a difficult situation much easier, and I especially appreciated the care you took to ensure everything was organised.
+Connect the thanks to a specific teaching action and the learning it supported.
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+## Letter structure
 
-Best wishes,
-Alex Morgan
+Be sincere and concise, and avoid exaggerated claims.
 
----
+## Greeting and direct thanks
+
+Dear Ms Lewis,
+
+Thank you for the guidance you gave me while I was preparing my research project this term.
+
+## Specific detail and impact
+
+Your suggestion to separate the research question from the method helped me see why my first draft was difficult to follow. The comments you made on the structure gave me a clear way to revise the introduction, and I became more confident explaining how each section supported the overall argument.
+
+## Relationship or next step
+
+I plan to use the same approach when I prepare future assignments. I have also kept the planning notes we developed because they will be useful when I begin a larger project.
+
+## Warm closing
+
+I appreciate the time you spent giving detailed feedback and helping me improve the work.
+
+Yours sincerely,  
+Amira

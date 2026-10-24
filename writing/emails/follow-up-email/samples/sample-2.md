@@ -1,12 +1,26 @@
-# A missed project deadline
+# Follow-up on interview availability
 
-**Subject:** Following up on our discussion
+*Illustrative recruitment email; do not imply that an interview is guaranteed.*
 
-Hello Priya,
+## Subject/thread reference
 
-I wanted to follow up regarding a missed project deadline. I appreciate that you have several priorities, so please let me know whether you have had a chance to review the information. I can send a concise summary or arrange a short call if that would be easier.
+Follow-up: availability for the second interview
 
-Best regards,
-Alex Morgan
+## Prior contact
 
----
+Thank you for your email on Monday about the next stage of the Operations Coordinator recruitment process.
+
+## Reason for follow-up
+
+I am following up because I have not yet received the scheduling details and would like to keep the relevant times available.
+
+## Update or question
+
+I remain interested in the role and am available on Tuesday or Thursday afternoon next week. Could you let me know whether either day suits the panel, or whether I should provide additional options?
+
+## Next step and close
+
+I would appreciate an update when convenient. Thank you again for coordinating the process.
+
+Kind regards,  
+Leah

@@ -1,13 +1,60 @@
-# A missed project deadline
+# Designing structured logs for reliable troubleshooting
 
-**Audience:** General readers interested in a missed project deadline.
+*Illustrative technical article. Align examples with the project’s logging framework, privacy rules, and operational requirements.*
 
-# A missed project deadline: Small Changes, Lasting Results
+## Summary
 
-A missed project deadline shapes how people learn, work and participate in their communities. Although a quick fix may sound appealing, meaningful improvement starts with understanding the people affected and removing the barriers they face.
+Structured logs make operational events easier to search and correlate across services. Their value depends on consistent fields, useful event names, and careful handling of sensitive data. A practical logging design defines a small schema, propagates safe correlation identifiers, and tests redaction before events leave the application. This article explains the workflow and trade-offs; it does not prescribe a particular logging vendor or replace metrics and distributed tracing.
 
-A practical first step is to gather feedback and test one change on a small scale. Measure the results against clear goals rather than counting activities alone. This approach helps teams see what works, what costs more than expected and which groups need additional support.
+## Scope and Prerequisites
 
-The lesson is simple: good intentions matter, but thoughtful design and honest evaluation matter just as much. When feedback leads to visible improvement, people are more likely to trust the process and take part.
+The intended audience is a software engineer responsible for application observability. The discussion assumes a service that emits application logs to a central system. Readers should understand basic request handling, error paths, and the organisation’s data classification policy. The final schema must fit the log platform’s supported fields, retention rules, and access controls.
 
----
+## Core Concepts
+
+A log event records something that happened at a point in time. Structured logging stores fields as machine-readable values rather than embedding every detail in an unstructured sentence. Common fields include timestamp, severity, service, environment, event name, and correlation ID. Domain-specific fields should be added only when they help answer a diagnostic question.
+
+A correlation ID connects events associated with one request or workflow. It should be generated or validated at a trusted boundary and propagated through internal calls where practical. It is not an authentication token and should not grant access to records. Event names should describe a stable event, while changing values belong in separate fields.
+
+## Architecture or Workflow
+
+A request enters the service and receives a correlation identifier. The application emits events as it passes through validation, business logic, and downstream calls. If a dependency fails, the error event records a stable error category and correlation ID without dumping the full request body. Background jobs should preserve a job or workflow identifier across retries so that separate attempts can be connected.
+
+Treat the schema as a contract shared by application code, log collectors, dashboards, and alerts. Define mandatory fields, types, severity values, and how missing optional values are represented. A field that is a string in one event and an object in another makes queries brittle. Changes to the schema should be reviewed with downstream dashboards and alerts.
+
+## Implementation Details
+
+An illustrative JSON event might look like this:
+
+```json
+{
+  "timestamp": "2026-10-24T10:15:00Z",
+  "severity": "ERROR",
+  "service": "report-api",
+  "event": "dependency_timeout",
+  "correlation_id": "req_example_123",
+  "dependency": "report-store"
+}
+```
+
+The timestamp and identifier are synthetic. Configure the logger to emit valid structured records and standardise field names. Apply redaction before output, including exception paths where sensitive values may appear in error messages. Never log authorization headers, session tokens, passwords, or full payment details. If user-provided text is needed for diagnosis, follow the approved classification and redaction policy.
+
+Use the logging platform’s parsing and query tools to verify that fields can be filtered and grouped as expected. Add tests for required fields, allowed severity values, and known sensitive patterns. Include a test where a secret appears in an exception message, not only in a successful request.
+
+## Limitations and Operational Concerns
+
+More logs are not automatically better. Excessive event volume increases cost and can obscure important signals. Correlation IDs may be lost across asynchronous boundaries unless explicitly propagated. Logging also needs retention and access controls appropriate to the data it contains. Decide what the application does if the collector is unavailable, how long events may be buffered, and whether high-volume repetitive errors need sampling.
+
+Logs should not be the sole source of audit evidence when stronger integrity guarantees are required. They also cannot replace metrics for aggregate service health or traces for detailed cross-service timing.
+
+### Schema governance and useful alerts
+
+The schema should be small enough that developers can remember its conventions and stable enough that dashboards do not break with every code change. Define which fields are required for every event and which are specific to one event type. Use consistent severity levels and avoid using severity as a substitute for business importance. A validation test can catch a missing correlation identifier before the service is deployed.
+
+Alerts should be based on a signal that requires action, not simply on the presence of an error event. For example, a sustained rise in dependency timeouts may justify an alert, while one isolated validation error may be expected. Pair log queries with service metrics such as request rate, latency, and error proportion. This makes it easier to distinguish a local exception from a wider service degradation.
+
+During rollout, compare the new structured events with existing operational dashboards and verify that the fields arrive with the expected types. If a field changes, review downstream queries and retention implications before deploying the change. A documented schema version may help where several service versions emit events during a gradual deployment, but the team should introduce it only if it solves a real compatibility problem.
+
+## Conclusion
+
+A useful logging system combines a stable schema, safe context, and a clear review process. Define which operational question each field answers, verify redaction, and test dashboards after schema changes. This keeps logs actionable without allowing sensitive data or unnecessary fields to accumulate.

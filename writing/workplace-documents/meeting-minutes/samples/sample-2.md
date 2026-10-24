@@ -1,19 +1,33 @@
-# A missed project deadline
+# Meeting minutes: monthly customer-support review
 
-**Meeting:** Weekly Delivery Review  
-**Date:** 22 October 2026  
-**Attendees:** Riley Chen, Sam Patel, Alex Morgan
+## Meeting metadata and attendees
 
-## Decisions
-- Keep the pilot within the current scope.
-- Review performance against the baseline before expanding.
+- **Date:** 19 October 2026
+- **Facilitator:** Priya Nair
+- **Attendees:** Support lead, product representative, operations analyst, service manager
+- **Record type:** Illustrative minutes; confirm with the meeting record
 
-## Actions
-- Alex: update the tracker by 27 October.
-- Sam: confirm user feedback themes by 28 October.
-- Riley: circulate the revised recommendation by 30 October.
+## Purpose / agenda
 
-## Risks
-Supplier confirmation remains outstanding. Riley will escalate if no response is received by the end of the week.
+Review recurring support contacts and select improvement work for the next cycle.
 
----
+## Discussion summary by topic
+
+The support lead described repeated questions about account recovery and uncertainty about where to find the current instructions. The product representative noted that the help article needs to be checked against the latest workflow. The analyst cautioned that ticket categories are not fully consistent, so counts should be interpreted only after the labels are reviewed.
+
+## Decisions made
+
+The team agreed to review the account-recovery article first and to standardise the relevant ticket categories before using category totals to prioritise further work.
+
+## Action items with owner and due date
+
+| Action | Owner | Due date |
+|---|---|---|
+| Compare the article with the current workflow | Product representative | 27 October 2026 |
+| Review category definitions with agents | Support lead | 29 October 2026 |
+| Prepare a short summary of recurring case themes | Operations analyst | 30 October 2026 |
+| Recommend next improvement item | Service manager | 3 November 2026 |
+
+## Open issues and next meeting
+
+The team has not yet established whether the recurring contacts are caused mainly by unclear guidance or by product behaviour. The next review is scheduled for 5 November 2026, when the article review and category check will be discussed.

@@ -1,12 +1,48 @@
-# A university course
+# Request to work remotely for a scheduled appointment
 
-**Subject:** Meeting and next steps
+*Illustrative workplace email; adapt to the organisation’s remote-work policy and actual schedule.*
 
-Hello everyone,
+## Plan before drafting
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+The request provides advance notice, identifies the affected hours, and explains how work will remain covered.
 
-Best regards,
-Alex Morgan
+## Email structure
 
----
+The proposed arrangement is clear, with an alternative if the request cannot be approved.
+
+## Subject line
+
+Request to work remotely on Tuesday morning
+
+## Greeting and direct request
+
+Hi Amira,
+
+May I work remotely on Tuesday morning, 12 November, and join the team meeting online?
+
+## Context and rationale
+
+I have an appointment near home at midday, and working remotely would avoid a long commute between the office and the appointment. I expect to be available during my usual working hours apart from the appointment itself.
+
+## Specific details and constraints
+
+I will complete the client notes before 10 a.m., join the 9:30 a.m. team meeting by video, and remain reachable through chat and email. No in-person client visits are scheduled for me that morning.
+
+## Deadline and flexibility
+
+Please let me know by Monday afternoon if this arrangement causes any coverage issues. If remote work is not possible, I can discuss adjusting my hours or using leave for the affected period.
+
+## Thanks and sign-off
+
+Thank you for considering it.
+
+Best,  
+Nadia
+
+## Final checklist
+
+Verify the date, meeting arrangements, and policy requirements before sending.
+
+## IELTS-oriented language practice
+
+The email uses a polite request, practical details, and a fallback option without overexplaining personal circumstances.

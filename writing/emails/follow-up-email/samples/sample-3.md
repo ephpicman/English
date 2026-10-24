@@ -1,12 +1,26 @@
-# A new colleague
+# Follow-up on an outstanding maintenance request
 
-**Subject:** Enquiry about available options
+*Illustrative tenant email; verify the ticket number and current status before sending.*
 
-Dear Hiring Team,
+## Subject/thread reference
 
-I am considering a new colleague and would be grateful if you could clarify the available options, expected timeline and total cost. Please also let me know whether any prerequisites or supporting documents are required. This will help me assess whether it meets our needs.
+Follow-up on maintenance ticket MT-2381
 
-Yours faithfully,
-Alex Morgan
+## Prior contact
 
----
+I reported the loose stairwell handrail in building C on 6 October and received ticket reference MT-2381.
+
+## Reason for follow-up
+
+I am checking the status because the handrail still appears loose and residents continue to use the stairs daily.
+
+## Update or question
+
+Could you confirm whether an inspection has been scheduled and provide an estimated visit date? I have not attempted to repair the handrail, but I can send a current photograph if it would help the maintenance team assess the issue.
+
+## Next step and close
+
+Please let me know the next step or whether the report should be escalated through another channel. Thank you for your help.
+
+Sincerely,  
+A resident

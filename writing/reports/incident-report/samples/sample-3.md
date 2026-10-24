@@ -1,22 +1,64 @@
-# A new colleague
+# Incident report: water leak in an office kitchenette
 
-**To:** Operations Lead  
-**From:** Project Analyst  
-**Date:** 24 October 2026  
-**Subject:** A new colleague
+*Illustrative facilities incident report. Confirm times, damage, and repair status with the facilities record.*
 
-## Purpose
-This report reviews the current position, identifies the main findings and recommends proportionate next steps.
+## Before drafting
 
-## Findings
-Initial feedback about a new colleague indicates that responsibilities are not always clear and updates are recorded inconsistently. These gaps make it difficult to compare performance or identify emerging risks. A shared process would reduce duplication and improve accountability.
+Record observable facts, actions taken, and unresolved safety or repair questions. Avoid guessing at the cause of the leak.
 
-## Recommendations
-1. Assign a named owner to each action.
-2. Record status, due date and evidence in one shared tracker.
-3. Review progress fortnightly and escalate overdue items.
+## Report structure
 
-## Conclusion
-Run a short pilot for one month. Compare completion rates, user feedback and administrative time before deciding whether to expand the approach.
+The report covers location and impact, a factual timeline, containment, and follow-up responsibilities.
 
----
+## Incident details and document control
+
+- **Incident ID:** FAC-2026-027
+- **Date:** 15 October 2026
+- **Location:** Third-floor kitchenette
+- **Reporter:** Office administrator
+- **Status:** Leak contained; inspection pending
+- **Version:** 1.0
+
+## Executive incident summary
+
+Water was observed beneath the sink in the third-floor kitchenette. Staff turned off the local valve and notified facilities. The immediate flow stopped, but the cabinet base was damp and a maintenance inspection is required to establish the source and extent of any damage.
+
+## Scope and impact
+
+The kitchenette sink was taken out of use pending inspection. No injuries were reported in the initial notification. The affected cabinet and surrounding floor require a check for water damage; the report should be updated if the inspection identifies a wider impact.
+
+## Timeline of events
+
+| Time (local) | Event | Source / action |
+|---|---|---|
+| 08:40 | Water noticed beneath sink | Staff report |
+| 08:45 | Local valve closed | Reporter confirmation |
+| 08:52 | Facilities notified | Maintenance ticket |
+| 09:10 | Area marked and sink taken out of use | Facilities note |
+| Pending | Inspection and repair | Appointment to be confirmed |
+
+## Response and containment
+
+Staff stopped using the sink, closed the local valve, and reported the issue. Facilities marked the area and arranged for inspection. Staff were advised not to dismantle the connection or attempt an unauthorised repair.
+
+## Cause and contributing factors
+
+The cause is unknown pending inspection. The report should not attribute the leak to wear, misuse, or a faulty fitting until the maintenance technician has examined the connection.
+
+## Recovery and verification
+
+The area can return to normal use only after facilities confirms the leak has been repaired and the affected area is safe. Any cabinet or flooring damage should be documented in the maintenance record.
+
+## Corrective and preventive actions
+
+- Inspect connection and identify source — Facilities technician — 16 October.
+- Record repair and any affected materials — Facilities coordinator — after visit.
+- Confirm sink can return to use — Building manager — after repair verification.
+
+## Final quality check
+
+Verify the incident timeline and close-out evidence before changing the status to resolved.
+
+## IELTS-oriented language practice
+
+The report records the response without speculating about the leak’s cause.

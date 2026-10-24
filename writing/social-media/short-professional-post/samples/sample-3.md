@@ -1,7 +1,19 @@
-# A new colleague
+# Short professional post: reporting uncertainty
 
-**Context:** Publish a concise professional update about a new colleague.
+*Illustrative post; do not share confidential project details.*
 
-A practical lesson from a new colleague: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook or Announcement
 
----
+A status update should say what is still uncertain.
+
+## Essential Information
+
+“Testing is planned for Thursday, pending access approval” is more useful than “on track” when the dependency is not yet closed. It tells the reader what to monitor and who needs to act.
+
+## Relevance or Takeaway
+
+Clear uncertainty helps teams make decisions before a forecast becomes a missed commitment.
+
+## Call to Action or Close
+
+What helps your team flag risks early?

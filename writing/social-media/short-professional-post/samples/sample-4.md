@@ -1,7 +1,19 @@
-# A university course
+# Short professional post: accessible documents
 
-**Context:** Publish a concise professional update about a university course.
+*Illustrative post; follow the relevant accessibility standards.*
 
-A practical lesson from a university course: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook or Announcement
 
----
+Build accessibility into the first draft, not the final check.
+
+## Essential Information
+
+Use semantic heading styles, descriptive link text, meaningful table headers, and appropriate alternative text. Automated checkers are useful, but manual review is still needed.
+
+## Relevance or Takeaway
+
+Good structure makes documents easier to navigate for more readers and simpler to maintain.
+
+## Call to Action or Close
+
+Which accessibility check do you use routinely?

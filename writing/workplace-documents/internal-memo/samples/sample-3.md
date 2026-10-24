@@ -1,17 +1,49 @@
-# A new colleague
+# Internal memo: preparation for the annual supplier review
 
-**To:** Project Team  
-**From:** Operations  
-**Date:** 24 October 2026  
-**Subject:** A new colleague
+*Illustrative memo. Verify supplier records and confidentiality requirements before circulation.*
 
-## Purpose
-This document summarises the current position and the action required from the team.
+## Plan first
 
-## Key points
-Work relating to a new colleague remains on track overall, but ownership and timing must be confirmed for outstanding tasks. Use the shared tracker as the single source of truth and flag risks as soon as they become visible.
+The memo coordinates preparation and clarifies what evidence each owner must provide.
 
-## Required action
-Each owner should update their status and next milestone by Thursday at 15:00. The project lead will review exceptions at the weekly check-in.
+## Document structure
 
----
+Put the purpose and deadline first, then list the records and responsibilities.
+
+## Memo header
+
+- **To:** Procurement and service owners
+- **From:** Procurement manager
+- **Date:** 24 October 2026
+- **Subject:** Inputs required for annual supplier review
+
+## Purpose and requested action
+
+Please submit the requested supplier-review inputs by 6 November so that the review meeting can focus on decisions rather than collecting missing records.
+
+## Background and facts
+
+The annual review considers service delivery, open issues, contract dates, and any proposed changes to the relationship. The review should use current records and distinguish confirmed performance information from estimates or informal feedback.
+
+## Analysis or key points
+
+Each service owner should summarise delivery against agreed requirements, open issues, and evidence of follow-up. Procurement will confirm contract terms and renewal dates. Do not include confidential information beyond what the review group is authorised to see.
+
+## Recommendation or decision
+
+Use the shared review template and link to source records rather than creating separate copies of the same information. Flag any supplier issue that requires a decision or formal escalation.
+
+## Actions, owners, and timing
+
+- Service owners: submit service summary and open issues by 6 November.
+- Procurement: verify contract dates and obligations by 9 November.
+- Procurement manager: circulate the consolidated pack by 11 November.
+- Review group: meet on 13 November.
+
+## Final quality check
+
+Check that all records are current and shared only with authorised recipients.
+
+## IELTS-oriented language practice
+
+The memo uses deadlines and clear ownership to prepare a decision meeting.

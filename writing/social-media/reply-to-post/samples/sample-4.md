@@ -1,7 +1,18 @@
-# A university course
+# Reply to a post about measuring employee productivity
 
-**Context:** Reply to a discussion about a university course.
+*Illustrative reply; adapt it to the role and workplace context.*
 
-A useful point. I’d add that a university course works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point being answered
 
----
+You suggest that response speed is a good measure of productivity.
+
+## Response and reasoning
+
+It can matter in roles with defined service targets, but it is not a fair measure for every kind of work.
+
+## Added value
+
+For complex tasks, quality, completion, and the ability to prevent rework may be more useful indicators than how quickly someone replies to a message.
+
+## Optional close
+

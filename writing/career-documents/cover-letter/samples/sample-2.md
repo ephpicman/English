@@ -1,14 +1,30 @@
-# A missed project deadline
+# Application for Junior Data Analyst
 
-Dear Hiring Team,
+*Illustrative cover letter. Verify the employer, role requirements, and all experience before submission.*
 
-I am pleased to apply for the opportunity relating to a missed project deadline. My experience coordinating work across teams has taught me to turn broad objectives into clear actions, communicate risks early and keep stakeholders informed.
+## Opening and target role
 
-In my current role, I introduced a shared tracking process that improved visibility and reduced overdue actions. I would bring the same practical, collaborative approach to your organisation, while remaining open to feedback and continuous learning.
+I am applying for the Junior Data Analyst position at Meridian Retail Group. My training in spreadsheet analysis and introductory SQL, together with experience preparing clear reports for non-technical colleagues, has prepared me to support evidence-based decisions.
 
-Thank you for considering my application. I would welcome the opportunity to discuss how my experience matches your needs.
+## Employer-specific motivation
 
-Kind regards,
-Alex Morgan
+I am drawn to the role because it combines data quality, business questions, and communication. I would value the opportunity to help teams understand what a dataset can show while being transparent about gaps and limitations.
 
----
+## Relevant qualification
+
+My coursework has covered data cleaning, descriptive statistics, joins, and visualisation. In a recent project, I worked with a sample sales dataset, standardised date formats, checked duplicate order IDs, and documented how missing values were handled. I used SQL queries to group transactions by month and product category, then presented the results in a short report.
+
+## Achievement evidence
+
+The initial chart suggested that one category had sharply declined. Before drawing a conclusion, I checked whether the dataset covered the same number of days in each month and found that the final month was incomplete. I revised the chart to label the partial period and added a note explaining the limitation. This prevented a misleading comparison and reinforced the importance of validating the data before interpreting a trend. I also kept the query and cleaning steps so that another person could reproduce the analysis.
+
+## Fit and contribution
+
+I would bring curiosity, attention to detail, and a habit of recording assumptions. I am keen to develop my technical skills while ensuring that reports remain understandable to the people who use them.
+
+## Closing and next step
+
+Thank you for reviewing my application. I would welcome a conversation about the analytical tasks and learning opportunities available in the role.
+
+Yours sincerely,  
+Jamie Lee

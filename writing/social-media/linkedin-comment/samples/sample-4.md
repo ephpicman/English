@@ -1,7 +1,15 @@
-# A university course
+# Professional LinkedIn comment 4
 
-**Context:** Reply to a discussion about a university course.
+*Illustrative comment; adapt it to the specific accessibility discussion.*
 
-A useful point. I’d add that a university course works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point of connection
 
----
+I appreciate the emphasis on making accessibility part of the workflow.
+
+## Added insight or question
+
+Automated checkers are useful, but they cannot always tell whether a link label or alternative text actually helps a reader. A short manual review of the document’s structure can catch issues that a score alone misses.
+
+## Optional close
+
+A useful reminder to test the finished document, not just run the checker.

@@ -1,14 +1,36 @@
-# A university mentoring programme
+# Apology for a delayed project schedule
 
-Dear Jamie,
+*Illustrative letter; replace the names and circumstances with accurate details.*
 
-I am writing regarding a university mentoring programme.
+## Plan first
 
-Please accept my sincere apologies for the inconvenience caused. I should have informed you of the change sooner, and I accept responsibility for the disruption. I have corrected the immediate issue and will communicate promptly if anything changes.
+The letter accepts responsibility, recognises the impact, and explains a realistic corrective step.
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+## Letter structure
 
-Best wishes,
-Alex Morgan
+Keep the explanation brief and focus on what will change.
 
----
+## Greeting and clear apology
+
+Dear Morgan,
+
+I am writing to apologise for sending the revised project schedule after the agreed deadline.
+
+## Context and responsibility
+
+I was waiting for two confirmations before updating the dates, but I should have told you earlier that the schedule might be delayed. Instead, I waited until the information was complete, leaving you less time to prepare the briefing.
+
+## Impact and understanding
+
+I understand that this created avoidable pressure and may have affected the time available for your review. I recognise that the problem was not only the delay but also the lack of an early warning.
+
+## Corrective action and prevention
+
+I have now sent the revised schedule and marked the dates that still depend on confirmation. In future, I will share a provisional update by the agreed deadline and clearly identify unresolved items rather than leave you without information. I will also notify you as soon as a dependency threatens a commitment.
+
+## Closing and sign-off
+
+I am sorry for the inconvenience and appreciate your patience.
+
+Yours sincerely,  
+Alex

@@ -1,24 +1,62 @@
-# A new colleague
+# Resume — Samira Khan
 
-**Alex Morgan**  
-Project Coordinator | alex.morgan@example.com | Berlin, Germany
+*Illustrative resume. Replace fictional names, dates, and experience with verified information.*
 
-## Profile
-Project coordinator with four years of experience improving workflows, communicating with stakeholders and tracking delivery risks.
+## Plan first
 
-## Experience
-**Project Coordinator — Northstar Services | 2023–Present**
-- Coordinated six concurrent projects across multiple teams.
-- Introduced a shared tracker that reduced overdue actions by 25%.
-- Prepared concise weekly reports for senior stakeholders.
+Target role: Community Outreach Assistant. Prioritise public communication, event support, and inclusive service.
 
-**Operations Assistant — Brightline | 2021–2023**
-- Maintained records and supported customer escalations.
+## Document structure
+
+Use concrete examples that show how the applicant works with residents and colleagues.
+
+## Contact information and target role
+
+Samira Khan | samira.khan@example.test | Hamburg, Germany  
+**Target role:** Community Outreach Assistant
+
+## Professional summary
+
+Community-focused assistant with experience supporting public events, preparing information materials, and directing enquiries to appropriate services. Values respectful communication, accessibility, and careful handling of personal information.
 
 ## Skills
-Project planning, stakeholder communication, Excel, risk tracking and process improvement.
 
-## Education
-BA Business Management, City University, 2021
+- Event coordination and visitor support
+- Clear written and verbal communication
+- Volunteer scheduling and sign-in records
+- Accessible information materials
+- Privacy-aware record handling
 
----
+## Professional experience
+
+**Programme Assistant — Harbour Neighbourhood Centre | Hamburg | 2024–2026**
+- Helped prepare schedules, room layouts, and information sheets for community events.
+- Welcomed visitors and directed service questions to the appropriate staff member.
+- Maintained volunteer sign-up lists and followed the centre’s procedures for contact details.
+- Collected participant feedback and summarised recurring suggestions for the programme coordinator.
+
+**Volunteer — Local Welcome Project | Hamburg | 2023–2024**
+- Assisted with orientation sessions for new residents.
+- Prepared printed resource lists and checked opening times with service providers.
+- Supported event setup and ensured signs were visible at entrances and accessible routes.
+
+## Education and qualifications
+
+**Certificate in Community Development — Example Adult Learning Centre | 2023**  
+Relevant study: community engagement, safeguarding basics, and inclusive communication.
+
+## Projects, certifications, or additional experience
+
+**Community information afternoon:** Helped create a topic-and-time guide that made it easier for visitors to identify relevant sessions.
+
+## Optional sections
+
+Languages: German (fluent); English (professional working proficiency); Urdu (conversational).
+
+## Final quality check
+
+Confirm language proficiency, dates, and any safeguarding credentials before use.
+
+## Resume-specific checks
+
+Include only qualifications actually held and omit private personal information unrelated to the role.

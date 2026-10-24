@@ -1,7 +1,18 @@
-# A workplace policy
+# Reply to a post about public speaking confidence
 
-**Context:** Reply to a discussion about a workplace policy.
+*Illustrative reply; tailor the response to the specific advice being discussed.*
 
-A useful point. I’d add that a workplace policy works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point being answered
 
----
+You recommend practising a presentation repeatedly before delivering it.
+
+## Response and reasoning
+
+I agree that rehearsal helps, especially when it reveals awkward transitions or unclear explanations.
+
+## Added value
+
+It can also help to practise once with someone who has not seen the material; their questions may reveal assumptions that are obvious only to the presenter.
+
+## Optional close
+

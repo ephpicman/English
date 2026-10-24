@@ -1,12 +1,44 @@
-# A university course
+# Thank you for the detailed feedback
 
-**Subject:** Meeting and next steps
+*Illustrative academic email; mention feedback you have genuinely received.*
 
-Hello everyone,
+## Plan before drafting
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+Acknowledge the feedback and identify how it improved the work or clarified the next step.
 
-Best regards,
-Alex Morgan
+## Email structure
 
----
+Be appreciative without asking for additional work unless a separate request is necessary.
+
+## Subject line
+
+Thank you for the feedback on my draft
+
+## Greeting and direct thanks
+
+Dear Professor Lewis,
+
+Thank you for reviewing my research proposal and providing detailed comments.
+
+## Specific detail and impact
+
+Your suggestion to distinguish the research question from the method helped me see why the original introduction felt unfocused. I have revised the opening paragraph and made the relationship between the question, sample, and analysis more explicit.
+
+## Follow-up or next step
+
+I will use the same distinction when revising the methods section. I will bring the updated draft to our next scheduled supervision meeting so we can discuss any remaining issues.
+
+## Warm closing and sign-off
+
+Thank you for taking the time to give such constructive guidance.
+
+Sincerely,  
+Amira
+
+## Final checklist
+
+Confirm the title and nature of the feedback, and do not imply that the proposal has been approved.
+
+## IELTS-oriented language practice
+
+The note connects a particular comment to a concrete revision.

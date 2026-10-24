@@ -1,17 +1,52 @@
-# A new colleague
+# Briefing document: review of after-hours support demand
 
-**To:** Project Team  
-**From:** Operations  
-**Date:** 24 October 2026  
-**Subject:** A new colleague
+*Illustrative briefing. Use current ticket data and approved staffing information before making a decision.*
 
-## Purpose
-This document summarises the current position and the action required from the team.
+## Plan first
 
-## Key points
-Work relating to a new colleague remains on track overall, but ownership and timing must be confirmed for outstanding tasks. Use the shared tracker as the single source of truth and flag risks as soon as they become visible.
+The decision is whether to investigate an evening support option, not to approve a permanent rota change.
 
-## Required action
-Each owner should update their status and next milestone by Thursday at 15:00. The project lead will review exceptions at the weekly check-in.
+## Document structure
 
----
+The briefing summarises the service question, options, recommendation, and next steps.
+
+## Document metadata
+
+- **Date:** 24 October 2026
+- **Owner:** Customer support manager
+- **Audience:** Operations director
+- **Subject:** Assessment of after-hours support
+
+## Purpose and key message
+
+Approve a demand and feasibility assessment before deciding whether to pilot evening support coverage.
+
+## Background and current position
+
+Customers who contact the service outside current staffed hours may wait until the next working day. The number, urgency, and type of these contacts must be established from current records; isolated examples are not enough to justify a staffing change.
+
+## Options or analysis
+
+**Option A: Keep current coverage and improve expectation-setting.** Low operational change, but may not meet urgent needs.
+
+**Option B: Analyse demand and assess a limited trial.** Requires staff time but provides evidence about demand, cost, and coverage.
+
+**Option C: Extend coverage immediately.** Could improve availability but carries staffing and workload risk without a verified demand profile.
+
+## Recommendation and rationale
+
+Choose Option B. The team should identify contact patterns, the proportion that can be handled asynchronously, and the staffing constraints before committing to a schedule.
+
+## Actions, owners, and deadlines
+
+- Support analyst: prepare contact-time summary by 6 November.
+- HR and operations: assess feasible coverage patterns by 13 November.
+- Support manager: submit a costed recommendation by 20 November.
+
+## Final quality check
+
+Do not present an assessment as proof that extended coverage will be cost-effective.
+
+## IELTS-oriented language practice
+
+The briefing distinguishes a decision to investigate from a decision to implement.

@@ -1,12 +1,48 @@
-# A university course
+# Notification of a planned system maintenance window
 
-**Subject:** Meeting and next steps
+*Illustrative internal notice; confirm the schedule and impact with the technical owner.*
 
-Hello everyone,
+## Plan before drafting
 
-Could we meet on Thursday at 10:00 to discuss a university course? I suggest a 30-minute session covering the current position, open decisions and action owners. Please let me know by Tuesday if the time is unsuitable; I will circulate background notes in advance.
+The email tells affected colleagues what will happen, when it will happen, and what they should do.
 
-Best regards,
-Alex Morgan
+## Email structure
 
----
+Put the time window and expected impact near the beginning, then provide a contact route.
+
+## Subject line
+
+Planned maintenance: reporting portal on Saturday
+
+## Greeting and purpose
+
+Hello colleagues,
+
+The reporting portal is scheduled for maintenance on Saturday, 16 November, from 7:00 to 8:30 a.m. Central European Time.
+
+## Essential context
+
+During this window, users may be unable to sign in or export reports. No action is needed for files already saved locally, but please avoid starting a scheduled export during the maintenance period.
+
+## Main message or request
+
+The service team will test the portal after the update and confirm when normal access is restored. If the maintenance window changes, we will send a revised notice.
+
+## Action, timing, or next step
+
+Please complete any time-sensitive exports by Friday afternoon. Report access problems after the window through the usual service desk channel.
+
+## Closing and sign-off
+
+Thank you for planning around this short interruption.
+
+Regards,  
+IT Operations
+
+## Final checklist
+
+Verify the date, time zone, duration, and expected impact with the service owner.
+
+## IELTS-oriented language practice
+
+The notice distinguishes the scheduled interruption from the steps users need to take.

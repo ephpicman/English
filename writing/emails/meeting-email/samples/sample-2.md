@@ -1,12 +1,34 @@
-# A missed project deadline
+# Meeting invitation: monthly customer-support review
 
-**Subject:** Following up on our discussion
+*Illustrative meeting email. Verify the time and attendees before sending.*
 
-Hello Priya,
+## Subject
 
-I wanted to follow up regarding a missed project deadline. I appreciate that you have several priorities, so please let me know whether you have had a chance to review the information. I can send a concise summary or arrange a short call if that would be easier.
+Monthly customer-support review — 5 November
 
-Best regards,
-Alex Morgan
+## Purpose and outcome
 
----
+We will review recurring support contacts, check the status of agreed improvements, and choose the next issue to investigate.
+
+## Logistics
+
+**Date:** Thursday, 5 November 2026  
+**Time:** 2:00–3:00 p.m.  
+**Location:** Online meeting  
+**Organiser:** Priya Nair
+
+## Agenda and preparation
+
+1. Review previous actions — 10 minutes
+2. Discuss recurring ticket themes and category quality — 20 minutes
+3. Review account-recovery guidance — 15 minutes
+4. Agree owners and next review date — 15 minutes
+
+Please bring examples of repeated customer questions with personal information removed. If you own a help article, check whether it still matches the current product workflow before the meeting.
+
+## Confirmation and sign-off
+
+Please accept the invitation and send any agenda additions by 3 November.
+
+Kind regards,  
+Priya

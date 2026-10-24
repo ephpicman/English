@@ -1,7 +1,15 @@
-# A new colleague
+# Professional LinkedIn comment 3
 
-**Context:** Reply to a discussion about a new colleague.
+*Illustrative comment; post only if it adds to the discussion.*
 
-A useful point. I’d add that a new colleague works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point of connection
 
----
+The reminder to verify information before drawing a conclusion resonates with me.
+
+## Added insight or question
+
+A partial reporting period can make a normal trend look like a sudden change. I find it useful to check the date range and definition before interpreting the chart. Do you include these assumptions alongside your dashboards?
+
+## Optional close
+
+Thanks for highlighting the importance of context.

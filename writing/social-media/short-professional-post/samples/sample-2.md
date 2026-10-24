@@ -1,7 +1,19 @@
-# A missed project deadline
+# Short professional post: meeting notes
 
-**Context:** Publish a concise professional update about a missed project deadline.
+*Illustrative post; adapt the advice to your team’s working style.*
 
-A practical lesson from a missed project deadline: progress comes from making the next step clear, not from creating a perfect plan on paper. We tested one small change, listened to the people affected and adjusted based on evidence. The result was a more useful process and clearer ownership. What could your team test this week? #ContinuousImprovement #Learning
+## Hook or Announcement
 
----
+Meeting notes are most useful when they record decisions and owners.
+
+## Essential Information
+
+Separate decisions from discussion, and give each action a responsible person and due date. If a point remains unresolved, label it as open rather than implying the team has agreed.
+
+## Relevance or Takeaway
+
+A short, accurate record can prevent confusion at the next check-in.
+
+## Call to Action or Close
+
+How do you keep your meeting notes actionable?

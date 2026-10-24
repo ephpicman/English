@@ -1,14 +1,44 @@
-# A university mentoring programme
+# Letter of complaint: incorrect item delivered
 
-Dear Sir or Madam,
+*Illustrative complaint letter. Verify the order reference, dates, and evidence before sending.*
 
-I am writing regarding a university mentoring programme.
+## Plan first
 
-I am writing to raise a concern about the service I received. The agreed arrangements were not followed, and the lack of an update prevented me from making alternative plans. Please investigate and explain what corrective action can be taken.
+The letter presents a factual account and requests a proportionate remedy.
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+## Letter structure
 
-Yours faithfully,
-Alex Morgan
+Keep the timeline clear and refer to supporting records.
 
----
+## Greeting and clear purpose
+
+Dear Customer Services Manager,
+
+I am writing to complain about an incorrect item supplied with my order and to request an exchange.
+
+## Relevant purchase, service, or event details
+
+Order 6724, placed on 2 October and delivered on 9 October.
+
+## Factual account and evidence
+
+The order confirmation lists a medium desk lamp in black, but the parcel contained a large white model. The packing slip also identifies the black medium lamp. I have retained the packaging and can provide photographs of the product label and the packing slip.
+
+## Impact and attempted resolution
+
+The item does not fit the intended space and cannot be used as planned. I checked the order confirmation before contacting you and have not attempted to modify the product. This is my first request for assistance with the order.
+
+## Specific remedy requested
+
+Please arrange an exchange for the correct model and confirm whether a prepaid return label will be provided. I would appreciate a response within five working days.
+
+## Closing and next step
+
+Thank you for your attention. I look forward to your reply.
+
+Yours faithfully,  
+Jordan Lee
+
+## Final review
+
+Check all order details and include only relevant evidence.

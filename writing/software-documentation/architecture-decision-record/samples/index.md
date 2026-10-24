@@ -1,9 +1,7 @@
 # Architecture Decision Record: Five Examples
 
-Each example is available as a separate Markdown file:
-
-- [sample-1](sample-1.md) — A university mentoring programme
-- [sample-2](sample-2.md) — A missed project deadline
-- [sample-3](sample-3.md) — A new colleague
-- [sample-4](sample-4.md) — A university course
-- [sample-5](sample-5.md) — A workplace policy
+- [sample-1.md](sample-1.md) — ADR: choosing a background job queue
+- [sample-2.md](sample-2.md) — ADR: selecting a database migration strategy
+- [sample-3.md](sample-3.md) — ADR: standardising application logging
+- [sample-4.md](sample-4.md) — ADR: storing uploaded files
+- [sample-5.md](sample-5.md) — ADR: defining service-to-service authentication

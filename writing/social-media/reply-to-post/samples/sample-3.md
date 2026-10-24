@@ -1,7 +1,18 @@
-# A new colleague
+# Reply to a post about using AI for research
 
-**Context:** Reply to a discussion about a new colleague.
+*Illustrative reply; follow the relevant academic or workplace rules.*
 
-A useful point. I’d add that a new colleague works best when the goal is specific and progress is measured transparently. Small pilots and honest feedback reveal what needs to change before an approach is expanded. What indicators have you found most useful?
+## Point being answered
 
----
+You recommend using AI tools to speed up research.
+
+## Response and reasoning
+
+They can help generate search terms or organise early questions, but the output still needs verification against reliable sources.
+
+## Added value
+
+I would treat generated references and factual claims as unconfirmed until I can locate the original source and check that it supports the point.
+
+## Optional close
+

@@ -1,13 +1,32 @@
-# A new colleague
+# Meeting agenda: Community event planning
 
-**Date:** 29 October 2026 | **Time:** 10:00–10:45 | **Chair:** Riley Chen
+## Meeting metadata
 
-1. **Purpose and desired outcomes** — 5 min
-2. **Review of current status and metrics** — 10 min
-3. **Open risks and dependencies** — 10 min
-4. **Decisions required** — 10 min
-5. **Actions, owners and deadlines** — 10 min
+- **Date:** 3 November 2026
+- **Chair / organiser:** Nina Patel
+- **Attendees:** Volunteer coordinator, venue contact, communications volunteer, accessibility contact
+- **Duration:** 40 minutes
 
-**Preparation:** Read the status summary and add agenda items by 16:00 on the previous day.
+## Objective and desired outcomes
 
----
+Confirm the event plan, identify remaining access and logistics questions, and assign final preparation tasks for the neighbourhood information day.
+
+## Agenda table
+
+| Item | Purpose | Lead | Time |
+|---|---|---|---|
+| Confirm event schedule | Check session times and room use | Nina Patel | 5 min |
+| Venue and access review | Confirm entrance, seating, and accessible route | Venue contact | 10 min |
+| Volunteer coverage | Check roles and shift gaps | Volunteer coordinator | 10 min |
+| Public information | Review signs and participant notice | Communications volunteer | 5 min |
+| Actions and contingency | Assign final tasks and backup plan | All | 10 min |
+
+## Pre-reading / preparation
+
+Review the draft timetable and floor plan before the meeting. Bring any confirmed venue requirements and identify details that still need checking.
+
+## Decisions required
+
+- Is the room layout suitable for expected activities?
+- Who will handle late volunteer cancellations?
+- Which contact will approve the final public notice?

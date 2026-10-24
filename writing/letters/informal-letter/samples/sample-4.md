@@ -1,14 +1,40 @@
-# A university course
+# Informal letter: apologising for missing a birthday
 
-Dear Jamie,
+*Illustrative personal letter. Adapt the relationship, reason, and proposed plan to the real situation.*
 
-I am writing regarding a university course.
+## Plan first
 
-I am writing regarding a university course. I would like to explain the situation clearly, outline the relevant details and suggest a practical next step. I hope we can resolve the matter fairly and maintain a positive relationship.
+Apologise directly, recognise the disappointment, and offer a thoughtful next step.
 
-I would appreciate your response when convenient. Thank you for taking the time to consider this matter.
+## Letter structure
 
-Best wishes,
-Alex Morgan
+Keep the explanation brief and avoid making the recipient responsible for reassuring you.
 
----
+## Friendly opening
+
+Dear Leila,
+
+I hope you had a lovely birthday and got to spend time with the people you wanted to see.
+
+## Reason for writing
+
+I’m sorry I couldn’t make it to your birthday dinner, especially because I had said I would be there.
+
+## Main details and personal response
+
+My train was cancelled on the way back, and I did not get home until much later than expected. I should have sent you a message as soon as I knew I would miss the dinner. I realise that not hearing from me may have made the situation more frustrating.
+
+## Suggestions, plans, or questions
+
+I’d love to take you out for lunch next weekend if you’re free. You can choose the place, and I’ll make the booking. If next weekend is busy, let me know when you have time and we’ll arrange something that suits you.
+
+## Warm closing and sign-off
+
+I’m sorry I missed the celebration, and I hope we can catch up soon.
+
+Love,  
+Mina
+
+## Final review
+
+Ensure the explanation is accurate and the proposed plan is realistic.
