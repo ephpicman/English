@@ -1,60 +1,63 @@
-# Resume — Daniel Okafor
+# Resume — Robin Ellis
 
-*Illustrative resume. All organisations, dates, qualifications, contact details, and achievements must be replaced with accurate information before use.*
+*Illustrative resume. All names, dates, and experience are fictional and should be replaced with accurate details.*
 
 ## Plan first
 
-Target role: Research Assistant. Prioritise evidence that matches the role’s requirements and keep claims verifiable.
+Target role: Sustainability Project Assistant. Emphasise project support, record accuracy, and environmental interest.
 
 ## Document structure
 
-Use reverse chronological order, concise bullets, and consistent dates. Keep the document readable and tailor the content to the application.
+Highlight relevant coordination and reporting experience without overstating technical expertise.
 
 ## Contact information and target role
 
-Daniel Okafor | Berlin, Germany | daniel.okafor@example.test | Target: Research Assistant
+Robin Ellis | robin.ellis@example.test | Bristol, UK  
+**Target role:** Sustainability Project Assistant
 
 ## Professional summary
 
-Research assistant candidate with experience in literature searches, source comparison, reference management, and concise evidence summaries. Careful to distinguish source findings from interpretation and to document uncertainty.
+Project support assistant with experience organising activities, maintaining records, and preparing concise progress summaries. Interested in resource efficiency and transparent reporting that distinguishes measured results from estimates.
 
 ## Skills
 
-- Literature review and source evaluation
-- Evidence tables and reference management
-- Qualitative comparison and synthesis
-- Clear research summaries
-- Spreadsheet analysis and presentation
+- Project scheduling and action tracking
+- Spreadsheet records and quality checks
+- Stakeholder communication
+- Event and volunteer coordination
+- Progress reporting and documentation
 
 ## Professional experience
 
-**Research Project Assistant — Example Policy Lab | 2025–2026**
-- Organised reports by research question, method, location, and limitations.
-- Prepared a source matrix to make differences in definitions and evidence visible.
-- Drafted summary notes with traceable references and clearly stated open questions.
+**Project Support Assistant — Greenway Facilities (illustrative) | Bristol | 2025–2026**
+- Updated project schedules and recorded owners for outstanding actions.
+- Collected information from facilities teams and followed up when figures or dates were unclear.
+- Prepared brief status notes for weekly coordination meetings.
+- Maintained a file of source documents so reported values could be checked later.
 
-**Research Seminar Project — Example University | 2023–2025**
-- Compared policy options using agreed criteria and presented findings to classmates.
-- Revised conclusions after feedback identified gaps in supporting evidence.
+**Volunteer — Community Reuse Event | Bristol | 2023–2025**
+- Helped coordinate item collection, sorting, and distribution.
+- Recorded counts and noted when quantities were estimates rather than direct measurements.
+- Assisted with event setup and shared participant feedback with organisers.
 
 ## Education and qualifications
 
-**MSc Public Policy — Example University | 2025–present**
-**BA Social Science — Example University | 2021–2024**
-List completed qualifications and dates accurately.
+**BSc, Environmental Studies — Example West College | 2021–2024**  
+Relevant study: resource management, environmental policy, and project evaluation.
 
 ## Projects, certifications, or additional experience
 
-**Urban transport evidence review:** Produced a structured comparison of selected reports, noting differences in methods and scope.
+**Reuse-event reporting:** Helped revise the collection sheet to distinguish measured quantities from estimates and make future comparisons more reliable.
 
 ## Optional sections
 
-Conference presentations or publications: include only verified titles, dates, and public links.
+Interests: repair cafés, cycling, and reuse initiatives.  
+Add relevant software or environmental training only if the applicant can verify their experience.
 
 ## Final quality check
 
-Check spelling, contact details, dates, formatting, and consistency. Use measurable outcomes only when you can verify the numbers and explain how they were measured.
+Confirm the institution, degree title, dates, and employer details before use.
 
 ## Resume-specific checks
 
-Remove details that are irrelevant to the target role, protect confidential information, and follow the employer’s requested file format. The example email address uses a reserved test domain and is not a real contact.
+Do not invent environmental certifications or quantified impact figures.

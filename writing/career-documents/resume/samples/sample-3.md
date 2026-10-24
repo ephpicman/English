@@ -1,59 +1,62 @@
-# Resume — Marcus Chen
+# Resume — Samira Khan
 
-*Illustrative resume. All organisations, dates, qualifications, contact details, and achievements must be replaced with accurate information before use.*
+*Illustrative resume. Replace fictional names, dates, and experience with verified information.*
 
 ## Plan first
 
-Target role: Customer Support Specialist. Prioritise evidence that matches the role’s requirements and keep claims verifiable.
+Target role: Community Outreach Assistant. Prioritise public communication, event support, and inclusive service.
 
 ## Document structure
 
-Use reverse chronological order, concise bullets, and consistent dates. Keep the document readable and tailor the content to the application.
+Use concrete examples that show how the applicant works with residents and colleagues.
 
 ## Contact information and target role
 
-Marcus Chen | Remote / Berlin | marcus.chen@example.test | Target: Customer Support Specialist
+Samira Khan | samira.khan@example.test | Hamburg, Germany  
+**Target role:** Community Outreach Assistant
 
 ## Professional summary
 
-Customer-support professional experienced in clear written responses, case documentation, and escalating issues with useful context. Focuses on resolving customer questions without making unverified technical promises.
+Community-focused assistant with experience supporting public events, preparing information materials, and directing enquiries to appropriate services. Values respectful communication, accessibility, and careful handling of personal information.
 
 ## Skills
 
-- Customer communication and case triage
-- Knowledge-base feedback
-- Accurate case notes and handovers
-- Issue categorisation and escalation
-- Ticketing systems (name only tools actually used)
+- Event coordination and visitor support
+- Clear written and verbal communication
+- Volunteer scheduling and sign-in records
+- Accessible information materials
+- Privacy-aware record handling
 
 ## Professional experience
 
-**Customer Support Associate — Example Software | 2024–2026**
-- Recorded customer symptoms and steps already attempted before escalating cases.
-- Grouped recurring setup questions and shared documentation gaps with the content owner.
-- Communicated next steps and avoided promising resolution dates before confirmation.
+**Programme Assistant — Harbour Neighbourhood Centre | Hamburg | 2024–2026**
+- Helped prepare schedules, room layouts, and information sheets for community events.
+- Welcomed visitors and directed service questions to the appropriate staff member.
+- Maintained volunteer sign-up lists and followed the centre’s procedures for contact details.
+- Collected participant feedback and summarised recurring suggestions for the programme coordinator.
 
-**Service Desk Assistant — Example Campus IT | 2023–2024**
-- Helped users with routine account and access questions under documented procedures.
-- Escalated permission and security concerns to authorised staff.
+**Volunteer — Local Welcome Project | Hamburg | 2023–2024**
+- Assisted with orientation sessions for new residents.
+- Prepared printed resource lists and checked opening times with service providers.
+- Supported event setup and ensured signs were visible at entrances and accessible routes.
 
 ## Education and qualifications
 
-**Diploma in Information Systems — Example College | 2021–2023**
-Relevant study: service operations, basic networking, technical writing.
+**Certificate in Community Development — Example Adult Learning Centre | 2023**  
+Relevant study: community engagement, safeguarding basics, and inclusive communication.
 
 ## Projects, certifications, or additional experience
 
-**Knowledge article review:** Tested a setup guide with a colleague unfamiliar with the process and suggested clearer prerequisite steps.
+**Community information afternoon:** Helped create a topic-and-time guide that made it easier for visitors to identify relevant sessions.
 
 ## Optional sections
 
-Availability: state only if relevant. Do not include confidential customer details or internal ticket IDs.
+Languages: German (fluent); English (professional working proficiency); Urdu (conversational).
 
 ## Final quality check
 
-Check spelling, contact details, dates, formatting, and consistency. Use measurable outcomes only when you can verify the numbers and explain how they were measured.
+Confirm language proficiency, dates, and any safeguarding credentials before use.
 
 ## Resume-specific checks
 
-Remove details that are irrelevant to the target role, protect confidential information, and follow the employer’s requested file format. The example email address uses a reserved test domain and is not a real contact.
+Include only qualifications actually held and omit private personal information unrelated to the role.

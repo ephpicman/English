@@ -1,59 +1,63 @@
-# Resume — Amira Hassan
+# Resume — Aisha Rahman
 
-*Illustrative resume. All organisations, dates, qualifications, contact details, and achievements must be replaced with accurate information before use.*
+*Illustrative resume. All details are fictional and must be replaced with accurate information.*
 
 ## Plan first
 
-Target role: Junior Data Analyst. Prioritise evidence that matches the role’s requirements and keep claims verifiable.
+Target role: Junior Data Analyst. Emphasise data preparation, analytical reasoning, and communication.
 
 ## Document structure
 
-Use reverse chronological order, concise bullets, and consistent dates. Keep the document readable and tailor the content to the application.
+List relevant technical skills and provide examples that can be discussed in an interview.
 
 ## Contact information and target role
 
-Amira Hassan | Berlin, Germany | amira.hassan@example.test | Target: Junior Data Analyst
+Aisha Rahman | aisha.rahman@example.test | Berlin, Germany  
+**Target role:** Junior Data Analyst
 
 ## Professional summary
 
-Early-career analyst with practical experience cleaning tabular data, writing SQL queries, and presenting findings with clear limitations. Interested in reproducible analysis and useful communication for non-technical readers.
+Early-career analyst with academic project experience in data cleaning, descriptive analysis, and visualisation. Careful about documenting assumptions and explaining limitations to non-technical audiences.
 
 ## Skills
 
-- Data cleaning and validation
-- SQL and spreadsheet analysis
-- Exploratory analysis and chart selection
-- Documentation of assumptions
-- Python / BI tools only at the level actually demonstrated
+- SQL: filtering, grouping, joins, and aggregation
+- Spreadsheet cleaning and validation
+- Descriptive statistics and chart selection
+- Data documentation and quality checks
+- Written reporting and presentation
 
 ## Professional experience
 
-**Data Intern — Example Research Group | 2025–2026**
-- Reviewed input tables for missing values, inconsistent dates, and duplicate identifiers.
-- Documented cleaning rules and kept source references traceable.
-- Prepared concise summaries separating observed patterns from untested explanations.
+**Reporting Assistant — Sample Retail Cooperative | Berlin | 2025–2026**
+- Checked monthly spreadsheet inputs for duplicate identifiers, missing values, and inconsistent date formats.
+- Prepared recurring summary tables for sales and stock review meetings.
+- Documented changes made during data cleaning so colleagues could trace the source of revised values.
+- Raised discrepancies with data owners instead of silently replacing uncertain entries.
 
-**Course Project Analyst — Example University | 2024–2025**
-- Combined two datasets for a class project and checked the effect of duplicate records on summary results.
-- Presented limitations caused by incomplete entries.
+**Student Research Assistant — Example City University | 2024–2025**
+- Organised survey responses for a course research project and maintained a codebook for variable definitions.
+- Produced charts and short written explanations for a presentation to classmates.
+- Compared alternative groupings and noted where small sample sizes limited interpretation.
 
 ## Education and qualifications
 
-**BSc in Statistics — Example University | 2022–2025**
-Relevant study: probability, statistical inference, databases, data visualisation.
+**BSc, Business Analytics — Example City University | 2022–2025**  
+Relevant study: statistics, database fundamentals, research methods, and data visualisation.
 
 ## Projects, certifications, or additional experience
 
-**Data quality review:** Created a source matrix and validation checklist for a project dataset. Add a repository or portfolio link only if it is public and contains no restricted data.
+**Monthly sales analysis:** Used SQL and spreadsheets to summarise a sample transaction dataset, checked for an incomplete reporting period, and labelled the limitation in the final chart.
 
 ## Optional sections
 
-Professional development: introductory SQL and data-visualisation coursework (include provider and completion date only if verified).
+Tools: SQL, Excel, Google Sheets, and introductory Python.  
+Portfolio: Add a verified link to a public project repository if available.
 
 ## Final quality check
 
-Check spelling, contact details, dates, formatting, and consistency. Use measurable outcomes only when you can verify the numbers and explain how they were measured.
+Verify proficiency levels and ensure any portfolio link works before submission.
 
 ## Resume-specific checks
 
-Remove details that are irrelevant to the target role, protect confidential information, and follow the employer’s requested file format. The example email address uses a reserved test domain and is not a real contact.
+The resume avoids claiming advanced programming experience that the examples do not support.

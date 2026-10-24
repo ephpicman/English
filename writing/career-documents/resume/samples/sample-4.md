@@ -1,59 +1,62 @@
-# Resume — Priya Nair
+# Resume — Taylor Reed
 
-*Illustrative resume. All organisations, dates, qualifications, contact details, and achievements must be replaced with accurate information before use.*
+*Illustrative resume. Replace all fictional details and retain only accurate claims.*
 
 ## Plan first
 
-Target role: Communications Assistant. Prioritise evidence that matches the role’s requirements and keep claims verifiable.
+Target role: Customer Support Specialist. Focus on case handling, written communication, and accurate escalation.
 
 ## Document structure
 
-Use reverse chronological order, concise bullets, and consistent dates. Keep the document readable and tailor the content to the application.
+Use action-led bullets that show how support work helps customers and colleagues.
 
 ## Contact information and target role
 
-Priya Nair | Berlin, Germany | priya.nair@example.test | Target: Communications Assistant
+Taylor Reed | taylor.reed@example.test | Munich, Germany  
+**Target role:** Customer Support Specialist
 
 ## Professional summary
 
-Communications assistant with experience drafting event announcements, proofreading short copy, and coordinating details across channels. Prioritises accessible language, factual accuracy, and clear calls to action.
+Customer service professional experienced in responding to email and chat enquiries, maintaining case records, and explaining procedures clearly. Works carefully within support guidelines and escalates technical issues when needed.
 
 ## Skills
 
-- Short-form writing and editing
-- Proofreading and fact-checking
-- Event information coordination
-- Audience-focused communication
-- Content calendars and collaboration tools
+- Customer communication and case ownership
+- Ticketing systems and case documentation
+- Troubleshooting from approved guidance
+- Issue escalation and follow-up
+- Knowledge-base maintenance
 
 ## Professional experience
 
-**Communications Assistant — Example Arts Centre | 2024–2026**
-- Drafted event notices and checked dates, venue details, links, and access information.
-- Coordinated approvals with programme staff before publication.
-- Corrected inconsistent event details across the website and social channels.
+**Customer Service Associate — BrightPath Services | Munich | 2024–2026**
+- Responded to customer questions through email and chat using approved service guidance.
+- Recorded issue details, troubleshooting steps, and outcomes in the ticketing system.
+- Escalated account and payment issues that required specialist permissions.
+- Identified repeated questions and suggested updates to internal response notes.
 
-**Volunteer Communications Lead — Student Society | 2022–2024**
-- Prepared event updates and responded to routine participant questions.
-- Maintained a simple content schedule for upcoming activities.
+**Service Desk Trainee — Example Digital Support | Munich | 2023–2024**
+- Helped users navigate account settings and common product features.
+- Checked customer identity according to the service process before discussing account-specific information.
+- Followed up on open tickets and notified users when the technical team provided an update.
 
 ## Education and qualifications
 
-**BA in Media and Communication — Example University | 2020–2023**
-Relevant study: public communication, digital media, writing for audiences.
+**Diploma, Business Communication — Example Training Institute | 2023**  
+Relevant study: professional writing, customer relations, and service operations.
 
 ## Projects, certifications, or additional experience
 
-**Event information checklist:** Introduced a final check of date, time, venue, access, and registration details before announcements went live.
+**Account recovery guide:** Helped revise internal instructions after recurring tickets revealed a missing step for customers who had changed phones.
 
 ## Optional sections
 
-Portfolio: add a link to approved public writing samples. Remove private drafts and content published without permission.
+Tools: Zendesk-style ticketing systems, Microsoft 365, and shared knowledge bases. Name specific platforms only if used.
 
 ## Final quality check
 
-Check spelling, contact details, dates, formatting, and consistency. Use measurable outcomes only when you can verify the numbers and explain how they were measured.
+Verify the tools, employment dates, and actual scope of responsibility before sending.
 
 ## Resume-specific checks
 
-Remove details that are irrelevant to the target role, protect confidential information, and follow the employer’s requested file format. The example email address uses a reserved test domain and is not a real contact.
+Avoid claiming technical authority beyond the role’s access and training.
