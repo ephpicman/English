@@ -2,6 +2,10 @@
 
 *Illustrative incident report. Replace all example details and timestamps with verified records; follow the organisation’s incident and privacy procedures.*
 
+## Report structure
+
+It records incident details and the timeline, separates confirmed facts from hypotheses, and documents recovery and corrective actions.
+
 ## Incident details and document control
 
 Incident ID: INC-2026-041 | Date: 12 October | Service: Internal reporting dashboard | Severity: To be assigned under the organisation’s incident policy

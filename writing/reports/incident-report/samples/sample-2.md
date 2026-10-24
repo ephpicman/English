@@ -2,6 +2,10 @@
 
 *Illustrative incident report. Replace all example details and timestamps with verified records; follow the organisation’s incident and privacy procedures.*
 
+## Report structure
+
+It records incident details and the timeline, separates confirmed facts from hypotheses, and documents recovery and corrective actions.
+
 ## Incident details and document control
 
 Incident ID: INC-2026-052 | Date: 3 November | Component: Notification worker | Status: Under investigation

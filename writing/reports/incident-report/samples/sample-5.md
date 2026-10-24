@@ -2,6 +2,10 @@
 
 *Illustrative incident report. Replace all example details and timestamps with verified records; follow the organisation’s incident and privacy procedures.*
 
+## Report structure
+
+It records incident details and the timeline, separates confirmed facts from hypotheses, and documents recovery and corrective actions.
+
 ## Incident details and document control
 
 Incident ID: REL-2026-027 | Date: 19 August | Service: Internal scheduling application | Status: Recovery verified; review open

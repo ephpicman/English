@@ -2,6 +2,10 @@
 
 *Illustrative progress report. Replace status, dates, milestones, costs, and dependencies with current project records before circulation.*
 
+## Report structure
+
+It summarises status, completed work, schedule and risks, then identifies the next-period plan and decisions required.
+
 ## Title and reporting metadata
 
 Reporting period: sprint 4 | Owner: Engineering lead | Status: Amber; compatibility tests incomplete
