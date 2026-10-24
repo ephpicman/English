@@ -28,6 +28,7 @@ A useful way to test the handover is to ask the recipient to find one open decis
 Before your next handover, remove repeated history, make unresolved decisions explicit, and confirm that links and owners are current. Keep the detailed record where it belongs; use the handover to guide the reader through it.
 
 ## Conclusion and conversation prompt
+Once the recipient has followed the document, revise the parts that caused uncertainty and repeat the test after the next meaningful change. Keep a record of common omissions, but avoid adding fields simply because one unusual situation occurred. The checklist should remain short enough that people can use it under normal working conditions. Over time, this creates a shared standard without turning every handover into a lengthy report.
 
 What is one detail you always wish had been included when a project was handed to you?
 

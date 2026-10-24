@@ -28,6 +28,7 @@ Cities should assess changes to streets through the experience of people using t
 Some drivers argue that road changes make journeys slower or remove parking near shops. Those effects should be measured rather than dismissed. Cities can consult businesses, track loading access, and test designs temporarily before making permanent changes. The goal is to balance access, safety, and movement—not to punish a particular group of travellers.
 
 ## Conclusion and implication
+Walking and public transport improvements should be planned as a connected system. A safe crossing is less useful if the pavement ends before the bus stop, and a reliable bus is less accessible if passengers cannot reach it safely. Cities should audit whole journeys, consult people with mobility needs, and publish the trade-offs behind street changes. This makes the policy more practical and helps residents understand why a design was chosen.
 
 Safer walking infrastructure is a practical investment in everyday mobility. Cities should assess routes from the pedestrian’s perspective, publish safety and access measures, and combine street improvements with dependable transport options.
 

@@ -28,6 +28,7 @@ A decision log can be short and still be valuable. For each decision, record wha
 Choose one frequently used guide and ask a colleague unfamiliar with the task to follow it. Watch where they hesitate, then revise those points instead of assuming the instructions are self-explanatory.
 
 ## Conclusion and conversation prompt
+At the end of a meeting, ask the group to confirm each decision and action aloud. This gives participants a final opportunity to correct misunderstandings and helps the note-taker distinguish agreement from a suggestion. If a decision remains open, name the person responsible for gathering the missing information and set a review date. A small habit like this can improve follow-through without requiring a new tool.
 
 Which documentation detail saves you the most time when you are troubleshooting?
 

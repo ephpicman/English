@@ -28,6 +28,7 @@ Learning transfer needs an opportunity to practise after the course. A manager c
 At the end of your next meeting, read back the decisions and action owners before everyone leaves. Correct misunderstandings while the participants are still present.
 
 ## Conclusion and conversation prompt
+Managers can support learning by making time for practice rather than expecting employees to add it on top of a full workload. A brief follow-up conversation can ask what was easy to apply, what was difficult, and which additional resource would help. This feedback also helps the organisation choose better courses in the future. Learning should be evaluated by useful application, while recognising that some skills take repeated practice before they become reliable.
 
 What is your best practice for making meeting outcomes easy to follow?
 

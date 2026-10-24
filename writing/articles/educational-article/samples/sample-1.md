@@ -28,6 +28,7 @@ Teachers can make this approach easier to sustain by connecting it to the normal
 After each lesson, write three questions about its central ideas. Try answering them the next day without notes, check the answers, and mark uncertain responses. Revisit those questions several days later. Keep sessions short enough to fit a realistic timetable, and use errors to decide what needs more attention.
 
 ## Limitations and nuance
+Families and teachers can reinforce the same habits without making study feel like constant testing. A short weekly review can ask learners to explain one difficult concept, identify a mistake they corrected, and choose what to revisit. This gives students a role in planning their learning and helps teachers see which explanations need to be revisited. The approach should remain flexible: younger learners may need more guidance, while older students can gradually take responsibility for setting review intervals and checking their understanding.
 
 Spacing is not a magic formula. A demanding schedule may be abandoned, and memorising definitions alone will not prepare someone to apply a skill in a new situation. Learners should combine recall with explanation, worked examples, and feedback. The best interval depends on the material, current knowledge, and when the knowledge will be needed.
 

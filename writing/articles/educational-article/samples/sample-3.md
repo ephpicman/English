@@ -28,6 +28,7 @@ Teachers can help students practise digital literacy by making their reasoning v
 A useful lesson might ask groups to assess three sources on one topic using a checklist: author, date, evidence, purpose, and corroboration. Students can explain which source they would rely on and what remains uncertain. A follow-up task can ask them to improve privacy settings or rewrite a paragraph with proper attribution.
 
 ## Limitations and nuance
+Media literacy also requires an understanding of uncertainty. Two reliable sources may disagree because they use different samples, definitions, or time periods. Students should learn to explain those differences rather than assuming that every disagreement means one source is dishonest. Teachers can model how to update a conclusion when better evidence appears. This makes critical evaluation a habit of reasoning and revision, not simply a method for confirming an existing opinion.
 
 Online platforms change quickly, and no checklist can guarantee that a source is accurate. Learners may also have unequal access to devices, stable internet, or quiet study space. Teaching should avoid blaming students for these differences and provide offline alternatives where needed. Teachers must keep examples current and explain that critical judgment involves uncertainty.
 

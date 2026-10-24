@@ -28,6 +28,7 @@ Feedback is more likely to improve work when learners know how to use it. One op
 Before returning an assignment, identify the learning objective and select two or three changes that would most improve the work. Phrase each comment as an observation plus a next step. In the following lesson, reserve time for revision and invite questions. Review a later piece of work to see whether the targeted skill has improved.
 
 ## Limitations and nuance
+Teachers can evaluate feedback routines by looking at later work, not just whether students say they liked the comments. If a learner applies a suggestion successfully in a new assignment, that provides stronger evidence of transfer. If the same misunderstanding recurs, the teacher may need to explain the criterion differently or give another practice opportunity. This does not require complex measurement for every task; a few focused checks can reveal whether feedback is helping students develop skills over time.
 
 Feedback takes time, and a single approach will not suit every learner or task. Excessive comments can overwhelm students, while vague praise may encourage without showing how to progress. Teachers should consider accessibility, language needs, and the emotional context of assessment, while keeping expectations fair and consistent.
 

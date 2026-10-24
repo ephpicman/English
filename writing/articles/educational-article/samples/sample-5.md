@@ -28,6 +28,7 @@ A mentoring programme should define the support available to mentors as clearly 
 A small pilot could begin with a clearly defined group of first-year students and volunteer mentors who receive basic training. Provide a short meeting guide with prompts about current challenges, next steps, and referrals. Review the pilot after a term using participant feedback and practical records, then revise the matching process and training before expanding.
 
 ## Limitations and nuance
+Mentoring programmes should avoid assuming that every student wants the same kind of relationship. Some may prefer practical guidance about study routines, while others may simply need to know where to find specialist support. Offering a choice of meeting format and making the arrangement voluntary can improve accessibility. Programme organisers should also ensure that students who do not take part still receive clear information about services. Mentoring can be a helpful route into a community, but it should not become the only way to access guidance.
 
 Peer mentoring cannot remove structural problems such as inaccessible services, financial pressure, or insufficient teaching support. Participation may also be uneven, and some students prefer independent routes to help. The programme should be voluntary, accessible, and connected to wider institutional services rather than presented as a universal solution.
 

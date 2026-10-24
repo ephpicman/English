@@ -28,6 +28,7 @@ Schools should consider the full cost of a uniform, including shoes, seasonal it
 Training costs money and takes time away from immediate work. Poorly chosen courses can become box-ticking exercises, so investment should start with a specific performance need and include evaluation. Some skills also require formal qualifications or supervised practice; a short online module is not a substitute for those requirements.
 
 ## Conclusion and implication
+Uniform policies should be reviewed after implementation rather than treated as settled once the clothing list is published. Schools can ask families whether the items are affordable and practical, check whether adjustments are being handled fairly, and review whether the policy is creating avoidable disciplinary problems. This feedback can lead to modest changes that preserve the intended purpose while reducing unnecessary burden. The policy should serve the learning environment, not become a goal in itself.
 
 Continuous learning works when it is connected to work, supported by managers, and assessed through practical application. Employers should identify priority skills with staff, protect time for learning, and review whether the training improves performance before expanding the programme.
 

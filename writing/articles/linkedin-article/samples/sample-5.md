@@ -28,6 +28,7 @@ When communicating uncertainty, separate what is known, what remains open, and w
 Before giving feedback, write down the behaviour you observed, its impact, and one achievable next step. Remove assumptions about intent unless you have discussed them directly.
 
 ## Conclusion and conversation prompt
+A clear update can include a confidence level when the audience needs to make a decision, but the label should have a shared meaning. For example, “confirmed” should mean the responsible source has verified the information, while “estimated” should identify the assumption behind the estimate. Consistent wording prevents readers from interpreting tone as evidence. It also helps teams communicate early without creating commitments they cannot yet support.
 
 What kind of feedback has helped you make a meaningful improvement?
 

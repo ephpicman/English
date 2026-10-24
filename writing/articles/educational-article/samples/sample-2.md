@@ -28,6 +28,7 @@ Support services should be designed around the steps a student must actually tak
 A department could publish a one-page support map, review it each term, and include it in course sites. Tutors could reserve a few minutes in an early seminar to demonstrate how to ask for help using a realistic example. The institution should monitor whether students can locate services and gather feedback on barriers, rather than treating appointment numbers as the only measure of success.
 
 ## Limitations and nuance
+Institutions should review support information after policy or service changes, not only at the start of each academic year. A named owner can check the key links, confirm that contact routes still work, and ask students whether the instructions were easy to follow. It is also useful to check whether students can access the information in different formats and languages where required. The purpose is to make support easier to reach before a problem becomes urgent, while ensuring the service itself has capacity to respond.
 
 Information alone cannot solve every barrier. Work commitments, disability, language, financial pressure, or previous negative experiences may affect whether a student seeks support. Services also need enough capacity to respond promptly. Communication should therefore be paired with accessible provision and a clear process for urgent concerns.
 

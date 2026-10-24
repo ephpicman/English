@@ -28,6 +28,7 @@ Documentation quality can be measured through practical use. Ask someone unfamil
 Try ending your next retrospective with one action, one owner, and one review date. If the team cannot explain how it will know whether the change worked, the action may be too vague.
 
 ## Conclusion and conversation prompt
+Version information is especially important when a guide includes commands or screenshots. A step that worked in one release may not be valid in another, and readers need a way to identify the environment the instructions support. Add a review owner and a simple route for reporting outdated content. These details help a guide remain trustworthy after the original author has moved on.
 
 What makes a retrospective useful in your team: the discussion, the follow-through, or both?
 

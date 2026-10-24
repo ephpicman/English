@@ -28,6 +28,7 @@ Schools can make media literacy practical by embedding it in subjects that alrea
 Critics may argue that online collections make physical branches expensive and outdated. Digital services are important, but they do not replace quiet public space, accessible devices, personal guidance, or the social value of a shared institution. The sensible response is to review local needs and combine in-person services with digital collections, not assume that one format serves everyone.
 
 ## Conclusion and implication
+Public libraries can also adapt services through partnerships with schools, local organisations, and community groups. These partnerships may help residents discover resources and provide feedback about unmet needs. However, partnerships should complement rather than replace the library’s core public role. Local authorities should explain how service changes will affect opening hours, staffing, and access, and they should evaluate who benefits rather than relying only on broad claims about modernisation.
 
 Libraries should evolve with their communities: maintain useful print and digital collections, teach information skills, and design services around local needs. Their success should be judged by the access and learning they enable, not by a single measure such as visitor counts.
 
