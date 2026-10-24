@@ -1,12 +1,10 @@
 # Online learning: opinion essay
-
 *Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
-
 ## Introduction
-
 The question of how society should approach online learning involves practical benefits as well as genuine concerns. Online learning is a positive development when courses are designed for interaction and institutions provide alternatives or support for learners who face access barriers.
-
 ## Reason 1
+
+Online courses can be particularly useful for adults who combine study with employment. The ability to revisit a difficult explanation and complete work at a suitable time can make continued education more realistic. Nevertheless, flexibility should not become an excuse for leaving learners without support. Institutions must plan feedback and interaction as carefully as they plan the learning materials.
 
 Online learning can make courses available to people who live far from educational institutions or have work and family responsibilities. Recorded materials can be revisited, and digital resources may support learners who need to study at different times.
 

@@ -1,15 +1,9 @@
 # Designing operational metrics that support decisions
-
 *Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
-
 ## Before you draft
-
 Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
-
 ## Draft structure
-
 The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
-
 ## Title
 
 **Designing operational metrics that support decisions**
@@ -27,6 +21,8 @@ An operational metric is a defined measure used to monitor a process or outcome.
 Start with the decision. If the question is whether requests are being resolved reliably, a count of tickets created is not enough. The team may need to distinguish active handling time from waiting time, separate urgent from routine requests, and record when a request is reopened. Each measure needs a definition, source, refresh schedule, and owner.
 
 ## Professional insight 2
+
+A practical review can begin with a decision map: what question does each indicator answer, who acts on it, and what evidence would change that action? If no one can name a decision or an owner, the measure may be useful background information but should not automatically occupy dashboard space. It is also worth recording whether the metric is leading or lagging: a leading signal may help a team intervene earlier, while a lagging measure shows an outcome after the work has occurred. Both can be useful, but they answer different questions.,Teams should test definitions using real examples rather than relying only on a label. Ask two analysts to calculate the same measure independently and compare the result. Differences may reveal an unclear date boundary, inconsistent treatment of reopened requests, or a missing exclusion rule. Document the agreed definition and keep a version history when it changes.
 
 A dashboard can create false confidence if the underlying data is incomplete or categories change without notice. Teams should show missingness and define the limits of comparison. A rise in reported incidents may reflect better detection rather than worsening service, so a metric should be interpreted alongside context and qualitative evidence.
 

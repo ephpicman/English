@@ -1,11 +1,7 @@
 # Online learning: compare contrast essay
-
 *Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
-
 ## Before writing
-
 Use the same criteria to compare both options and avoid describing one in detail while barely discussing the other.
-
 ## Essay structure
 
 The comparison is organised by shared criteria rather than two unrelated lists.
@@ -23,6 +19,8 @@ Online learning offers flexible timing and removes travel, while classroom learn
 Online courses require students to manage their time and technology; classroom courses provide a fixed routine but may be less accessible to people with inflexible schedules.
 
 ## Synthesis and significance
+
+Online learning and classroom learning also differ in how they structure feedback. A digital course can provide recorded demonstrations and flexible practice, but the learner may need to ask for help actively. In a classroom, a teacher may notice confusion sooner, although a large class can still leave some students without individual attention. Neither format guarantees good teaching; course design and support remain central.
 
 Course quality depends on how well the format matches the learning goal and whether students receive practice, feedback, and support.
 

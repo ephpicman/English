@@ -1,11 +1,7 @@
 # Online learning: discussion essay
-
 *Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
-
 ## Before writing
-
 Present both views fairly before giving a personal position only if the prompt asks for one.
-
 ## Essay structure
 
 Each viewpoint is developed with reasoning, followed by a balanced conclusion.
@@ -19,6 +15,8 @@ There are differing views about online learning. The debate reflects different p
 Supporters say online learning increases flexibility and can widen access for people who cannot attend a campus regularly.
 
 ## Viewpoint 2 and reasoning
+
+Course design changes the balance between these views. A well-run online course can include live discussion, peer feedback, and supervised practice, while a poorly organised classroom course can still leave students passive. However, online learners need reliable access and may require additional support to stay engaged. The format should be chosen around the learning outcome rather than novelty.
 
 Critics argue that online learners may feel isolated, struggle with motivation, or miss practical activities that are easier to supervise in person.
 

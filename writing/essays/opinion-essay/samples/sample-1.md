@@ -1,12 +1,10 @@
 # Remote work: opinion essay
-
 *Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
-
 ## Introduction
-
 The question of how society should approach remote work involves practical benefits as well as genuine concerns. On balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.
-
 ## Reason 1
+
+One reason is that flexibility can support people with different responsibilities and working styles. A parent or carer may be able to organise the day more effectively, while an employee doing focused analysis may benefit from fewer interruptions. These gains are most likely when managers set clear goals and provide a reliable way to collaborate.
 
 Remote work can reduce commuting time and give employees more control over their working environment. For tasks requiring concentration, fewer office interruptions may help people organise their day. It can also widen access to jobs for people who live far from a central office or need a more flexible routine.
 

@@ -1,12 +1,10 @@
 # School uniforms: opinion essay
-
 *Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
-
 ## Introduction
-
 The question of how society should approach school uniforms involves practical benefits as well as genuine concerns. Schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.
-
 ## Reason 1
+
+A uniform may simplify expectations, but the policy should not become a measure of a student’s character. Schools can set clear standards for safety and learning while allowing religious, medical, and financial accommodations. This approach protects the practical purpose of a dress policy without imposing unnecessary restrictions.
 
 Uniforms can reduce visible differences in everyday clothing and make the school dress code simpler to understand. They may also help students identify one another during school activities and reduce the time spent deciding what to wear.
 

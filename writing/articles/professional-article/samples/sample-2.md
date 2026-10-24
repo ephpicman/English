@@ -1,15 +1,9 @@
 # Building a practical data governance routine
-
 *Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
-
 ## Before you draft
-
 Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
-
 ## Draft structure
-
 The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
-
 ## Title
 
 **Building a practical data governance routine**
@@ -27,6 +21,8 @@ This article focuses on operational data used across teams. It does not replace 
 Start with a data dictionary for the fields that influence important reports or workflows. Record a plain-language definition, allowed values, source system, owner, and known caveats. When two systems use the same label differently, keep the values separate until the owners agree on a mapping. A shared name is not proof of shared meaning.
 
 ## Professional insight 2
+
+A useful governance routine also distinguishes a data owner from a technical custodian. The owner is accountable for meaning and appropriate use; the custodian maintains the system and controls access according to policy. One person may fill both roles in a small team, but the responsibilities should still be explicit. Without this distinction, technical changes can unintentionally alter a business definition, or business teams may expect engineers to decide questions that require domain knowledge.,When a definition changes, identify which reports, dashboards, and automated rules depend on it. A small change in category meaning can make historical comparisons misleading even when the data pipeline continues to run successfully. Where a restatement is not practical, document the effective date and explain the limitation to report readers.
 
 Governance also needs a change process. A request should identify the field, the reason for change, affected reports, and the person who approves it. Version history helps analysts explain why a number differs from an earlier report. For sensitive data, access and retention decisions should be reviewed by the appropriate privacy or security owner.
 

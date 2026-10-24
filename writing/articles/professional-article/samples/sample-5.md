@@ -1,15 +1,9 @@
 # Planning a responsible pilot for process automation
-
 *Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
-
 ## Before you draft
-
 Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
-
 ## Draft structure
-
 The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
-
 ## Title
 
 **Planning a responsible pilot for process automation**
@@ -27,6 +21,8 @@ This article is intended for operational teams considering automation of a repea
 Document the current process before selecting a tool. Identify inputs, decisions, exception cases, approvals, and the consequences of an incorrect action. If two staff members follow different rules for the same case, automation requires a policy decision before it requires code.
 
 ## Professional insight 2
+
+A pilot should include failure cases, not only the smooth path. For example, test missing inputs, duplicated requests, interrupted connections, and a user who lacks the required permission. Record how the system behaves and whether the operator can understand and recover from the result. If exceptions are frequent or the right action depends on judgment, a human review step may be more appropriate than full automation.,Ownership continues after the pilot. Someone must monitor failures, review changed business rules, and decide when the automation should be paused. The team should also define how to revert to the manual process without losing work. These operating arrangements are part of the design, not optional tasks to consider after launch.
 
 Define a limited test with representative cases, including failures and unusual inputs. Keep a manual fallback and log the system’s decisions so the team can investigate unexpected results. Compare quality and exception rates, not only processing time; a fast workflow that creates hard-to-detect errors is not an improvement.
 

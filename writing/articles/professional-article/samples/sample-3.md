@@ -1,15 +1,9 @@
 # Improving customer support through knowledge management
-
 *Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
-
 ## Before you draft
-
 Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
-
 ## Draft structure
-
 The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
-
 ## Title
 
 **Improving customer support through knowledge management**
@@ -27,6 +21,8 @@ The intended audience is a support operations lead managing a knowledge base for
 Begin with recurring case themes. Review anonymised case tags and identify questions that consume time because the same clarification is needed. For each article, define the user problem, prerequisites, steps, expected result, and escalation path. Keep troubleshooting steps separate from policy decisions that require a specialist.
 
 ## Professional insight 2
+
+The knowledge base should reflect the actual language customers use. If users search for “can’t log in” while the article is titled “identity credential renewal,” the page may be technically correct but hard to discover. Search terms, anonymised ticket summaries, and agent feedback can help identify that gap. Titles should describe the task or symptom, and the first paragraph should confirm whether the article applies to the reader’s situation.,A review cycle can be linked to product releases and recurring support themes. When a feature changes, the content owner should identify dependent pages and retest their steps. A useful article also states when to stop troubleshooting and escalate; this protects customers from repeating risky steps and helps agents recognise cases that require specialist access.
 
 Ownership and review are as important as writing. A page should have a content owner, a last-reviewed date, and a route for reporting an error. When a product changes, the team should check the instructions that depend on the changed behaviour. Search analytics can indicate what readers seek, but they do not prove that an article solved the problem.
 

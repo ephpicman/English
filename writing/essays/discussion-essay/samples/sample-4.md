@@ -1,11 +1,7 @@
 # Urban green spaces: discussion essay
-
 *Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
-
 ## Before writing
-
 Present both views fairly before giving a personal position only if the prompt asks for one.
-
 ## Essay structure
 
 Each viewpoint is developed with reasoning, followed by a balanced conclusion.
@@ -19,6 +15,8 @@ There are differing views about urban green spaces. The debate reflects differen
 Supporters argue that green spaces improve everyday quality of life and provide places for recreation and community activity.
 
 ## Viewpoint 2 and reasoning
+
+The debate becomes more productive when access and maintenance are considered together. A new park may be popular at first but lose value if paths, lighting, and facilities are not maintained. Housing is also a genuine need, particularly in cities where space is scarce. Planning should identify where smaller green spaces can be integrated into development and where larger sites provide unique community value.
 
 Opponents note that urban land is expensive and that parks require ongoing maintenance. They argue that housing and essential services may be more urgent priorities.
 

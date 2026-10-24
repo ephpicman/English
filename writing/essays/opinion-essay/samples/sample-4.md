@@ -1,12 +1,10 @@
 # Urban green spaces: opinion essay
-
 *Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
-
 ## Introduction
-
 The question of how society should approach urban green spaces involves practical benefits as well as genuine concerns. I largely agree that cities should protect and expand accessible green space, but planning should focus on equitable access and maintenance rather than maximising park area without considering other needs.
-
 ## Reason 1
+
+Green space provides value beyond recreation because it creates places where people can pause, meet, and move away from busy streets. Children and older residents may especially benefit from safe local routes and accessible seating. These benefits should be weighed against housing demand through careful design rather than assuming that every unused plot should become a park.
 
 Parks give residents places to walk, exercise, meet neighbours, and spend time outdoors. Trees and planted areas can also provide shade and improve the experience of streets, especially where public space is otherwise dominated by traffic and hard surfaces.
 

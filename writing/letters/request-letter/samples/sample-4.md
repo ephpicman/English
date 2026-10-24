@@ -11,15 +11,10 @@ The request is specific, explains why it is needed, and offers reasonable flexib
 Use the following sections to make the requested decision easy to understand.
 
 ## Greeting and request purpose
-
-Dear Sir or Madam,
-
 I am writing to request a discussion about adjusting the lighting and screen setup at my workstation.
 
 ## Context and justification
-
 The current arrangement causes discomfort during longer periods of screen work, and I would like to explore practical changes that may help me work more comfortably.
-
 ## Specific request and scope
 
 Possible options include reducing glare, changing the monitor position, or reviewing the available desk lighting. I am open to an assessment and do not assume that one particular solution is required.
@@ -31,10 +26,7 @@ Please let me know the appropriate process and whether an occupational assessmen
 ## Timing and closing
 
 Thank you for considering this request. Yours sincerely.
-
-Yours faithfully,
-[Your name]
+Priya Nair
 
 ## Final review
-
 Replace the sign-off placeholder, confirm all details, and include only supporting documents that are relevant and safe to share.

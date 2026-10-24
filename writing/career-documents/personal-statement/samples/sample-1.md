@@ -1,15 +1,9 @@
 # Personal statement: academic and professional direction
-
 *Illustrative statement. Adapt it to the actual programme and retain only experiences that are accurate for the applicant.*
-
 ## Motivation and direction
-
 I want to study environmental policy because many public decisions require balancing long-term ecological effects with immediate social and economic needs. I am particularly interested in how evidence is translated into decisions that communities can understand and scrutinise. Rather than treating policy as a purely theoretical subject, I want to learn how research methods, public consultation, and implementation constraints interact.
-
 ## Relevant preparation
-
 My interest developed through coursework on urban development and climate adaptation. I found that reports on the same policy sometimes reached different conclusions because they used different baselines, time periods, or definitions of success. Comparing those assumptions taught me to ask not only what a source concludes, but how it reached that conclusion and which groups may be affected.
-
 ## Skills and learning evidence
 
 For a seminar project, I organised a set of policy reports into a comparison table covering research question, method, location, and limitations. This helped my group distinguish evidence that was broadly consistent from findings that depended on local conditions. I also presented the summary to classmates, explaining technical terms in plain language and noting questions the available sources could not answer. The experience strengthened my ability to synthesise information without overstating certainty.
@@ -19,6 +13,8 @@ For a seminar project, I organised a set of policy reports into a comparison tab
 The programme appeals to me because it combines analytical study with the practical challenges of policy design. I am ready to develop stronger skills in evaluation, quantitative reasoning, and stakeholder analysis. I would contribute careful preparation, openness to feedback, and a willingness to test my initial assumptions against evidence.
 
 ## Goals and contribution
+
+I would use the programme’s feedback and supervised work to strengthen these habits. I am especially interested in learning how to choose a method that fits a research question, communicate limitations without weakening a well-supported finding, and collaborate with people whose expertise differs from my own. These are skills I will need whether I work in research, programme delivery, or policy evaluation.
 
 In the near term, I want to learn to assess policy options systematically and communicate trade-offs clearly. Over time, I hope to support research or programme evaluation for organisations working on sustainable urban development. I understand that these goals may evolve as I gain experience, but they give me a clear reason to build a rigorous foundation now.
 

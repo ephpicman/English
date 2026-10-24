@@ -1,11 +1,7 @@
 # Public transport investment: discussion essay
-
 *Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
-
 ## Before writing
-
 Present both views fairly before giving a personal position only if the prompt asks for one.
-
 ## Essay structure
 
 Each viewpoint is developed with reasoning, followed by a balanced conclusion.
@@ -19,6 +15,8 @@ There are differing views about public transport investment. The debate reflects
 Supporters of transit investment argue that it can improve access and reduce the need for individual car trips when routes are convenient and reliable.
 
 ## Viewpoint 2 and reasoning
+
+Investment decisions should consider the whole journey, not just the road or rail line. People need to reach a stop safely, understand the timetable, and rely on connections. At the same time, rural and freight needs may require road investment. The strongest policy uses local travel evidence to decide where each form of investment has the greatest value.
 
 Others argue that road capacity remains essential for freight, emergency vehicles, and places where population is spread out. A transit line that does not serve actual travel patterns may not deliver its expected benefits.
 

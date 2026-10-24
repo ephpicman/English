@@ -1,11 +1,7 @@
 # Remote work: compare contrast essay
-
 *Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
-
 ## Before writing
-
 Use the same criteria to compare both options and avoid describing one in detail while barely discussing the other.
-
 ## Essay structure
 
 The comparison is organised by shared criteria rather than two unrelated lists.
@@ -23,6 +19,8 @@ Remote work gives employees flexibility over location and can reduce commuting, 
 Remote arrangements rely on deliberate documentation and scheduled contact; office teams can exchange information informally but may face more interruptions and travel time.
 
 ## Synthesis and significance
+
+These differences also affect who benefits from each arrangement. A remote employee with a quiet workspace may gain substantial flexibility, while someone sharing a small home may find concentration difficult. Similarly, an office can support mentoring but may impose long travel on people who live far away. Comparing the options therefore requires attention to both the work and the circumstances of the people doing it.
 
 The meaningful comparison is not simply comfort versus discipline, but which environment best supports the task, the employee, and the team’s communication needs.
 

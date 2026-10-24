@@ -1,11 +1,7 @@
 # School uniforms: discussion essay
-
 *Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
-
 ## Before writing
-
 Present both views fairly before giving a personal position only if the prompt asks for one.
-
 ## Essay structure
 
 Each viewpoint is developed with reasoning, followed by a balanced conclusion.
@@ -19,6 +15,8 @@ There are differing views about school uniforms. The debate reflects different p
 Supporters of compulsory uniforms believe they can strengthen school identity and reduce visible clothing competition among students.
 
 ## Viewpoint 2 and reasoning
+
+Schools can reduce the disadvantages of either policy by consulting families and offering affordable choices. A uniform can be practical when items are durable and easy to obtain, but strict rules can create hardship if students need replacements or adjustments. A dress code can address safety and respectful conduct without assuming that every student has the same needs or resources.
 
 Opponents argue that uniforms restrict choice, can be costly, and may not fit all cultural, religious, or physical needs.
 
