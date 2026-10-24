@@ -1,31 +1,37 @@
-# Managing configuration across environments
+# Validating CSV files before data ingestion
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative technical article. Verify commands, versions, architecture, and security requirements against the actual implementation before use.*
 
 ## Summary
 
-Managing configuration across environments raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+CSV files look simple, but inconsistent headers, encoding, delimiters, missing values, and duplicate identifiers can corrupt downstream analysis. A validation step should detect predictable problems before ingestion while preserving the original file and explaining failures clearly. This article presents a layered validation approach. Exact rules should come from the receiving system’s schema and business requirements.
 
 ## Scope and Prerequisites
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The intended reader builds a data pipeline that accepts CSV files from internal or external sources. The article assumes a tabular dataset with a known schema. It does not define rules for a specific domain, and sample field names are illustrative.
 
 ## Core Concepts
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Syntactic validation checks whether the file can be parsed: encoding, delimiter, quoting, row shape, and headers. Schema validation checks required columns and expected types. Business validation checks domain rules such as allowed status values or unique identifiers. Keeping these layers separate helps the user understand whether a file is malformed, structurally incompatible, or logically invalid.
+
+Validation should be explicit about missing values. An empty string, a missing column, and a null-like token are not necessarily equivalent. Similarly, a date that parses successfully may still fall outside the allowed reporting period.
 
 ## Architecture or Workflow
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A safe pipeline preserves the source file, records its checksum or import ID, parses it using defined rules, and validates the parsed rows. It then produces a report of errors and warnings. Files with critical errors should not enter the target table; warning-only cases may be accepted if the policy allows them.
+
+The report should identify row and column where possible, describe the expected value, and avoid echoing sensitive data. Rejected files should have a clear correction and resubmission path.
 
 ## Implementation Details
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A validation plan can include: required header check; duplicate header detection; row-width consistency; type parsing; required-field checks; allowed-value checks; duplicate business-key detection; and aggregate sanity checks. Define whether identifiers are case-sensitive and whether whitespace should be trimmed before comparison.
+
+Use a small known-good fixture and fixtures for each expected failure. The pipeline should return a clear status code or structured result so automated jobs can stop before loading invalid data. Avoid automatically “fixing” ambiguous values without recording the transformation.
 
 ## Limitations and Operational Concerns
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Validation cannot establish that a source value is factually true; it can only check the rules provided. Strict rules may reject legitimate new categories, while permissive rules may allow bad data. Schema changes should be versioned and communicated to data producers.
 
 ## Conclusion
 
-Overall, managing configuration across environments is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Reliable CSV ingestion combines parse checks, schema rules, domain validation, and a clear failure report. Preserve the original, make transformations traceable, and test both valid files and representative error cases.

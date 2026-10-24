@@ -1,31 +1,37 @@
-# Testing a background job safely
+# Making background jobs safe to retry
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative technical article. Verify commands, versions, architecture, and security requirements against the actual implementation before use.*
 
 ## Summary
 
-Testing a background job safely raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Retries are important for transient failures, but they can repeat side effects when a worker does not know whether an earlier attempt succeeded. Idempotent job design makes repeated execution with the same business intent safer. This article describes idempotency keys, state transitions, and testing for ambiguous outcomes. The implementation details depend on the queue, database, and external services involved.
 
 ## Scope and Prerequisites
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The reader should understand asynchronous jobs, database transactions, and HTTP service calls. The examples use a generic notification job and do not claim exactly-once delivery across external systems.
 
 ## Core Concepts
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A job is idempotent when processing the same logical request more than once does not create additional unintended effects. Queue systems may deliver a message again after a timeout or worker restart. A worker can fail after an external service accepts a request but before the worker records success, leaving the outcome ambiguous.
+
+An idempotency key identifies the logical operation rather than a single execution attempt. The key must be stable across retries and scoped to the operation. It should be stored with enough state to determine whether the effect has already been applied.
 
 ## Architecture or Workflow
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A worker receives a job and checks its idempotency record. If the operation is already complete, it returns without repeating the side effect. Otherwise, it records or claims the operation, performs the work, and stores the result. The exact ordering and transaction boundaries matter: two workers must not both perform the same side effect concurrently.
+
+For an external API, use the provider’s idempotency mechanism if one exists. If it does not, design a reconciliation process for ambiguous outcomes rather than assuming a timeout means the request failed.
 
 ## Implementation Details
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A common internal safeguard is a unique constraint on the business operation key. A worker attempts to create the operation record; a duplicate-key result indicates that another attempt already claimed or completed the same operation. The state model should distinguish in-progress, completed, and failed operations, and define how stale in-progress records are recovered.
+
+Do not mark an operation complete before the side effect is known to have succeeded. Conversely, do not blindly repeat an external action merely because the local confirmation was lost. Use bounded retries, backoff, metrics, and a dead-letter or review path for persistent failures.
 
 ## Limitations and Operational Concerns
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Idempotency records need retention rules and can grow without limit. Some side effects cannot be made atomic with a local database transaction. An incorrect key can suppress legitimate work or allow duplicates. Test concurrency, retries after partial completion, timeouts after remote acceptance, and recovery after worker restart.
 
 ## Conclusion
 
-Overall, testing a background job safely is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Safe retries require a stable operation identity, concurrency control, explicit state transitions, and a plan for ambiguous external outcomes. Treat idempotency as a design property that must be tested, not a checkbox added after duplicate effects appear.

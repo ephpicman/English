@@ -1,31 +1,48 @@
-# Adding pagination to a REST API
+# Designing structured logs for reliable troubleshooting
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative technical article. Verify commands, versions, architecture, and security requirements against the actual implementation before use.*
 
 ## Summary
 
-Adding pagination to a REST API raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Structured logs make operational events easier to search and correlate across services. Their value depends on consistent fields, useful event names, and careful handling of sensitive data. This article outlines a practical logging schema, correlation strategy, and validation approach. The examples are illustrative and should be aligned with the project’s logging framework, privacy rules, and operational requirements.
 
 ## Scope and Prerequisites
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The intended audience is a software engineer responsible for application observability. The discussion assumes a service that emits application logs and sends them to a central log system. It does not prescribe a specific vendor or replace distributed tracing.
 
 ## Core Concepts
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A log event records something that happened at a point in time. Structured logging stores fields as machine-readable values rather than embedding every detail in an unstructured sentence. Common fields include timestamp, severity, service, environment, event name, and correlation ID. Domain fields should be added only when they help answer a diagnostic question.
+
+A correlation ID connects events associated with one request or workflow. It should be generated or validated at a trusted boundary and propagated through internal calls where practical. It is not an authentication token and should not grant access to records.
 
 ## Architecture or Workflow
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A request enters the service, receives a correlation ID, and emits events as it passes through validation, business logic, and downstream calls. If the request fails, an error event records the relevant error category and correlation ID without dumping the entire request body. Background jobs should preserve a job or workflow identifier across retries.
+
+Operational teams should define severity consistently. An expected validation failure may be informational or a warning; an unexpected dependency failure may require an error event and an alert if it threatens service objectives.
 
 ## Implementation Details
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Illustrative JSON event:
+
+```json
+{
+  "timestamp": "2026-10-24T10:15:00Z",
+  "severity": "ERROR",
+  "service": "report-api",
+  "event": "dependency_timeout",
+  "correlation_id": "req_example_123",
+  "dependency": "report-store"
+}
+```
+
+The timestamp and identifier are examples, not live telemetry. Configure the logger to emit valid structured records, standardise field names, and test that secrets and personal data are redacted before output. Avoid logging authorization headers, session tokens, passwords, or full payment details.
 
 ## Limitations and Operational Concerns
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+More logs are not automatically better. Excessive event volume increases cost and can obscure important signals. Correlation IDs may be lost across asynchronous boundaries unless explicitly propagated. Logging also needs retention and access controls appropriate to the data it contains.
 
 ## Conclusion
 
-Overall, adding pagination to a rest api is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Structured logging is most effective when it answers real troubleshooting questions with consistent, safe fields. Start with a small schema, test redaction, and review whether the resulting events help engineers diagnose failures.

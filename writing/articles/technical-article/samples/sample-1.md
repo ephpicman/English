@@ -1,31 +1,45 @@
-# Designing a reliable webhook consumer
+# Implementing cursor pagination for an activity feed
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative technical article. Verify commands, versions, architecture, and security requirements against the actual implementation before use.*
 
 ## Summary
 
-Designing a reliable webhook consumer raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Cursor pagination lets a client retrieve an ordered set of records without relying on increasingly large offsets. It is useful for feeds that grow continuously, provided the ordering is deterministic and the cursor represents the last item returned. This article explains the query model, cursor contents, response contract, and edge cases. The examples are illustrative SQL and JSON; adapt them to the actual database, schema, and API contract before use.
 
 ## Scope and Prerequisites
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The intended reader understands HTTP APIs, SQL queries, and basic database indexing. The example assumes a feed ordered by creation time and a unique ID, with descending order. It does not cover arbitrary user-selected sorting or a production-specific authentication scheme.
 
 ## Core Concepts
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A page is a bounded slice of an ordered result set. Offset pagination skips a number of rows, which can become expensive for deep pages and can shift when new rows are inserted. A cursor instead identifies the boundary after which the next query should continue. The ordering must be stable: if timestamps can tie, include a unique tie-breaker such as the record ID.
+
+A cursor should be treated as opaque by clients. It can encode the boundary values and, where appropriate, be signed to prevent tampering. It should not contain secrets or expose data that the caller is not authorised to see.
 
 ## Architecture or Workflow
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+For a descending feed, the server queries rows whose `(created_at, id)` tuple is earlier than the last row in the previous page. The server fetches `limit + 1` rows to determine whether another page exists, returns at most `limit`, and constructs the next cursor from the final returned row. Filtering and authorisation must be applied consistently on every page.
+
+A response might contain `items` and `next_cursor`. If there are no more results, `next_cursor` can be null. The API should document maximum page size, cursor expiry if any, and how clients should react when a cursor is invalid.
 
 ## Implementation Details
 
-For this illustrative example, assume a small service with a documented interface and a non-production test environment. State supported inputs, expected results, failure behaviour, and version assumptions; verify details against the actual system before publication. Validate inputs, handle expected errors, log enough context for diagnosis without exposing secrets, and test both success and failure paths. This describes a pattern, not a claim about a real product or tested implementation. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Illustrative SQL pattern:
+
+```sql
+SELECT id, created_at, title
+FROM activity
+WHERE (created_at, id) < (:cursor_time, :cursor_id)
+ORDER BY created_at DESC, id DESC
+LIMIT :limit_plus_one;
+```
+
+This tuple comparison is supported by some SQL engines; verify syntax and index behaviour for the actual database. The initial page omits the cursor predicate. Validate `limit` against a server-side maximum, and never trust a client-supplied cursor as an authorisation decision. An index aligned with the filter and ordering can improve query performance.
 
 ## Limitations and Operational Concerns
 
-There are reasonable limits: implementation may require time, training, and coordination, while people with fewer resources may find participation harder. These costs should be acknowledged rather than dismissed. Reduce the risk by setting a narrow scope, offering an accessible alternative, and reviewing results before expanding. If evidence contradicts the original assumption, revise the plan. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Cursor pagination is well suited to sequential browsing but does not naturally provide “jump to page 12.” Updates to sort fields can also move records across boundaries. Define whether the feed represents a live view or a stable snapshot, and test equal timestamps, deleted records, invalid cursors, empty pages, and new inserts between requests.
 
 ## Conclusion
 
-Overall, designing a reliable webhook consumer is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A reliable cursor API needs deterministic ordering, consistent filtering, an opaque cursor, and explicit edge-case behaviour. Test the contract with realistic data before relying on it for a high-volume feed.
