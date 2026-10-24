@@ -1,39 +1,50 @@
-# Incident report: failed file upload
+# Incident report: duplicate notification emails
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative incident report. Replace all example details and timestamps with verified records; follow the organisation’s incident and privacy procedures.*
 
 ## Incident details and document control
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+Incident ID: INC-2026-052 | Date: 3 November | Component: Notification worker | Status: Under investigation
 
 ## Executive incident summary
 
-**Purpose:** Incident report: failed file upload. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+Some users received duplicate notification emails for a single event. The team paused the affected worker and inspected recent job records to limit further duplicates. The incident appears related to retry handling, but the precise sequence must be confirmed before assigning root cause. The immediate priority is to protect users from repeated messages, identify affected events, and add a tested safeguard against duplicate processing.
 
 ## Scope and impact
 
-The current process presents a clearly defined opportunity to improve consistency and user experience. The brief should describe the observed problem, who is affected, what evidence supports the diagnosis, and what falls outside scope. Separate confirmed facts from assumptions; do not imply that illustrative details are measured results.
+The review covers outbound notifications produced by the worker during the reported window. It does not include unrelated email delivery delays. The affected-user count and time range must be established from delivery logs before notification or remediation is finalised.
 
 ## Timeline of events
 
-Use staged milestones: confirm the brief and baseline, prepare the pilot, test with a small group, review the evidence, and decide whether to expand. Add actual dates and accountable owners only after agreement; dependencies and approval steps should be visible.
+14:02 — support received the first duplicate-email report.
+14:10 — on-call staff compared reports with worker logs.
+14:18 — worker paused to prevent additional sends.
+14:31 — team identified jobs with repeated processing attempts.
+15:05 — controlled processing resumed for a limited test batch. Replace these example times with confirmed logs.
 
 ## Response and containment
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+The worker was paused, recent job IDs were collected, and the team compared queued jobs with delivery records. A limited test batch was used before normal processing resumed. Any user-facing communication should describe the confirmed impact and avoid speculating about the cause.
 
 ## Cause and contributing factors
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+A retry after an ambiguous delivery response is a plausible contributor: the provider may have accepted a message even when the worker did not receive confirmation. This remains a hypothesis until queue, worker, and provider records are correlated.
 
 ## Recovery and verification
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+Recovery requires confirming that normal notifications are processed once, that the queue is draining at an expected rate, and that no additional duplicate pattern is present. The team should continue monitoring after resumption.
 
 ## Corrective and preventive actions
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+1. Correlate job IDs with provider delivery records.
+2. Add idempotency protection for notification events where supported.
+3. Test the timeout-after-acceptance scenario.
+4. Prepare a user-impact review using confirmed counts and an approved communication plan.
+
+## Final quality check
+
+Separate confirmed facts from hypotheses, preserve relevant evidence, document impact only when verified, and assign an owner and due date to every corrective action. Review sensitive details before distribution.
 
 ## IELTS-oriented language practice
 
-This section should support a clear decision about incident report: failed file upload. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The report uses neutral, chronological language and avoids assigning blame before the evidence is reviewed. In a real incident report, factual accuracy and the approved reporting process take priority over stylistic complexity.

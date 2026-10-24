@@ -1,39 +1,46 @@
-# Progress update: community garden
+# Progress report: API migration
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative progress report. Replace status, dates, milestones, costs, and dependencies with current project records before circulation.*
 
 ## Title and reporting metadata
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+Reporting period: sprint 4 | Owner: Engineering lead | Status: Amber; compatibility tests incomplete
 
 ## Executive status summary
 
-**Status:** illustrative update for progress update: community garden. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+The migration has completed the endpoint inventory and implemented the first set of request changes in a test environment. Compatibility testing is incomplete for clients that still use the legacy response field. The team should keep the migration release gated until the agreed client scenarios pass and the deprecation notice is approved.
 
 ## Objectives and scope
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+Objective: migrate consumers to the current API contract while preserving service reliability. Scope includes client updates, contract tests, and migration documentation; unrelated API feature work is excluded.
 
 ## Work completed
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+- Documented the affected endpoints and response fields.
+- Updated one internal consumer in the test environment.
+- Added initial contract tests for successful responses.
+- Drafted a migration note for reviewers.
 
 ## Milestones, schedule, and budget
 
-**Status:** illustrative update for progress update: community garden. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+Endpoint inventory: complete. Internal consumer update: in test. Legacy-client tests: incomplete. Documentation review: pending. Confirm delivery dates and effort from the issue tracker before publishing a forecast.
 
 ## Risks, issues, and dependencies
 
-The next step is to confirm the outstanding dependency, assign a named owner, and agree a review date. Record any risk with its impact and mitigation, and escalate only where a decision or support is needed.
+Risk: an untested client may depend on legacy behaviour. Dependency: consumer teams must confirm their test cases. Mitigation: maintain compatibility until the test matrix and migration plan are approved.
 
 ## Next-period plan
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+Complete contract tests, collect confirmation from consumer owners, review deprecation wording, and run a staging smoke test before scheduling release.
 
 ## Decisions and support required
 
-**Status:** illustrative update for progress update: community garden. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+The API owner is asked to confirm the support window for the legacy field and approve the release gate criteria.
+
+## Final quality check
+
+Confirm that status agrees with the project tracker, dates and costs are current, and each risk has an owner or mitigation. Make clear where information is not yet confirmed rather than filling gaps with estimates.
 
 ## IELTS-oriented language practice
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+The report separates completed work from planned work and states risks directly. In a real workplace report, use the organisation’s agreed status definitions and do not imply that a milestone is complete before it is verified.

@@ -1,39 +1,46 @@
-# Progress update: training programme
+# Progress report: data-quality improvement
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative progress report. Replace status, dates, milestones, costs, and dependencies with current project records before circulation.*
 
 ## Title and reporting metadata
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+Reporting period: 1–30 June | Owner: Analytics team | Status: At risk due to source definitions
 
 ## Executive status summary
 
-**Status:** illustrative update for progress update: training programme. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+The team has completed an initial data-quality inventory and documented the main fields used in the monthly report. Progress is slower than planned because two source fields have different definitions across systems. The team should avoid merging the values until the owners agree on their meaning. The next phase focuses on resolving definitions and testing the proposed validation rules.
 
 ## Objectives and scope
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+Objective: improve consistency of the monthly reporting dataset. Scope includes field definitions, duplicate checks, and validation rules for selected tables. Rebuilding the reporting platform is not part of this work.
 
 ## Work completed
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+- Listed the fields used in the report.
+- Identified inconsistent date formats and duplicate identifiers.
+- Drafted proposed definitions for key categories.
+- Created a log of unresolved source questions.
 
 ## Milestones, schedule, and budget
 
-**Status:** illustrative update for progress update: training programme. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+Inventory: complete. Definition agreement: delayed. Validation prototype: waiting on definitions. Test review: not started. Budget and effort figures must be added from the approved project tracker before this report is finalised.
 
 ## Risks, issues, and dependencies
 
-The next step is to confirm the outstanding dependency, assign a named owner, and agree a review date. Record any risk with its impact and mitigation, and escalate only where a decision or support is needed.
+Risk: combining semantically different fields could produce misleading totals. Dependency: source owners must confirm definitions. Mitigation: keep the fields separate and label unresolved differences in interim analysis.
 
 ## Next-period plan
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+Hold a definition review with source owners, update the data dictionary, and test validation rules against a sample with known issues.
 
 ## Decisions and support required
 
-**Status:** illustrative update for progress update: training programme. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+The data owners are asked to confirm the definitions and identify who approves future changes. The project lead should agree whether the reporting deadline needs adjustment.
+
+## Final quality check
+
+Confirm that status agrees with the project tracker, dates and costs are current, and each risk has an owner or mitigation. Make clear where information is not yet confirmed rather than filling gaps with estimates.
 
 ## IELTS-oriented language practice
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+The report separates completed work from planned work and states risks directly. In a real workplace report, use the organisation’s agreed status definitions and do not imply that a milestone is complete before it is verified.

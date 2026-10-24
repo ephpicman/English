@@ -1,39 +1,46 @@
-# Progress update: website migration
+# Progress report: staff training rollout
 
-*Illustrative example. Verify project-specific facts and technical details before use.*
+*Illustrative progress report. Replace status, dates, milestones, costs, and dependencies with current project records before circulation.*
 
 ## Title and reporting metadata
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+Reporting period: September | Owner: Learning coordinator | Status: On track with attendance risk
 
 ## Executive status summary
 
-**Status:** illustrative update for progress update: website migration. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+The first training materials have been drafted and reviewed by subject-matter contributors. Session scheduling is progressing, although attendance across shift patterns remains an open concern. The next period will focus on testing the materials with a small group, confirming accessible formats, and finalising a schedule that does not leave critical teams without coverage.
 
 ## Objectives and scope
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+Objective: introduce a consistent process for handling routine customer requests. Scope covers core guidance, short practice exercises, and manager briefing materials; specialist training remains outside this phase.
 
 ## Work completed
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+- Drafted the core guidance and facilitator notes.
+- Collected feedback from two team leads.
+- Identified three scenarios for practice exercises.
+- Started a schedule covering weekday sessions.
 
 ## Milestones, schedule, and budget
 
-**Status:** illustrative update for progress update: website migration. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+Content draft: complete. Pilot session: planned for next period. Accessible materials: in review. Full rollout: dependent on pilot feedback and confirmed staffing. Budget status should be checked against approved training and backfill costs.
 
 ## Risks, issues, and dependencies
 
-The next step is to confirm the outstanding dependency, assign a named owner, and agree a review date. Record any risk with its impact and mitigation, and escalate only where a decision or support is needed.
+Risk: some shift-based employees may be unable to attend scheduled sessions. Dependency: manager confirmation of coverage. Mitigation: test alternative session times and provide a supported catch-up route.
 
 ## Next-period plan
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+Run the pilot, collect participant feedback, revise the exercises, and confirm session times with each team lead.
 
 ## Decisions and support required
 
-**Status:** illustrative update for progress update: website migration. Work completed, work in progress, and blockers should be listed separately. Confirm dates and progress against the project record before circulation; this example intentionally does not invent percentage-complete figures.
+Managers are asked to confirm available session windows and whether a recorded recap is appropriate under internal policy. The coordinator needs approval for any additional backfill cost.
+
+## Final quality check
+
+Confirm that status agrees with the project tracker, dates and costs are current, and each risk has an owner or mitigation. Make clear where information is not yet confirmed rather than filling gaps with estimates.
 
 ## IELTS-oriented language practice
 
-Keep this section factual and actionable. Identify the responsible role, the source of the information, and the next check. Distinguish confirmed progress from estimates, and remove any detail that cannot be supported by the project record.
+The report separates completed work from planned work and states risks directly. In a real workplace report, use the organisation’s agreed status definitions and do not imply that a milestone is complete before it is verified.

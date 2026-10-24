@@ -1,39 +1,51 @@
-# Incident report: meeting-room access failure
+# Incident report: delayed data import
 
-*Illustrative example; confirm all facts, dates, costs, evidence, and approvals before real-world use.*
+*Illustrative incident report. Replace all example details and timestamps with verified records; follow the organisation’s incident and privacy procedures.*
 
 ## Incident details and document control
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+Incident ID: OPS-2026-033 | Date: 7 October | Process: Daily data import | Status: Resolved with follow-up
 
 ## Executive incident summary
 
-**Purpose:** Incident report: meeting-room access failure. **Status:** illustrative planning case. This document summarises the issue, options, recommended response, and evidence needed for a decision. Any costs, dates, baselines, or outcomes must be confirmed from actual records before this draft is used.
+The daily data import completed later than expected because the source file was not available at the scheduled start time. The downstream report was delayed, but the import completed after the source was received and the team validated the resulting row count. The available information points to a dependency delay rather than a confirmed defect in the import code. Follow-up should improve visibility of missing inputs and clarify how downstream users are notified.
 
 ## Scope and impact
 
-The current process presents a clearly defined opportunity to improve consistency and user experience. The brief should describe the observed problem, who is affected, what evidence supports the diagnosis, and what falls outside scope. Separate confirmed facts from assumptions; do not imply that illustrative details are measured results.
+This report covers the scheduled import and the dependent report refresh. It does not assess the accuracy of the source system itself. Confirm the actual start and completion times from job logs before recording final operational metrics.
 
 ## Timeline of events
 
-Use staged milestones: confirm the brief and baseline, prepare the pilot, test with a small group, review the evidence, and decide whether to expand. Add actual dates and accountable owners only after agreement; dependencies and approval steps should be visible.
+06:00 — scheduled import did not find the expected file.
+06:10 — automated retry completed without input.
+06:25 — operator checked the source delivery status.
+07:05 — source file became available.
+07:18 — import completed and validation ran.
+07:30 — downstream report refreshed. These times are illustrative.
 
 ## Response and containment
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+The operator confirmed the file was absent, checked the source delivery channel, and reran the import after the file arrived. Row-count and schema checks were completed before the downstream report was refreshed.
 
 ## Cause and contributing factors
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+The immediate cause was late availability of the source file. The reason for the delay at the source remains outside this report’s confirmed evidence. The retry schedule also did not communicate the dependency delay to report users.
 
 ## Recovery and verification
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+Recovery was confirmed by successful import logs, expected schema, a row-count check, and a completed downstream refresh. Additional reconciliation may be needed if the source system can deliver partial files.
 
 ## Corrective and preventive actions
 
-**Illustrative case only.** Record the confirmed time, affected service, observed symptoms, source of each fact, response owner, and current status. Separate established cause from hypotheses. Document containment and recovery checks, residual risk, and corrective actions with owners and testable completion criteria.
+1. Add an alert when the source file is missing beyond the agreed threshold.
+2. Notify report users when the refresh will be delayed.
+3. Confirm the source team’s expected delivery window and escalation route.
+4. Review whether validation should compare key totals, not only row count.
+
+## Final quality check
+
+Separate confirmed facts from hypotheses, preserve relevant evidence, document impact only when verified, and assign an owner and due date to every corrective action. Review sensitive details before distribution.
 
 ## IELTS-oriented language practice
 
-This section should support a clear decision about incident report: meeting-room access failure. State the evidence, options, implications, and responsible owner. Keep facts separate from interpretation and recommendations, and verify all organisation-specific details before circulation.
+The report uses neutral, chronological language and avoids assigning blame before the evidence is reviewed. In a real incident report, factual accuracy and the approved reporting process take priority over stylistic complexity.
