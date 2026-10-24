@@ -1,50 +1,34 @@
 # Opinion Essay Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- TEMPLATE RULES: This is a reusable scaffold, not a completed essay. Replace every [PLACEHOLDER: ...]. Do not include sample prose. Resolve [TO CONFIRM: ...] notes before submission. IELTS Task 2 practice must answer the exact prompt, sustain a clear position, develop claims with explanation and relevant support, and use natural cohesion. Quality dimensions are Task Response, Coherence and Cohesion, Lexical Resource, and Grammatical Range and Accuracy. -->
 
-<!-- WORD COUNT STANDARD: Target total = 250–320 words (IELTS Task 2 practice). Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+<!-- WORD COUNT: Target 250–320 words for IELTS Task 2 practice; the minimum is 250 words. Section ranges are guidance, not a quota for filler. Count essay prose, not comments. -->
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+<!-- BRIEF: Exact prompt = [PLACEHOLDER: paste task]; prompt type = [PLACEHOLDER: identify]; required position = [PLACEHOLDER: state if applicable]. -->
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Opinion Essay. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Introduction and direct opinion. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 40–55. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Introduction and direct opinion
+<!-- SECTION GUIDE: Introduction. Paraphrase the task accurately, frame the issue, and state your position clearly. Target 40–55 words. -->
+## Introduction
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: introduce the issue and state your position]
 
-<!-- SECTION INSTRUCTIONS: Reason 1 with explanation or relevant example. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 70–90. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Reason 1 with explanation or relevant example
+<!-- SECTION GUIDE: Reason 1. Present one clear reason, explain why it supports your position, and add relevant support or an example. Target 70–90 words. -->
+## Reason 1
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: develop the first reason]
 
-<!-- SECTION INSTRUCTIONS: Reason 2 with explanation or relevant example. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 70–90. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Reason 2 with explanation or relevant example
+<!-- SECTION GUIDE: Reason 2. Present a distinct reason and develop it; do not repeat the first paragraph in different words. Target 70–90 words. -->
+## Reason 2
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: develop the second reason]
 
-<!-- SECTION INSTRUCTIONS: Qualification or opposing view if useful. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 30–50. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Qualification or opposing view if useful
+<!-- SECTION GUIDE: Qualification or opposing view. Include only if it strengthens the response; represent the alternative fairly and explain your response. Target 25–45 words. -->
+## Qualification or opposing view (optional)
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: address a relevant qualification or alternative view, or remove this section]
 
-<!-- SECTION INSTRUCTIONS: Conclusion consistent with the position. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 25–40. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Conclusion consistent with the position
+<!-- SECTION GUIDE: Conclusion. Answer the question directly, reinforce the position, and add no new main argument. Target 25–40 words. -->
+## Conclusion
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: conclude the argument]
 
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+<!-- FINAL CHECK: Does the essay answer all parts of the prompt? Is the opinion clear and consistent? Is each main idea developed? Are examples relevant and plausible? Are cohesion, vocabulary, grammar, and word count checked? Remove all placeholders before submission. -->
