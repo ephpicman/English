@@ -1,50 +1,27 @@
 # Short Professional Post Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- TEMPLATE RULES: Replace placeholders; do not include sample prose. Communicate one update or insight, use accurate facts, and respect confidentiality. -->
+<!-- TOTAL LENGTH: 50–120 words unless the platform specifies another limit. -->
+<!-- BRIEF: Audience = [PLACEHOLDER: define]; objective = [PLACEHOLDER: state]; verified details = [PLACEHOLDER: list]. -->
 
-<!-- WORD COUNT STANDARD: Target total = 25–250. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+<!-- SECTION GUIDE: Hook or announcement. State the key update immediately. Target 5–15 words. -->
+## Hook or Announcement
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+[PLACEHOLDER: state the key update]
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Short Professional Post. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Hook or point of connection. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 5–20. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Hook or point of connection
+<!-- SECTION GUIDE: Essential information. Include the facts the audience needs to understand the update. Target 15–40 words. -->
+## Essential Information
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: provide the essential details]
 
-<!-- SECTION INSTRUCTIONS: Main point / response / update. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 20–50. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Main point / response / update
+<!-- SECTION GUIDE: Relevance or takeaway. Explain why the update matters to the audience. Target 10–25 words. -->
+## Relevance or Takeaway
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: explain the relevance]
 
-<!-- SECTION INSTRUCTIONS: Supporting detail, insight, or evidence. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 15–80. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Supporting detail, insight, or evidence
+<!-- SECTION GUIDE: Call to action or close. State a next step only if one is needed. Target 5–15 words. -->
+## Call to Action or Close
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: provide a relevant next step or remove this section]
 
-<!-- SECTION INSTRUCTIONS: Practical takeaway or added value. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 10–40. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Practical takeaway or added value
-
-[PLACEHOLDER: write this section according to the instructions above]
-
-<!-- SECTION INSTRUCTIONS: Question, call to action, or closing. Purpose: Deliver one focused contribution that is readable, audience-aware, and useful. Length: 5–20. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Question, call to action, or closing
-
-[PLACEHOLDER: write this section according to the instructions above]
-
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+<!-- FINAL CHECK: Verify facts, clarity, brevity, tone, and platform limits. Remove placeholders before publishing. -->
