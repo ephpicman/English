@@ -1,23 +1,23 @@
 # Professional bio
 
-*Illustrative bio. Keep only details that are true of the person represented.*
+*Illustrative bio; confirm all role details and outcomes before using publicly.*
 
 ## Professional identity
 
-Priya Nair is a communications assistant with an interest in accessible public information.
+Taylor Reed is a customer support specialist who helps software users resolve problems and understand the steps behind a solution.
 
 ## Expertise and audience
 
-She works across short-form writing, proofreading, event information, and coordinating updates across digital channels.
+Taylor supports customers through email and chat, documents recurring issues, and works with technical colleagues when a case needs specialist investigation.
 
 ## Credibility and impact
 
-In volunteer communications work, she identified inconsistent event details across channels and introduced a final fact-check before publication.
+After noticing repeated questions about account recovery, Taylor gathered examples from support tickets and helped update the internal guide with a missing step and a clear warning about recovery codes. The revised guidance helped colleagues respond more consistently.
 
 ## Current focus and value
 
-Priya aims to make messages accurate, welcoming, and easy for readers to act on.
+Taylor focuses on empathetic communication, accurate case notes, and help resources that prevent avoidable repeat enquiries. Taylor is careful to distinguish confirmed information from issues still under investigation.
 
 ## Optional human detail
 
-She enjoys community arts events and independent bookshops.
+Taylor enjoys repairing old keyboards and learning how everyday software tools work.

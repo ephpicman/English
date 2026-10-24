@@ -1,23 +1,23 @@
 # Professional bio
 
-*Illustrative bio. Keep only details that are true of the person represented.*
+*Illustrative bio; verify the project and experience details before publication.*
 
 ## Professional identity
 
-Daniel Okafor is a research assistant interested in evidence-informed environmental policy.
+Robin Ellis is a sustainability project assistant interested in making environmental initiatives practical, measurable, and transparent.
 
 ## Expertise and audience
 
-His strengths include literature review, source management, structured comparison, and concise research summaries.
+Robin supports project teams with scheduling, record keeping, information gathering, and concise progress updates for community and facilities projects.
 
 ## Credibility and impact
 
-For a research project, Daniel built a source matrix to compare studies using different methods and made areas of uncertainty explicit in the final summary.
+During a volunteer reuse event, Robin helped revise the collection sheet so that measured quantities were separated from estimates. The resulting summary made the method clearer and showed which figures could reasonably be compared with later events.
 
 ## Current focus and value
 
-He wants to support research that is transparent about evidence quality and the limits of its conclusions.
+Robin is interested in resource efficiency and evaluation methods that explain both progress and uncertainty. Their approach emphasises accurate records, realistic targets, and clear communication with project partners.
 
 ## Optional human detail
 
-He also volunteers at a neighbourhood gardening group.
+Robin enjoys cycling and repairing household items rather than replacing them.

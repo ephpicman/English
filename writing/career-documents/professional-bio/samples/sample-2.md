@@ -1,23 +1,23 @@
 # Professional bio
 
-*Illustrative bio. Keep only details that are true of the person represented.*
+*Illustrative bio; verify the role, experience, and achievements before publication.*
 
 ## Professional identity
 
-Amira Hassan is an early-career data analyst interested in reliable, explainable analysis.
+Aisha Rahman is a junior data analyst interested in turning complex datasets into clear, responsible business insights.
 
 ## Expertise and audience
 
-Her work focuses on data cleaning, exploratory analysis, SQL, and communicating findings to non-technical audiences.
+She works with operations and customer teams to clean data, check definitions, and present trends in a way that non-technical colleagues can interpret.
 
 ## Credibility and impact
 
-In academic projects, she has documented data-quality decisions and separated observed patterns from conclusions that require further testing.
+In a training project, Aisha compared monthly sales records and discovered that the latest period was incomplete. She revised the visualisation to label the partial period and documented the limitation instead of presenting the apparent decline as a confirmed trend.
 
 ## Current focus and value
 
-Amira aims to help teams use data responsibly by making assumptions, limitations, and next steps visible.
+Aisha is developing her SQL and visualisation skills while prioritising reproducible analysis, careful handling of assumptions, and explanations that distinguish evidence from interpretation.
 
 ## Optional human detail
 
-She also enjoys turning complex topics into concise visual explanations.
+She enjoys logic puzzles and keeps a notebook of useful data-visualisation examples.

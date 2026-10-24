@@ -1,23 +1,23 @@
 # Professional bio
 
-*Illustrative bio. Keep only details that are true of the person represented.*
+*Illustrative bio; use only verified details and obtain permission before sharing personal information.*
 
 ## Professional identity
 
-Marcus Chen is a customer-support professional who enjoys solving problems with clarity and care.
+Samira Khan is a community outreach assistant focused on helping residents find relevant local information and services.
 
 ## Expertise and audience
 
-He specialises in case triage, customer communication, knowledge-base improvement, and collaboration with technical teams.
+She supports community organisations with event coordination, accessible information materials, volunteer communication, and signposting to appropriate staff.
 
 ## Credibility and impact
 
-When recurring setup questions appeared in support cases, Marcus grouped the symptoms and shared the common point of confusion with the documentation owner.
+While helping organise a neighbourhood information event, Samira noticed that visitors were unsure which sessions covered housing advice and employment support. She worked with the coordinator to create a simple topic-and-time guide that made the schedule easier to navigate.
 
 ## Current focus and value
 
-He is interested in support systems that make answers easier to find and help teams learn from repeated issues.
+Samira is interested in inclusive outreach that listens to residents’ needs, explains options clearly, and protects personal information. She values practical feedback that helps organisers improve future events.
 
 ## Optional human detail
 
-In his spare time, he experiments with home cooking and keeps notes on recipes that need improvement.
+In her spare time, she enjoys cooking with friends and exploring local markets.

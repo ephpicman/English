@@ -1,23 +1,23 @@
 # Professional bio
 
-*Illustrative bio. Keep only details that are true of the person represented.*
+*Illustrative bio; retain only details that are accurate for the person represented.*
 
 ## Professional identity
 
-Jordan Lee is a project coordinator focused on making cross-team work easier to plan and track.
+Jordan Lee is an operations coordinator who helps teams organise projects, clarify responsibilities, and maintain reliable records.
 
 ## Expertise and audience
 
-Jordan supports project teams with clear documentation, practical workflows, and stakeholder updates for internal operations.
+Jordan works with project leads and administrative teams that need practical systems for tracking decisions, deadlines, and cross-team dependencies.
 
 ## Credibility and impact
 
-In recent coordination work, Jordan standardised a task tracker and clarified ownership at handover, helping colleagues see open actions and dependencies.
+In a recent coordination role, Jordan standardised a task tracker and added clear owners and review dates. The change made overdue actions easier to identify and reduced confusion during handovers.
 
 ## Current focus and value
 
-Jordan is currently interested in lightweight process improvement and documentation that helps teams make decisions without adding unnecessary administration.
+Jordan focuses on lightweight process improvements that help people make decisions without adding unnecessary administration. Their approach combines clear documentation with regular feedback from the people who use it.
 
 ## Optional human detail
 
-Outside work, Jordan enjoys mapping walking routes and visiting local museums.
+Outside work, Jordan enjoys exploring walking routes and visiting local museums.
