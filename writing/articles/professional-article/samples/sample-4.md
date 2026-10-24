@@ -34,6 +34,8 @@ Audit a small set of high-use articles first. Confirm that each matches the curr
 
 A knowledge base cannot replace specialist judgment for unusual or high-risk cases. Instructions should clearly state when to stop and escalate, especially where account security, payments, or personal information are involved. Public articles must not expose internal procedures that could create security risks.
 
+A knowledge base also needs a retirement process. When a feature is removed or a policy changes, the owner should decide whether the article needs revision, redirection, or removal. Leaving an obsolete article visible can be more harmful than having no article because users may follow steps that no longer work. Search analytics can help locate old pages that still receive traffic, but the decision should be made by the content owner with technical or policy confirmation. A review date is useful only when someone is responsible for acting on the result.
+
 ## Conclusion
 
 A reliable knowledge base combines accurate content with discoverability and clear ownership. The goal is not to publish the largest number of articles, but to help users reach a safe, correct next step.

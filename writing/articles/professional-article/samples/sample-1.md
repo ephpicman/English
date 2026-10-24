@@ -34,6 +34,8 @@ Agree on the audience and the decisions the report must support before choosing 
 
 A concise report can hide nuance if the project is highly uncertain or the measures are poorly chosen. Qualitative explanation may be needed alongside indicators. Teams should not invent precision to make a report look rigorous, and they should escalate material issues rather than soften them to preserve a favourable status label.
 
+A useful reporting review should also ask how the audience will use the information. A sponsor deciding whether to release funding may need a concise decision and the main conditions, while a workstream owner may need detailed actions. One report can support both readers if it presents the decision summary first and links to maintained detail. This avoids creating separate documents that drift apart. Before changing the format, ask a reader outside the reporting team to locate the main risk and explain what action is required. That simple test can reveal whether the report is genuinely usable.
+
 ## Conclusion
 
 A strong status report is a decision aid, not a catalogue of activity. Consistent definitions, visible uncertainty, and clear ownership make it easier for leaders to focus attention where it can change the outcome.

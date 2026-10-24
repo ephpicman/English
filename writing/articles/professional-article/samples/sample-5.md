@@ -34,6 +34,8 @@ Use a reporting table that names each indicator, unit, source, time period, meth
 
 Data collection should be proportionate to the project and respect privacy. Small teams may not have resources for detailed lifecycle analysis, so they should be transparent about the limits of simpler measures rather than imply a level of certainty they cannot support.
 
+Before publishing a sustainability result, ask what a reader might reasonably infer from the headline. A statement that a project “reduced waste” may suggest a measured change against a baseline, while the evidence may only show that materials were collected at one event. The wording should match the method. A short methods note can explain the boundary, data source, and major limitation without overwhelming the main report. This discipline protects credibility and makes it easier to compare projects over time. It also helps teams learn from modest results instead of feeling pressure to present every initiative as a success.
+
 ## Conclusion
 
 Credible sustainability reporting depends on clear definitions and honest treatment of uncertainty. A modest, well-explained result is more useful for decision-making than a dramatic claim whose method cannot be examined.

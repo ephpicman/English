@@ -34,6 +34,8 @@ Create a repeatable pre-analysis checklist: confirm the question, define the row
 
 Quality checks cannot establish that every source record is true. Some issues require domain knowledge or follow-up with the people who created the data. Privacy rules may also restrict how records can be shared for validation. Teams should balance traceability with appropriate access controls.
 
+Data-quality rules should be agreed with the people who understand the meaning of the fields. An analyst may identify a value that looks unusual but cannot know whether it reflects a legitimate exception. A review queue for unresolved records can preserve that distinction: confirmed errors are corrected through an approved process, while uncertain values remain flagged until a responsible owner can verify them. The team should also keep a record of rule changes, since a new validation rule can make this month’s data look different from earlier periods even when the underlying activity has not changed.
+
 ## Conclusion
 
 Reliable analysis begins with clear definitions and transparent decisions about data. A disciplined quality check does not guarantee a correct conclusion, but it makes errors easier to detect and the reasoning easier to trust.

@@ -34,6 +34,8 @@ Build accessibility checks into the document workflow. Use styles from the start
 
 No single checklist guarantees accessibility for every user or context. Complex documents may need specialist review and testing with people who use assistive technologies. Teams should also avoid collecting personal information about disability unnecessarily when asking for feedback.
 
+Testing with users should be part of the document workflow, not a one-time sign-off. A document may be accessible in one application and become less usable after conversion, compression, or publication to a different format. The team should define who checks the source file, who checks the final export, and how reported barriers are prioritised. Where a complex document is essential to a public service, specialist review may be necessary. The effort should be proportionate to the document’s importance and audience, but it should not be skipped merely because the document passes an automated score.
+
 ## Conclusion
 
 Accessible documents are built through structure, language, and testing rather than appearance alone. Making these checks part of normal production improves usability and reduces the cost of fixing barriers later.
