@@ -1,31 +1,39 @@
-# Universities should teach practical digital skills
+# Why public libraries still matter in a digital age
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative opinion article. Verify any local or time-sensitive claims before publication.*
 
 ## Headline
 
-**Universities should teach practical digital skills**
+**Why public libraries still matter in a digital age**
 
 ## Opening and issue framing
 
-Universities should teach practical digital skills raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A search engine can return thousands of results in seconds, yet finding a trustworthy answer is not always simple. Public libraries remain valuable because they offer more than shelves of books: they provide guided access to information, quiet study space, and help for people who cannot rely on a stable home connection.
 
 ## Clear position and reasoning map
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Local governments should treat libraries as essential civic infrastructure and modernise them rather than measure their value only by book loans. The case rests on practical benefits, fair implementation, and honest attention to trade-offs.
 
 ## Reason 1 with support
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+First, libraries help people navigate information. Librarians can guide visitors toward credible sources, databases, and research methods, while library programmes help children practise reading and adults develop digital skills. These services are particularly useful when a person needs to compare sources rather than accept the first result online.
 
 ## Reason 2 with support
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Second, a library is a shared place that does not require a purchase. Students can study, jobseekers can use computers, and residents can attend language or community sessions. Such access does not solve poverty or the digital divide on its own, but it gives people a practical resource they can use without paying for a seat or a drink.
 
 ## Counterargument and response
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Critics may argue that online collections make physical branches expensive and outdated. Digital services are important, but they do not replace quiet public space, accessible devices, personal guidance, or the social value of a shared institution. The sensible response is to review local needs and combine in-person services with digital collections, not assume that one format serves everyone.
 
 ## Conclusion and implication
 
-Overall, universities should teach practical digital skills is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Libraries should evolve with their communities: maintain useful print and digital collections, teach information skills, and design services around local needs. Their success should be judged by the access and learning they enable, not by a single measure such as visitor counts.
+
+## Language and quality review
+
+This draft states a clear position, supports it with distinct reasons, and responds to a plausible objection. Before publication, add relevant local evidence or authoritative sources where factual claims require support, and check that the headline accurately reflects the argument.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this model demonstrates a direct position, developed reasons, a counterargument, and a conclusion. It is a genre example, not a score prediction; adapt the length and argument to the exact task prompt.

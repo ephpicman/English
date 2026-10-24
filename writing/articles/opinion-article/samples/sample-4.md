@@ -1,31 +1,39 @@
-# Libraries remain essential public spaces
+# Cities should make walking safer before adding more roads
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative opinion article. Verify any local or time-sensitive claims before publication.*
 
 ## Headline
 
-**Libraries remain essential public spaces**
+**Cities should make walking safer before adding more roads**
 
 ## Opening and issue framing
 
-Libraries remain essential public spaces raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+When traffic congestion grows, widening roads can seem like the most direct solution. But street design also determines whether people can safely walk to school, reach a shop, or use public transport without crossing dangerous junctions.
 
 ## Clear position and reasoning map
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Urban transport plans should prioritise safe walking routes and reliable public transport alongside necessary road maintenance. The case rests on practical benefits, fair implementation, and honest attention to trade-offs.
 
 ## Reason 1 with support
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Continuous pavements, safe crossings, lower speeds near schools, and accessible kerbs make short journeys possible for children, older residents, and people with mobility needs. These are not decorative additions; they connect homes with bus stops, services, and local businesses. A route is only useful when people can complete it safely from beginning to end.
 
 ## Reason 2 with support
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Walking and public transport can also reduce the number of short car trips when alternatives are convenient. This will not remove the need for vehicles, deliveries, or emergency access, and outcomes depend on local geography. However, planning for several modes gives residents more options than a street designed primarily to move cars quickly.
 
 ## Counterargument and response
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Some drivers argue that road changes make journeys slower or remove parking near shops. Those effects should be measured rather than dismissed. Cities can consult businesses, track loading access, and test designs temporarily before making permanent changes. The goal is to balance access, safety, and movement—not to punish a particular group of travellers.
 
 ## Conclusion and implication
 
-Overall, libraries remain essential public spaces is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Safer walking infrastructure is a practical investment in everyday mobility. Cities should assess routes from the pedestrian’s perspective, publish safety and access measures, and combine street improvements with dependable transport options.
+
+## Language and quality review
+
+This draft states a clear position, supports it with distinct reasons, and responds to a plausible objection. Before publication, add relevant local evidence or authoritative sources where factual claims require support, and check that the headline accurately reflects the argument.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this model demonstrates a direct position, developed reasons, a counterargument, and a conclusion. It is a genre example, not a score prediction; adapt the length and argument to the exact task prompt.

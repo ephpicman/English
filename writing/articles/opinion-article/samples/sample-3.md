@@ -1,31 +1,39 @@
-# Flexible work needs clear boundaries
+# A four-day workweek deserves careful trials
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative opinion article. Verify any local or time-sensitive claims before publication.*
 
 ## Headline
 
-**Flexible work needs clear boundaries**
+**A four-day workweek deserves careful trials**
 
 ## Opening and issue framing
 
-Flexible work needs clear boundaries raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The idea of working four days for the same pay attracts attention because it promises more time outside work without sacrificing output. Yet the result depends on how a workplace is organised, not simply on deleting Friday from the calendar.
 
 ## Clear position and reasoning map
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Employers should test shorter workweeks where the work can be redesigned and measured, rather than adopting or rejecting the model as a universal rule. The case rests on practical benefits, fair implementation, and honest attention to trade-offs.
 
 ## Reason 1 with support
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A well-planned trial can expose low-value meetings, repeated approvals, and unclear priorities. Teams may protect focused work time and agree on response expectations, allowing them to complete essential tasks with fewer interruptions. Measures should include quality, customer response, workload, and employee wellbeing—not just hours logged.
 
 ## Reason 2 with support
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A trial also gives managers a chance to discover where the model does not fit. A hospital ward, retail counter, or customer-support team still needs coverage at particular times. In those settings, a shorter week may require additional staffing, staggered schedules, or a different policy rather than the same arrangement used by an office team.
 
 ## Counterargument and response
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Opponents reasonably note that compressed schedules can intensify work and make employees feel obliged to be available after hours. This risk is real if targets remain unchanged while the time available shrinks. The answer is to set boundaries, monitor workload, and stop or redesign the trial when service quality or staff health worsens.
 
 ## Conclusion and implication
 
-Overall, flexible work needs clear boundaries is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A four-day workweek is best treated as an organisational experiment with clear safeguards. Employers should publish the measures they will use, consult staff, and report both benefits and trade-offs before deciding whether the model should continue.
+
+## Language and quality review
+
+This draft states a clear position, supports it with distinct reasons, and responds to a plausible objection. Before publication, add relevant local evidence or authoritative sources where factual claims require support, and check that the headline accurately reflects the argument.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this model demonstrates a direct position, developed reasons, a counterargument, and a conclusion. It is a genre example, not a score prediction; adapt the length and argument to the exact task prompt.

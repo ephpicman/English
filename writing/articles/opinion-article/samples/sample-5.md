@@ -1,31 +1,39 @@
-# Schools should teach media literacy
+# Employers should invest in continuous learning
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative opinion article. Verify any local or time-sensitive claims before publication.*
 
 ## Headline
 
-**Schools should teach media literacy**
+**Employers should invest in continuous learning**
 
 ## Opening and issue framing
 
-Schools should teach media literacy raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Many jobs change as software, regulations, and customer expectations evolve. Hiring new staff can address some skill gaps, but it does not replace the value of helping current employees learn how to do changing work well.
 
 ## Clear position and reasoning map
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Employers should provide structured, job-relevant learning time and evaluate whether it improves capability, rather than treating training as an optional benefit. The case rests on practical benefits, fair implementation, and honest attention to trade-offs.
 
 ## Reason 1 with support
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Short learning sessions linked to real tasks can help employees adopt a new system, understand a revised process, or improve communication with customers. Practice and feedback matter more than course completion alone. Managers can support transfer by giving employees an opportunity to use the skill and discuss what worked.
 
 ## Reason 2 with support
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+A visible learning pathway can also make internal progression clearer. Employees who understand the skills required for the next role can prepare for opportunities without relying entirely on external recruitment. The organisation benefits when knowledge is shared across teams and staff can adapt as responsibilities change.
 
 ## Counterargument and response
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Training costs money and takes time away from immediate work. Poorly chosen courses can become box-ticking exercises, so investment should start with a specific performance need and include evaluation. Some skills also require formal qualifications or supervised practice; a short online module is not a substitute for those requirements.
 
 ## Conclusion and implication
 
-Overall, schools should teach media literacy is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Continuous learning works when it is connected to work, supported by managers, and assessed through practical application. Employers should identify priority skills with staff, protect time for learning, and review whether the training improves performance before expanding the programme.
+
+## Language and quality review
+
+This draft states a clear position, supports it with distinct reasons, and responds to a plausible objection. Before publication, add relevant local evidence or authoritative sources where factual claims require support, and check that the headline accurately reflects the argument.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this model demonstrates a direct position, developed reasons, a counterargument, and a conclusion. It is a genre example, not a score prediction; adapt the length and argument to the exact task prompt.

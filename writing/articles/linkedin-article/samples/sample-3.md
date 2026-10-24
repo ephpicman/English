@@ -1,31 +1,39 @@
-# Why documentation is a team habit
+# Write documentation for the moment of need
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative LinkedIn article. Adapt the advice to your own professional context and experience.*
 
 ## Title
 
-**Why documentation is a team habit**
+**Write documentation for the moment of need**
 
 ## Opening hook and relevance
 
-Why documentation is a team habit raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+People rarely open documentation because they have spare time. They open it because they are trying to complete a task or recover from a problem.
 
 ## Context and central argument
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+That moment should shape how a guide is organised. A reader who is configuring a service needs prerequisites and a working path; someone responding to an error needs symptoms, likely causes, and safe diagnostic steps.
 
 ## Key insight 1 with evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Use headings that match the reader’s question, and put prerequisites before commands that depend on them. Include expected output where it helps a reader decide whether a step worked. If a command can change data or affect production, state the risk and recovery option before asking the reader to run it.
 
 ## Key insight 2 or counterpoint
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Documentation also needs ownership. Version-specific instructions can become dangerous when a product changes, so identify the supported version and make it easy to report an outdated page. A short, accurate guide is more useful than a comprehensive page whose examples no longer run.
 
 ## Practical implications
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Choose one frequently used guide and ask a colleague unfamiliar with the task to follow it. Watch where they hesitate, then revise those points instead of assuming the instructions are self-explanatory.
 
 ## Conclusion and conversation prompt
 
-Overall, why documentation is a team habit is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Which documentation detail saves you the most time when you are troubleshooting?
+
+## Language and quality review
+
+The article uses a specific workplace situation, practical steps, and a question that invites relevant discussion. Before posting, remove any claim that cannot be supported by personal experience or a reliable source, and ensure the advice fits the audience you intend to reach.
+
+## IELTS-oriented practice note
+
+For language practice, notice how the text moves from a concrete hook to explanation and actionable advice. In a real LinkedIn article, reader value and professional credibility take priority over displaying complicated vocabulary.

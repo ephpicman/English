@@ -1,31 +1,39 @@
-# Turning feedback into better work
+# Make meeting decisions visible
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative LinkedIn article. Adapt the advice to your own professional context and experience.*
 
 ## Title
 
-**Turning feedback into better work**
+**Make meeting decisions visible**
 
 ## Opening hook and relevance
 
-Turning feedback into better work raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+If a meeting ends with agreement but nobody can say who owns the next step, the decision is not ready to leave the room.
 
 ## Context and central argument
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Notes should distinguish discussion from decisions. A transcript-like record may capture every comment while hiding the one choice that changes the plan. Clear minutes help absent colleagues understand what was decided and what remains open.
 
 ## Key insight 1 with evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+For each decision, record the outcome, the accountable owner, and any condition or deadline. If the group did not reach agreement, write that down too and name the next step needed to resolve it. This avoids turning silence or a tentative suggestion into an assumed commitment.
 
 ## Key insight 2 or counterpoint
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Keep actions specific and review them at the next meeting. “Investigate onboarding” is difficult to close; “compare the current onboarding steps with the approved checklist and report gaps” gives the owner a defined task. Link supporting documents rather than copying large blocks of background into the minutes.
 
 ## Practical implications
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+At the end of your next meeting, read back the decisions and action owners before everyone leaves. Correct misunderstandings while the participants are still present.
 
 ## Conclusion and conversation prompt
 
-Overall, turning feedback into better work is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+What is your best practice for making meeting outcomes easy to follow?
+
+## Language and quality review
+
+The article uses a specific workplace situation, practical steps, and a question that invites relevant discussion. Before posting, remove any claim that cannot be supported by personal experience or a reliable source, and ensure the advice fits the audience you intend to reach.
+
+## IELTS-oriented practice note
+
+For language practice, notice how the text moves from a concrete hook to explanation and actionable advice. In a real LinkedIn article, reader value and professional credibility take priority over displaying complicated vocabulary.

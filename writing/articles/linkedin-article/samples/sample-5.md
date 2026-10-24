@@ -1,31 +1,39 @@
-# Small experiments that improve service
+# Give feedback people can act on
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative LinkedIn article. Adapt the advice to your own professional context and experience.*
 
 ## Title
 
-**Small experiments that improve service**
+**Give feedback people can act on**
 
 ## Opening hook and relevance
 
-Small experiments that improve service raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+“Be more strategic” sounds important, but it does not tell someone what to do differently tomorrow.
 
 ## Context and central argument
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Useful feedback connects an observable behaviour to its effect and offers a practical next step. It focuses on work that can change rather than making broad claims about a person’s character.
 
 ## Key insight 1 with evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+For example, instead of saying “your updates are confusing,” identify the missing information: “In the last status note, the risk had no owner or review date. Add both fields so the team can see who is handling it and when it will be revisited.” The second version gives the recipient something testable.
 
 ## Key insight 2 or counterpoint
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Feedback also works better as a conversation. Ask what context you may be missing, agree on the next action, and follow up after there has been a chance to try it. Specific praise matters too: explain which action helped and why, so the person can repeat it.
 
 ## Practical implications
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Before giving feedback, write down the behaviour you observed, its impact, and one achievable next step. Remove assumptions about intent unless you have discussed them directly.
 
 ## Conclusion and conversation prompt
 
-Overall, small experiments that improve service is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+What kind of feedback has helped you make a meaningful improvement?
+
+## Language and quality review
+
+The article uses a specific workplace situation, practical steps, and a question that invites relevant discussion. Before posting, remove any claim that cannot be supported by personal experience or a reliable source, and ensure the advice fits the audience you intend to reach.
+
+## IELTS-oriented practice note
+
+For language practice, notice how the text moves from a concrete hook to explanation and actionable advice. In a real LinkedIn article, reader value and professional credibility take priority over displaying complicated vocabulary.

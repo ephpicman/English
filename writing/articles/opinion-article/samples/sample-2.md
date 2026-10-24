@@ -1,31 +1,39 @@
-# Public transport deserves reliable investment
+# Schools should teach practical media literacy
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative opinion article. Verify any local or time-sensitive claims before publication.*
 
 ## Headline
 
-**Public transport deserves reliable investment**
+**Schools should teach practical media literacy**
 
 ## Opening and issue framing
 
-Public transport deserves reliable investment raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Students encounter headlines, short videos, sponsored posts, and AI-generated answers every day. The challenge is no longer simply finding information; it is deciding what deserves trust and what requires further checking.
 
 ## Clear position and reasoning map
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Media literacy should be taught explicitly across the school curriculum, with age-appropriate practice rather than a one-off assembly. The case rests on practical benefits, fair implementation, and honest attention to trade-offs.
 
 ## Reason 1 with support
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Learners can practise checking who produced a message, when it was published, what evidence it offers, and whether independent sources confirm its claims. Comparing two reports about the same event teaches students to notice differences in framing and missing context. These habits support learning in science, history, and everyday civic life.
 
 ## Reason 2 with support
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The lessons should also cover persuasive design. A post may be optimised for attention rather than accuracy, while a sponsored message may resemble ordinary advice. Students can identify emotional language, distinguish fact from opinion, and discuss how algorithms may repeatedly show material similar to what they already engage with.
 
 ## Counterargument and response
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Some teachers worry that the curriculum is already crowded. Media literacy need not become a separate full subject in every school: a science lesson can evaluate a health claim, while a history lesson can compare primary sources. Teachers need practical resources and training, however, or the responsibility risks becoming an extra task without support.
 
 ## Conclusion and implication
 
-Overall, public transport deserves reliable investment is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Teaching media literacy gives students a repeatable method for evaluating claims without telling them what to think. Schools should build it into existing subjects, model uncertainty honestly, and assess the quality of students’ reasoning rather than whether they reach a predetermined opinion.
+
+## Language and quality review
+
+This draft states a clear position, supports it with distinct reasons, and responds to a plausible objection. Before publication, add relevant local evidence or authoritative sources where factual claims require support, and check that the headline accurately reflects the argument.
+
+## IELTS-oriented practice note
+
+For IELTS practice, this model demonstrates a direct position, developed reasons, a counterargument, and a conclusion. It is a genre example, not a score prediction; adapt the length and argument to the exact task prompt.

@@ -1,31 +1,39 @@
-# What I learned from a project handover
+# Make project handovers easier to use
 
-*Illustrative practice example; verify all real-world details before use.*
+*Illustrative LinkedIn article. Adapt the advice to your own professional context and experience.*
 
 ## Title
 
-**What I learned from a project handover**
+**Make project handovers easier to use**
 
 ## Opening hook and relevance
 
-What I learned from a project handover raises a practical question for its intended audience: what problem needs to be solved, and what would a useful result look like? This example defines a clear scope rather than making a universal claim. The discussion considers the people affected, the constraints involved, and the evidence needed to judge success. It separates a promising idea from an outcome that would still need to be verified.
+A handover document is not successful because it is long. It is successful when the next person can make the next decision without having to reconstruct the whole project.
 
 ## Context and central argument
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Teams often document history but leave the immediate operational questions unanswered: what is still open, who owns it, what is blocked, and what happens next. A concise handover should make those points visible before it explains background.
 
 ## Key insight 1 with evidence
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+I use a simple order: current status, decisions already made, unresolved risks, named owners, deadlines, and links to the source of truth. Each open item should describe the next action rather than merely say “in progress.” If an assumption has not been verified, label it as an assumption instead of presenting it as a fact.
 
 ## Key insight 2 or counterpoint
 
-One important consideration is whether the proposed approach addresses the cause of the problem rather than its visible symptoms. Clear responsibilities and a shared definition of success help people act consistently. A small, bounded trial can reveal where confusion or delay occurs. Ask the people doing the work what changed, record the evidence, and use the findings to refine the approach instead of assuming that the first version is effective. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+The handover should also be tested with the person receiving it. Ask them to locate the latest decision and identify the next owner. If they cannot do that quickly, the document may need a clearer structure or better links. This small review often reveals missing context that the author no longer notices.
 
 ## Practical implications
 
-Begin by defining the intended outcome, assigning an owner, and agreeing how progress will be checked. Give participants concise instructions and a clear route for raising concerns before the change becomes routine. A review after the first cycle can identify unnecessary steps, access problems, and training needs. Continue only when the evidence shows that the process is useful and its costs are manageable. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+Before your next handover, remove repeated history, make unresolved decisions explicit, and confirm that links and owners are current. Keep the detailed record where it belongs; use the handover to guide the reader through it.
 
 ## Conclusion and conversation prompt
 
-Overall, what i learned from a project handover is most useful when the goal is explicit and the effects are reviewed. The next step is to agree on a manageable action and assess it using evidence rather than assumption. Preserve what works, address the weaknesses that emerge, and change course when results show that the approach is not meeting its purpose. The decision should be proportionate to evidence, accessible to affected people, and reviewed at an agreed point.
+What is one detail you always wish had been included when a project was handed to you?
+
+## Language and quality review
+
+The article uses a specific workplace situation, practical steps, and a question that invites relevant discussion. Before posting, remove any claim that cannot be supported by personal experience or a reliable source, and ensure the advice fits the audience you intend to reach.
+
+## IELTS-oriented practice note
+
+For language practice, notice how the text moves from a concrete hook to explanation and actionable advice. In a real LinkedIn article, reader value and professional credibility take priority over displaying complicated vocabulary.
