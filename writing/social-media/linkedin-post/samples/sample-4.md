@@ -1,23 +1,23 @@
-# Learning at work needs room for practice, not only access to courses.
+# Accessibility is easier when it is part of the first draft
 
-*Illustrative professional post; adapt it to a real experience and do not imply personal results you cannot verify.*
+*Illustrative professional post; check applicable accessibility requirements for your documents.*
 
 ## Hook
 
-Learning at work needs room for practice, not only access to courses.
+Accessibility is less expensive to maintain when it is built into the document from the start.
 
 ## Main point
 
-A course can introduce a concept, but people need time to apply it to their actual tasks and ask questions when the real workflow differs from the example.
+Using real heading styles, descriptive link text, and meaningful table structure is more reliable than trying to repair the file just before publication.
 
 ## Support or experience
 
-A useful plan links one learning objective to a small task, a feedback point, and a chance to revise the work. Completion alone does not show whether the skill transferred.
+A document can look visually clear while still being difficult to navigate with assistive technology. Formatting a line to look like a heading does not necessarily give it the right structure. Likewise, a link labelled “here” offers little context when read out of the surrounding sentence. Built-in styles and descriptive labels help readers navigate and make later revisions easier.
 
 ## Practical takeaway
 
-When planning training, decide in advance what someone should be able to do afterwards and how they can practise it safely.
+Use semantic styles while drafting, run the available accessibility checker, and then review the document manually. Automated tools can find some issues but cannot judge every context or whether alternative text is useful.
 
 ## Question or call to action
 
-What helps new skills stick in your workplace?
+Which accessibility check has become part of your normal workflow?

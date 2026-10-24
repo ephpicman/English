@@ -1,15 +1,15 @@
 # Professional LinkedIn comment 5
 
-*Illustrative comment; post only when it genuinely responds to the original discussion.*
+*Illustrative comment; use only when it reflects the discussion.*
 
 ## Point of connection
 
-This is a helpful reminder that transparent uncertainty builds trust. A clear next update is often more useful than an unverified promise.
+The point about following through after a customer contact is especially useful.
 
 ## Added insight or question
 
-What format has worked best for distinguishing confirmed facts from open questions in status updates?
+Even when the issue is still being investigated, a realistic time for the next update gives the customer something to rely on. It also helps the team avoid losing the commitment when a case changes hands.
 
 ## Optional close
 
-Thanks for raising a practical point that teams can test in their own context.
+Clear follow-up is an important part of trust.

@@ -1,23 +1,23 @@
-# A meeting can end on time and still fail to produce a decision.
+# A useful status update includes uncertainty
 
-*Illustrative professional post; adapt it to a real experience and do not imply personal results you cannot verify.*
+*Illustrative professional post; do not share confidential project details.*
 
 ## Hook
 
-A meeting can end on time and still fail to produce a decision.
+A status update is more trustworthy when it says what is not yet known.
 
 ## Main point
 
-The key is to distinguish discussion, decisions, and actions. Notes should say what was agreed, who owns the next step, and when an unresolved question will return.
+Calling every task “on track” can hide the dependencies that actually determine whether a deadline is realistic.
 
 ## Support or experience
 
-A phrase like “we will look into this” hides the owner and deliverable. “Ravi will compare the two options and bring a recommendation on Tuesday” gives the group something it can review.
+A clear update separates completed work from forecasts and unresolved decisions. For example, “testing is scheduled for Thursday, pending access approval” tells the reader what is planned and what could change. It also gives the team a point to monitor. This is more useful than a confident status label that does not explain its assumptions.
 
 ## Practical takeaway
 
-Reserve the final two minutes to read back decisions and action owners while everyone is still present.
+When reporting progress, state the evidence, the remaining uncertainty, the owner of the next action, and when the status will be reviewed. Avoid presenting an expected date as a guarantee.
 
 ## Question or call to action
 
-How does your team keep decisions from disappearing after meetings?
+What helps your team communicate risks early?

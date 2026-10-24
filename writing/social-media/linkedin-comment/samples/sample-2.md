@@ -1,15 +1,15 @@
 # Professional LinkedIn comment 2
 
-*Illustrative comment; post only when it genuinely responds to the original discussion.*
+*Illustrative comment; tailor it to the original post.*
 
 ## Point of connection
 
-That distinction between a decision and an action is important. I’d add an owner and review date so the team can tell whether the action actually moved forward.
+Your point about measuring outcomes rather than activity is important.
 
 ## Added insight or question
 
-How do you decide when a page should be split into a task guide and a troubleshooting guide?
+I would add that the measures need to match the role. Response time may be essential in a live support team, while uninterrupted focus may matter more for analytical work. How do you agree on measures that are both fair and useful?
 
 ## Optional close
 
-Thanks for raising a practical point that teams can test in their own context.
+A helpful distinction for managers to make.

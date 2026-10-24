@@ -1,15 +1,15 @@
 # Professional LinkedIn comment 4
 
-*Illustrative comment; post only when it genuinely responds to the original discussion.*
+*Illustrative comment; adapt it to the specific accessibility discussion.*
 
 ## Point of connection
 
-I like the emphasis on reader needs. Testing a guide with someone who did not write it can uncover hidden assumptions quickly.
+I appreciate the emphasis on making accessibility part of the workflow.
 
 ## Added insight or question
 
-Do you review action items at the start of the next meeting, or track them in a shared place between meetings?
+Automated checkers are useful, but they cannot always tell whether a link label or alternative text actually helps a reader. A short manual review of the document’s structure can catch issues that a score alone misses.
 
 ## Optional close
 
-Thanks for raising a practical point that teams can test in their own context.
+A useful reminder to test the finished document, not just run the checker.

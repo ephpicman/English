@@ -1,23 +1,23 @@
-# Clear communication includes saying what is not yet known.
+# Good customer support includes a clear next update
 
-*Illustrative professional post; adapt it to a real experience and do not imply personal results you cannot verify.*
+*Illustrative professional post; adapt it to the service standards you actually follow.*
 
 ## Hook
 
-Clear communication includes saying what is not yet known.
+Sometimes the most helpful answer is not an instant solution, but a reliable next update.
 
 ## Main point
 
-A confident update can sound reassuring while hiding an unresolved dependency. Readers need to know what is confirmed, what is assumed, and when the next update will arrive.
+When an issue needs investigation, customers should know what is confirmed, what remains open, and when they will hear from the team again.
 
 ## Support or experience
 
-Separating confirmed facts from open questions helps teams make proportionate decisions. It also prevents a tentative estimate from being repeated as a promise.
+A response such as “we are looking into it” leaves the customer unable to plan. A better update explains which team is checking the issue, what information is still needed, and when the next message will arrive. The date should be realistic and within the support team’s control. If the investigation takes longer, an update is still useful even when the answer has not changed.
 
 ## Practical takeaway
 
-In your next status update, label the risk, owner, next action, and review date—and avoid inventing certainty to make the update sound polished.
+Record the promised follow-up in the case system and make sure another colleague can see it. Never promise a resolution date that depends on an unconfirmed external action.
 
 ## Question or call to action
 
-How do you communicate uncertainty without creating confusion?
+How does your team make follow-up commitments visible?
