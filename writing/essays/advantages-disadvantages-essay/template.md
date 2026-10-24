@@ -1,55 +1,39 @@
 # Advantages Disadvantages Essay Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- TEMPLATE RULES: This is a reusable scaffold, not a completed essay. Replace every [PLACEHOLDER: ...]. Do not include sample prose. Resolve [TO CONFIRM: ...] notes before submission. IELTS Task 2 practice must answer the exact prompt, develop each main idea, maintain a clear position when required, and use natural cohesion. Quality dimensions are Task Response, Coherence and Cohesion, Lexical Resource, and Grammatical Range and Accuracy. -->
 
-<!-- WORD COUNT STANDARD: Target total = 250–320 words (IELTS Task 2 practice). Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+<!-- WORD COUNT: Target 250–320 words for IELTS Task 2 practice; the minimum is 250 words. Section ranges are guidance, not a quota for filler. Count essay prose, not comments. -->
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+<!-- BRIEF: Exact prompt = [PLACEHOLDER: paste task]; prompt type = [PLACEHOLDER: identify]; required position = [PLACEHOLDER: state if applicable]. -->
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Advantages Disadvantages Essay. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Introduction and topic paraphrase. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 35–50. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Introduction and topic paraphrase
+<!-- SECTION GUIDE: Introduction and paraphrase. Paraphrase the topic accurately and frame both sides. Target length: 35–50 words. -->
+## Introduction and paraphrase
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Thesis / indicate whether one side outweighs the other if asked. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 20–35. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Thesis / indicate whether one side outweighs the other if asked
+<!-- SECTION GUIDE: Overall judgement if the prompt asks which side outweighs the other. State a clear evaluation only if the question asks for it. Target length: 20–35 words. -->
+## Overall judgement if the prompt asks which side outweighs the other
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Advantages with explanation and support. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 70–95. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Advantages with explanation and support
+<!-- SECTION GUIDE: Advantages. Develop benefits with explanation and relevant support. Target length: 65–85 words. -->
+## Advantages
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Disadvantages with explanation and support. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 70–95. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Disadvantages with explanation and support
+<!-- SECTION GUIDE: Disadvantages. Develop drawbacks with explanation and relevant support. Target length: 65–85 words. -->
+## Disadvantages
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Evaluation if the prompt asks which side is stronger. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 25–45. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Evaluation if the prompt asks which side is stronger
+<!-- SECTION GUIDE: Evaluation if required. Compare the importance of both sides; avoid repeating the body. Target length: 25–45 words. -->
+## Evaluation if required
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Conclusion. Purpose: Answer every part of the prompt with a clear line of reasoning and developed support. Length: 25–40. Include only relevant information, be specific and verifiable, and avoid repetition. IELTS Task 2 practice: answer the exact question, develop each main idea, keep your position consistent when required, and use cohesive devices naturally. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+<!-- SECTION GUIDE: Conclusion. Answer the prompt directly and add no new major idea. Target length: 25–40 words. -->
 ## Conclusion
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+<!-- FINAL CHECK: Does the response answer every part of the prompt? Is the position clear and consistent? Is each idea developed? Are examples relevant? Check cohesion, vocabulary, grammar, and word count. Remove all placeholders before submission. -->
