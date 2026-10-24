@@ -1,50 +1,70 @@
 # Resume Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- PURPOSE: Reusable, genre-specific scaffold. Replace placeholders and remove drafting notes before sharing. -->
+<!-- BRIEF: Audience = [PLACEHOLDER: identify]; purpose = [PLACEHOLDER: state]; required details = [PLACEHOLDER: list]; source of truth = [PLACEHOLDER: verify]. -->
+<!-- LENGTH: Follow the organization's format and the document's purpose. Do not add filler to meet a word target. -->
+<!-- ACCURACY: Never invent names, dates, decisions, results, qualifications, commitments, or metrics. Resolve [TO CONFIRM: ...] notes before sharing. -->
 
-<!-- WORD COUNT STANDARD: Target total = 400–800 words excluding contact details. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+## Plan first
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+1. Identify the reader and the decision, action, or information they need.
+2. Put the most important message first; use headings, bullets, or tables where they improve scanning.
+3. Keep each paragraph or bullet focused on one point and use concrete nouns and active verbs.
+4. Make dates, responsibilities, dependencies, and next steps explicit when relevant.
+5. Use a consistent, professional register and avoid jargon the audience may not understand.
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Resume. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Professional summary. Purpose: Connect verifiable evidence to the target role, opportunity, or professional identity. Length: 40–70. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+## Document structure
+
+<!-- SECTION GUIDE: Include professional contact details and a target headline if useful; omit a decorative title such as 'Resume' if local conventions favor that. -->
+## Contact information and target role
+
+[PLACEHOLDER: complete this section according to the guide]
+
+<!-- SECTION GUIDE: In 2–4 concise lines, connect relevant experience and strengths to the target role using evidence, not generic self-praise. -->
 ## Professional summary
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Skills. Purpose: Connect verifiable evidence to the target role, opportunity, or professional identity. Length: 8–16 bullet items; 1–4 words each. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+<!-- SECTION GUIDE: List role-relevant skills using the job description's terminology when accurate; be prepared to substantiate each skill. -->
 ## Skills
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Experience: achievements and responsibilities. Purpose: Connect verifiable evidence to the target role, opportunity, or professional identity. Length: 3–6 bullets per relevant role; 12–25 words per bullet. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Experience: achievements and responsibilities
+<!-- SECTION GUIDE: Use reverse chronological order. For each role, give title, employer, location if relevant, and dates; write achievement bullets with action, scope, and outcome. -->
+## Professional experience
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Education and qualifications. Purpose: Connect verifiable evidence to the target role, opportunity, or professional identity. Length: 1–3 lines per item. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
+<!-- SECTION GUIDE: List relevant degrees, institutions, dates, and verified qualifications; include grades only when useful or required. -->
 ## Education and qualifications
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION INSTRUCTIONS: Projects / certifications if relevant. Purpose: Connect verifiable evidence to the target role, opportunity, or professional identity. Length: 2–4 bullets per item; 10–20 words each. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Projects / certifications if relevant
+<!-- SECTION GUIDE: Include only relevant, verifiable items and state your contribution or result. -->
+## Projects, certifications, or additional experience
 
-[PLACEHOLDER: write this section according to the instructions above]
+[PLACEHOLDER: complete this section according to the guide]
 
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+<!-- SECTION GUIDE: Add languages, publications, volunteering, or technical tools only when they strengthen fit; avoid sensitive personal data and irrelevant details. -->
+## Optional sections
+
+[PLACEHOLDER: complete this section according to the guide]
+
+## Final quality check
+
+- Is the main purpose or message immediately clear?
+- Are all required facts present and verified?
+- Are actions, owners, deadlines, and decisions unambiguous?
+- Is the information ordered by reader need rather than drafting order?
+- Is wording concise, neutral, inclusive, and grammatically correct?
+- Have unnecessary details, repeated points, and unsupported claims been removed?
+- Are placeholders and drafting notes removed?
+
+## Resume-specific checks
+
+- Tailor content to the target role; prioritize relevant and recent experience.
+- Use reverse chronological order unless another format is clearly more suitable.
+- Begin bullets with strong, accurate action verbs; quantify outcomes only when the figures are true and defensible.
+- Do not include a photograph, date of birth, marital status, or other personal data unless explicitly required and appropriate in the target jurisdiction.
+- Keep formatting ATS-readable: conventional headings, simple layout, no essential information only in images, headers, or footers.
+- Ensure every skill and achievement can be discussed honestly in an interview.

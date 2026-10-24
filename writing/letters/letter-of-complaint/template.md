@@ -1,55 +1,56 @@
-# Letter Of Complaint Template
+# Letter of Complaint Template
 
-<!-- TEMPLATE RULES:
-- This is a reusable scaffold, not a completed document. Replace every [PLACEHOLDER: ...] token. No sample content is included intentionally.
-- Use [TO CONFIRM: ...] for unresolved facts during drafting and resolve all such notes before publication. Never invent names, dates, credentials, metrics, quotations, sources, legal terms, or technical behaviour.
-- Match tone, register, terminology, spelling convention, and detail to the audience and purpose. Prefer precise vocabulary, natural cohesion, clear paragraph focus, and grammatical control.
-- IELTS First quality lens: where relevant, apply task fulfilment, coherence and cohesion, lexical resource, and grammatical range and accuracy. IELTS is not a universal document format; real-world genre conventions and professional standards take precedence.
-- Word ranges are constraints against underdevelopment and padding, not a reason to add filler. External limits (employer, platform, form, standards, contract) take precedence and should be documented.
--->
+<!-- PURPOSE: A reusable, genre-specific letter scaffold. Replace every placeholder before sending. -->
+<!-- BRIEF: Recipient = [PLACEHOLDER: identify]; relationship = [PLACEHOLDER: describe]; purpose = [PLACEHOLDER: state]; required points = [PLACEHOLDER: list]. -->
+<!-- IELTS GT PRACTICE: Write at least 150 words; a focused 160–190 words is often sufficient. For real letters, follow the recipient's requirements and natural conventions. -->
+<!-- ACCURACY: Do not invent events, dates, details, or promises. Resolve all [TO CONFIRM: ...] notes before sending. -->
 
-<!-- WORD COUNT STANDARD: Target total = 120–300. Section ranges below are planning limits and may not add up exactly because some sections are optional or use different units. Unless stated otherwise, count visible prose but exclude comments, metadata, code blocks, and structured tables. -->
+## Plan first
 
-<!-- METADATA: Audience = [identify readers and their knowledge level]; Purpose = [state intended outcome]; Prompt / requirements = [record exact task and constraints]; Tone / register = [specify appropriate register]; Evidence / source material = [list only real, verified sources or records]. Metadata is excluded from the main word count. -->
+1. List every point requested in the prompt and allocate each to a paragraph.
+2. Match the tone to the relationship. Informal does not mean careless; formal does not mean unnecessarily complicated.
+3. Put the main purpose early and support it with relevant details.
+4. Use a clear topic for each paragraph and natural links between ideas.
+5. Prefer precise everyday English to forced idioms or memorized expressions.
 
-<!-- TITLE INSTRUCTIONS: Use a specific, informative title or subject line suitable for Letter Of Complaint. Aim for 6–14 words unless this genre conventionally has no title or an external format dictates otherwise. -->
-[PLACEHOLDER: insert the final title or subject; remove this line if the genre does not use one]
-<!-- SECTION INSTRUCTIONS: Sender / recipient details and subject if required. Purpose: Follow conventional letter structure and a relationship-appropriate register. Length: 0–25. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Sender / recipient details and subject if required
+## Letter structure
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Identify the issue and recipient; keep the opening concise and professional. -->
+## Greeting and clear purpose
 
-<!-- SECTION INSTRUCTIONS: Greeting and purpose. Purpose: Follow conventional letter structure and a relationship-appropriate register. Length: 15–35. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Greeting and purpose
+[PLACEHOLDER: write this section following the guide]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Provide dates, references, location, and other details needed to verify the complaint. -->
+## Relevant purchase, service, or event details
 
-<!-- SECTION INSTRUCTIONS: Main context and relevant facts. Purpose: Follow conventional letter structure and a relationship-appropriate register. Length: 35–75. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Main context and relevant facts
+[PLACEHOLDER: write this section following the guide]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Describe the sequence of events accurately and distinguish observed facts from assumptions. -->
+## Factual account and evidence
 
-<!-- SECTION INSTRUCTIONS: Explanation, request, advice, or evidence. Purpose: Follow conventional letter structure and a relationship-appropriate register. Length: 35–75. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Explanation, request, advice, or evidence
+[PLACEHOLDER: write this section following the guide]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Explain the consequences and prior contacts, including their outcomes. -->
+## Impact and attempted resolution
 
-<!-- SECTION INSTRUCTIONS: Expected action / appreciation / resolution. Purpose: Follow conventional letter structure and a relationship-appropriate register. Length: 20–45. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Expected action / appreciation / resolution
+[PLACEHOLDER: write this section following the guide]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: State the outcome sought and a reasonable response deadline if appropriate. -->
+## Specific remedy requested
 
-<!-- SECTION INSTRUCTIONS: Closing and sign-off. Purpose: Follow conventional letter structure and a relationship-appropriate register. Length: 5–20. Include only relevant information, be specific and verifiable, and avoid repetition. Remove this comment only if the publishing workflow requires a clean deliverable. -->
-## Closing and sign-off
+[PLACEHOLDER: write this section following the guide]
 
-[PLACEHOLDER: write this section according to the instructions above]
+<!-- SECTION GUIDE: Remain courteous and firm; state a proportionate next step without unsupported threats. -->
+## Closing and next step
 
-<!-- FINAL QUALITY CHECK:
-1. Purpose and every part of the task are addressed.
-2. Facts, figures, attributed claims, instructions, and technical details are accurate and verifiable.
-3. Structure is logical; each paragraph or item has one clear function; transitions are natural.
-4. Tone, terminology, spelling, and formatting are consistent.
-5. Grammar and punctuation are controlled; wording is concise and avoids repetition and inflated claims.
-6. Replace all placeholders and resolve all [TO CONFIRM: ...] notes. No sample text should remain.
-7. Check total and section word counts against these ranges and any higher-priority external limit.
--->
+[PLACEHOLDER: write this section following the guide]
+
+## Final review
+
+- Every requested point is covered with relevant detail.
+- The tone is consistent and appropriate to the recipient.
+- The letter sounds natural when read aloud.
+- Vocabulary is precise; repeated words and filler have been removed.
+- Grammar, punctuation, tense, articles, and prepositions have been checked.
+- The sign-off fits the greeting and relationship.
+- The word count meets the task requirement and all placeholders are removed.
