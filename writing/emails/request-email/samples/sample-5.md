@@ -1,45 +1,48 @@
-# Request for flexible start time next Tuesday
+# Request for a short meeting about role expectations
 
-*Illustrative request email. Confirm names, costs, deadlines, and permissions before sending.*
+*Illustrative workplace email; adapt the purpose and timing to the relationship.*
 
 ## Plan before drafting
 
-The request is specific, includes relevant context, and states a realistic response date without assuming approval.
+The request explains what the meeting should achieve and offers a short, flexible time commitment.
 
 ## Email structure
 
-Use the subject and short sections below to make the action easy to identify.
+A specific subject and a brief agenda help the recipient decide whether the proposed meeting is appropriate.
 
 ## Subject line
 
-Request for flexible start time next Tuesday
+Request for a 20-minute role-expectations discussion
 
 ## Greeting and direct request
 
-Hello,
+Hello Daniel,
 
-Could I start at 10 a.m. next Tuesday and work my usual hours later in the day?
+Would you have 20 minutes this week to discuss priorities for my role over the next quarter?
 
 ## Context and rationale
 
-I have an appointment early that morning and will not be able to arrive at the usual start time.
+I have completed the onboarding tasks and would like to make sure my current priorities align with the team’s plans. A short conversation would help me understand which responsibilities should take precedence when deadlines overlap.
 
 ## Specific details and constraints
 
-I can attend the scheduled afternoon review and will complete the morning handover notes before the end of Monday. Please let me know if the team needs me to arrange coverage for any specific task.
+I am available Wednesday after 2 p.m. or Thursday before noon. I can bring a brief list of current tasks and proposed goals so we can focus on decisions rather than reviewing every project.
 
 ## Deadline and flexibility
 
-I am asking in advance so the schedule can be adjusted if approved.
+If neither time works, please suggest a convenient slot next week. There is no urgent deadline; I would simply like to agree on priorities before the next planning cycle.
 
 ## Thanks and sign-off
 
-Thank you for considering this. Kind regards, Priya
+Thank you for your time.
+
+Best regards,  
+Morgan
 
 ## Final checklist
 
-Before sending, verify the recipient, deadline, relevant attachments, and any cost or access details. Keep the request proportional and do not imply approval has already been granted.
+Keep the agenda focused and check the recipient’s availability before sending a calendar invitation.
 
 ## IELTS-oriented language practice
 
-Notice the direct request, concise explanation, and polite flexibility. In a real workplace email, clarity and accurate details matter more than elaborate wording.
+The message is direct but courteous, and it gives the recipient clear options for responding.

@@ -1,45 +1,48 @@
-# Request for access to the reporting dashboard
+# Request to adjust a project deadline
 
-*Illustrative request email. Confirm names, costs, deadlines, and permissions before sending.*
+*Illustrative workplace email; confirm the project status and proposed date before sending.*
 
 ## Plan before drafting
 
-The request is specific, includes relevant context, and states a realistic response date without assuming approval.
+The message explains the reason for the request, proposes a concrete revised deadline, and identifies how the change affects dependent work.
 
 ## Email structure
 
-Use the subject and short sections below to make the action easy to identify.
+A clear subject and an actionable alternative make it easier for the recipient to decide.
 
 ## Subject line
 
-Request for access to the reporting dashboard
+Request to move the draft-review deadline to Friday
 
 ## Greeting and direct request
 
-Hello,
+Hi Marcus,
 
-Could you grant me read-only access to the monthly reporting dashboard for the customer-support project?
+Could we move the first draft deadline from Wednesday to Friday afternoon?
 
 ## Context and rationale
 
-I am preparing the weekly summary and need to check the current category totals against the approved report.
+The data export arrived later than planned, so the analysis has only just begun. I can still complete the review, but sending a draft on Wednesday would leave too little time to check the figures and explain the main findings accurately.
 
 ## Specific details and constraints
 
-My account is `j.lee` and the project owner is Morgan Chen. Read-only access is sufficient; I do not need permission to change or export restricted records.
+I propose sending the draft by 3 p.m. Friday. This would leave Monday for your comments before the final report is due. The charts and executive summary can be prepared in parallel, and I will flag any unresolved data issues in the draft.
 
 ## Deadline and flexibility
 
-If possible, I would appreciate access by Wednesday morning. If approval from the project owner is required, please let me know and I will request it.
+Please let me know by tomorrow lunchtime whether Friday is workable. If the final report date cannot move, I can send the completed sections on Wednesday and follow with the analysis later.
 
 ## Thanks and sign-off
 
-Thank you for your help. Kind regards, Jordan
+Thanks for considering the options.
+
+Best,  
+Riley
 
 ## Final checklist
 
-Before sending, verify the recipient, deadline, relevant attachments, and any cost or access details. Keep the request proportional and do not imply approval has already been granted.
+Check the actual delivery dates and dependencies, and do not promise a deadline that relies on unconfirmed data.
 
 ## IELTS-oriented language practice
 
-Notice the direct request, concise explanation, and polite flexibility. In a real workplace email, clarity and accurate details matter more than elaborate wording.
+The email makes a direct request, gives a concise reason, and offers a practical alternative.

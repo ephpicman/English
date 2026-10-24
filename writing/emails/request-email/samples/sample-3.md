@@ -1,45 +1,48 @@
-# Request to move a project check-in
+# Request for access to the shared research folder
 
-*Illustrative request email. Confirm names, costs, deadlines, and permissions before sending.*
+*Illustrative workplace email; use the approved access-request process and avoid sharing credentials.*
 
 ## Plan before drafting
 
-The request is specific, includes relevant context, and states a realistic response date without assuming approval.
+The request identifies the resource, explains the work need, and asks for the appropriate permission rather than assuming access should be granted.
 
 ## Email structure
 
-Use the subject and short sections below to make the action easy to identify.
+Include the folder name and project so the administrator can locate the correct resource.
 
 ## Subject line
 
-Request to move a project check-in
+Access request: Community Survey project folder
 
 ## Greeting and direct request
 
-Hello,
+Hello IT Support,
 
-Would it be possible to move our Friday project check-in from 3 p.m. to either 11 a.m. Friday or 2 p.m. Monday?
+Could you grant me read access to the shared “Community Survey” project folder, or direct me to the correct approval form?
 
 ## Context and rationale
 
-A client review has been scheduled over the original slot, and I need to attend that discussion.
+I am preparing the monthly summary with the project team and need to review the approved survey documentation. My manager, Elena Ruiz, has confirmed that this access is required for the task.
 
 ## Specific details and constraints
 
-I can send the status update and risk list before the meeting, so moving the call should not delay the team’s decisions. If neither alternative suits everyone, I can ask a colleague to present my section.
+My work account is riley.chen@example.org, and the folder is listed under the Research workspace. Read access is sufficient; I do not need permission to edit or delete files.
 
 ## Deadline and flexibility
 
-Please let me know which option works by Thursday noon so I can update the calendar invitation.
+If possible, I would appreciate access by Thursday so I can complete the summary on schedule. If manager approval must be recorded in the ticketing system first, please let me know what information is needed.
 
 ## Thanks and sign-off
 
-Thanks for considering the change. Best, Amira
+Thank you for your help.
+
+Kind regards,  
+Riley Chen
 
 ## Final checklist
 
-Before sending, verify the recipient, deadline, relevant attachments, and any cost or access details. Keep the request proportional and do not imply approval has already been granted.
+Confirm the account identifier and folder path, and use only approved channels for access requests.
 
 ## IELTS-oriented language practice
 
-Notice the direct request, concise explanation, and polite flexibility. In a real workplace email, clarity and accurate details matter more than elaborate wording.
+The request specifies exactly what access is needed and explains why a narrower permission level is appropriate.

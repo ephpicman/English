@@ -1,45 +1,48 @@
-# Request for feedback on draft report
+# Request to work remotely for a scheduled appointment
 
-*Illustrative request email. Confirm names, costs, deadlines, and permissions before sending.*
+*Illustrative workplace email; adapt to the organisation’s remote-work policy and actual schedule.*
 
 ## Plan before drafting
 
-The request is specific, includes relevant context, and states a realistic response date without assuming approval.
+The request provides advance notice, identifies the affected hours, and explains how work will remain covered.
 
 ## Email structure
 
-Use the subject and short sections below to make the action easy to identify.
+The proposed arrangement is clear, with an alternative if the request cannot be approved.
 
 ## Subject line
 
-Request for feedback on draft report
+Request to work remotely on Tuesday morning
 
 ## Greeting and direct request
 
-Hello,
+Hi Amira,
 
-Could you review the attached draft report, focusing on whether the recommendations follow clearly from the findings?
+May I work remotely on Tuesday morning, 12 November, and join the team meeting online?
 
 ## Context and rationale
 
-I have checked the references and completed the first edit, but I would value a reader’s view on the logic between the evidence and the proposed actions.
+I have an appointment near home at midday, and working remotely would avoid a long commute between the office and the appointment. I expect to be available during my usual working hours apart from the appointment itself.
 
 ## Specific details and constraints
 
-The most useful feedback would be on the executive summary and recommendation section. Comments in the document are fine; you do not need to proofread every sentence at this stage.
+I will complete the client notes before 10 a.m., join the 9:30 a.m. team meeting by video, and remain reachable through chat and email. No in-person client visits are scheduled for me that morning.
 
 ## Deadline and flexibility
 
-If you can send comments by 24 November, I can incorporate them before the planned review meeting. If that timing is difficult, please suggest a more realistic date.
+Please let me know by Monday afternoon if this arrangement causes any coverage issues. If remote work is not possible, I can discuss adjusting my hours or using leave for the affected period.
 
 ## Thanks and sign-off
 
-Thank you for your time. Regards, Daniel
+Thank you for considering it.
+
+Best,  
+Nadia
 
 ## Final checklist
 
-Before sending, verify the recipient, deadline, relevant attachments, and any cost or access details. Keep the request proportional and do not imply approval has already been granted.
+Verify the date, meeting arrangements, and policy requirements before sending.
 
 ## IELTS-oriented language practice
 
-Notice the direct request, concise explanation, and polite flexibility. In a real workplace email, clarity and accurate details matter more than elaborate wording.
+The email uses a polite request, practical details, and a fallback option without overexplaining personal circumstances.
