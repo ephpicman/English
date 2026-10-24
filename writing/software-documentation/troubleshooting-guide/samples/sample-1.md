@@ -1,35 +1,36 @@
-# Troubleshoot failed sign-in
+# Troubleshooting: unable to sign in
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative troubleshooting guide. Confirm system-specific messages and recovery procedures before use.*
 
 ## Scope and prerequisites
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+Use this guide when a user cannot sign in to the application. You need the application name, approximate time of failure, and access to the normal account recovery route. Do not ask the user to send a password or authentication code.
 
 ## Symptoms and error identifiers
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+- Sign-in page returns an error after credentials are submitted.
+- The user is returned to the sign-in page.
+- A session-expired message appears immediately.
 
 ## Quick checks
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+1. Check whether the service status page reports an incident.
+2. Confirm the user is using the correct organisation sign-in page.
+3. Check device time and network connectivity.
+4. Ask whether the issue affects one application or several, without collecting secret values.
 
 ## Diagnostic decision steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+If the service is available, confirm the exact error text and time. If only one user is affected, use the approved account recovery process and check whether the account is locked. If several users are affected, check the identity provider status and recent configuration changes. Do not disable authentication controls as a workaround.
 
 ## Cause-specific fixes
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+For an expired password, use the official reset flow. For an account lock, follow the authorised unlock process. For a broad identity-provider outage, follow the incident communication process and wait for the service owner’s confirmation before retrying.
 
 ## Verification and prevention
 
-Verify completion using a repeatable check and record the result. If the expected outcome is not observed, stop and follow the recovery path rather than continuing blindly. Update the document when the verified procedure or supported behaviour changes.
+After the fix, sign in through the normal route and open a permitted page. Confirm that access controls still work and that no shared credentials were introduced. Record the resolution category without including passwords or tokens.
 
 ## Escalation details to collect
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Provide application name, timestamp and time zone, exact error text, affected user scope, correlation ID if available, recent changes, and steps already tried. Redact email addresses or other identifiers if the support channel does not require them.

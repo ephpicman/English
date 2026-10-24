@@ -1,39 +1,36 @@
-# User guide: review activity history
+# User guide: manage notification preferences
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
 
 ## Purpose and audience
 
-This document explains how to user guide: review activity history. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+This guide explains how a user can review available notification settings and change optional preferences without disabling essential security messages.
 
 ## Prerequisites and access
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+You need to sign in to the account that owns the preferences. The exact options depend on the product and account type; follow the settings shown in the deployed interface.
 
 ## Concepts / interface overview
 
-This document explains how to user guide: review activity history. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+Required service or security notifications may not be optional. Marketing or activity notifications may have separate controls. A preference change affects future messages and may not cancel messages already queued.
 
 ## Task-based procedure
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+1. Open account settings from the application menu.
+2. Select Notifications or the equivalent section.
+3. Review each category and its description.
+4. Change only the preferences you want to update.
+5. Save the changes if the interface requires it.
+6. Reopen the settings page to confirm the new values.
 
 ## Expected results and verification
 
-Verify completion using a repeatable check and record the result. If the expected outcome is not observed, stop and follow the recovery path rather than continuing blindly. Update the document when the verified procedure or supported behaviour changes.
+The page should display the saved preference values. If confirmation is provided, keep it until you have verified that the settings persist after sign-out and sign-in.
 
 ## Troubleshooting and limitations
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+If the options are unavailable, your account type or organisation policy may control them. If messages continue, check whether they are required service notices or were queued before the change, then contact support with the message type and time.
 
 ## Related tasks / next steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Review account security settings separately if you need to update sign-in protections. Do not disable essential security alerts to reduce routine notifications.

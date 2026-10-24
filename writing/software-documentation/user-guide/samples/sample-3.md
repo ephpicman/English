@@ -1,39 +1,36 @@
-# User guide: export a report
+# User guide: review and update a support ticket
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
 
 ## Purpose and audience
 
-This document explains how to user guide: export a report. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+This guide explains how authorised support staff review a ticket, add a note, and update its status.
 
 ## Prerequisites and access
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+You need an active account and permission to view and update the ticket. Confirm whether your role permits internal notes or customer-visible comments before posting.
 
 ## Concepts / interface overview
 
-This document explains how to user guide: export a report. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+A ticket records the issue, current status, owner, and communication history. Internal notes are not intended for the customer; public replies may be visible externally. Use the visibility control carefully and follow the organisation’s communication policy.
 
 ## Task-based procedure
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+1. Search for the ticket using its reference ID.
+2. Confirm the subject and requester before making changes.
+3. Read the existing notes and check what has already been tried.
+4. Add a concise update with the relevant finding or next action.
+5. Select the correct visibility and verify it before saving.
+6. Change the status only when the workflow criteria are met.
 
 ## Expected results and verification
 
-Verify completion using a repeatable check and record the result. If the expected outcome is not observed, stop and follow the recovery path rather than continuing blindly. Update the document when the verified procedure or supported behaviour changes.
+The ticket should show the saved note and updated status. If the save fails, refresh the record and confirm whether the update was applied before trying again.
 
 ## Troubleshooting and limitations
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+If the ticket is not visible, check your permissions and search reference. If the status transition is rejected, review the allowed workflow transitions. Never copy a customer’s credentials into a note.
 
 ## Related tasks / next steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Review the handover guide for unresolved tickets and the support escalation policy for security, privacy, or service-critical issues.

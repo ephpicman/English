@@ -1,35 +1,36 @@
-# Troubleshoot a failed scheduled job
+# Troubleshooting: background job appears stuck
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative troubleshooting guide. Confirm system-specific messages and recovery procedures before use.*
 
 ## Scope and prerequisites
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+Use this guide for a queued job that has not completed within its normal window. Do not manually rerun a job with external side effects until its current state is understood.
 
 ## Symptoms and error identifiers
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+- Job remains queued or in progress beyond its expected duration.
+- Retry count increases without completion.
+- Downstream status does not reflect the expected result.
 
 ## Quick checks
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+1. Check the queue and worker health dashboards.
+2. Look for a known dependency incident.
+3. Identify the job ID and current state.
+4. Check whether the job may already have completed an external action.
 
 ## Diagnostic decision steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Review worker logs using the job ID and correlate them with the downstream service’s records. Determine whether the job is waiting, failing, or has an ambiguous outcome after a timeout. Check retry limits and dead-letter handling before taking action.
 
 ## Cause-specific fixes
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+If the job is safely retryable and the cause is transient, use the documented retry mechanism. If an external side effect may already have occurred, follow the reconciliation procedure rather than launching a duplicate job. Escalate persistent failures to the job owner.
 
 ## Verification and prevention
 
-Verify completion using a repeatable check and record the result. If the expected outcome is not observed, stop and follow the recovery path rather than continuing blindly. Update the document when the verified procedure or supported behaviour changes.
+Confirm the job reaches a terminal state, the expected side effect occurs once under the supported idempotency model, and the queue returns to normal. Monitor the next scheduled run.
 
 ## Escalation details to collect
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Provide job ID, enqueue time, attempt count, state transitions, dependency status, relevant correlation IDs, and whether any external side effect may have occurred. Redact payloads containing sensitive data.

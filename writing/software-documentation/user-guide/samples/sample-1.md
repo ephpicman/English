@@ -1,39 +1,36 @@
-# User guide: create a project
+# User guide: submit an internal service request
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
 
 ## Purpose and audience
 
-This document explains how to user guide: create a project. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+This guide helps staff submit a routine internal service request and track its status. It is intended for employees who have access to the organisation’s request queue.
 
 ## Prerequisites and access
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+You need an active organisation account and permission to submit requests. Do not include passwords, authentication codes, or unnecessary personal information in the request description.
 
 ## Concepts / interface overview
 
-This document explains how to user guide: create a project. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+A request has a unique ID, a status, an owner, and a next action. “Open” means it is awaiting work; “in progress” means an owner is handling it; “closed” means the work has been completed or the request has been resolved under the team’s policy. Use the status definitions shown in the actual interface.
 
 ## Task-based procedure
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+1. Open the approved internal request page.
+2. Choose the closest category.
+3. Enter a short, descriptive summary and the information needed to understand the issue.
+4. Attach only files permitted by policy.
+5. Submit the request and save the reference ID.
+6. Use the request page to check status or add relevant information.
 
 ## Expected results and verification
 
-Verify completion using a repeatable check and record the result. If the expected outcome is not observed, stop and follow the recovery path rather than continuing blindly. Update the document when the verified procedure or supported behaviour changes.
+The request page should display a reference ID and current status. If no confirmation appears, check the request list before submitting again to avoid creating a duplicate.
 
 ## Troubleshooting and limitations
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+If you cannot see the request page, confirm that you are signed in with the correct account and have the required permission. If the request is urgent or safety-related, use the documented escalation route rather than relying on the normal queue.
 
 ## Related tasks / next steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+You can update the request with new information, review the status definitions, or contact the service owner if the request remains blocked beyond the published service window.

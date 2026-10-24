@@ -1,35 +1,36 @@
-# Troubleshoot missing notifications
+# Troubleshooting: export file is empty
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative troubleshooting guide. Confirm system-specific messages and recovery procedures before use.*
 
 ## Scope and prerequisites
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+Use this guide when a report export completes but contains no rows. You need permission to view the report and the filter settings used for the export.
 
 ## Symptoms and error identifiers
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+- Downloaded CSV contains only a header row.
+- The interface shows zero matching records.
+- The preview and downloaded file appear to disagree.
 
 ## Quick checks
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+1. Check the selected date range and filters.
+2. Confirm the intended columns and dataset.
+3. Compare the visible row count with the export preview.
+4. Check whether the report data has refreshed.
 
 ## Diagnostic decision steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+Clear optional filters one at a time to identify whether a filter removes all rows. Confirm the user has permission to view the expected records. If the preview shows rows but the file does not, capture the export ID and check whether generation completed successfully.
 
 ## Cause-specific fixes
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+Correct the filter or date range if it was entered incorrectly. If the source data has not refreshed, follow the report owner’s refresh process. If preview and export differ under the same settings, do not repeatedly export sensitive data; escalate with the export ID.
 
 ## Verification and prevention
 
-Verify completion using a repeatable check and record the result. If the expected outcome is not observed, stop and follow the recovery path rather than continuing blindly. Update the document when the verified procedure or supported behaviour changes.
+Run the export again with the confirmed filters and compare its row count with the preview. Check a small number of non-sensitive records against the source report.
 
 ## Escalation details to collect
 
-Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
+Provide report name, export ID, time, selected filters, preview row count, downloaded row count, and any error message. Redact data values and credentials.

@@ -1,39 +1,36 @@
-# User guide: update account settings
+# User guide: join a scheduled online workshop
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
 
 ## Purpose and audience
 
-This document explains how to user guide: update account settings. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+This guide helps registered participants prepare for and join an online workshop. It covers the joining link, basic setup, and what to do if access fails.
 
 ## Prerequisites and access
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+Use the joining link from the latest confirmation message. Check whether the event requires a supported browser, application, or sign-in. Join from a quiet location if possible and use headphones if available.
 
 ## Concepts / interface overview
 
-This document explains how to user guide: update account settings. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+The meeting link opens the event room; the waiting room may hold participants until the organiser admits them. A display name helps the facilitator identify attendees. Follow the event’s privacy and recording notice.
 
 ## Task-based procedure
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+1. Open the latest confirmation message and check the event date and time zone.
+2. Test your internet connection and audio before the session.
+3. Open the joining link a few minutes early.
+4. Enter the requested display name and wait for admission if needed.
+5. Use the chat or raise-hand feature to ask a question.
+6. Follow the facilitator’s instructions for shared materials.
 
 ## Expected results and verification
 
-Verify completion using a repeatable check and record the result. If the expected outcome is not observed, stop and follow the recovery path rather than continuing blindly. Update the document when the verified procedure or supported behaviour changes.
+You should see the event room or waiting screen and be able to hear the facilitator once admitted. If the session uses a separate workbook, open the approved link shared by the organiser.
 
 ## Troubleshooting and limitations
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+If the link fails, check the date, time zone, and latest confirmation. Try the supported browser or contact the organiser using the official contact route. Do not post private meeting links publicly.
 
 ## Related tasks / next steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+After the workshop, use the provided materials and feedback form. Contact the organiser if you need an accessible format or missed the session.

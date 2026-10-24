@@ -1,39 +1,36 @@
-# User guide: manage notifications
+# User guide: prepare a monthly CSV export
 
-*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
+*Illustrative user guide. Verify interface labels and supported procedures against the deployed product.*
 
 ## Purpose and audience
 
-This document explains how to user guide: manage notifications. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+This guide explains how an authorised analyst can prepare a CSV export from a reporting table and verify that the file matches the selected filters.
 
 ## Prerequisites and access
 
-Before starting, confirm the supported version, required permissions, network access, and any dependencies listed by the project. Use a test environment first and keep credentials in an approved secret store rather than in source files or screenshots.
+You need permission to view the report and export its data. Confirm that the data may be stored and shared in the intended location before downloading it.
 
 ## Concepts / interface overview
 
-This document explains how to user guide: manage notifications. It is intended for readers who need a repeatable process and clear success criteria. Product names, supported versions, permissions, and actual behaviour must be confirmed against the target environment before publication.
+Filters determine which records are included; selected columns determine which fields appear in the file. A preview may show the expected result before generation. Export permissions may differ from view permissions, depending on the system.
 
 ## Task-based procedure
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+1. Open the report and confirm the reporting period.
+2. Apply the required filters and inspect the result count.
+3. Select only the columns needed for the task.
+4. Review the preview and start the export.
+5. Download the generated file from the approved location.
+6. Compare the row count and key totals with the report before using the data.
 
 ## Expected results and verification
 
-Verify completion using a repeatable check and record the result. If the expected outcome is not observed, stop and follow the recovery path rather than continuing blindly. Update the document when the verified procedure or supported behaviour changes.
+The downloaded CSV should contain the selected columns and records matching the filters. Check the header row, encoding, and date format before importing the file into another tool.
 
 ## Troubleshooting and limitations
 
-**Symptom:** the task does not complete as expected. **Check:** confirm the environment and permissions, reproduce the issue with a minimal example, and inspect the relevant logs without exposing secrets. **Resolution:** apply the documented fix for the confirmed cause, repeat the test, and record the result. If the cause remains uncertain, collect diagnostic details and escalate rather than guessing.
+If the file is empty, review filters and data refresh status. If the preview and file differ, record the export ID and contact the report owner. Do not share the export in an unapproved location.
 
 ## Related tasks / next steps
 
-1. Confirm the target environment and the required version.
-2. Apply the configuration documented for that version.
-3. Run the smallest safe test that exercises the intended task.
-4. Check the expected result and review logs for errors.
-5. Record any environment-specific changes so the process can be repeated. Verify each command against the real project before publishing.
+For repeat reporting, document the filter settings and source version. For validation failures, use the CSV import troubleshooting guide.
