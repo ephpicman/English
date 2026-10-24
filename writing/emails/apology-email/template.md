@@ -1,34 +1,32 @@
 # Apology Email Template
 
-<!-- TEMPLATE RULES: This is a reusable scaffold, not a completed document. Replace all [PLACEHOLDER: ...] tokens. Do not include sample prose. Use only accurate, verified facts; resolve [TO CONFIRM: ...] notes before delivery. Match tone to audience and purpose. External limits set by an employer, platform, or process take precedence over these ranges. -->
+<!-- TEMPLATE RULES: Reusable scaffold only. Replace each [PLACEHOLDER: ...]; do not include sample prose. Use accurate facts and resolve [TO CONFIRM: ...] before sending. Follow the relationship-appropriate register and any external word limit. -->
+<!-- TOTAL LENGTH: 60–220 words depending on purpose. Ranges are planning targets, not a reason to add filler. -->
+<!-- BRIEF: Recipient = [PLACEHOLDER: identify]; purpose = [PLACEHOLDER: state]; required outcome = [PLACEHOLDER: specify]; tone = [PLACEHOLDER: specify]. -->
 
-<!-- TOTAL LENGTH: 60–220 words, depending on email purpose. Ranges are planning targets, not a reason to add filler. Comments and metadata are excluded from prose counts. -->
-
-<!-- BRIEF: Audience = [PLACEHOLDER: define reader]; purpose = [PLACEHOLDER: state intended outcome]; constraints = [PLACEHOLDER: record requirements]; tone = [PLACEHOLDER: specify]; verified source material = [PLACEHOLDER: list if applicable]. -->
-
-<!-- SECTION GUIDE: Subject. Name the matter without being defensive. Target length: 4–10. -->
+<!-- SECTION GUIDE: Subject. Name the matter neutrally. Target length: 4–10 words. -->
 ## Subject
 
 [PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION GUIDE: Greeting and apology. Apologise directly and acknowledge the issue. Target length: 10–25. -->
+<!-- SECTION GUIDE: Greeting and apology. Apologise directly and acknowledge the issue. Target length: 10–25 words. -->
 ## Greeting and apology
 
 [PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION GUIDE: Responsibility and context. Own the relevant responsibility and give only necessary context. Target length: 15–30. -->
+<!-- SECTION GUIDE: Responsibility and context. Own the relevant responsibility and include only necessary context. Target length: 15–30 words. -->
 ## Responsibility and context
 
 [PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION GUIDE: Repair or prevention. State a concrete corrective action and how recurrence will be reduced. Target length: 20–40. -->
-## Repair or prevention
+<!-- SECTION GUIDE: Corrective action. State a concrete remedy and prevention step. Target length: 20–40 words. -->
+## Corrective action
 
 [PLACEHOLDER: complete this section according to the guide]
 
-<!-- SECTION GUIDE: Close and follow-through. Offer a clear follow-up where appropriate. Target length: 5–15. -->
-## Close and follow-through
+<!-- SECTION GUIDE: Close. Offer follow-through where appropriate. Target length: 5–15 words. -->
+## Close
 
 [PLACEHOLDER: complete this section according to the guide]
 
-<!-- FINAL CHECK: Confirm factual accuracy, audience-appropriate tone, logical order, concise language, all required details, and word limits. Replace every placeholder and resolve every [TO CONFIRM: ...] note before sending or publishing. -->
+<!-- FINAL CHECK: Verify names, dates, requested action, tone, and word count. Replace every placeholder before sending. -->
