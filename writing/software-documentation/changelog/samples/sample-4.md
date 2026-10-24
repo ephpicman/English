@@ -1,18 +1,27 @@
-# A university course
+# Example release: update dependencies
 
-## [1.4.0] — 2026-10-20
+*Illustrative documentation example. Verify versions, commands, behaviour, and records before publication.*
 
-### Added
-- Added improved support for a university course.
-- Added clearer status feedback for users.
+## Version and date
 
-### Changed
-- Improved validation messages and loading states.
+Keep the instructions specific, ordered, and testable. State what the reader needs, what action to take, what result to expect, and how to recover from common failure. Confirm all commands, versions, configuration keys, and system behaviour against the actual implementation.
 
-### Fixed
-- Fixed a pagination issue that could repeat the final item.
+## Added
 
-### Upgrade notes
-No migration is required. If the previous interface remains visible, refresh the browser after deployment.
+**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
 
----
+## Changed
+
+**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+
+## Fixed
+
+**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+
+## Deprecated and removed
+
+**Illustrative change:** describe the user-visible behaviour, the reason for the change, and any migration or compatibility impact. Separate new features, fixes, and breaking changes. Confirm the release tag, issue references, and supported upgrade path from the actual release record before publishing.
+
+## Security
+
+Document the requirement, alternatives considered, trade-offs, and operational consequences. Include security, privacy, failure handling, performance, and maintenance where relevant. Label assumptions clearly and record what evidence or test would change the decision.
