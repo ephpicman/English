@@ -1,57 +1,55 @@
-# Proposal for accessible community workshop registration
+# Project proposal: launch a staff mentoring programme
 
-*Illustrative project proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative proposal; confirm organisational needs, mentor capacity, and safeguarding requirements.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+Request approval to design and pilot a bounded programme, not to guarantee outcomes in advance.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+The proposal describes the need, pilot scope, work packages, governance, and evaluation.
 
 ## Title and project metadata
 
-Proposal for accessible community workshop registration
-Sponsor: Operations manager | Project owner: Process lead | Status: Proposed
+**Sponsor:** People Operations manager | **Owner:** Learning coordinator | **Status:** Proposed | **Decision:** Approve pilot design
 
 ## Executive summary
 
-Create a standard event record containing date, duration, venue, access information, cost, registration steps, and a contact route. Reuse it across promotional channels. The project aims to test feasibility, usability, and maintenance effort before expansion.
+Plan a staff mentoring pilot that pairs trained volunteers with colleagues seeking help with workplace routines and professional development. The pilot will define matching, boundaries, training, and feedback before any wider rollout.
 
 ## Problem, opportunity, and objectives
 
-Event notices sometimes omit access details and the registration confirmation does not consistently explain what participants should expect.
-Objective: improve clarity and traceability without adding disproportionate administrative work.
+Some staff may find it difficult to identify an appropriate person to ask about workplace routines or career development. A structured option could provide support while keeping line management and specialist advice separate.
 
 ## Scope, deliverables, and exclusions
 
-Deliverables: a documented process, a short user guide, pilot feedback, and a review recommendation. Exclusions: new enterprise software and changes to unrelated workflows.
+Deliverables include a programme guide, mentor training, matching process, referral guidance, and evaluation plan. The programme will not replace HR casework, clinical support, or formal performance management.
 
 ## Approach and work packages
 
-Draft the fields with outreach staff in week 1; test on two events in weeks 2–3; gather participant questions; revise before wider use. The outreach lead owns the record and the event organiser approves final details.
+Consult potential participants; define eligibility, confidentiality, and referral boundaries; recruit and train mentors; match a small pilot group; and collect feedback.
 
 ## Timeline, roles, and governance
 
-The project owner coordinates delivery; team leads validate the workflow; the sponsor resolves cross-team dependencies. Review progress weekly and record decisions.
+The learning coordinator manages delivery. People Operations reviews policy and referral guidance. A named sponsor approves the pilot and receives concerns requiring escalation.
 
 ## Resources, budget, and procurement
 
-Costs are primarily staff time and any required accessible-format preparation. Venue and translation costs must be estimated from the actual event plan rather than assumed.
+The pilot requires staff time for training, matching, and supervision. External training costs must be confirmed before approval. Participation should be voluntary and accessible.
 
 ## Risks, assumptions, and mitigations
 
-The process may add work if the form is too long. Keep fields limited to information participants need and assign one person to approve publication.
+Risks include mismatched expectations, mentor overload, and concerns being handled outside the mentor’s role. Training, clear boundaries, and referral routes are required before matching begins.
 
 ## Success criteria and decision
 
-Approve a two-event pilot. Review correction requests, repeated enquiries, and optional participant feedback before standardising the form.
+Approve pilot design. Criteria include role clarity, participant experience, accessibility, and manageable mentor workload; longer-term outcomes require further evidence.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Confirm confidentiality wording and referral responsibilities before launch.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal sets realistic objectives without promising unverified benefits.

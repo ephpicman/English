@@ -1,57 +1,55 @@
-# Proposal to improve onboarding guidance
+# Project proposal: improve accessible meeting rooms
 
-*Illustrative project proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative proposal; verify facilities requirements, costs, and accessibility guidance before approval.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+Request an assessment and prioritised plan, with implementation subject to facilities review.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+The proposal connects user needs to scope, work packages, governance, and completion criteria.
 
 ## Title and project metadata
 
-Proposal to improve onboarding guidance
-Sponsor: Operations manager | Project owner: Process lead | Status: Proposed
+**Sponsor:** Workplace services manager | **Owner:** Facilities coordinator | **Status:** Proposed | **Decision:** Approve assessment
 
 ## Executive summary
 
-Consolidate the five most-used onboarding tasks into task-based guides, name a content owner for each, and add a quarterly link review. The project aims to test feasibility, usability, and maintenance effort before expansion.
+Approve an assessment of meeting-room accessibility and a prioritised plan for practical improvements. The project will document barriers, confirm requirements with qualified staff, and implement approved changes within the available budget.
 
 ## Problem, opportunity, and objectives
 
-New colleagues receive the same setup instructions in several places, and some pages list prerequisites after the steps that depend on them.
-Objective: improve clarity and traceability without adding disproportionate administrative work.
+Staff and visitors need to access meeting rooms without avoidable barriers. The project aims to identify issues with routes, signage, room layout, and equipment placement and establish a process for reporting future problems.
 
 ## Scope, deliverables, and exclusions
 
-Deliverables: a documented process, a short user guide, pilot feedback, and a review recommendation. Exclusions: new enterprise software and changes to unrelated workflows.
+Deliverables include a room audit, prioritised action list, cost estimates, and completion records for approved changes. Major building reconstruction is excluded and would require a separate capital proposal.
 
 ## Approach and work packages
 
-Select guides in week 1; revise drafts in weeks 2–3; test with new readers in week 4; revise and publish in week 5. People operations coordinates; page owners validate procedures.
+Gather existing room plans; inspect selected rooms with facilities staff; consult users about practical barriers; estimate costs; classify urgent and longer-term work; and verify approved changes.
 
 ## Timeline, roles, and governance
 
-The project owner coordinates delivery; team leads validate the workflow; the sponsor resolves cross-team dependencies. Review progress weekly and record decisions.
+The facilities coordinator leads the audit. Qualified staff confirm technical requirements, and the workplace manager approves work within delegated authority. Larger construction needs are escalated.
 
 ## Resources, budget, and procurement
 
-The main investment is staff editing and review time. Any tooling cost is excluded unless the pilot identifies a specific requirement. Success should be measured by reader task completion, correction requests, and feedback.
+Resources include staff time, inspection support, signage, and approved minor works. Costs must be estimated after the audit; no savings or completion date is assumed before quotations are received.
 
 ## Risks, assumptions, and mitigations
 
-A guide may become stale if ownership is unclear or linked policies change. Assign owners and include a review date; do not duplicate policy text that is maintained elsewhere.
+Temporary room closures may affect bookings. Schedule works during lower-demand periods where possible and communicate alternatives. Informal observations do not replace specialist assessment.
 
 ## Success criteria and decision
 
-Approve a five-guide pilot. Expand only if readers can locate the correct steps and content owners can maintain the pages within the agreed effort.
+Approve the audit and prioritised plan. Success requires documented findings, assigned owners, approved costs, and verification that completed changes address the identified barriers.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Confirm applicable standards and approvals before work begins.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal separates assessment from work that still needs cost and approval.

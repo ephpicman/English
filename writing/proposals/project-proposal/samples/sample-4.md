@@ -1,57 +1,55 @@
-# Proposal to add a validation step to monthly reporting
+# Project proposal: standardise equipment inventory records
 
-*Illustrative project proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative proposal; verify records, system access, and asset-control requirements.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+Request a time-limited inventory clean-up and a standard record format.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+The proposal sets out the problem, deliverables, work packages, resources, and acceptance criteria.
 
 ## Title and project metadata
 
-Proposal to add a validation step to monthly reporting
-Sponsor: Operations manager | Project owner: Process lead | Status: Proposed
+**Sponsor:** Workplace services manager | **Owner:** Asset coordinator | **Status:** Proposed | **Decision:** Approve inventory review
 
 ## Executive summary
 
-Add a data-definition review and a validation checklist before combining fields. Keep unresolved categories separate and label the limitation in interim reporting. The project aims to test feasibility, usability, and maintenance effort before expansion.
+Review shared equipment records and establish a standard format for location, condition, custodian, and next review date. Reconcile a defined asset group first and report missing or disputed records for follow-up.
 
 ## Problem, opportunity, and objectives
 
-Two source systems use similar category labels with different meanings, which risks misleading comparisons in the monthly report.
-Objective: improve clarity and traceability without adding disproportionate administrative work.
+Current entries may use different naming conventions and may not identify where equipment is stored. This makes maintenance planning and booking harder. The objective is a reliable, traceable record for the agreed asset group.
 
 ## Scope, deliverables, and exclusions
 
-Deliverables: a documented process, a short user guide, pilot feedback, and a review recommendation. Exclusions: new enterprise software and changes to unrelated workflows.
+Deliverables include a data dictionary, reconciled pilot inventory, exception list, and update procedure. Purchasing equipment and implementing a new asset-management platform are excluded.
 
 ## Approach and work packages
 
-Source owners review definitions in week 1; analytics drafts validation rules in week 2; test on a sample in week 3; approve the updated data dictionary in week 4.
+Agree field definitions; export records and identify duplicates; verify locations and custodians with relevant teams; assign owners to discrepancies; and test the update procedure.
 
 ## Timeline, roles, and governance
 
-The project owner coordinates delivery; team leads validate the workflow; the sponsor resolves cross-team dependencies. Review progress weekly and record decisions.
+The asset coordinator leads the review, with department contacts verifying assigned items. The workplace manager approves changes to ownership and removal from the register.
 
 ## Resources, budget, and procurement
 
-The proposal requires analyst and source-owner time. Any engineering work should be estimated after the rules are agreed. Benefits should be measured through fewer unresolved discrepancies and clearer audit trails.
+The work uses existing staff and approved tools. Physical checks are the main resource. Additional software procurement would require a separate business case.
 
 ## Risks, assumptions, and mitigations
 
-Teams may disagree on terminology or lack an authoritative source. Escalate unresolved definitions to the reporting owner and do not silently merge categories.
+Records may be incomplete or assets temporarily unavailable. Mark unresolved entries clearly and do not infer a custodian without confirmation.
 
 ## Success criteria and decision
 
-Approve the validation step for the next reporting cycle and review the discrepancy log before deciding whether further automation is justified.
+Approve the pilot. Acceptance requires agreed fields, verified entries for the selected group, an exception list with owners, and a documented update process.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Check asset-control and retention policies before implementation.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal makes the deliverable and limits of the pilot explicit.

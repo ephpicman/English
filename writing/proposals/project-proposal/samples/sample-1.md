@@ -1,57 +1,55 @@
-# Proposal to introduce a shared service-request queue
+# Project proposal: migrate the team knowledge base
 
-*Illustrative project proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative proposal; confirm system constraints, staff capacity, and costs before approval.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+Request approval for discovery and a limited pilot, not an immediate full migration.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+The proposal defines the problem, deliverables, approach, resources, risks, and acceptance criteria.
 
 ## Title and project metadata
 
-Proposal to introduce a shared service-request queue
-Sponsor: Operations manager | Project owner: Process lead | Status: Proposed
+**Sponsor:** Support manager | **Owner:** Knowledge-base lead | **Status:** Proposed | **Decision:** Approve pilot
 
 ## Executive summary
 
-Pilot one shared queue for facilities requests with required fields for owner, status, next action, and due date. Keep urgent safety issues on the existing escalation route. The project aims to test feasibility, usability, and maintenance effort before expansion.
+Approve a short discovery phase and pilot to move a defined set of support articles into the approved knowledge platform. The pilot will test content migration, search, permissions, and ownership before a decision about wider migration.
 
 ## Problem, opportunity, and objectives
 
-Internal requests currently arrive through email and spreadsheets, making ownership and priority difficult to track.
-Objective: improve clarity and traceability without adding disproportionate administrative work.
+Articles are stored across several locations, making it difficult to identify the current version and responsible owner. The project aims to establish one source of truth for selected articles and make review responsibility visible.
 
 ## Scope, deliverables, and exclusions
 
-Deliverables: a documented process, a short user guide, pilot feedback, and a review recommendation. Exclusions: new enterprise software and changes to unrelated workflows.
+Deliverables are a content inventory, migration plan, pilot set, permission model, and post-pilot recommendation. Product redesign and replacement of the support ticketing system are excluded.
 
 ## Approach and work packages
 
-Week 1: agree categories and permissions. Week 2: configure and test with sample requests. Weeks 3–6: run the pilot and gather feedback. Operations manager owns the review; team leads own status definitions.
+Inventory articles; confirm authoritative versions with content owners; migrate a representative set; test search, links, permissions, and revision history; then review feedback and recommend whether to proceed.
 
 ## Timeline, roles, and governance
 
-The project owner coordinates delivery; team leads validate the workflow; the sponsor resolves cross-team dependencies. Review progress weekly and record decisions.
+The knowledge-base lead coordinates the work. Product specialists validate technical content and IT reviews permissions. The sponsor reviews the pilot before any wider migration.
 
 ## Resources, budget, and procurement
 
-Primary cost is staff time for setup, training, and review. No new software purchase is assumed. Estimate actual hours before approval; benefits should be assessed through completeness of ownership fields, time spent chasing updates, and staff feedback.
+The pilot uses existing staff and the approved platform, subject to IT confirmation. Staff time is the primary resource. Any licence or migration-service cost requires separate approval.
 
 ## Risks, assumptions, and mitigations
 
-Risks include duplicate entry during transition and inconsistent use. Mitigate with a clear start date, short guide, and weekly review. Do not migrate sensitive records without confirming permissions.
+Risks include migrating outdated content, missing ownership, and broken links. Validate content before migration and record unresolved articles rather than presenting them as approved.
 
 ## Success criteria and decision
 
-Approve a four-week pilot for one request category. Review whether requests have a named owner and next action, and decide whether to expand based on evidence.
+Approve discovery and the pilot. Success means the pilot articles have confirmed owners, working links, appropriate permissions, and a clear review process.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Check scope, cost assumptions, and approval route before circulation.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal requests a limited decision with explicit deliverables and acceptance criteria.

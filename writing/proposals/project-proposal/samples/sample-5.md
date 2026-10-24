@@ -1,57 +1,55 @@
-# Proposal for a structured customer-support handover
+# Project proposal: improve the staff training booking process
 
-*Illustrative project proposal. Verify operational facts, costs, and approvals before using it as a real decision document.*
+*Illustrative proposal; confirm demand, booking rules, and system capabilities before approval.*
 
 ## Before you draft
 
-The proposal should identify the decision-maker, the problem to solve, and the evidence needed to judge whether the proposal succeeds.
+Request approval to map and improve the existing process before purchasing software.
 
 ## Draft structure
 
-The sections below distinguish the current problem, the recommended approach, and the decision being requested.
+The proposal defines the problem, scope, work packages, resource assumptions, and success criteria.
 
 ## Title and project metadata
 
-Proposal for a structured customer-support handover
-Sponsor: Operations manager | Project owner: Process lead | Status: Proposed
+**Sponsor:** Learning and Development manager | **Owner:** Training coordinator | **Status:** Proposed | **Decision:** Approve process review
 
 ## Executive summary
 
-Introduce a concise handover template with issue summary, steps tried, current status, next action, owner, and customer update timing. The project aims to test feasibility, usability, and maintenance effort before expansion.
+Simplify how staff find training sessions, request approval, and receive confirmation. The team will map the current process, test a revised form and confirmation message, and recommend whether system changes are needed.
 
 ## Problem, opportunity, and objectives
 
-Cases passed between support agents sometimes omit what has already been tested, the current status, or the next promised update.
-Objective: improve clarity and traceability without adding disproportionate administrative work.
+Staff may need to check several sources to find available courses and understand whether a booking is confirmed. The project aims to make the steps, approval status, and cancellation route easier to understand.
 
 ## Scope, deliverables, and exclusions
 
-Deliverables: a documented process, a short user guide, pilot feedback, and a review recommendation. Exclusions: new enterprise software and changes to unrelated workflows.
+Deliverables include a process map, revised booking form, standard confirmation message, and pilot evaluation. Selecting new training content or changing reimbursement policy is excluded.
 
 ## Approach and work packages
 
-Draft the template with agents, test it on one case category for two weeks, review handover quality, and adjust before rollout. Support operations owns the pilot.
+Map the current booking journey; identify repeated questions; draft the revised form and message; test the journey with a small group; and recommend whether further system work is needed.
 
 ## Timeline, roles, and governance
 
-The project owner coordinates delivery; team leads validate the workflow; the sponsor resolves cross-team dependencies. Review progress weekly and record decisions.
+The training coordinator leads the work. HR and finance review policy references, while IT confirms whether the existing platform supports the proposed changes.
 
 ## Resources, budget, and procurement
 
-Costs are staff time for design, training, and review; no new tool is assumed. Track completeness of handovers and the reasons for repeat contacts rather than using raw closure speed alone.
+The pilot uses existing systems and staff time. Development or procurement costs will be estimated only if current tools cannot meet the agreed requirements.
 
 ## Risks, assumptions, and mitigations
 
-Too many required fields could slow urgent cases. Keep the template short and allow a clear urgent escalation path.
+The new form could duplicate information already held elsewhere. Test it with users and remove fields that do not support a decision or fulfil a requirement.
 
 ## Success criteria and decision
 
-Approve a two-week pilot and decide whether to expand based on agent feedback, handover completeness, and anonymised case review.
+Approve the review and pilot. Success means users can identify available sessions, understand approval status, and find the correct cancellation route without additional explanation.
 
 ## Language and quality review
 
-Confirm that assumptions are labelled, costs are based on actual estimates, risks have owners or mitigations, and the requested decision is explicit. Do not present the proposal as approved work.
+Verify approval and reimbursement rules before implementation.
 
 ## IELTS-oriented practice note
 
-The document uses formal, decision-focused language and links the recommendation to a practical need. For a real proposal, follow the organisation’s required format and provide evidence appropriate to the decision.
+The proposal prioritises user outcomes and avoids unnecessary procurement.
