@@ -1,35 +1,31 @@
-# Public transport investment: problem solution essay
+# Household food waste: problem-and-solution essay
 
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+*Illustrative IELTS-style response; adapt the argument to the wording of the question.*
 
 ## Before writing
 
-Identify the causes of the problem and match each proposed solution to a cause.
+The response links common causes of household food waste to practical changes in shopping, storage, and distribution.
 
 ## Essay structure
 
-The essay explains the problem before presenting practical responses.
+It explains planning and information problems before proposing household and retailer actions.
 
 ## Introduction and problem framing
 
-Public transport investment has become an important issue because it affects how people access services and organise everyday life. Addressing it requires identifying the main causes rather than relying on a single broad solution.
+Food waste is an avoidable problem because edible food is often discarded while producing, transporting, and preparing it has already used land, water, energy, and labour. Reducing waste requires more than asking people to be careful; the causes of waste must be made easier to recognise and prevent.
 
 ## Main problem or cause 1
 
-Car dependence can make daily travel costly for households and leave people without cars with fewer options to reach jobs and services.
+One major cause is poor planning. Households may buy more than they can use because they shop without checking what is already in the fridge, respond to multi-buy offers, or plan meals too optimistically. Fresh produce and leftovers then spoil before anyone remembers to eat them. Busy schedules can make the problem worse when people change plans and rely on different meals than expected.
 
 ## Main problem or cause 2 (if needed)
 
-Poor route coverage and unreliable service can discourage people from using transit even when a route exists.
+Confusing date labels and storage advice also contribute. Some consumers interpret a quality date as a strict safety deadline, while others do not know how to store particular foods. Retailers may also display large quantities to create an impression of abundance, even when the remaining shelf life is short. These factors make it difficult for shoppers to judge what they can realistically use.
 
 ## Solutions matched to causes
 
-Authorities should map common travel needs, improve frequency on high-demand routes, connect services with safe walking and cycling access, and publish reliability data. In less dense areas, flexible shuttles or coordinated services may be more appropriate than a fixed high-frequency route.
+Households can plan a few meals before shopping, check existing supplies, freeze suitable food, and keep older items visible so they are used first. Retailers can offer smaller package sizes and explain the difference between safety and quality labels in clear language. Where surplus food remains safe to eat, shops and caterers can work with approved local organisations to redistribute it rather than discard it. Community cooking sessions and school lessons can teach storage and portion planning without blaming people who have limited time, money, or kitchen facilities.
 
 ## Conclusion
 
-The issue can be managed more effectively when the response addresses both the immediate barriers and the conditions that allow them to continue. Authorities should map common travel needs, improve frequency on high-demand routes, connect services with safe walking and cycling access, and publish reliability data. In less dense areas, flexible shuttles or coordinated services may be more appropriate than a fixed high-frequency route.
-
-## Final IELTS checklist
-
-Make sure each solution addresses a stated cause, use clear links between ideas, and follow the exact task requirements.
+Food waste is driven by everyday habits and unclear information, not simply carelessness. Better planning, clearer labels, appropriate package sizes, and safe redistribution can prevent much of the waste before food reaches the bin.

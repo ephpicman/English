@@ -1,35 +1,31 @@
-# School uniforms: problem solution essay
+# Youth unemployment: problem-and-solution essay
 
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+*Illustrative IELTS-style response; use current local evidence if adapting it for a real assignment.*
 
 ## Before writing
 
-Identify the causes of the problem and match each proposed solution to a cause.
+The essay identifies the gap between education and entry-level work and proposes measures that address experience and access.
 
 ## Essay structure
 
-The essay explains the problem before presenting practical responses.
+It explains two related causes and matches them with practical education and employment responses.
 
 ## Introduction and problem framing
 
-School uniforms has become an important issue because it affects how people access services and organise everyday life. Addressing it requires identifying the main causes rather than relying on a single broad solution.
+Youth unemployment can affect income, confidence, and a person’s ability to build a career. It is rarely caused by one factor alone. In many places, young people struggle to find work because entry-level jobs require experience they have not yet had the chance to gain, while training does not always match local labour-market needs.
 
 ## Main problem or cause 1
 
-Differences in clothing can become a source of social pressure, particularly when students feel judged by brands or fashion.
+Employers may expect applicants to demonstrate workplace skills such as communicating with customers, managing deadlines, and using industry-specific tools. However, school and university courses cannot provide every learner with sustained practical experience. When vacancies ask for previous employment even for junior roles, applicants face a circular barrier: they need a job to gain experience but need experience to obtain a job.
 
 ## Main problem or cause 2 (if needed)
 
-A strict uniform requirement can create financial strain or discomfort when approved items are expensive or poorly suited to students’ needs.
+A second problem is that information about opportunities is unevenly distributed. Young people with professional networks may hear about internships and training schemes early, while others may not know where to find them. Transport costs, unpaid placements, and limited access to career advice can further exclude applicants who cannot afford to work without pay.
 
 ## Solutions matched to causes
 
-Schools can consult students and families, choose affordable and durable items, allow second-hand exchanges, and provide reasonable adjustments. Clear behaviour-based rules can address safety and appropriateness without penalising students for circumstances beyond their control.
+Schools, colleges, and employers can build more structured work experience into education through paid placements, apprenticeships, and projects based on real workplace tasks. Employers should describe essential skills separately from those that can be learned after hiring, making entry-level vacancies more realistic. Public employment services and community organisations can offer practical application support, interview practice, and information about accredited training. Where placements are used, paying participants and providing clear learning goals helps ensure that opportunities are accessible rather than reserved for people who can afford unpaid work.
 
 ## Conclusion
 
-The issue can be managed more effectively when the response addresses both the immediate barriers and the conditions that allow them to continue. Schools can consult students and families, choose affordable and durable items, allow second-hand exchanges, and provide reasonable adjustments. Clear behaviour-based rules can address safety and appropriateness without penalising students for circumstances beyond their control.
-
-## Final IELTS checklist
-
-Make sure each solution addresses a stated cause, use clear links between ideas, and follow the exact task requirements.
+Youth unemployment is intensified by limited access to experience and unequal knowledge of opportunities. Paid work-based learning, realistic entry-level requirements, and accessible career guidance can help young people move from education into sustainable employment.
