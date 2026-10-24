@@ -1,23 +1,23 @@
-# Should cities make public transport cheaper?
+# School uniforms: opinion essay
 
-*IELTS-style practice response. Adapt the argument to the exact task wording.*
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
 ## Introduction
 
-Whether cities make public transport cheaper is an important public question because it affects everyday choices, access, and the use of limited resources. This essay takes the position that a carefully planned approach is beneficial, provided that practical costs and the needs of different groups are considered.
+The question of how society should approach school uniforms involves practical benefits as well as genuine concerns. Schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.
 
 ## Reason 1
 
-A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
+Uniforms can reduce visible differences in everyday clothing and make the school dress code simpler to understand. They may also help students identify one another during school activities and reduce the time spent deciding what to wear.
 
 ## Reason 2
 
-A second consideration is the risk of unequal effects. Some people may face extra costs, have limited access to the required resources, or need additional support to adapt. This does not mean the proposal should automatically be rejected; it means that decision-makers should provide reasonable alternatives, phase in changes where necessary, and review whether the benefits reach the groups most likely to be excluded.
+Uniforms cost money, may be uncomfortable for some students, and do not remove deeper differences in income or social status. Strict rules can also create conflict when they fail to account for religion, disability, weather, or individual needs. This is why implementation should include safeguards and respond to different circumstances.
 
 ## Qualification or opposing view (optional)
 
-A second consideration is the risk of unequal effects. Some people may face extra costs, have limited access to the required resources, or need additional support to adapt. This does not mean the proposal should automatically be rejected; it means that decision-makers should provide reasonable alternatives, phase in changes where necessary, and review whether the benefits reach the groups most likely to be excluded.
+Supporters argue that a uniform creates a sense of belonging and reduces competition over fashion. These benefits may occur in some schools, but they are not guaranteed by clothing rules alone.
 
 ## Conclusion
 
-In conclusion, the issue should be addressed through a practical, evidence-led decision rather than an absolute rule. The main benefits are meaningful, but the costs and risks need safeguards. A carefully scoped trial, clear responsibilities, and a review of outcomes offer a sensible way to decide what should happen next.
+Schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.

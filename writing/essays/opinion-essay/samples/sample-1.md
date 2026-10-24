@@ -1,23 +1,23 @@
-# Should schools teach financial literacy?
+# Remote work: opinion essay
 
-*IELTS-style practice response. Adapt the argument to the exact task wording.*
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
 ## Introduction
 
-Whether schools teach financial literacy is an important public question because it affects everyday choices, access, and the use of limited resources. This essay takes the position that a carefully planned approach is beneficial, provided that practical costs and the needs of different groups are considered.
+The question of how society should approach remote work involves practical benefits as well as genuine concerns. On balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.
 
 ## Reason 1
 
-A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
+Remote work can reduce commuting time and give employees more control over their working environment. For tasks requiring concentration, fewer office interruptions may help people organise their day. It can also widen access to jobs for people who live far from a central office or need a more flexible routine.
 
 ## Reason 2
 
-A second consideration is the risk of unequal effects. Some people may face extra costs, have limited access to the required resources, or need additional support to adapt. This does not mean the proposal should automatically be rejected; it means that decision-makers should provide reasonable alternatives, phase in changes where necessary, and review whether the benefits reach the groups most likely to be excluded.
+However, remote work can make informal learning and collaboration harder, especially for new employees. People may also have unequal home working conditions, and blurred boundaries can lead to longer working hours. These disadvantages depend on how well the organisation supports remote staff. This is why implementation should include safeguards and respond to different circumstances.
 
 ## Qualification or opposing view (optional)
 
-A second consideration is the risk of unequal effects. Some people may face extra costs, have limited access to the required resources, or need additional support to adapt. This does not mean the proposal should automatically be rejected; it means that decision-makers should provide reasonable alternatives, phase in changes where necessary, and review whether the benefits reach the groups most likely to be excluded.
+Critics are right that not every task can be done remotely and that some workers value direct contact. This argues for a role-sensitive approach rather than a universal rule.
 
 ## Conclusion
 
-In conclusion, the issue should be addressed through a practical, evidence-led decision rather than an absolute rule. The main benefits are meaningful, but the costs and risks need safeguards. A carefully scoped trial, clear responsibilities, and a review of outcomes offer a sensible way to decide what should happen next.
+On balance, remote work offers substantial benefits for roles that can be performed effectively away from the office, provided that teams deliberately support collaboration and healthy boundaries.

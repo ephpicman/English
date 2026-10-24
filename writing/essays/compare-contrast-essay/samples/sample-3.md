@@ -1,35 +1,35 @@
-# Compare renting and buying a home
+# Online learning: compare contrast essay
 
-*IELTS-style practice response. Adapt the argument to the exact task wording.*
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
 ## Before writing
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Use the same criteria to compare both options and avoid describing one in detail while barely discussing the other.
 
 ## Essay structure
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+The comparison is organised by shared criteria rather than two unrelated lists.
 
 ## Introduction and comparison basis
 
-Although renting and buying a home can serve similar goals, they differ in flexibility, cost, access, and the type of experience they provide. A fair comparison should examine these dimensions rather than assume that one option is best for every person or situation.
+The choice between different approaches to online learning depends on what people need and which constraints matter most. This essay compares the options through flexibility, access, and practical limitations.
 
 ## Criterion 1: both subjects
 
-The most convincing approach is to compare outcomes against the same criteria: accessibility, effectiveness, cost, and long-term sustainability. A limited pilot can reveal trade-offs that are not obvious in theory. The results should be shared transparently, including drawbacks and uncertainty, so the decision can be revised if the evidence does not support the original expectation.
+Online learning offers flexible timing and removes travel, while classroom learning provides face-to-face interaction and a shared physical learning environment.
 
 ## Criterion 2: both subjects
 
-The most convincing approach is to compare outcomes against the same criteria: accessibility, effectiveness, cost, and long-term sustainability. A limited pilot can reveal trade-offs that are not obvious in theory. The results should be shared transparently, including drawbacks and uncertainty, so the decision can be revised if the evidence does not support the original expectation.
+Online courses require students to manage their time and technology; classroom courses provide a fixed routine but may be less accessible to people with inflexible schedules.
 
 ## Synthesis and significance
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Course quality depends on how well the format matches the learning goal and whether students receive practice, feedback, and support.
 
 ## Conclusion
 
-In conclusion, the issue should be addressed through a practical, evidence-led decision rather than an absolute rule. The main benefits are meaningful, but the costs and risks need safeguards. A carefully scoped trial, clear responsibilities, and a review of outcomes offer a sensible way to decide what should happen next.
+Neither option is automatically best in every setting. The more suitable choice depends on the intended outcome, available resources, and the needs of the people affected.
 
 ## Final IELTS checklist
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Make comparisons explicit, use parallel criteria, and ensure the conclusion synthesises rather than repeats the introduction.

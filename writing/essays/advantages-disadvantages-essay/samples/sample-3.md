@@ -1,27 +1,27 @@
-# Are electric buses a good investment?
+# Online learning: advantages disadvantages essay
 
-*IELTS-style practice response. Adapt the argument to the exact task wording.*
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
 ## Introduction and paraphrase
 
-The case for electric buses a good investment depends on both immediate benefits and long-term costs. This essay argues that the option can be worthwhile when implementation is planned carefully, performance is monitored, and the people affected have a meaningful way to provide feedback.
+The growing use of online learning has prompted debate about its effects. It offers meaningful benefits, but it also creates challenges that should be considered before a policy or personal choice is made.
 
 ## Overall judgement if the prompt asks which side outweighs the other
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Online learning is a positive development when courses are designed for interaction and institutions provide alternatives or support for learners who face access barriers.
 
 ## Advantages
 
-A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
+Online learning can make courses available to people who live far from educational institutions or have work and family responsibilities. Recorded materials can be revisited, and digital resources may support learners who need to study at different times.
 
 ## Disadvantages
 
-A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
+It can also increase isolation and reduce immediate feedback. Learners need reliable internet, suitable devices, and a quiet place to study, so online access is not equally convenient for everyone.
 
 ## Evaluation if required
 
-The most convincing approach is to compare outcomes against the same criteria: accessibility, effectiveness, cost, and long-term sustainability. A limited pilot can reveal trade-offs that are not obvious in theory. The results should be shared transparently, including drawbacks and uncertainty, so the decision can be revised if the evidence does not support the original expectation.
+The advantages are strongest when access and implementation are planned carefully. The disadvantages become more serious when decision-makers assume that one arrangement works equally well for everyone. Some argue that online courses are inherently less effective because students lose classroom interaction. That risk is real for poorly designed courses, but it does not mean all online learning lacks discussion, practice, or feedback.
 
 ## Conclusion
 
-In conclusion, the issue should be addressed through a practical, evidence-led decision rather than an absolute rule. The main benefits are meaningful, but the costs and risks need safeguards. A carefully scoped trial, clear responsibilities, and a review of outcomes offer a sensible way to decide what should happen next.
+Overall, online learning is a positive development when courses are designed for interaction and institutions provide alternatives or support for learners who face access barriers.

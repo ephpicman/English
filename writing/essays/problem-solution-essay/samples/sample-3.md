@@ -1,35 +1,35 @@
-# How can workplaces reduce unnecessary meetings?
+# Online learning: problem solution essay
 
-*IELTS-style practice response. Adapt the argument to the exact task wording.*
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
 ## Before writing
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Identify the causes of the problem and match each proposed solution to a cause.
 
 ## Essay structure
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+The essay explains the problem before presenting practical responses.
 
 ## Introduction and problem framing
 
-Addressing orkplaces reduce unnecessary meetings requires more than a quick fix. The problem affects people and services in different ways, so an effective response should identify the main causes, combine practical measures, and evaluate whether the changes lead to lasting improvement.
+Online learning has become an important issue because it affects how people access services and organise everyday life. Addressing it requires identifying the main causes rather than relying on a single broad solution.
 
 ## Main problem or cause 1
 
-A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
+Learners can become disengaged when online courses offer long recordings but few opportunities to ask questions or practise.
 
 ## Main problem or cause 2 (if needed)
 
-A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
+Unequal access to devices, connectivity, and quiet study space can make participation difficult.
 
 ## Solutions matched to causes
 
-A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
+Course designers should include short interactive tasks, regular feedback, clear weekly milestones, and accessible materials. Institutions should identify learners who need device or connectivity support and offer in-person or low-bandwidth alternatives where feasible.
 
 ## Conclusion
 
-In conclusion, the issue should be addressed through a practical, evidence-led decision rather than an absolute rule. The main benefits are meaningful, but the costs and risks need safeguards. A carefully scoped trial, clear responsibilities, and a review of outcomes offer a sensible way to decide what should happen next.
+The issue can be managed more effectively when the response addresses both the immediate barriers and the conditions that allow them to continue. Course designers should include short interactive tasks, regular feedback, clear weekly milestones, and accessible materials. Institutions should identify learners who need device or connectivity support and offer in-person or low-bandwidth alternatives where feasible.
 
 ## Final IELTS checklist
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Make sure each solution addresses a stated cause, use clear links between ideas, and follow the exact task requirements.

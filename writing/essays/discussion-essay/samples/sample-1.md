@@ -1,35 +1,35 @@
-# Discuss whether homework should be reduced
+# Remote work: discussion essay
 
-*IELTS-style practice response. Adapt the argument to the exact task wording.*
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
 ## Before writing
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Present both views fairly before giving a personal position only if the prompt asks for one.
 
 ## Essay structure
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Each viewpoint is developed with reasoning, followed by a balanced conclusion.
 
 ## Introduction and issue framing
 
-There are credible arguments on both sides of the question of homework should be reduce. One view emphasises the potential benefits, while the other highlights costs and unintended effects. On balance, the best policy should reflect the evidence and adapt to local circumstances rather than apply a single rule everywhere.
+There are differing views about remote work. The debate reflects different priorities, and both positions have arguments that deserve consideration.
 
 ## Viewpoint 1 and reasoning
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Supporters argue that remote work expands flexibility, reduces commuting, and allows focused work. For some employees, it can make employment more accessible.
 
 ## Viewpoint 2 and reasoning
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Opponents point to weaker informal learning, social isolation, and unequal home environments. They also note that collaborative work may require more coordination when colleagues are not together.
 
 ## Your opinion (only if requested)
 
-The most convincing approach is to compare outcomes against the same criteria: accessibility, effectiveness, cost, and long-term sustainability. A limited pilot can reveal trade-offs that are not obvious in theory. The results should be shared transparently, including drawbacks and uncertainty, so the decision can be revised if the evidence does not support the original expectation.
+I believe hybrid or remote arrangements should be chosen according to the work and reviewed against clear outcomes, rather than treated as a universal benefit or problem.
 
 ## Conclusion
 
-In conclusion, the issue should be addressed through a practical, evidence-led decision rather than an absolute rule. The main benefits are meaningful, but the costs and risks need safeguards. A carefully scoped trial, clear responsibilities, and a review of outcomes offer a sensible way to decide what should happen next.
+Both sides identify real considerations. A reasonable approach should protect the benefits while addressing the practical risks and the needs of people affected.
 
 ## Final IELTS checklist
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Check that both viewpoints receive adequate development and that your own opinion is included only when requested.

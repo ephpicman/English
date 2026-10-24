@@ -1,27 +1,27 @@
-# Should employees work remotely part of the week?
+# Public transport investment: advantages disadvantages essay
 
-*IELTS-style practice response. Adapt the argument to the exact task wording.*
+*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
 
 ## Introduction and paraphrase
 
-Whether employees work remotely part of the week is an important public question because it affects everyday choices, access, and the use of limited resources. This essay takes the position that a carefully planned approach is beneficial, provided that practical costs and the needs of different groups are considered.
+The growing use of public transport investment has prompted debate about its effects. It offers meaningful benefits, but it also creates challenges that should be considered before a policy or personal choice is made.
 
 ## Overall judgement if the prompt asks which side outweighs the other
 
-The key point is that good policy depends on both sound reasoning and workable implementation. Decision-makers should define the intended outcome, involve the people affected, and use relevant evidence instead of relying on assumptions. This makes it possible to preserve what works, correct weaknesses, and avoid treating one example as proof that the same solution will succeed everywhere.
+Public transport should receive priority where it can meet demonstrated travel needs, but road maintenance and essential vehicle access must remain part of a balanced plan.
 
 ## Advantages
 
-A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
+Reliable buses and trains can move many people using less road space per passenger and give residents an alternative to driving. Better connections can also make employment, education, and essential services more accessible to people who do not own a car.
 
 ## Disadvantages
 
-A major consideration is the effect on people who need a reliable and affordable option. Clear arrangements can save time, reduce uncertainty, and make access more predictable. For example, a school, employer, or local authority could test the approach with a representative group and ask participants about convenience, cost, and barriers. Such evidence would show whether the expected benefit is real and for whom it matters most.
+Roads remain necessary for emergency services, deliveries, and communities where public transport is infrequent. Poorly planned transit investments can be expensive and underused, particularly if routes do not match where people live and work.
 
 ## Evaluation if required
 
-The most convincing approach is to compare outcomes against the same criteria: accessibility, effectiveness, cost, and long-term sustainability. A limited pilot can reveal trade-offs that are not obvious in theory. The results should be shared transparently, including drawbacks and uncertainty, so the decision can be revised if the evidence does not support the original expectation.
+The advantages are strongest when access and implementation are planned carefully. The disadvantages become more serious when decision-makers assume that one arrangement works equally well for everyone. Those who favour road expansion point out that congestion can impose real costs on workers and businesses. However, adding road capacity alone may not solve congestion if travel demand changes in response.
 
 ## Conclusion
 
-In conclusion, the issue should be addressed through a practical, evidence-led decision rather than an absolute rule. The main benefits are meaningful, but the costs and risks need safeguards. A carefully scoped trial, clear responsibilities, and a review of outcomes offer a sensible way to decide what should happen next.
+Overall, public transport should receive priority where it can meet demonstrated travel needs, but road maintenance and essential vehicle access must remain part of a balanced plan.
