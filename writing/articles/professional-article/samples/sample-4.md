@@ -1,39 +1,39 @@
-# Making cross-functional projects easier to govern
-*Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
-## Before you draft
-Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
-## Draft structure
-The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
+# Designing a more reliable customer-support knowledge base
+
+*Illustrative professional article. Adapt the process to the actual support platform and product.*
+
 ## Title
-**Making cross-functional projects easier to govern**
+
+**Designing a more reliable customer-support knowledge base**
+
 ## Executive opening
-Cross-functional projects can lose momentum when teams use different definitions of progress, dependencies are hidden, or decisions are recorded only in meeting conversations. Good governance provides a shared view of goals, risks, owners, and decision rights without turning every task into a committee process. The right structure is the lightest one that makes important trade-offs visible and allows the project to respond to change.
+
+A knowledge base is useful only when support staff can find the right answer and trust that it is current. Adding more articles does not necessarily improve service; outdated instructions can make a team slower and leave customers repeating steps that no longer work. Reliable knowledge management depends on ownership, clear structure, and a feedback loop from real support cases.
+
 ## Context, definitions, and scope
-This article addresses internal projects involving several teams and a shared delivery goal. It is not a substitute for formal governance required by regulated or high-risk work. The examples are illustrative and should be adapted to the organisation’s approval structure.
+
+This article concerns internal and customer-facing help articles for a product or service. A knowledge base may include troubleshooting guides, policy explanations, account procedures, and escalation instructions. The key distinction is between a document repository and a usable knowledge system. A repository stores information; a knowledge system makes the correct information discoverable, accurate, and safe to apply. Product-specific technical details and policy statements must be checked against the current source of truth.
+
 ## Professional insight 1
-A concise project record should identify the intended outcome, scope, milestones, accountable owner, and measures of success. Teams should distinguish a completed activity from an achieved outcome: holding a workshop is an activity, while a decision made from the workshop may be an outcome. This distinction keeps reporting connected to purpose.
+
+Start with the questions users actually ask. Ticket categories, search terms, and support-agent feedback can reveal where guidance is missing or difficult to understand. However, repeated tickets should be reviewed before creating a new article: the cause may be an unclear product interface, an inconsistent policy, or a process that needs to change. An article can explain a workaround, but it should not conceal a recurring product defect.
+
+Each article should have a clear audience, purpose, prerequisites, steps, and expected result. If a step can fail, explain the common error and what to do next. Use specific titles that match the language users are likely to search for, and avoid combining unrelated issues in one long document. Screenshots can help, but they should be current, labelled, and accompanied by text that remains meaningful if the image is unavailable.
+
 ## Professional insight 2
-Governance should match the scale and risk of the project. A small internal improvement may need a weekly dependency review and a concise decision log, while a high-risk change may require formal approvals and evidence of testing. The structure should be explicit enough that participants know who can decide, who must be consulted, and when a concern needs escalation. This prevents meetings from becoming a substitute for decision rights.,A simple dashboard can show milestone status, unresolved decisions, and dependencies, but it should link to the underlying records. Status labels should have shared definitions, and a change from green to amber should include the reason and next action. This gives stakeholders a useful summary without losing the context required to challenge or revise a plan.
-Dependencies need an owner and a date for review. A risk log that lists concerns without an action can become a passive record. Similarly, decision logs should state what was decided, why, and which assumptions might cause the decision to be revisited. Not every issue requires escalation, but material changes need a clear route.
+
+Ownership prevents silent decay. Every article should have a responsible team or owner, a review trigger, and a way for users to report a problem. Some content should be reviewed when a product release changes a workflow; policy articles may need review when the underlying rule changes. A fixed review date is useful, but it is not a substitute for checking content after a known change.
+
+Feedback should lead to a decision. A report that a step is wrong should be investigated against the product or policy, not accepted automatically. Similarly, an article with few views may still be essential for a rare but serious problem. Measures such as search success, repeat contacts, and user feedback are helpful only when interpreted in context.
+
 ## Recommendations and application
-Agree a small set of shared status definitions, review dependencies weekly, and record decisions in a location accessible to all relevant teams. Use escalation for choices that exceed the project owner’s authority or materially change scope, cost, or risk.
+
+Audit a small set of high-use articles first. Confirm that each matches the current product, simplify the structure, identify an owner, and add a review trigger. Ask a colleague unfamiliar with the issue to follow the instructions without verbal help. Then create a simple process for reporting errors and prioritising updates. Keep historical versions where the organisation needs traceability, but make the current version unmistakable.
 
 ## Risks, limitations, and open questions
 
-Too much reporting can consume the time needed to deliver the work. Too little can leave teams surprised by a dependency. Review the governance routine with participants and remove fields that do not support decisions.
+A knowledge base cannot replace specialist judgment for unusual or high-risk cases. Instructions should clearly state when to stop and escalate, especially where account security, payments, or personal information are involved. Public articles must not expose internal procedures that could create security risks.
 
 ## Conclusion
 
-Review a sample of resolved cases with agents and check whether the article’s steps match the product as it currently behaves. This practical review can identify outdated screenshots, missing prerequisites, or an escalation instruction that is too vague to use under pressure.
-
-Governance can be improved by making decision rights explicit at the start of a project. The team should know which choices the project owner can make, which require sponsor approval, and which need specialist review. This prevents decisions from being delayed because participants assume someone else has authority. It also protects the team from making a change that exceeds its remit. A concise decision log should record the choice, rationale, owner, and any condition that would trigger reconsideration. This is particularly valuable when team membership changes during a long project.
-
-Good governance is not paperwork for its own sake. It helps teams understand the same priorities, act on risks early, and preserve the reasoning behind important decisions.
-
-## Language and quality review
-
-Check that recommendations follow from the explanation, that claims are supported by appropriate evidence, and that no local outcome is implied without verification. Remove repetition and ensure each section adds a distinct point.
-
-## IELTS-oriented practice note
-
-For language practice, notice the formal register, defined scope, and distinction between recommendations and limitations. The article’s professional usefulness takes priority over complicated vocabulary.
+A reliable knowledge base combines accurate content with discoverability and clear ownership. The goal is not to publish the largest number of articles, but to help users reach a safe, correct next step.

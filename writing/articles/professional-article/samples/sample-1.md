@@ -1,43 +1,39 @@
-# Designing operational metrics that support decisions
-*Illustrative professional article. Confirm organisation-specific evidence and technical claims before publication.*
-## Before you draft
-Identify the intended professional reader, the decision or practice the article should improve, and the evidence required to support its claims.
-## Draft structure
-The article defines its scope, develops two distinct insights, offers practical recommendations, and identifies limitations.
+# Designing project status reports that support decisions
+
+*Illustrative professional article. Adapt the process to the organisation’s actual governance and reporting needs.*
+
 ## Title
-**Designing operational metrics that support decisions**
+
+**Designing project status reports that support decisions**
+
 ## Executive opening
-Operational metrics are most useful when they help a team choose an action, not simply describe activity. A reporting system should connect measures to a decision, make definitions consistent, and expose limitations that could change interpretation. This article outlines a practical way to select measures, establish ownership, and review whether a dashboard is still useful. The examples are illustrative; teams should validate definitions and data quality before using metrics to assess performance.
+
+A useful project status report helps a reader decide where attention is needed. It should show what has changed, which outcomes remain at risk, and what decision or action is required. Reports that simply list completed tasks can create an impression of progress while hiding dependencies that may affect delivery. A better approach connects evidence, interpretation, and action without overstating certainty.
+
 ## Context, definitions, and scope
-An operational metric is a defined measure used to monitor a process or outcome. The intended reader is a team lead who uses recurring reports to allocate effort or identify problems. This discussion covers internal service operations rather than financial or regulated reporting, where additional controls may apply.
+
+This article considers status reporting for a cross-functional project with several workstreams and a shared delivery date. A “status report” here means a concise record used by project leads and decision-makers, not a detailed task log or financial statement. The report should draw from agreed source records, use consistent definitions, and distinguish confirmed information from estimates. It cannot replace conversations about complex risks, and it should not attempt to reproduce every detail held by workstream owners.
+
 ## Professional insight 1
 
-Start with the decision. If the question is whether requests are being resolved reliably, a count of tickets created is not enough. The team may need to distinguish active handling time from waiting time, separate urgent from routine requests, and record when a request is reopened. Each measure needs a definition, source, refresh schedule, and owner.
+The first design principle is to report against outcomes rather than activity alone. A team may complete several tasks while a key dependency remains unresolved. For example, content migration might be finished, but launch readiness may still depend on authentication testing or an accessibility review. A report that says only “content work complete” is technically accurate but insufficient for a launch decision. A more useful summary identifies the completed work, the remaining dependency, its owner, and the date when new evidence is expected.
+
+This does not mean every report needs a large dashboard. A short narrative supported by a few consistent indicators may be enough. Each indicator should have a clear definition and a source. If teams use different meanings for “complete,” the report can appear internally inconsistent even when the underlying work is progressing normally.
 
 ## Professional insight 2
 
-A practical review can begin with a decision map: what question does each indicator answer, who acts on it, and what evidence would change that action? If no one can name a decision or an owner, the measure may be useful background information but should not automatically occupy dashboard space. It is also worth recording whether the metric is leading or lagging: a leading signal may help a team intervene earlier, while a lagging measure shows an outcome after the work has occurred. Both can be useful, but they answer different questions.,Teams should test definitions using real examples rather than relying only on a label. Ask two analysts to calculate the same measure independently and compare the result. Differences may reveal an unclear date boundary, inconsistent treatment of reopened requests, or a missing exclusion rule. Document the agreed definition and keep a version history when it changes.
+The second principle is to separate facts, forecasts, and decisions. A confirmed test result is different from a forecast that testing will finish on Friday, and both are different from a decision to accept a known limitation. Mixing these categories encourages readers to treat assumptions as settled. Labels such as “confirmed,” “forecast,” and “decision required” can make the distinction visible without lengthy explanations.
 
-A dashboard can create false confidence if the underlying data is incomplete or categories change without notice. Teams should show missingness and define the limits of comparison. A rise in reported incidents may reflect better detection rather than worsening service, so a metric should be interpreted alongside context and qualitative evidence.
+Reports should also identify changes since the previous update. Readers need to know what is new: a dependency has slipped, a risk has become more likely, or a decision has removed a blocker. Repeating unchanged background every week makes important movement harder to see. A stable format helps comparison, while a short change summary directs attention to the items that need review.
 
 ## Recommendations and application
 
-Before adding a metric, write down the decision it supports, who will act on it, and what would trigger a review. Pilot the measure with users, test a few records against the source, and remove indicators that do not change decisions.
+Agree on the audience and the decisions the report must support before choosing a format. Define the status terms, identify the source of each figure, and assign an owner to each unresolved action. Keep the summary brief, then link to detailed records for readers who need them. Test the report with a decision-maker who was not involved in preparing it: can they identify the main risk and the next decision without asking for a separate explanation?
 
 ## Risks, limitations, and open questions
 
-Metrics can encourage gaming when people are rewarded for a number without considering quality. Small samples can also fluctuate for reasons unrelated to performance. Keep measures proportional to the risk, review unintended incentives, and avoid comparing teams whose work differs materially.
+A concise report can hide nuance if the project is highly uncertain or the measures are poorly chosen. Qualitative explanation may be needed alongside indicators. Teams should not invent precision to make a report look rigorous, and they should escalate material issues rather than soften them to preserve a favourable status label.
 
 ## Conclusion
 
-Teams can also review the usefulness of a metric after it has been in use for a few reporting cycles. Ask whether the indicator changed a decision, prompted an investigation, or simply repeated information already available elsewhere. If it does not support an action, it may belong in reference material rather than the main dashboard. This review should include people who use the measure and those responsible for producing it, because each group may notice different costs. A clear definition and an owner make the metric easier to maintain, but continued relevance is what justifies keeping it.
-
-A useful metric has a clear definition, a decision owner, and a known limitation. A smaller set of trustworthy measures can support better action than a crowded dashboard that no one knows how to interpret.
-
-## Language and quality review
-
-Check that recommendations follow from the explanation, that claims are supported by appropriate evidence, and that no local outcome is implied without verification. Remove repetition and ensure each section adds a distinct point.
-
-## IELTS-oriented practice note
-
-For language practice, notice the formal register, defined scope, and distinction between recommendations and limitations. The article’s professional usefulness takes priority over complicated vocabulary.
+A strong status report is a decision aid, not a catalogue of activity. Consistent definitions, visible uncertainty, and clear ownership make it easier for leaders to focus attention where it can change the outcome.
