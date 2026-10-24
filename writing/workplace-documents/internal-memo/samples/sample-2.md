@@ -1,46 +1,48 @@
-# Internal memo: New request intake process
+# Internal memo: revised process for customer escalations
 
-*Illustrative memo. Confirm the facts, approval status, and action owners before circulation.*
+*Illustrative memo. Confirm policy and escalation authority before issuing as an instruction.*
 
 ## Plan first
 
-The memo states the purpose and requested action, then gives enough context for a decision.
+The memo asks teams to adopt a clearer escalation record and explains what remains unchanged.
 
 ## Document structure
 
-Keep the analysis proportionate to the decision being requested.
+State the requested action first, then the reason, rules, and responsibilities.
 
 ## Memo header
 
-- **To:** Relevant team leads
-- **From:** Jordan Lee
-- **Date:** 4 November 2026
-- **Subject:** New request intake process
+- **To:** Customer support team
+- **From:** Support operations manager
+- **Date:** 24 October 2026
+- **Subject:** Recording and escalating unresolved customer cases
 
 ## Purpose and requested action
 
-Agree a consistent way to receive and assign internal service requests. The requested action is to approve the recommendation below or identify what additional information is needed.
+From 2 November, use the existing case record to identify the owner, next action, and escalation reason for every unresolved case that requires specialist input.
 
 ## Background and facts
 
-Requests currently arrive through email and a shared spreadsheet. Duplicate entries and missing ownership make it difficult to see what needs attention.
+Recent handovers have shown that the next step is not always visible in the case summary. The existing escalation policy remains in force; this memo clarifies the information needed for a handover.
 
 ## Analysis or key points
 
-A single queue with required owner, status, and next-action fields would improve visibility. Immediate automation is not recommended until categories and exception routes are stable.
+A status such as “waiting” does not explain who is being waited on or when the case should be reviewed. The record should state the dependency and the next follow-up date. Do not include passwords, payment details, or unnecessary personal information in notes.
 
 ## Recommendation or decision
 
-Pilot one intake queue for the facilities request category for four weeks.
+Adopt the clarified record format and review it during the weekly team meeting. Cases involving safety, account security, or other urgent risks must follow the existing immediate escalation route.
 
 ## Actions, owners, and timing
 
-Jordan: configure fields by 6 November. Team leads: agree status definitions by 5 November. Operations manager: review the pilot after four weeks.
+- Team leads: explain the fields at the next shift handover.
+- Agents: update open cases by 4 November.
+- Support operations: review a sample of records on 6 November and report any recurring ambiguity.
 
 ## Final quality check
 
-Check that the requested decision is explicit, all facts are current, and the memo distinguishes proposal from approved policy.
+Confirm that the memo does not conflict with the formal escalation policy.
 
 ## IELTS-oriented language practice
 
-The memo uses a neutral, concise register and links evidence to a recommendation. Follow the recipient organisation’s conventions for headings and sign-off.
+The memo gives a specific action, explains why it matters, and preserves the existing escalation rules.

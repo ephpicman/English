@@ -1,46 +1,49 @@
-# Internal memo: Portal launch readiness
+# Internal memo: Customer portal launch readiness
 
-*Illustrative memo. Confirm the facts, approval status, and action owners before circulation.*
+*Illustrative memo. Confirm facts, approval status, and action owners before circulation.*
 
 ## Plan first
 
-The memo states the purpose and requested action, then gives enough context for a decision.
+The memo states the decision needed and gives enough context for the release lead to act.
 
 ## Document structure
 
-Keep the analysis proportionate to the decision being requested.
+Separate confirmed work, unresolved dependencies, the recommendation, and actions.
 
 ## Memo header
 
-- **To:** Relevant team leads
+- **To:** Release lead and workstream owners
 - **From:** Morgan Chen
-- **Date:** 12 November 2026
-- **Subject:** Portal launch readiness
+- **Date:** 24 October 2026
+- **Subject:** Readiness review for customer portal
 
 ## Purpose and requested action
 
-Confirm whether the account portal is ready for the planned release window. The requested action is to approve the recommendation below or identify what additional information is needed.
+Confirm whether the portal can proceed to the planned internal review and identify any conditions that must be met before release.
 
 ## Background and facts
 
-The navigation and content review are complete. Accessibility testing and one authentication dependency remain open, so the release date is not yet confirmed.
+Navigation and priority content updates are complete. Functional checks have been run in the test environment. Authentication configuration and accessibility review remain open and require evidence from the responsible teams.
 
 ## Analysis or key points
 
-Proceeding before the dependency and accessibility checks pass could create avoidable user problems. Moving the date may affect the communications plan, but the risk is visible early enough to manage.
+The current evidence supports continuing preparation, but it does not support an unconditional release decision. A late authentication change could require regression testing, while accessibility findings need to be classified before the release risk is understood.
 
 ## Recommendation or decision
 
-Keep the release gated on the two open checks and confirm the decision at the next readiness review.
+Keep the project at amber status until both dependencies have been reviewed. Do not change the release status based on a forecast alone.
 
 ## Actions, owners, and timing
 
-Morgan: obtain authentication status by 5 November. Priya: complete accessibility review by 6 November. Release lead: update the schedule after both checks.
+- Identity representative: confirm configuration and test slot by 28 October.
+- Accessibility lead: classify findings and identify blockers by 29 October.
+- Project coordinator: update the readiness checklist by 30 October.
+- Release lead: review evidence and decide whether to proceed on 2 November.
 
 ## Final quality check
 
-Check that the requested decision is explicit, all facts are current, and the memo distinguishes proposal from approved policy.
+Verify dates, owners, and status against the current project tracker before sending.
 
 ## IELTS-oriented language practice
 
-The memo uses a neutral, concise register and links evidence to a recommendation. Follow the recipient organisation’s conventions for headings and sign-off.
+The memo separates known facts from the recommendation and makes each action accountable.

@@ -1,46 +1,49 @@
-# Internal memo: Monthly reporting definitions
+# Internal memo: preparation for the annual supplier review
 
-*Illustrative memo. Confirm the facts, approval status, and action owners before circulation.*
+*Illustrative memo. Verify supplier records and confidentiality requirements before circulation.*
 
 ## Plan first
 
-The memo states the purpose and requested action, then gives enough context for a decision.
+The memo coordinates preparation and clarifies what evidence each owner must provide.
 
 ## Document structure
 
-Keep the analysis proportionate to the decision being requested.
+Put the purpose and deadline first, then list the records and responsibilities.
 
 ## Memo header
 
-- **To:** Relevant team leads
-- **From:** Daniel Okafor
-- **Date:** 18 November 2026
-- **Subject:** Monthly reporting definitions
+- **To:** Procurement and service owners
+- **From:** Procurement manager
+- **Date:** 24 October 2026
+- **Subject:** Inputs required for annual supplier review
 
 ## Purpose and requested action
 
-Resolve inconsistent definitions used in the monthly performance report. The requested action is to approve the recommendation below or identify what additional information is needed.
+Please submit the requested supplier-review inputs by 6 November so that the review meeting can focus on decisions rather than collecting missing records.
 
 ## Background and facts
 
-Two source systems use different meanings for the same category label. Combining them without clarification could make the totals misleading.
+The annual review considers service delivery, open issues, contract dates, and any proposed changes to the relationship. The review should use current records and distinguish confirmed performance information from estimates or informal feedback.
 
 ## Analysis or key points
 
-The team needs source owners to confirm definitions before merging values. Interim reports should show the fields separately and describe the limitation.
+Each service owner should summarise delivery against agreed requirements, open issues, and evidence of follow-up. Procurement will confirm contract terms and renewal dates. Do not include confidential information beyond what the review group is authorised to see.
 
 ## Recommendation or decision
 
-Keep the fields separate until the source owners approve a shared definition.
+Use the shared review template and link to source records rather than creating separate copies of the same information. Flag any supplier issue that requires a decision or formal escalation.
 
 ## Actions, owners, and timing
 
-Daniel: circulate examples by 20 November. Source owners: confirm definitions by 25 November. Analytics lead: update the data dictionary after approval.
+- Service owners: submit service summary and open issues by 6 November.
+- Procurement: verify contract dates and obligations by 9 November.
+- Procurement manager: circulate the consolidated pack by 11 November.
+- Review group: meet on 13 November.
 
 ## Final quality check
 
-Check that the requested decision is explicit, all facts are current, and the memo distinguishes proposal from approved policy.
+Check that all records are current and shared only with authorised recipients.
 
 ## IELTS-oriented language practice
 
-The memo uses a neutral, concise register and links evidence to a recommendation. Follow the recipient organisation’s conventions for headings and sign-off.
+The memo uses deadlines and clear ownership to prepare a decision meeting.

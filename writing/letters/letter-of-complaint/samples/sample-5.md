@@ -1,41 +1,44 @@
-# Letter of complaint
+# Letter of complaint: repair not completed as scheduled
 
-*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
+*Illustrative complaint letter. Confirm the maintenance ticket and appointment history before sending.*
 
 ## Plan first
 
-The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
+Document the missed appointment and request a reliable next step.
 
 ## Letter structure
 
-Keep the timeline clear and attach only relevant supporting evidence.
+Focus on the agreed visit, what occurred, and the impact on the household.
 
 ## Greeting and clear purpose
 
-Dear Sir or Madam,
+Dear Property Services Manager,
 
-I am writing to raise a concern about the matter identified below and to request a review.
+I am writing to raise a concern about a scheduled repair visit that did not take place.
 
 ## Relevant purchase, service, or event details
 
-Event registration confirmation for 17 September
+Maintenance ticket MT-2381 for the loose handrail in building C; appointment window 10 a.m.–12 p.m. on 16 October.
 
 ## Factual account and evidence
 
-The registration page stated that the workshop included a printed workbook. No workbook was available at the event, and staff said they had not received the final materials list.
+I stayed at the property during the stated window, but no technician arrived and I did not receive a cancellation notice. The ticket remains marked as scheduled in the portal as of this morning.
 
 ## Impact and attempted resolution
 
-The missing workbook made it harder to follow the exercises and take notes. I understand that last-minute issues can occur, but the event information did not mention that materials might be unavailable.
+The handrail remains loose and is used daily by residents. I understand appointments can change, but without a message I cannot plan around the visit or know whether another booking is required.
 
 ## Specific remedy requested
 
-Please send a digital copy of the workbook if one is available and clarify whether the event information will be corrected for future participants.
+Please confirm the current status and provide a new appointment window. If the repair needs to be reassessed, please let me know whether a further report is necessary.
 
 ## Closing and next step
 
-Thank you for considering this feedback. Yours faithfully, Daniel
+Thank you for your attention. I would appreciate an update within three working days.
+
+Yours sincerely,  
+Alex Turner
 
 ## Final review
 
-Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
+Verify the appointment record and current status before sending.

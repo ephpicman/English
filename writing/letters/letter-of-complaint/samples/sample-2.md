@@ -1,41 +1,44 @@
-# Letter of complaint
+# Letter of complaint: delayed refund
 
-*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
+*Illustrative complaint letter. Check the retailer’s return policy and tracking record before sending.*
 
 ## Plan first
 
-The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
+State the return history, explain the uncertainty, and ask for a clear status update.
 
 ## Letter structure
 
-Keep the timeline clear and attach only relevant supporting evidence.
+Use the reference number and delivery date to help the recipient investigate.
 
 ## Greeting and clear purpose
 
-Dear Sir or Madam,
+Dear Returns Manager,
 
-I am writing to raise a concern about the matter identified below and to request a review.
+I am writing to ask for a review of the delayed refund for my returned order.
 
 ## Relevant purchase, service, or event details
 
-Invoice INV-8841, issued 15 September
+Return reference RMA-7731; parcel delivered to the returns centre on 2 October.
 
 ## Factual account and evidence
 
-The invoice includes a late fee even though the payment confirmation shows that the amount was paid on 12 September, before the due date listed on the original invoice.
+The tracking record shows that the parcel was delivered on the date above. I included the completed return form and retained the courier receipt. I have not received a refund confirmation or a request for additional information.
 
 ## Impact and attempted resolution
 
-The account now appears to have an outstanding balance, which may affect the next order. I contacted accounts on 18 September but have not received confirmation that the payment has been matched.
+Without an update, I cannot tell whether the return has been processed or whether anything further is required. I have checked the tracking information and order confirmation but have not yet received a status response.
 
 ## Specific remedy requested
 
-Please review the payment record, remove the fee if it was applied in error, and send an updated statement showing the account balance.
+Please confirm whether the return has been registered and provide the expected refund timeframe. If the parcel cannot be located, please tell me which documents would help resolve the issue.
 
 ## Closing and next step
 
-I have attached the payment confirmation and original invoice. I look forward to your response. Yours sincerely, Morgan
+Thank you for your assistance. I look forward to hearing from you.
+
+Yours faithfully,  
+Jamie Patel
 
 ## Final review
 
-Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
+Verify the return reference and any policy deadlines before sending.

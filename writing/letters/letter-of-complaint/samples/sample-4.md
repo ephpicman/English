@@ -1,41 +1,44 @@
-# Letter of complaint
+# Letter of complaint: incorrect charge on a service bill
 
-*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
+*Illustrative complaint letter. Verify the service agreement and invoice before sending.*
 
 ## Plan first
 
-The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
+Identify the disputed line and request an explanation or correction rather than assuming an error.
 
 ## Letter structure
 
-Keep the timeline clear and attach only relevant supporting evidence.
+Include enough information for the accounts team to compare the bill with the agreed service.
 
 ## Greeting and clear purpose
 
-Dear Sir or Madam,
+Dear Accounts Team,
 
-I am writing to raise a concern about the matter identified below and to request a review.
+I am writing to query an additional charge on my latest service bill and request a review.
 
 ## Relevant purchase, service, or event details
 
-Service ticket SR-1192, submitted 4 August
+Invoice SV-8821, dated 15 October 2026, for service agreement SA-118.
 
 ## Factual account and evidence
 
-I reported that the shared printer repeatedly stopped during multi-page jobs. The ticket was marked resolved on 6 August, but the same problem occurred again during the next print run.
+The bill includes a charge for an additional support visit. The service schedule I received lists one visit for the period, and my calendar record shows that one visit took place. I can provide the schedule and appointment confirmation for comparison.
 
 ## Impact and attempted resolution
 
-The repeated failure has delayed preparation of materials. I followed the suggested restart procedure and recorded the error message, but the issue remains.
+The discrepancy means that I cannot approve the invoice as submitted. I have reviewed the listed services but have not found an authorisation for the additional charge.
 
 ## Specific remedy requested
 
-Please reopen the ticket and arrange a technical check of the printer and its driver configuration. I can provide the error details and the times when the failures occurred.
+Please confirm what the charge relates to and issue a corrected invoice if it was added in error. If it was authorised separately, please provide the relevant approval record.
 
 ## Closing and next step
 
-Thank you for reviewing the case. I would appreciate an update on the next diagnostic step. Yours sincerely, Alex
+Thank you for reviewing this matter. I look forward to your response.
+
+Yours faithfully,  
+Riley Chen
 
 ## Final review
 
-Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
+Check the invoice number, service period, and terms before sending.

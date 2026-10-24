@@ -1,46 +1,49 @@
-# Internal memo: Community workshop venue
+# Internal memo: pilot of a new meeting-room booking process
 
-*Illustrative memo. Confirm the facts, approval status, and action owners before circulation.*
+*Illustrative memo. Confirm the booking platform and room inventory before circulation.*
 
 ## Plan first
 
-The memo states the purpose and requested action, then gives enough context for a decision.
+The memo announces a limited pilot and explains what participants should do differently.
 
 ## Document structure
 
-Keep the analysis proportionate to the decision being requested.
+Describe the purpose, pilot scope, responsibilities, and feedback route.
 
 ## Memo header
 
-- **To:** Relevant team leads
-- **From:** Priya Nair
-- **Date:** 21 November 2026
-- **Subject:** Community workshop venue
+- **To:** Staff booking shared meeting rooms
+- **From:** Workplace services
+- **Date:** 24 October 2026
+- **Subject:** Four-week pilot for meeting-room bookings
 
 ## Purpose and requested action
 
-Confirm the venue and access arrangements before promoting the community workshop. The requested action is to approve the recommendation below or identify what additional information is needed.
+From 2 November, use the shared booking calendar for the selected meeting rooms during the four-week pilot. Please record the meeting time, expected attendance, and any equipment needs.
 
 ## Background and facts
 
-The workshop materials are ready, but the preferred venue has not confirmed step-free access and room availability.
+The current process relies on messages and informal checks, which can make availability difficult to confirm. The pilot tests whether a shared calendar improves visibility without adding unnecessary administration.
 
 ## Analysis or key points
 
-Publishing before logistics are confirmed could mislead participants. A backup venue is available, but it requires confirmation of capacity and travel information.
+The calendar is the source of truth for the rooms included in the pilot. If a booking needs to change, update the event rather than creating a second entry. Equipment requests should be listed in the notes, but specialist equipment still requires confirmation from workplace services.
 
 ## Recommendation or decision
 
-Set a final confirmation deadline and use the backup venue if the preferred site cannot confirm access.
+Use the pilot process for the selected rooms and report booking conflicts or missing information through the service desk. Existing rules for urgent room changes and accessible arrangements remain in place.
 
 ## Actions, owners, and timing
 
-Priya: contact preferred venue by 23 November. Facilities coordinator: verify backup access by 24 November. Outreach lead: publish final details by 26 November.
+- Staff: use the calendar from 2 November.
+- Workplace services: monitor conflicts weekly.
+- Pilot owner: collect feedback by 27 November.
+- Manager: decide whether to expand the process after review.
 
 ## Final quality check
 
-Check that the requested decision is explicit, all facts are current, and the memo distinguishes proposal from approved policy.
+Confirm the rooms in scope and the correct calendar link before sending.
 
 ## IELTS-oriented language practice
 
-The memo uses a neutral, concise register and links evidence to a recommendation. Follow the recipient organisation’s conventions for headings and sign-off.
+The memo makes the pilot boundary and expected behaviour explicit.

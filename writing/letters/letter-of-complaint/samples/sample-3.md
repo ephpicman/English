@@ -1,41 +1,44 @@
-# Letter of complaint
+# Letter of complaint: repeated noise in a residential building
 
-*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
+*Illustrative complaint letter. Confirm dates and building procedures before sending.*
 
 ## Plan first
 
-The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
+Describe observable events and request a practical response without making unsupported allegations.
 
 ## Letter structure
 
-Keep the timeline clear and attach only relevant supporting evidence.
+Give the chronology and impact, then specify the action requested.
 
 ## Greeting and clear purpose
 
-Dear Sir or Madam,
+Dear Building Manager,
 
-I am writing to raise a concern about the matter identified below and to request a review.
+I am writing to report repeated late-night noise near the rear entrance and to ask that the issue be investigated.
 
 ## Relevant purchase, service, or event details
 
-Booking reference BK-3015, reservation for 6 October
+The noise was observed at the rear entrance of 8 Linden Court on 12 and 14 October 2026.
 
 ## Factual account and evidence
 
-The confirmation email stated that the room would be available from 2 p.m. When I arrived, staff advised that it was not ready and asked me to wait until after 4 p.m.
+On both evenings, delivery vehicles arrived after 11 p.m. and remained idling while crates were unloaded. The noise was audible in bedrooms facing the courtyard. I have noted the approximate times but do not know whether the deliveries follow an approved schedule.
 
 ## Impact and attempted resolution
 
-The delay disrupted the schedule for a small workshop and required participants to wait in the reception area. I raised the issue with the desk at the time, but no alternative room was available.
+The disturbance has interrupted sleep for residents in the affected rooms. I have not approached the drivers directly because I do not know the arrangements with the delivery operator.
 
 ## Specific remedy requested
 
-Please explain why the confirmed room time was not met and advise whether a partial refund or credit is available under the booking terms.
+Could you contact the operator to ask whether deliveries can be scheduled earlier or unloading noise reduced? Please let residents know what steps are feasible and when the arrangement will be reviewed.
 
 ## Closing and next step
 
-I would appreciate a written response within seven working days. Yours faithfully, Priya
+Thank you for looking into this. I would appreciate an update within five working days.
+
+Yours sincerely,  
+A resident
 
 ## Final review
 
-Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
+Keep the account factual and verify dates before sending.

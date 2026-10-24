@@ -1,46 +1,48 @@
-# Internal memo: Staff training schedule
+# Internal memo: document accessibility checks
 
-*Illustrative memo. Confirm the facts, approval status, and action owners before circulation.*
+*Illustrative memo. Confirm the organisation’s accessibility policy and required standards before circulation.*
 
 ## Plan first
 
-The memo states the purpose and requested action, then gives enough context for a decision.
+The memo explains the expected workflow and identifies support available to staff.
 
 ## Document structure
 
-Keep the analysis proportionate to the decision being requested.
+State the change, explain the checks, and assign responsibility for implementation.
 
 ## Memo header
 
-- **To:** Relevant team leads
-- **From:** Amira Hassan
-- **Date:** 9 November 2026
-- **Subject:** Staff training schedule
+- **To:** Staff who prepare external documents
+- **From:** Communications lead
+- **Date:** 24 October 2026
+- **Subject:** Accessibility checks before publishing documents
 
 ## Purpose and requested action
 
-Confirm a training schedule that gives shift-based staff a fair opportunity to attend. The requested action is to approve the recommendation below or identify what additional information is needed.
+Beginning 2 November, include a document accessibility check before publishing new external guidance or major revisions.
 
 ## Background and facts
 
-The initial training materials are drafted, but the proposed session times overlap with some operational shifts.
+Documents may look clear visually while remaining difficult to navigate with assistive technology. The new check supports the existing accessibility policy and does not replace specialist review where required.
 
 ## Analysis or key points
 
-Repeating the same session at different times may improve access, although it increases facilitator time. A recorded recap may help, subject to internal policy and accessibility requirements.
+Authors should use semantic heading styles, descriptive link text, meaningful table headers, and appropriate alternative text. Run the available checker and then review the document manually. A checker score alone does not confirm that the content is usable.
 
 ## Recommendation or decision
 
-Offer two live sessions and provide an approved written recap for staff unable to attend.
+Adopt the checklist for new and substantially revised documents. If a barrier cannot be resolved before publication, record it and consult the accessibility contact rather than silently treating the document as compliant.
 
 ## Actions, owners, and timing
 
-Amira: propose two time slots by 11 November. Team managers: confirm coverage by 13 November. Learning lead: approve recap format by 16 November.
+- Authors: complete the checklist before submitting a document.
+- Team leads: ensure the process is included in the next team briefing.
+- Accessibility contact: collect recurring questions and update guidance by 20 November.
 
 ## Final quality check
 
-Check that the requested decision is explicit, all facts are current, and the memo distinguishes proposal from approved policy.
+Verify the date and ensure the memo matches formal policy.
 
 ## IELTS-oriented language practice
 
-The memo uses a neutral, concise register and links evidence to a recommendation. Follow the recipient organisation’s conventions for headings and sign-off.
+The memo distinguishes routine checks from specialist review and gives a clear escalation route.

@@ -1,41 +1,44 @@
-# Letter of complaint
+# Letter of complaint: incorrect item delivered
 
-*Illustrative complaint letter. Replace the reference, dates, and facts with verified information before sending.*
+*Illustrative complaint letter. Verify the order reference, dates, and evidence before sending.*
 
 ## Plan first
 
-The letter presents a factual account, explains the impact, and requests a proportionate remedy without making unsupported accusations.
+The letter presents a factual account and requests a proportionate remedy.
 
 ## Letter structure
 
-Keep the timeline clear and attach only relevant supporting evidence.
+Keep the timeline clear and refer to supporting records.
 
 ## Greeting and clear purpose
 
-Dear Sir or Madam,
+Dear Customer Services Manager,
 
-I am writing to raise a concern about the matter identified below and to request a review.
+I am writing to complain about an incorrect item supplied with my order and to request an exchange.
 
 ## Relevant purchase, service, or event details
 
-Order 6724, placed 2 October; delivered 9 October
+Order 6724, placed on 2 October and delivered on 9 October.
 
 ## Factual account and evidence
 
-The order confirmation lists a set of four ceramic mugs. The parcel contained three mugs, and the packing slip also lists four. I checked the packaging and found no sign that a separate parcel was delivered.
+The order confirmation lists a medium desk lamp in black, but the parcel contained a large white model. The packing slip also identifies the black medium lamp. I have retained the packaging and can provide photographs of the product label and the packing slip.
 
 ## Impact and attempted resolution
 
-The set is incomplete, so I cannot use it as intended. I contacted the online help desk on 10 October and was advised to send the order reference for review.
+The item does not fit the intended space and cannot be used as planned. I checked the order confirmation before contacting you and have not attempted to modify the product. This is my first request for assistance with the order.
 
 ## Specific remedy requested
 
-Please send the missing mug or explain the available refund option. I can provide photographs of the contents and the packing slip if needed.
+Please arrange an exchange for the correct model and confirm whether a prepaid return label will be provided. I would appreciate a response within five working days.
 
 ## Closing and next step
 
-I would appreciate a response within five working days. Thank you for your attention. Yours faithfully, Taylor
+Thank you for your attention. I look forward to your reply.
+
+Yours faithfully,  
+Jordan Lee
 
 ## Final review
 
-Check that every date and reference matches the supporting records, the requested remedy is specific, and the tone remains firm but respectful. Do not include unverified claims or unnecessary personal information.
+Check all order details and include only relevant evidence.
