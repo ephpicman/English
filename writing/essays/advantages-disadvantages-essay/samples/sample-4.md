@@ -1,27 +1,27 @@
-# Urban green spaces: advantages disadvantages essay
+# Using artificial intelligence in education: advantages and disadvantages essay
 
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+*Illustrative IELTS-style response; follow the relevant institution’s rules when adapting this topic.*
 
 ## Introduction and paraphrase
 
-The growing use of urban green spaces has prompted debate about its effects. It offers meaningful benefits, but it also creates challenges that should be considered before a policy or personal choice is made.
+Artificial intelligence tools are increasingly used for explanations, practice, and writing support in education. They can make learning more responsive, but they also raise concerns about accuracy, dependence, and academic integrity.
 
 ## Overall judgement if the prompt asks which side outweighs the other
 
-I largely agree that cities should protect and expand accessible green space, but planning should focus on equitable access and maintenance rather than maximising park area without considering other needs.
+The benefits can outweigh the risks when AI is used as a supervised learning aid rather than as a substitute for independent thought or teacher feedback.
 
 ## Advantages
 
-Parks give residents places to walk, exercise, meet neighbours, and spend time outdoors. Trees and planted areas can also provide shade and improve the experience of streets, especially where public space is otherwise dominated by traffic and hard surfaces.
+AI tools can provide quick explanations and generate additional practice questions, allowing learners to review a topic at their own pace. A student who is reluctant to ask a basic question in class may use a tool to identify what they do not understand before seeking help. Teachers may also use such tools to draft alternative examples or adapt materials, saving time for direct interaction with students. These benefits depend on checking the output, since a fluent response can still contain errors or omit important context.
 
 ## Disadvantages
 
-Urban land is limited, and cities also need housing, schools, transport, and commercial space. A poorly located or poorly maintained park may not serve the residents who need it most.
+The main risk is that learners may accept incorrect information or submit generated work without understanding it. This weakens the purpose of an assignment and makes it difficult for teachers to assess genuine learning. AI tools may also reproduce bias, handle personal data in ways users do not expect, or produce sources that cannot be verified. Students with better access to paid tools may gain an advantage if expectations are not clearly explained.
 
 ## Evaluation if required
 
-The advantages are strongest when access and implementation are planned carefully. The disadvantages become more serious when decision-makers assume that one arrangement works equally well for everyone. The need for housing is a serious objection, especially in areas with high rents. However, green space and housing are not always mutually exclusive: small parks, green corridors, and shared courtyards can be incorporated into denser development.
+Schools should teach verification, privacy, attribution, and the limits of generated answers. Clear rules are needed for when AI assistance is allowed and how it should be acknowledged. These measures reduce risk but cannot replace human judgment.
 
 ## Conclusion
 
-Overall, i largely agree that cities should protect and expand accessible green space, but planning should focus on equitable access and maintenance rather than maximising park area without considering other needs.
+AI can support learning when its use is transparent and critically assessed. Without guidance, however, convenience can undermine understanding and fairness, so responsible use is essential.

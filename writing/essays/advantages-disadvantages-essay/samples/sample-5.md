@@ -1,27 +1,27 @@
-# School uniforms: advantages disadvantages essay
+# Living in a large city: advantages and disadvantages essay
 
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+*Illustrative IELTS-style response; adapt it to the prompt and local conditions.*
 
 ## Introduction and paraphrase
 
-The growing use of school uniforms has prompted debate about its effects. It offers meaningful benefits, but it also creates challenges that should be considered before a policy or personal choice is made.
+Large cities attract residents with employment, education, and cultural opportunities, but they can also be expensive and crowded. Whether city life is beneficial depends on the services available and a person’s priorities.
 
 ## Overall judgement if the prompt asks which side outweighs the other
 
-Schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.
+For people seeking varied work and services, the advantages may outweigh the disadvantages, provided that housing and transport remain accessible.
 
 ## Advantages
 
-Uniforms can reduce visible differences in everyday clothing and make the school dress code simpler to understand. They may also help students identify one another during school activities and reduce the time spent deciding what to wear.
+Cities often offer a wider range of jobs, specialist healthcare, educational institutions, and cultural activities than smaller communities. A large labour market can make it easier to change careers or find work in a specialised field. Public transport may also allow residents to reach destinations without owning a car, while libraries, museums, and community organisations create opportunities to learn and meet people. These benefits can be particularly important for young adults or people whose work depends on a broad professional network.
 
 ## Disadvantages
 
-Uniforms cost money, may be uncomfortable for some students, and do not remove deeper differences in income or social status. Strict rules can also create conflict when they fail to account for religion, disability, weather, or individual needs.
+The cost of housing can be a serious burden, forcing residents to live far from their workplaces or share limited space. Crowding and traffic may increase travel time, noise, and stress. Access to services is not always equal: neighbourhoods can differ greatly in transport links, green space, and the quality of local facilities. A city may provide many opportunities in theory while making them difficult to reach for people on low incomes.
 
 ## Evaluation if required
 
-The advantages are strongest when access and implementation are planned carefully. The disadvantages become more serious when decision-makers assume that one arrangement works equally well for everyone. Supporters argue that a uniform creates a sense of belonging and reduces competition over fashion. These benefits may occur in some schools, but they are not guaranteed by clothing rules alone.
+Urban advantages are strongest when planning connects housing with reliable transport, public spaces, and essential services. Individuals may still prefer smaller communities for affordability or a quieter environment, so city life should not be treated as the only route to success.
 
 ## Conclusion
 
-Overall, schools can adopt a simple, affordable dress policy, but compulsory uniforms should be flexible, inclusive, and designed with families’ costs in mind.
+Large cities provide varied opportunities but can impose significant financial and practical costs. Their benefits are most convincing when growth is matched by affordable housing, accessible transport, and well-distributed public services.

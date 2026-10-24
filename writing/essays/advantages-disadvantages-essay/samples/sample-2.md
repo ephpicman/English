@@ -1,27 +1,27 @@
-# Public transport investment: advantages disadvantages essay
+# Online shopping: advantages and disadvantages essay
 
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+*Illustrative IELTS-style response; adapt it to the exact task.*
 
 ## Introduction and paraphrase
 
-The growing use of public transport investment has prompted debate about its effects. It offers meaningful benefits, but it also creates challenges that should be considered before a policy or personal choice is made.
+Online shopping has changed how consumers compare and buy goods. It offers convenience and wider choice, but it can also create problems involving product uncertainty, delivery, and unnecessary consumption.
 
 ## Overall judgement if the prompt asks which side outweighs the other
 
-Public transport should receive priority where it can meet demonstrated travel needs, but road maintenance and essential vehicle access must remain part of a balanced plan.
+Overall, online shopping is beneficial when consumers use it thoughtfully and retailers provide accurate information and reliable delivery.
 
 ## Advantages
 
-Reliable buses and trains can move many people using less road space per passenger and give residents an alternative to driving. Better connections can also make employment, education, and essential services more accessible to people who do not own a car.
+A major advantage is convenience. People can compare prices and product features without travelling between shops, which is useful for those with limited mobility or busy schedules. Online stores may also offer a wider selection than a small local shop, making it easier to find specialist items. Reviews and detailed specifications can support comparison, while home delivery saves time for bulky purchases. For people living far from retail centres, online access may provide options that would otherwise be difficult to obtain.
 
 ## Disadvantages
 
-Roads remain necessary for emergency services, deliveries, and communities where public transport is infrequent. Poorly planned transit investments can be expensive and underused, particularly if routes do not match where people live and work.
+However, shoppers cannot always assess size, texture, fit, or quality before buying. Photographs may not show a product accurately, and returning unsuitable items can take time or create additional transport. Delivery delays and damaged parcels can also cause inconvenience. The ease of purchasing with a few clicks may encourage impulse buying, while packaging and repeated delivery journeys can create environmental costs. Reviews may be unreliable or may describe a different version of the product.
 
 ## Evaluation if required
 
-The advantages are strongest when access and implementation are planned carefully. The disadvantages become more serious when decision-makers assume that one arrangement works equally well for everyone. Those who favour road expansion point out that congestion can impose real costs on workers and businesses. However, adding road capacity alone may not solve congestion if travel demand changes in response.
+These drawbacks do not make online shopping inherently harmful, but they show the importance of clear return policies, trustworthy product descriptions, and careful purchasing decisions. Local shops remain valuable when advice, immediate availability, or fitting is important.
 
 ## Conclusion
 
-Overall, public transport should receive priority where it can meet demonstrated travel needs, but road maintenance and essential vehicle access must remain part of a balanced plan.
+Online shopping provides choice and convenience, yet it cannot remove the uncertainty of buying unseen goods. Its benefits are greatest when retailers are transparent and consumers compare needs, costs, and return conditions before ordering.

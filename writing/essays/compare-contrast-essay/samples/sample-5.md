@@ -1,33 +1,31 @@
-# School uniforms: compare contrast essay
-*Illustrative IELTS-style essay. Adapt the argument to the exact question and required word count.*
+# Renting and buying a home: compare-and-contrast essay
+
+*Illustrative IELTS-style response; adapt it to the prompt and local housing conditions.*
+
 ## Before writing
-Use the same criteria to compare both options and avoid describing one in detail while barely discussing the other.
+
+Compare renting and buying through financial flexibility and long-term responsibility.
+
 ## Essay structure
 
-The comparison is organised by shared criteria rather than two unrelated lists.
+The essay evaluates the same criteria for both options before drawing a qualified conclusion.
 
 ## Introduction and comparison basis
 
-The choice between different approaches to school uniforms depends on what people need and which constraints matter most. This essay compares the options through flexibility, access, and practical limitations.
+Choosing whether to rent or buy a home depends on income, location, and future plans. Comparing the options through flexibility and financial responsibility shows why neither is automatically the better choice.
 
 ## Criterion 1: both subjects
 
-A uniform provides a consistent appearance and clear expectations, while ordinary clothing gives students more choice and can better accommodate personal preferences.
+Renting usually requires less money at the start than buying, since a tenant may need a deposit and initial rent rather than a down payment and purchase costs. It can also make moving easier when work or family circumstances change. Buying, by contrast, can offer greater control over the property and may allow the owner to build equity over time. However, ownership also ties more money to one location and can make relocation slower or more expensive.
 
 ## Criterion 2: both subjects
 
-Uniforms can simplify daily decisions but may create purchase costs and fit problems; ordinary clothing avoids a special uniform purchase but may require more detailed dress-code decisions.
+Responsibility differs as well. Tenants often rely on a landlord to arrange major repairs, although they must follow the lease and local rules. Homeowners are responsible for maintenance, insurance, taxes, and unexpected repairs, which can be costly. Ownership may provide stability, but that stability depends on being able to manage payments and other expenses over the long term. Renting can offer predictability only when rent increases and lease conditions are manageable.
 
 ## Synthesis and significance
 
-A uniform policy can reduce the daily pressure to choose clothing, but only if the required items are affordable and comfortable. Ordinary clothing allows more personal choice, though schools may need clear rules to manage safety and suitability. In either case, clothing alone cannot create a respectful school culture. The policy should be judged by its practical effects rather than by the appearance of uniformity.
-
-The main issue is whether the policy supports a respectful learning environment without imposing unnecessary cost or excluding students.
+The best decision depends on how long a person expects to stay, the stability of their income, and the local relationship between rent and purchase prices. A buyer should consider maintenance and transaction costs, not just the monthly mortgage payment; a renter should consider lease security and future rent changes.
 
 ## Conclusion
 
-Neither option is automatically best in every setting. The more suitable choice depends on the intended outcome, available resources, and the needs of the people affected.
-
-## Final IELTS checklist
-
-Make comparisons explicit, use parallel criteria, and ensure the conclusion synthesises rather than repeats the introduction.
+Renting generally offers flexibility and lower initial costs, while buying can offer control and potential long-term equity. The sensible choice is the one that fits a household’s finances and likely plans.
